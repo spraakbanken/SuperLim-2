@@ -2,7 +2,7 @@
 
 See a general description of the benchmark [here](https://spraakbanken.gu.se/resurser/superlim). The link to the paper will be added soon.
 
-See the brief overview of the tasks and datasets [here](https://github.com/spraakbanken/SuperLim-dev/blob/main/superlim-general/tasks.tsv). 
+See the brief overview of the tasks and datasets [here](https://github.com/spraakbanken/SuperLim-2/blob/main/tasks.tsv). 
 
 See the detailed instruction for dataset developers below, it makes the format requirements very clear.
 
