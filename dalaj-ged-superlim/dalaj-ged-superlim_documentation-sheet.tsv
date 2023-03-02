@@ -1,0 +1,55 @@
+I. IDENTIFYING INFORMATION	
+Title*	Dalaj-ged-superlim v2.0
+Subtitle	
+Created by*	Elena Volodina, Yousuf Ali Mohammed, Språkbanken Text -- University of Gothenburg (name.surname@svenska.gu.se)
+Publisher(s)*	Språkbanken Text -- University of Gothenburg
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/resurser/superlim
+License(s)*	CC-BY 4.0
+Abstract*	Dalaj v2.0 is an extension of Dalaj v1 [4], covering 30 error categories used in the SweLL-gold corpus [3]. Dalaj v2 is prepared for several sentence-level classification tasks, including linguistic acceptability (whether a sentence is grammatically correct or incorrect). The dataset contains ca 20K sentences written by non-native learners of Swedish, manipulated to contain one error per sentence and repeated for every new error. Each learner-written sentence is associated with information about the level of proficiency as assessed on an essay level and with mother tongue of the writer. Each incorrect (learner-written) sentence is paired with their manually corrected versions, which due to the one-error-per-sentence principle amounts to ca 6,5K unique correct sentences repeated multiple times times. To balance the number of incorrect sentences with equivalent number of correct ones, sentences from a course book corpus COCTAILL [2] have been extracted, keeping the same distribution into beginner-intermediate-advanced levels as among the incorrect sentences. Each COCTAILL sentence contains information about the (approximate) level of the coursebook at which the text is used for teaching. The dataset is split into training-validation-test sets. The test split has been manually proofread. Note that Dalaj-ged-superlim may be different from other version of Dalaj v2, see Section III for a description of changes.
+Funded by*	Vinnova (grants no. 2020-02523, 2021-04165), Språkbanken Text
+Cite as	Currently: [1]
+Related datasets	Dalaj v1. Part of the SuperLim collection
+	
+II. USAGE	
+Key applications	
+Intended task(s)/usage(s)	1. Determine whether a sentence is grammatically correct (the official SuperLim task)
+	2. Find a text span in need of correction, if there is one
+	3. Determine the error type
+	4. Find a text span in need of correction, if there is one, and suggest a correction.
+Recommended evaluation measures	'Krippendorff''s Alpha (the official SuperLim measure), F0.5, accuracy'
+Dataset function(s)	Training, testing
+Recommended split(s)	Train, dev, test (provided): 80:10:10. The test set has been manually proofread, train and dev have not.
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	train: 36,554 sentences
+	dev: 4,702 sentences
+	test: 4,371 sentences
+Nature of the content*	Sentences written by second language learners and corrected by experts + correct sentences from course books
+Format*	JSONL file with one item per file. The item contains the following objects: sentence, label (correct or incorrect) and metadata. Metadata include error span (start and stop; numeration starts at 0; the range is half-open, start=stop denotes empty span (=a token has been omitted); empty if the sentence is correct); confusion pair (incorrect span and correction; empty if the sentence is correct); error label (empty if the sentence is correct); education level, l1 (native language), data source.
+Data source(s)*	SweLL-gold essays
+Data selection and filtering*	"All SweLL-gold sentences are used, except those containing ""unintelligible"" markup. Sentences with ""consequence"" (C) labels were partly deleted, partly converted to descriptive error-labels. When preparing the Superlim version, further filtering was applied: all sentences containing the * (the origin of this token was unclear), @ in the beginning of a sentence (denotes an omitted token) or $ (unintelligible symbol) were deleted. If @ occurred not in the beginning of sentence, the symbol itself was removed, but the sentence was preserved. The annotation was adjusted accordingly."
+Data preprocessing*	"Sentence order has been randomized, so that full essays cannot be restored. Learner metadata was dropped (except mother tongues and proficiencly level). Essay metadata was dropped. In Dalaj2-ged, all punctuation marks had added spaces both before and after, the extra spaces are removed in the Superlim version (""detokenization"")."
+Data labeling*	Acceptability judgment; error identification; error correction; error tags (30 detailed categories), manually assigned
+Annotator characteristics	second language experts / linguists
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	SweLL-gold corpus is under GDPR restrictions. Randomized sentences withour metadata exempt risks for reidentification, and therefore allow data to be freely shared
+Things to watch out for	
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	20230122
+Which changes have been made, compared to the previous version*	Extensive changes, see I and III.
+Access to previous versions	NA
+This document created*	20230123, Elena Volodina
+This document last updated*	20230208, Aleksandrs Berdicevskis
+Where to look for further details	forthcoming
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	SweLL
+References	[1] Julia Klezl, Yousuf Ali Mohammed, Elena Volodina. (2022). Exploring Linguistic Acceptability in Swedish Learners’ Language. Proceedings of the 11th Workshop on Natural Language Processing for Computer-Assisted Language Learning (NLP4CALL 2022), Belgium. NEALT Proceedings Series 47. [url]
+	[2] Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson (2014). You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144. [pdf]
+	[3] Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. Northern European Journal of Language Technology, Special Issue. [pdf]
+	[4] Elena Volodina, Yousuf Ali Mohammed, and Julia Klezl. (2021) DaLAJ - a dataset for linguistic acceptability judgments for Swedish.Proceedings of the 10th NLP4CALL workshop. Linköping Electronic University Press, Vol. 177:3. [pdf] [an extended version on arXiv]

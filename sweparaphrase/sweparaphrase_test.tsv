@@ -1,0 +1,1379 @@
+genre	file	sentence_1	sentence_2	label
+main-captions	MSRvid	En tjej stylar sitt hår.	En tjej borstar håret.	2.500
+main-captions	MSRvid	En grupp män spelar fotboll på stranden.	En grupp pojkar spelar fotboll på stranden.	3.600
+main-captions	MSRvid	En kvinna mäter en annan kvinnas fotled.	En kvinna mäter en annan kvinnas fotled.	5.000
+main-captions	MSRvid	En man skär upp en gurka.	En man skivar en gurka.	4.200
+main-captions	MSRvid	En man spelar harpa.	En man spelar keyboard.	1.500
+main-captions	MSRvid	En kvinna skär lök.	En kvinna skär tofu.	1.800
+main-captions	MSRvid	En man cyklar på en elcykel.	En man cyklar.	3.500
+main-captions	MSRvid	En man spelar trummor.	En man spelar gitarr.	2.200
+main-captions	MSRvid	En man spelar gitarr.	En dam spelar gitarr.	2.200
+main-captions	MSRvid	En man spelar gitarr.	En man spelar trumpet.	1.714
+main-captions	MSRvid	En man skär en lök.	En man skär en lök.	5.000
+main-captions	MSRvid	En man cyklar.	En man pratar.	0.600
+main-captions	MSRvid	En man skär upp en fisk.	En man skär upp en fisk.	4.400
+main-captions	MSRvid	En man skär en tomat.	En man skär en bulle.	2.000
+main-captions	MSRvid	En man spelar gitarr.	En man spelar keyboard.	1.800
+main-captions	MSRvid	En pandabebis åker nerför en rutschkana.	En panda glider nerför en rutschkana.	4.400
+main-captions	MSRvid	En man sjunger och spelar gitarr.	En man spelar gitarr.	3.600
+main-captions	MSRvid	En man attackerar en kvinna.	En man slår en kvinna.	3.600
+main-captions	MSRvid	En man kör bil.	En man rider på en häst.	1.200
+main-captions	MSRvid	En kvinna skär tofu.	En kvinna skär en lök.	2.400
+main-captions	MSRvid	Kvinnan stylar sitt hår.	Kvinnan skär örter.	0.200
+main-captions	MSRvid	Två zebror spelar på ett öppet fält.	Två zebror leker på ett fält.	4.200
+main-captions	MSRvid	En man skär en potatis.	En man skär lite potatis.	4.400
+main-captions	MSRvid	En man skär en lök.	En kvinna skär en pumpa.	2.250
+main-captions	MSRvid	En man dansar.	En man och en kvinna dansar.	2.000
+main-captions	MSRvid	En man åker motorcykel.	En kvinna rider på en häst.	0.750
+main-captions	MSRvid	En kvinna skivar vitlök.	En kvinna skivar en lök.	2.200
+main-captions	MSRvid	En man talar.	En man lagar mat.	0.800
+main-captions	MSRvid	En liten pojke sjunger och spelar gitarr.	En man sjunger och spelar gitarr.	2.200
+main-captions	MSRvid	En sköldpadda simmar i vatten.	En sköldpadda går under vattnet.	3.200
+main-captions	MSRvid	En ung kvinna sätter klistermärken över hela sitt ansikte.	En kvinna sätter klistermärken i ansiktet.	4.800
+main-captions	MSRvid	En kvinna slår in tofu.	En kvinna gör degbollar.	1.400
+main-captions	MSRvid	En katt äter lite majs.	En katt äter majskolvar.	4.250
+main-captions	MSRvid	En man äter mat.	En man äter en bit bröd.	3.400
+main-captions	MSRvid	En man spelar på en gitarr.	En man äter pasta.	0.533
+main-captions	MSRvid	En man sparkar på krukor med vatten.	En man plockar blommor.	0.400
+main-captions	MSRvid	En man klipper ett rör med en sax.	En man skär matta med en kniv.	1.200
+main-captions	MSRvid	En kvinna dansar i regnet.	En kvinna dansar i regnet utomhus.	5.000
+main-captions	MSRvid	En kvinna tar ett bad.	En kvinna rider på en häst.	0.538
+main-captions	MSRvid	En man blandar grönsaker i en gryta.	En person rör om grönsaker i en gryta.	3.750
+main-captions	MSRvid	En kvinna pratar i en mobiltelefon.	En man och en kvinna pratar i telefon.	3.000
+main-captions	MSRvid	En man spelar gitarr.	En man sjunger medan han spelar gitarr.	3.600
+main-captions	MSRvid	En man spelar gitarr.	En man kör bil.	0.500
+main-captions	MSRvid	En man skär äpple med sin hand.	En man skär matta med en kniv.	1.500
+main-captions	MSRvid	En man öppnar en dörr.	En man skär en lök.	0.800
+main-captions	MSRvid	En man skär en tomat.	En man rider på en häst.	0.800
+main-captions	MSRvid	En man skär papper med ett svärd.	En kvinna skär en tomat.	0.600
+main-captions	MSRvid	En pojke studerar en kalender.	En pojke tittar på en kalender.	4.400
+main-captions	MSRvid	Ballerinan dansar.	En man dansar.	1.750
+main-captions	MSRvid	En kvinna dansar.	En kvinna spelar fiol.	0.400
+main-captions	MSRvid	En kvinna skär några tomater.	En kvinna hackar en potatis.	1.400
+main-captions	MSRvid	En kvinna åker vattenskidor.	En kvinna skär fisk.	0.400
+main-captions	MSRvid	En man spelar flöjt.	En man åker skoter.	0.800
+main-captions	MSRvid	En man spelar piano.	En man spelade gitarr.	2.000
+main-captions	MSRvid	En kvinna plockar en burk.	En man spelar gitarr.	0.133
+main-captions	MSRvid	En man lägger tre köttbitar i en panna.	En man lägger kött i en panna.	4.000
+main-captions	MSRvid	En kvinna skär en lök.	En kvinna städar en trädgård.	0.267
+main-captions	MSRvid	Några män sågar.	Män sågar stockar.	3.400
+main-captions	MSRvid	En bil körs på vägen.	En tjej går på en väg.	1.200
+main-captions	MSRvid	Mannen kysser och kramar kvinnan.	En man kramar och kysser en kvinna.	5.000
+main-captions	MSRvid	Ett tåg rör sig.	En man gör yoga.	0.000
+main-captions	MSRvid	Någon skivar en lök.	En kvinna skär lök.	3.800
+main-captions	MSRvid	En kvinna leker i havet.	En kvinna förbereder räkor för att laga mat.	0.750
+main-captions	MSRvid	En person spelar elektronisk keyboard.	Ett barn spelar keyboard.	3.400
+main-captions	MSRvid	En man håller ett löv.	En apa slåss mot en man.	0.000
+main-captions	MSRvid	En kvinna skalar räkor.	En man pressar ut vatten.	0.200
+main-captions	MSRvid	En man sitter och röker.	En man röker en cigarett.	4.000
+main-captions	MSRvid	En man spelar gitarr.	En kvinna rider på en häst.	0.500
+main-captions	MSRvid	En man står framför fönstret och tittar utanför.	En man stirrar ut genom fönstret.	3.800
+main-captions	MSRvid	En skunk letar här och där.	En skunk tittar på kameran.	2.400
+main-captions	MSRvid	En man spelar gitarr och sjunger.	En man sjunger med en gitarr.	4.750
+main-captions	MSRvid	En kvinna öppnar ett fönster.	En man kryper.	0.000
+main-captions	MSRvid	Folk dansar ute.	En grupp människor dansar.	3.750
+main-captions	MSRvid	Mannen använder en kamera för att slå en spik.	Någon slår en kameralins mot en spik.	2.600
+main-captions	MSRvid	En kvinna filar sina naglar.	En man skalar en morot.	0.000
+main-captions	MSRvid	En pojke kryper in i ett hundhus.	En pojke spelar på en träflöjt.	0.750
+main-captions	MSRvid	En kvinna simmar under vattnet.	En man skär några morötter.	0.000
+main-captions	MSRvid	En maskin vässar en penna.	Maskinen vässade änden av pennan.	3.800
+main-captions	MSRvid	En apa spelar trummor.	En gorilla spelar trummor.	2.800
+main-captions	MSRvid	En man öppnar en låda och tar fram papper.	En kvinna skalar en potatis.	0.000
+main-captions	MSRvid	En kvinna dansar.	En kvinna spelar klarinett.	0.800
+main-captions	MSRvid	En person ritar på en stor pekskärm.	En man ritar på en digital ritplatta.	3.000
+main-captions	MSRvid	Männen lekte följa ledaren på gräset.	Noshörningen betade i gräset.	1.000
+main-captions	MSRvid	En kvinna knäcker ägg.	En man pratar med en kvinna.	0.000
+main-captions	MSRvid	En kvinna skalar vitlök med händerna.	Kvinnan skär örter.	1.000
+main-captions	MSRvid	Isbjörnarna slogs om bytet.	Isbjörnar slåss mot varandra.	3.400
+main-captions	MSRvid	En man tricksar med spelkort.	En man utför ett korttrick.	5.000
+main-captions	MSRvid	Katten slickar på en flaska.	En katt leker med en liten flaska.	2.333
+main-captions	MSRvid	En person skär en lök.	En person skär ingefära.	1.400
+main-captions	MSRvid	En person skalar en potatis med en potatisskalare.	En man skär tomater med en köttkniv.	0.750
+main-captions	MSRvid	Två kvinnor dansar och sjunger framför en folkmassa.	Kvinnorna sjunger och dansar.	3.538
+main-captions	MSRvid	En man kryddar några morötter.	En kvinna skivar vitlök.	0.800
+main-captions	MSRvid	Två män puttade vagnar genom skogen.	Två män puttar på vagnar.	3.500
+main-captions	MSRvid	En man spelar fotboll.	En man manövrerar en fotboll med fötterna.	2.000
+main-captions	MSRvid	Damen skalade potatisen.	En kvinna skalar en potatis.	4.750
+main-captions	MSRvid	En kvinna skär lite tofu.	En kvinna skär ett block tofu i små kuber.	4.000
+main-captions	MSRvid	Någon skrev på ett tangentbord.	Någon skriver.	4.500
+main-captions	MSRvid	Tre unga män springer, hoppar och sparkar iväg från en Cola-maskin.	Tre män hoppar från en vägg.	1.500
+main-captions	MSRvid	En ung asiatisk flicka applicerar eyeliner.	En flicka sätter på sig ögonsmink.	2.400
+main-captions	MSRvid	En katt går runt ett hus.	En kvinna skalar potatis.	0.000
+main-captions	MSRvid	En kvinna pratar med sin husdjurskanin när hon smeker den.	En kvinna går ut med sin hund på konstgräs.	0.400
+main-captions	MSRvid	En apa spelar trummor.	Någon i en gorilladräkt spelar på ett trumset.	2.500
+main-captions	MSRvid	En man rider på en vit häst på en inhägnad mark.	Någon rider på en häst.	2.600
+main-captions	MSRvid	En orientalisk dam skär en morot i tunna bitar.	En kvinna skär en morot.	3.600
+main-captions	MSRvid	En grupp människor dansar.	Kvinnor dansar ute.	3.000
+main-captions	MSRvid	En man spelar gitarr.	En pojke pratar med en jättehund.	0.000
+main-captions	MSRvid	En kvinna blandar ihop grönsaker.	En kvinna lägger till ingredienser till en stekpanna.	1.600
+main-captions	MSRvid	En kvinna häller en blandning i en skål och blandar den.	En kvinna tillagar ett ägg i en stekpanna.	1.250
+main-captions	MSRvid	En man skär bitar av smör till en mixerskål.	Smörbitar tillsätts i matberedaren.	3.600
+main-captions	MSRvid	En man lägger vitlök på några brödskivor.	En man strör krydda på flera delade och smörade bröd.	2.000
+main-captions	MSRvid	Pandabjörnen låg på stockarna.	En panda ligger ner.	3.600
+main-captions	MSRvid	Fem män hoppar ner i en pool.	En grupp simmare faller i en pool.	2.800
+main-captions	MSRvid	En gepard springer bakom sitt byte.	En gepard jagar byten vidare över ett fält.	4.400
+main-captions	MSRvid	En katt leker på golvet.	En man skär vitlök.	0.000
+main-captions	MSRvid	En pojke spelar fiol på scenen.	En person blandar en gryta.	0.000
+main-captions	MSRvid	En hund skäller mot en leksak.	Den lilla hunden skällde mot den elektroniska leksaken.	3.750
+main-captions	MSRvid	En man cyklar.	En pojke cyklar.	2.500
+main-captions	MSRvid	En kvinna skär ingefära.	En person håller två lorisbebisar.	0.000
+main-captions	MSRvid	En man släpar på en död hjort.	En man hoppar i vattnet från en klippa.	0.800
+main-captions	MSRvid	En man förbereder en orm för matlagning.	Mannen doppar skivade gurkor i vatten.	1.000
+main-captions	MSRvid	En kvinna sprider senap på en brödbulle.	En kattunge leker med en kvinnas finger.	0.000
+main-captions	MSRvid	Någon rörde vid kattungen som tuggade på ett snöre.	Någon skär papper.	0.250
+main-captions	MSRvid	Köttet läggs i en stekpanna.	En kvinna lägger en bebis i en papperskorg.	0.400
+main-captions	MSRvid	En elefantunge äter ett litet träd.	En liten flicka som trampar på en skoter.	0.000
+main-captions	MSRvid	En kvinna och en man dansar i regnet.	En man och en kvinna dansar i regnet.	5.000
+main-captions	MSRvid	Någon ritar.	Någon dansar.	0.300
+main-captions	MSRvid	En man spelar gitarr.	En kvinna spelar gitarr.	2.750
+main-captions	MSRvid	Två män slåss i en ring.	Två män slåss i en ring.	5.000
+main-captions	MSRvid	En person brer smör på en bricka.	En person smörjer en bricka.	4.250
+main-captions	MSRvid	Två män spelar fotboll.	Två män tränar fotboll.	3.400
+main-captions	MSRvid	Mannen spelar gitarr.	Flickan spelar gitarr.	1.600
+main-captions	MSRvid	En man skalar en potatis.	En man skär en potatis.	2.600
+main-captions	MSRvid	En kvinna sticker en potatis med en gaffel.	En kvinna punkterar en potatis med en gaffel.	5.000
+main-captions	MSRvid	Ett barn vaknar.	En tjej håller på att vakna.	3.200
+main-captions	MSRvid	En pojke spelar keyboard	En liten pojke spelar keyboard.	4.800
+main-captions	MSRvid	En kvinna spelar flöjt.	En kvinna spelar flöjt.	5.000
+main-captions	MSRvid	En kvinna spelar elgitarr.	En man spelar akustisk gitarr.	2.400
+main-captions	MSRvid	En man spelar flöjt.	En man spelar gitarr.	2.000
+main-captions	MSRvid	En grupp människor skyfflar ut vatten ur ett hus.	Människor skyfflar ut vatten ur ett hus.	5.000
+main-captions	MSRvid	En man spelar gitarr.	En man spelar gitarr.	5.000
+main-captions	MSRvid	En man och en kvinna kysser varandra.	En man och en kvinna kramas och kysser varandra.	3.400
+main-captions	MSRvid	En kvinna klättrar på en klippa.	En kvinna klättrar på en klippvägg.	4.500
+main-captions	MSRvid	En isbjörn springer mot en grupp valrossar.	En isbjörn jagar en grupp valrossar.	4.200
+main-captions	MSRvid	En kvinna skär lite fisk.	En kvinna skär tofu.	2.200
+main-captions	MSRvid	Någon spelar piano.	Någon spelar gitarr.	2.400
+main-captions	MSRvid	En man häller rice a roni i en panna.	En man hällde rice-a-roni i en panna.	3.800
+main-captions	MSRvid	En man bryter träskivor med handen.	En man bryter brickor med händerna.	2.500
+main-captions	MSRvid	En flicka spelar gitarr.	En flicka spelar piano.	2.000
+main-captions	MSRvid	En man ber.	En man dansar.	0.750
+main-captions	MSRvid	En man spelar piano.	En man spelar fiol.	2.000
+main-captions	MSRvid	En kvinna skivar en lök.	En kvinna skär citroner.	2.200
+main-captions	MSRvid	En man rider på en häst vid en bäck.	En man rider på en häst.	4.000
+main-captions	MSRvid	En man spelar gitarr.	En man spelar gitarr och sjunger.	3.200
+main-captions	MSRvid	En man plockar upp ett träd.	En man bär ett träd.	3.800
+main-captions	MSRvid	En person skalar en potatis.	Mannen skalar en potatis.	3.750
+main-captions	MSRvid	En person spelar piano.	En person skär en potatis.	0.500
+main-captions	MSRvid	En man spottar.	En man pratar.	0.800
+main-captions	MSRvid	En man spelar en keyboard.	En man spelar klaviaturpiano.	5.000
+main-captions	MSRvid	En man dansar.	En man tänker.	1.200
+main-captions	MSRvid	En man spelar trumpet.	En man spelar trumpet.	5.000
+main-captions	MSRvid	En kvinna rider på en häst.	En man rider en häst.	2.800
+main-captions	MSRvid	Ett band spelar på scenen.	En kvinna dansar på en scen.	1.200
+main-captions	MSRvid	En kvinna spelar gitarr och sjunger.	En kvinna spelar gitarr.	3.200
+main-captions	MSRvid	Mannen äter.	En man äter mat.	4.600
+main-captions	MSRvid	En liten pojke slår en golfboll.	Den lilla pojken svingade mot golfbollen.	4.000
+main-captions	MSRvid	En kille tar av sig sina solglasögon.	En pojke tar av sig sina solglasögon.	3.800
+main-captions	MSRvid	Någon läser ett mejl.	En man läser sin mejl.	3.400
+main-captions	MSRvid	En person skär lök.	Någon skivar en lök.	4.600
+main-captions	MSRvid	En tjej kommer upp på en bil.	En flicka hoppar ovanpå en bil.	2.600
+main-captions	MSRvid	En man spelar trummor.	En man spelar på sin gitarr.	1.800
+main-captions	MSRvid	Någon skivar en lök.	Någon bär på en fisk.	0.750
+main-captions	MSRvid	En kvinna skär några skalade potatisar skurna i tjocka strimlor.	En kvinna skär en skalad potatis i skivor.	4.000
+main-captions	MSRvid	En liten flicka som trampar på en skoter.	En tjej åker skoter.	2.750
+main-captions	MSRvid	En katt rengör sig själv.	En katt slickar sig själv.	3.800
+main-captions	MSRvid	En man sparkar på en fotboll.	En man utför tricks med en fotboll.	2.600
+main-captions	MSRvid	En kvinna öppnar ett fönster.	En kvinna tittar ut genom ett fönster.	2.000
+main-captions	MSRvid	Tre män gör samma dans på gatan.	Tre män med bar överkropp dansar på gatan.	3.800
+main-captions	MSRvid	Mannen spelar gitarr.	Mannen skalar en potatis.	0.583
+main-captions	MSRvid	En man dansar.	En kvinna tränar.	0.400
+main-captions	MSRvid	En kvinna tränar.	En man dansar.	0.250
+main-captions	MSRvid	En pojke spelar fiol på scenen.	En pojke spelar ett instrument.	2.800
+main-captions	MSRvid	Kvinnan mäter den andra kvinnan.	Damen mätte den andra kvinnans fotled.	3.200
+main-captions	MSRvid	En man tränar.	En man skjuter med ett gevär.	0.500
+main-captions	MSRvid	En hund leker med en leksak.	En hund äter en docka.	2.250
+main-captions	MSRvid	En man spelar piano.	En kille skalar en potatis.	0.000
+main-captions	MSRvid	En man bowlar.	En kattunge går.	0.000
+main-captions	MSRvid	En kvinna dansar nära en eld.	En kvinna skär en tomat.	0.308
+main-captions	MSRvid	En man bäddar en säng.	En man talar till en publik.	0.750
+main-captions	MSRvid	En person åker motorcykel.	En person hackar en lök.	0.400
+main-captions	MSRvid	En man häller ris i en gryta.	En man lägger ris i en kastrull.	4.200
+main-captions	MSRvid	En person skär lite vitlök.	En person skär en vitlöksklyfta med en kniv.	3.750
+main-captions	MSRvid	En kvinna skär ingefära.	En kvinna skär potatis.	1.600
+main-captions	MSRvid	Män spelar fotboll.	Två lag spelar fotboll.	3.000
+main-captions	MSRvid	En person skrubbar en zucchini.	En kvinna skrubbar en zucchini med en grönsaksborste.	4.000
+main-captions	MSRvid	En pandabjörn tuggar på en pinne.	En pandaunge leker med en pinne.	3.000
+main-captions	MSRvid	Folket lyfter väskor.	Flera personer bär på stora väskor.	3.750
+main-captions	MSRvid	En man pratar i telefon.	En man moon-walkar genom en butik.	0.400
+main-captions	MSRvid	En kvinna flätar sitt hår.	En man åker motorcykel.	0.000
+main-captions	MSRvid	Mannen kastar knivar mot ett träd.	En man kastar knivar i ett nära mål utanför.	3.000
+main-captions	MSRvid	Kvinnan skär tofu.	Kvinnan tar på läppstift.	0.400
+main-captions	MSRvid	En kvinna viker papper.	En kvinna applicerar ögonskugga.	0.400
+main-captions	MSRvid	Någon viker ett papper.	En person skär små bitar av ingefära.	0.250
+main-captions	MSRvid	En man lyfter vikter.	En man hackar äggplanta.	0.250
+main-captions	MSRvid	En man spelar cello.	En man lyfter snabbt små vikter.	0.400
+main-captions	MSRvid	Mannen pratar.	En man går nerför trappan.	0.400
+main-captions	MSRvid	En man försöker mata en orm med en mus.	En man retar en orm med en mus.	3.200
+main-captions	MSRvid	En man spelar trummor.	En kvinna skär några löv.	0.000
+main-captions	MSRvid	En man spelar ukulele.	En man sitter och spelar på en liten gitarr.	2.200
+main-captions	MSRvid	En kattunge dricker mjölk ur en skål.	Ett litet barn dricker vatten ur en kopp.	0.800
+main-captions	MSRvid	En man bryter betongblock på en annan man.	En kvinna slår sönder ett ägg i en panna.	0.800
+main-captions	MSRvid	En man slår en pojke med en blomvas.	En man skär en matta.	0.300
+main-captions	MSRvid	Mannen blandar vispgrädde.	Mannen håller i en skunk.	0.000
+main-captions	MSRvid	En man rör om juice.	En man skalar en lök.	0.750
+main-captions	MSRvid	Någon skär isär två okokta revben.	Någon skär en bit kött.	2.333
+main-captions	MSRvid	En man sparkar på krukor med vatten.	En man vänder på mat.	1.333
+main-captions	MSRvid	Två små flickor pratar i telefon.	Två par pratar med varandra.	1.200
+main-captions	MSRvid	En katt fastnar på en rörlig takfläkt.	En katt svingar sig på en fläkt.	4.200
+main-captions	MSRvid	Katten dricker mjölk.	En vit katt slickar och dricker mjölk på en tallrik.	3.800
+main-captions	MSRvid	Rocky och Apollo Creed springer nerför stranden.	Männen joggar på stranden.	3.000
+main-captions	MSRvid	En man sjunger medan han spelar gitarr.	En man äter sig mätt på mat.	0.500
+main-captions	MSRvid	En båt seglar längs vattnet.	Mannen spelar gitarr.	0.000
+main-captions	MSRvid	En okapi äter från ett träd.	En älg dricker ur en sprinkler.	0.333
+main-captions	MSRvid	Flera barn hoppar upp och ner på en studsmatta.	En man gör bakåtvolter på en studsmatta.	1.500
+main-captions	MSRvid	En kvinna häller ägg i en stekpanna.	En man klappar två hundar.	0.167
+main-captions	MSRvid	En kvinna steker köttfärs.	En man skär en stam med en yxa.	0.500
+main-captions	MSRvid	Tre pojkar i karatedräkter slåss.	Tre män tränar karaterörelser på ett fält.	1.250
+main-captions	MSRvid	Simmare tävlar i en sjö.	Damsimmare dyker in från startplattformen.	1.600
+main-captions	MSRvid	En person kokar nudlar.	En katt slickar en flaska.	0.000
+main-captions	MSRvid	En person skivar lite lök.	En kvinna hackar örter.	1.000
+main-captions	MSRvid	En man rullar in en fisk.	En kvinna häller olja i en skål.	0.000
+main-captions	MSRvid	En kvinna skär en lök.	En häst står.	0.000
+main-captions	MSRvid	En dam blandade ihop en köttblandning i skål.	En kvinna rör om kött i en skål.	4.000
+main-captions	MSRvid	En flicka sminkar sitt ansikte.	En kvinna sminkar sig.	2.750
+main-captions	MSRvid	En kvinna sminkar sig.	En kvinna sätter på sig ögonskugga.	3.333
+main-captions	MSRvid	En katt leker i sitt vatten.	Katten fiskade upp ett sugrör ur sin vattenskål.	3.500
+main-captions	MSRvid	En person lägger till mat i en kastrull.	En man dansar på gatan.	0.188
+main-captions	MSRvid	En man röker.	En bebis suger på en napp.	0.000
+main-captions	MSRvid	En person lägger riven ost i en gryta.	En hamster äter några frön.	0.250
+main-captions	MSRvid	En man suddar en tavla.	En kvinna dansar och sjunger.	0.364
+main-captions	MSRvid	Mannen tränar.	En man gör pull-ups.	3.200
+main-captions	MSRvid	En schimpans sparkar på ett mål.	En kvinna lägger olja i en stekpanna.	0.000
+main-captions	MSRvid	En man tränar.	En bebis skrattar.	0.000
+main-captions	MSRvid	Flickan bär på ett barn.	En man äter mat.	0.000
+main-captions	MSRvid	Flera simmare hoppar i vattnet.	Simmare tävlar i en sjö.	1.750
+main-captions	MSRvid	En man snurrar på en surfbräda.	En man lägger barbecuesås på kyckling.	0.000
+main-captions	MSRvid	En ung man åker skateboard och hoppar upp på en trottoar och sedan ner vid en annan trottoarkant.	En man åker skateboard.	2.750
+main-captions	MSRvid	En person tärnar upp en orange paprika.	Kocken skär paprika.	1.800
+main-captions	MSRvid	Två män dansar tillsammans.	En kvinna öppnar en garderob.	0.000
+main-captions	MSRvid	En man läser ett mejl.	En person som öppnar en banan.	0.000
+main-captions	images	De nyfikna pojkarna tittar in i skjulet.	Två små pojkar i ett skogsområde som tittar på ett skjul.	2.8
+main-captions	images	En moped framför ruintrappor.	En moped framför ruiner.	4.4
+main-captions	images	En man sover med en bebis i knät.	En man sover i en stol och håller ett barn.	4
+main-captions	images	Två katter tittar på ett fönster.	En vit katt tittar ut genom ett fönster.	2.6
+main-captions	images	En person som bär hjälm cyklar nära en vit struktur.	En tjej som bär svarta shorts och stövlar står bredvid en blå motorcykel.	1.2
+main-captions	images	En man med en cykel på ett kafé.	Man leder cykeln till uteplatsen på ett kafé.	3.2
+main-captions	images	En svartvit katt är högt upp på trädgrenar.	Svartvitt lamm med tagg i höger öra.	0.8
+main-captions	images	En ung blond tjej med hjälm sitter med en röd cykel bakom sig.	En ung flicka som bär en cykelhjälm med en cykel i bakgrunden.	3.4
+main-captions	images	Blå soffa och enkelsäng i ett vardagsrum.	Blå soffa i rum med solen som skiner in.	2
+main-captions	images	Fårflocken är utspridd på fältet.	En vit katt står på golvet.	0
+main-captions	images	Två hundar och en katt sitter på soffan.	Två hundar och en katt vilar på en soffa.	4.6
+main-captions	images	En cykel står parkerad vid en butik.	En cykel står parkerad utanför en bokhandel.	4
+main-captions	images	En orange och vit katt som ligger på en filt i en svart läderstol.	En röd och vit katt hopkrupen och sovande på en läderstol.	3.8
+main-captions	images	Ungt par sitter på en svart soffa.	Ungt par sitter på soffa.	4
+main-captions	images	En grupp svarta människor framför en byggnad med en moped.	En grupp människor befinner sig utanför en förfallen byggnad.	2.8
+main-captions	images	Äldre kvinna sitter på röd mönstrad soffa med armen runt yngre kvinna.	Två kvinnor som sitter på soffan poserar för kameran.	3.6
+main-captions	images	En man som åker på baksidan av en orange SUV.	en afrikansk man som hänger på baksidan av en mycket full gul skåpbil.	1.8
+main-captions	images	Röd och vit buss som kör på vägen.	En buss kör på en trafikerad väg.	3.6
+main-captions	images	En katt som ligger på en röd kudde och tittar på kameran.	En beige hund som ligger på en hundsäng och tittar upp mot kameran.	1.2
+main-captions	images	Två gröna och vita tåg sitter på spåren.	Två grönvita tåg sitter på tågspåret.	5
+main-captions	images	En grå katt som ligger på ett träbord.	En grå katt som ligger på ett matbord.	4
+main-captions	images	En man som sitter på en bakgård och spelar gitarr.	En man som åker på baksidan av en orange SUV.	0
+main-captions	images	En pappa som sover i en stol med en bebis i knät.	Man med rosa skjorta som sover på stol med spädbarn.	3.4
+main-captions	images	ett närbildshuvud av en struts.	En närbild av ett struts ansikte.	4.4
+main-captions	images	Grön och vit fågel uppflugen på trädgren.	Fågel med grönt huvud och vit bröstkorg uppflugen på en trädgren.	4.2
+main-captions	images	En man i hög hatt rider på en vit häst.	En man med hög hatt som rider på en vit häst.	5
+main-captions	images	En kvinna som rider på en brun häst.	En kvinna som tar sitt eget foto från ovan.	0.2
+main-captions	images	Två män står i gräset och stirrar på en bil.	En kvinna i en rosa topp poserar med öl.	0.2
+main-captions	images	Två indiska kvinnor med två indiska flickor nära vattnet.	Två indiska kvinnor står med två indiska flickor på en strand.	4
+main-captions	images	Ett bord dukas med vin och rätter för två personer.	Ett träbord är dukat med ljus, vin och en lila plastskål.	2.6
+main-captions	images	En moped framför ruiner.	Vit buss parkerad i gräs framför byggnad.	0.6
+main-captions	images	En person som kör en vagn dragen av en cykel.	En man som bär ett andningsskydd cyklar på en trehjulig cykel.	1.2
+main-captions	images	En hund som nosar på botten av en dörr.	En svartvit hund som nosar på en stängd dörr.	3.8
+main-captions	images	en liten fågel som sitter på en gren på vintern.	En liten fågel uppflugen på en isig gren.	4.2
+main-captions	images	En gul fågel äter frukt på ett galler.	En gul fågel som äter frukt på en fågelmatare.	2.8
+main-captions	images	En brun anka och en vit anka står på gräset.	Bruna och vita ankor som går på grönt gräs.	4.2
+main-captions	images	En svartvit katt och hund på en randig soffa.	En svartvit katt som står framför ett fönster.	2.4
+main-captions	images	En man klädd i svart högtidskläder och en svart hatt rider på en vit utställningshäst.	En man med hög hatt som rider på en vit häst.	3.6
+main-captions	images	En liten brun fågel äter från en fågelmatare som hänger i ett träd.	En liten fågel sitter på fågelmataren som hänger från trädet.	3.8
+main-captions	images	Det här är en bild på landsbygden med en stor stad i bakgrunden.	Det finns några svarta boskap på en grässlätt med ett stort träd i bakgrunden.	0.6
+main-captions	images	Blått och rött plan i flygning i luften.	ett blått och rött flygplan under flygning.	4.8
+main-captions	images	Tre män poserar i ett tält.	Tre män äter i ett kök.	1.2
+main-captions	images	En närbild av en grå katt med gröna ögon.	En närbild av en katt på en krämfärgad soffa.	2.4
+main-captions	images	Ett tåg står vid en tågstation.	Tåget står vid tågstationen.	4.2
+main-captions	images	Tåget går nerför spåren och längs häcken.	en hund på golvet på en uteplats tittar på en katt på staketet.	0
+main-captions	images	en liten flicka skrattar åt kameran.	En vit ko med stora öron tittar in i kameran.	0.2
+main-captions	images	Tre unga kvinnor står tillsammans i ett rum.	Tre mörkhåriga unga kvinnor i vita, röda och svarta tröjor.	3.4
+main-captions	images	En vit fågel med långa orangea ben som står vid en sjö.	Stor vit fågel med lång orange näbb som står på strandlinjen.	3
+main-captions	images	Ett rött tåg som kör genom en snötäckt stad.	Tåget åker på spåren i snön.	3.2
+main-captions	images	Tre cyklister som korsar en bro i en stad.	Cyklisterna korsar en bro i regnet.	3
+main-captions	images	En röd och vit buss kör nerför en gata i England.	En röd och vit Englandsbuss kör nerför gatan.	4.4
+main-captions	images	Fåglarna simmar i vattnet.	Fåglar flyger lågt över vatten.	1.8
+main-captions	images	En svart hund tittar på kameran.	Den svartvita tjuren tittar på kameran.	2
+main-captions	images	En grupp hästar som betar på ett fält.	Grupp av hästar som betar i gräsbevuxet fält.	4.8
+main-captions	images	Flera personer på motorcyklar på ett marknadstorg.	Människor på motorcyklar på en stadsgata.	4
+main-captions	images	Tre får på en grusväg sett från ett passagerarfordon.	Tre får på en grusväg skjutna från en bil.	2.2
+main-captions	images	Grupp människor poserar med två män utklädda till Elvis.	En grupp människor som står tillsammans med två andra personer utklädda till Elvis.	4.2
+main-captions	images	Papegoja som skjuter en liten kundvagn.	En vit fågel styr en kundvagn.	3.4
+main-captions	images	Man i gul kanot som paddlar genom vatten.	Man som paddlar en gul kanot mot stranden.	4.2
+main-captions	images	Ölflaskor (-LRB- Harp Lager )-RRB- uppradade på golvet.	En rad med ölflaskor på golvet.	3.4
+main-captions	images	Två kvinnor som sitter utanför och skrattar.	Två kvinnor som står utanför en buss.	2.4
+main-captions	images	En ångmaskin och tåg som rör sig mot kameran.	Ett vitt får på en sluttning tittar på kameran.	1
+main-captions	images	En brun och vit ko på ett fält som tittar in i kameran.	Den svartvita katten tittar upp mot kameran.	1.6
+main-captions	images	Svartvit ko står nära högen av snö.	en svartvit ko som står på fältet.	3.2
+main-captions	images	Hemmakontor med ljusgröna väggar och konstverk.	Ett kontor med flera skrivbord och gröna väggar.	3.4
+main-captions	images	Ett svartvitt foto av en man som kör bil och någon med en motorcykel.	Ett svartvitt foto av en man i en klassisk bil och en man med en klassisk motorcykel.	4
+main-captions	images	Tre personer är vid vattnet med gula kanoter.	Tre personer förbereder sig för att paddla kanot.	3
+main-captions	images	En flicka i en ridhjälm på en häst.	En flicka som rider på en beige häst.	3.8
+main-captions	images	En man klädd i en blek halsduk med en pinne.	En löpare vilar i skuggan med en flaska läsk.	0
+main-captions	images	Ett mycket retro vardagsrum med en tv i sig.	En grå katt som ligger på ett träbord.	0
+main-captions	images	En flicka i en ridhjälm på en häst.	En flicka som rider på en brun häst.	2.6
+main-captions	images	En bil kör av sidan av vägen ut på gatan.	En silverfärgad bil parkerad vid sidan av vägen framför kullarna.	2.6
+main-captions	images	Mannen sitter i kors och bär en mantel och håller i en pinne.	Man sitter med korslagda ben medan han bär en brun trasa och håller en träpinne.	3.8
+main-captions	images	Två svarta och vita hundar längst ner i trappan.	En hund ligger längst ner i en trappa bredvid en annan stående hund.	2.6
+main-captions	images	Ett gammaldags segelfartyg i trä i havet.	Ett gammaldags segelfartyg i trä står parkerat vid piren.	2.8
+main-captions	images	En man som sitter med korslagda ben i gräset, med ett träd i bakgrunden.	Oceanångare nära kusten med hus i bakgrunden.	0
+main-captions	images	Två katter sitter på en soffa och tittar ut genom fönstret.	En katt tittar ut genom ett fönster.	2.6
+main-captions	images	Tre getter samlas ihop av en hund.	Tre getter jagas av en hund.	4.6
+main-captions	images	En beige valp på ett golv med heltäckningsmatta.	Beige valp liggandes på vita mattor.	3.8
+main-captions	images	En svart hund som står i ett gräsområde.	En långhårig hund står i ett gräsbevuxet skogsområde.	3.4
+main-captions	images	Tåg på en station.	ett tåg på en station.	5
+main-captions	images	En blå fågel som står på en gräsmatta.	Blå fågel som står på grönt gräs.	4.6
+main-captions	images	Ett tomt kontorsbås.	En tom kontorsstol i ett bås.	3
+main-captions	images	En man och en kvinna sitter vid ett bord på en restaurang.	Fyra kvinnor och två män sitter vid ett långbord på en restaurang.	2.2
+main-captions	images	En ung man som bär en randig skjorta håller två cyklar.	Ung rödhårig man håller två cyklar nära stranden.	3.8
+main-captions	images	En tv, stoppad stol och soffbord i ett ljust rum.	En skinnsoffa och träbord i ett vardagsrum.	2.2
+main-captions	images	Två katter sitter på en soffa och tittar ut genom fönstret.	Två katter tittar på ett fönster.	3.6
+main-captions	images	Den lilla hunden har på sig en tröja och tittar upp mot kameran.	En liten vit hund iklädd kavaj tittar upp mot kameran.	4
+main-captions	images	Två män står i gräset och stirrar på en bil.	Två kvinnor som sitter i stolar i en butik.	0.4
+main-captions	images	En kvinna står framför en byggnad i snön.	Två kvinnor och en baby poserar framför en matsal.	0
+main-captions	images	Hemmakontor med ljusgröna väggar och konstverk.	Liten kontorsyta med ljusgröna väggar.	3.8
+main-captions	images	En grön bil parkerad vid en salong.	En grön bil parkerad utanför salongen.	5
+main-captions	images	Grupp människor som sitter runt ett restaurangmatbord.	En grupp människor som sitter vid ett restaurangbord.	4.8
+main-captions	images	Två ankor står vid vattnet.	Fåglarna simmar i vattnet.	2.4
+main-captions	images	En svartvit ko i en fålla med hö.	Svarta och vita kor bakom ett staket.	2.8
+main-captions	images	En man och en kvinna poserar för kameran.	En katt som sitter på sand och tittar upp på kameran.	1.4
+main-captions	images	Ett grönt och vitt lastplan tar av från en flygplats.	Vitt och grönt kommersiellt flygplan lyfter från start- och landningsbanan.	3.6
+main-captions	images	En gul skolbuss parkerad på en åker.	En brun häst i ett grönt fält.	0
+main-captions	images	En äldre man arbetar på sin bärbara dator hemma.	Äldre herre sitter på soffan med bärbar dator.	4.2
+main-captions	images	Katten sitter på en påse med kattmat.	Två örnar som sitter på en lång gren.	0.4
+main-captions	images	En stor hög med träföremål högt staplade.	En stor hög med skrot.	3.8
+main-captions	images	En kvinna som rider på en brun häst.	En flicka som rider på en brun häst.	4
+main-captions	images	Svartvitt foto av en flicka på en soffa.	ett svartvitt foto av en ko under ett träd.	1.2
+main-captions	images	En svart hund står bredvid material på en byggarbetsplats.	En svart hund står mitt på en byggarbetsplats.	4
+main-captions	images	Två kvinnor som sitter i stolar i en butik.	Två kvinnor sitter på ett kafé.	3
+main-captions	images	En kvinna som målar en stol med en matsal i bakgrunden.	En man och en pojke som går längs en strand med havet i bakgrunden.	0
+main-captions	images	En katt som sover på soffan med en kudde bakom sig.	Katten ligger på en filt med djurtryck.	2.4
+main-captions	images	Två motorcyklar som tävlar på en grusbana.	två motorcyklar på en grusväg.	3.4
+main-captions	images	En ung kvinna rider på en Bay-häst i en smutsridring.	En man stirrar på en häst med en vit man.	0.8
+main-captions	images	En grå katt som ligger på ett brunt bord.	En grå katt som ligger på ett träbord.	4.2
+main-captions	images	Motorcykel parkerad bredvid en bil utomhus.	En motorcykel parkerad bredvid en bil.	4.4
+main-captions	images	En hög med använt byggmaterial i trä med en stol på toppen.	Hög med träskräp med stol på toppen.	4
+main-captions	images	Ett passagerartåg väntar på stadens tågstation.	Ett passagerartåg med gul motor.	1.8
+main-captions	images	Ett svart tåg rör sig nerför spåren.	Ett långt tåg är på tågspår.	2.8
+main-captions	images	En Philips platt-TV visas med sina två fjärrkontroller.	En Phillips platt-TV med två fjärrkontroller.	5
+main-captions	images	Ett kryssningsfartyg ligger framför ett dockningsområde.	Calicokatt sitter på trappsteg framför en dörr.	0
+main-captions	images	En svartvit ko som står i hö tittar tillbaka på kameran.	Det är ett svartvitt får som står på gräset.	0.2
+main-captions	images	Fyra personer ror nerför en flod.	Fyra personer ror kanot i vatten.	4
+main-captions	images	En mörkbrun häst som står på ett fält.	En brun häst på ett grönt fält.	3.8
+main-captions	images	Två män pratar framför ett plan.	Två män pratar framför ett litet plan.	4.4
+main-captions	images	två katter, en brun och en vit som ligger på en säng med en blå filt.	Två katter, en röd, den andra vit liggande på en säng.	3.2
+main-captions	images	Tåget står vid tågstationen.	Ett tåg parkerat vid en tågstation.	4.6
+main-captions	images	Två djur som sitter på en sten.	Det bruna tåget står på järnvägsspåren.	0
+main-captions	images	En svartvit ko tittar genom staketet.	En svartvit hund tittar på kameran.	1
+main-captions	images	Två kvinnor i en klädaffär.	Två kvinnor i en segelbåt.	0.8
+main-captions	images	Äldre herre tittar på röd motorcykel.	En man tittar på en röd motorcykel.	4
+main-captions	images	Svarta och vita kor som betar i en fålla.	Två svarta och vita kor dricker ur en damm.	1.6
+main-captions	images	Ett litet kamouflerat flygplan parkerat i gräset.	En liten hund klädd i en rosa skjorta bunden vid ett räcke.	0
+main-captions	images	Ett svartvitt foto av en kärleksstol.	Svartvitt foto av soffa med handväska i ena änden.	3.4
+main-captions	images	Svart fågel som står på betong.	Blå fågel som står på grönt gräs.	1
+main-captions	images	En massa människor som går förbi en gigantisk svamp.	En grupp på fyra personer går förbi en gigantisk svamp.	4
+main-captions	images	Ett får vid en väg och en sjö.	Ett får ligger på kanten av en väg med en sjö och ett berg i bakgrunden.	3
+main-captions	images	En grupp människor sitter vid ett bord på en italiensk restaurang.	En grupp på sex personer som sitter vid ett bord med sallad serverad.	3
+main-captions	images	Beiga kor tittar noga på kameran.	En vit och grå katt i ett handfat i badrummet tittar på kameran.	0.75
+main-captions	images	Äldre kvinna som håller nyfött barn.	en kvinna som sitter på en soffa och håller en bebis.	3.4
+main-captions	images	Två hundar leker i gräset.	Två hundar som leker i snön.	2.80
+main-captions	images	Tre personer sitter vid ett picknickbord utanför en byggnad målad som en union jack.	Tre personer sitter vid ett utomhusbord framför en byggnad målad som Union Jack.	4.80
+main-captions	images	En hund simmar genom vattnet.	En hund som bär en kappa springer genom snön.	1.40
+main-captions	images	En ung skrattande flicka och en pojke spelar på en stor trumma.	En småbarnsflicka och en liten pojke står bredvid en gitarr och en trumma.	2.40
+main-captions	images	Den bruna hunden springer på snön med en vit boll i munnen.	Fyra hundar leker i snön med stadssilhuetten bakom sig.	1.80
+main-captions	images	En fågel flyger över vattnet.	En fågel flyger ovanför vattnet.	4.80
+main-captions	images	En hund springer genom en damm	En blek hund springer längs en grusväg.	1.40
+main-captions	images	En man och en kvinna tittar på två hundar.	En man i rödbruna badkläder gungar i ett rep på en sjö.	0.40
+main-captions	images	En man sitter vid en brygga och tittar på vattnet.	En man hoppar från en sten i vattnet	1.33
+main-captions	images	En brun och vit hund springer genom snön.	en brun och vit hund springer på gräset.	2.40
+main-captions	images	En man och en kvinna står framför en byggnad	Två tjejer sitter på en ATV på sanden framför en bro.	0.40
+main-captions	images	Tre delfiner hoppar upp ur en bassäng framför en folkmassa.	En man håller en presentation inför många människor.	0.60
+main-captions	images	Hunden springer genom ett fält.	En hund springer genom ett fält.	4.80
+main-captions	images	En svartvit hund hoppar i vattnet.	en vit hund springer över vattnet.	2.80
+main-captions	images	En beige och vit hund hämtar en boll på en grusgång.	En stor hund går längs en grusgång i skogen.	2.00
+main-captions	images	En brun och vit hund går uppför snöiga trappor.	En svartvit hund leker i snön.	2.60
+main-captions	images	En kvinna i en svart och orange jacka kastar en pinne som en brun och svart hund ska hämta.	Mannen i en blå jacka står i en folkmassa.	0.00
+main-captions	images	En hund springer över snön med en snöboll i munnen.	En beige hund springer genom gräset med en gul leksak i munnen.	2.40
+main-captions	images	En liten pojke bygger med några träklossar.	En liten pojke som bär en blå skjorta staplar träklossar.	4.00
+main-captions	images	En man och en kvinna går med en vit hund i koppel.	En man, kvinna och hund går längs en asfalterad väg.	4.00
+main-captions	images	En ung pojke som bär en röd vinterkappa äter och håller upp en godiskaka.	En ung pojke som bär en röd kappa äter en chokladkaka.	4.00
+main-captions	images	Två tävlingshundar springer i leran.	Mannen går i vattnet.	0.00
+main-captions	images	"En ung pojke som hoppar i en pool som säger ""ingen dykning""."	En pojke hoppar i en pool medan badvakter tittar på.	3.20
+main-captions	images	Tre hundar springer i smutsen.	Den gula hunden springer på grusvägen.	1.40
+main-captions	images	Fyra barn på pallar i en matsal.	Fyra barn sitter på höga barstolar vid en gul och grå bar.	3.60
+main-captions	images	Pojke och vit hund springer i gräsbevuxet fält	En pojke och en hund springer på gräs	4.40
+main-captions	images	Två pojkar spelar en omgång flaggfotboll.	Två pojkar spelar flaggfotboll.	5.00
+main-captions	images	Den svartvita hunden har munnen vidöppen.	En svartvit hund hoppar i snön.	1.80
+main-captions	images	En vit pojke och en svart pojke står med armarna om varandra.	Två unga pojkar, en vit och en svart, står med armarna om varandra.	4.80
+main-captions	images	Flicka som leker i en pöl med sina bara fötter.	Ett barn leker med två vita och svarta gäss.	0.60
+main-captions	images	Två barn plaskar i vattnet.	Två delfiner som hoppar i vattnet.	1.40
+main-captions	images	En man i kostym dansar med en ung flicka inför publik.	En kvinna dinglar i ett blått tyg kopplat till ett träd.	0.20
+main-captions	images	Tre barn som leker på ett golv med leksaker.	Tre barn sitter på golvet och leker med flera leksaker.	4.20
+main-captions	images	De två hundarna leker på gården.	Två hundar leker på gräset.	4.60
+main-captions	images	Vinthunden nr 2 springer runt ett spår.	en munkorgad vinthund springer runt ett spår	4.00
+main-captions	images	fyra barn leker på en studsmatta.	Fyra barn hoppar på en studsmatta.	4.60
+main-captions	images	En svart och beige hund som står på ett fält nära träd	En vit hund står vid en flod och skakar sig torr.	1.80
+main-captions	images	En svart hund springer ut i vattnet.	En svart hund springer genom vatten.	4.60
+main-captions	images	en man och kvinna som gick förbi en skivaffär	En man och kvinna som kysser framför en folkmassa.	0.20
+main-captions	images	Två hundar leker i gräset.	Två beiga hundar leker i snön.	2.60
+main-captions	images	Tre barn brottas på en blommig matta.	Tre barn som leker på golvet.	3.80
+main-captions	images	En pojke i rött som hoppar in i en sandlåda.	En hund simmar i en damm	0.00
+main-captions	images	en hund hoppar i vattnet.	En hund hoppar i vattnet.	5.00
+main-captions	images	En blöt, blond hund bär en pinne på stranden.	Den blöta, bruna hunden har en pinne i munnen och springer i sanden bredvid vattnet.	3.60
+main-captions	images	En man och en hund på klippor på en strand.	En man och en hund på en stenig strand.	4.60
+main-captions	images	Stor grupp människor som står utanför en byggnad.	En grupp människor åker skridskor i en storstad.	2.00
+main-captions	images	Två hundar springer på fältet.	Två hundar springer på ett fält.	5.00
+main-captions	images	Två personer ligger i sängen.	Två boxare är i ringen.	0.00
+main-captions	images	En ljusbrun hund springer glatt nerför en stig.	En blek hund springer nerför en stig.	3.40
+main-captions	images	En rödhårig kvinna i svart poserar för en man medan hon vilar på ett träd.	En man i en svart skjorta håller ett barn som bär solglasögon.	0.00
+main-captions	images	Två svarta hundar hoppar och leker med en gul tennisboll i snön.	En brun hund och en svart hund som leker med en gul fotboll.	2.00
+main-captions	images	En svartvit hund hoppar över ett hinder.	En vit hund springer över en bro.	2.00
+main-captions	images	Två bruna hundar springer genom vattnet.	Två bruna hundar springer genom vatten.	4.60
+main-captions	images	En svart hund hoppar upp ur vattnet.	En svart hund skakar av sig vatten.	3.00
+main-captions	images	En man som klättrar på en klippvägg.	En man klättrar på en klippvägg.	4.60
+main-captions	images	Kvinna som spelar tennis och slår bollen.	En kvinna spelar volleyboll.	2.00
+main-captions	images	En ung pojke med håret stående, glider nerför en blå rutschkana	Barnet i den orange tröjan glider nerför en krickfärgad rutschkana.	2.60
+main-captions	images	En hund som står i vattnet.	En flicka som leker i en fallskärm.	0.40
+main-captions	images	En surfare rider på en brytande våg.	en grupp surfare som fångar en våg	2.60
+main-captions	images	Två hundar springer genom gräset nära ett hus och träd.	Två hundar springer genom en grön gård	4.20
+main-captions	images	En brun och vit hund springer över ett brunt fält.	En person som hänger från en stenig klippa.	0.00
+main-captions	images	En svart hund som står i gräset nära en volleyboll.	Ett brunt och svart dun med blå krage nära en fotboll på en gräsbevuxen plan.	2.20
+main-captions	images	En vit hund med ljusbruna markeringar har en pinne i munnen och tassarna i snön.	En vit hund håller en pinne i munnen medan den springer genom snö.	4.00
+main-captions	images	En man i våtdräkt kastar upp en bebis iklädd våtdräkt i luften.	En man i en skjorta med vitt tryck och en kvinna i en svart klänning dansar.	0.00
+main-captions	images	En svartvit hund springer genom gräset.	En beige hund går genom snö.	2.00
+main-captions	images	En hund med sele hoppar över en stock när en annan hund följer efter.	En brunvit hund hoppar över en stock på ett fält medan en annan hund följer efter den.	3.00
+main-captions	images	En hund springer på gräset	Två hundar springer på gräset.	2.60
+main-captions	images	Många fotbollsspelare sitter på marken.	En hund rullar på marken.	0.00
+main-captions	images	En liten pojke och en liten flicka leker tillsammans utomhus.	En kvinna som bär en vit skjorta står på gatan.	0.00
+main-captions	images	Surfaren gör en flip off av en våg.	En surfare gör en flip på en våg.	4.80
+main-captions	images	En kvinnlig DJ håller upp ett Michael Jackson-album.	en flicka som håller en bild av Michael Jackson leende	3.00
+main-captions	images	två vita standardpudlar leker med en leksak i snön	Två hundar som slåss i snön.	2.20
+main-captions	images	Pojken ligger på magen i gräset.	Liten pojke som ligger på magen i gräset.	4.40
+main-captions	images	En vit hund springer längs en stenig strandlinje.	En hund hoppar över ett hinder.	0.80
+main-captions	images	en svartvit hund som hoppar i luften för att fånga en frisbee	En svartvit hund som hoppar på en gård.	3.40
+main-captions	images	Kvinnan håller i selen som den brunvita hunden har på sig.	En man och en kvinna tittar på konstverk som är på staffli och fastklämda på en stängselvägg.	0.00
+main-captions	images	En tjej hoppar.	En pojke klättrar på berg.	0.60
+main-captions	images	En ung pitcher kastar baseboll.	En brun hund går på gräset bredvid ett staket.	0.00
+main-captions	images	Tre barn som leker i snö.	Tre barn som leker i hö	2.40
+main-captions	images	Två personer cyklar längs en grusväg.	Två personer cyklar på en kulle.	3.40
+main-captions	images	En brun hund springer genom fältet.	en brun hund med tungan viftande när han springer genom ett fält	4.00
+main-captions	images	En hund står i sanden.	En beige hund står framför några växter.	2.00
+main-captions	images	Fyra flickor i baddräkter spelar volleyboll på stranden.	Fyra damer i baddräkter spelar sandvolleyboll på stranden.	4.00
+main-captions	images	Ett blont litet barn som gungar på en däckgunga.	Ett blont  barn gungar på en däckgunga.	4.80
+main-captions	images	Ett barn som bär blå och vita shorts hoppar i vågorna.	En flicka som bär grönt vrider något i händerna.	0.60
+main-captions	images	Två hundar springer på stranden.	En vit hund springer på stranden.	2.40
+main-captions	images	En gul bil rusar längs ett snöigt fält.	En gul bil kör snabbt i snön.	4.40
+main-captions	images	Två hundar som leker i snö.	Två hundar som leker i gräset.	2.40
+main-captions	images	En pojke puttar en annan pojke på en gunga.	En pojke puttar en annan pojke på gungorna.	4.80
+main-captions	images	En pitcher på en kulle kastar en baseboll.	En pojke mitt på en plan vid en basebollmatch.	3.40
+main-captions	images	En liten flicka åker på en leksakstrehjuling på fjädrar.	En liten flicka leker på en leksak utomhus.	2.80
+main-captions	images	En kvinna sitter i vattnet.	Kvinnan åker skridskor i parken.	0.80
+main-captions	images	En solbränd tjej i en blommig bikini simmar i mörkblått vatten.	en liten flicka i en blommig baddräkt springer genom sanden på stranden	2.20
+main-captions	images	en grå hund simmar genom en flod med en pinne i munnen	Hund simmar genom vatten och bär en käpp i munnen	3.80
+main-captions	images	En kvinna i blå baddräkt hoppar från en brygga i en sjö.	en pojke i blå skjorta och blå jeans springer över en lekplats	0.40
+main-captions	images	Två svarta hundar leker på gräset.	Två svarta hundar leker på en grässlätt.	4.60
+main-captions	images	Två valpar som leker med en plastpåse.	Två hundar som leker på en gård.	3.00
+main-captions	images	En man i svart dräkt surfar längs en våg.	En surfare som bär en svart våtdräkt rider på en vit våg i havet.	4.60
+main-captions	images	Tre små flickor sitter på gräset.	Två pudlar springer genom snön.	0.80
+main-captions	images	En brun hund springer mot kameran på en grusstig med berg i bakgrunden.	En brun hund springer mot kameran nerför en stenig stig genom buske med berg i bakgrunden.	4.00
+main-captions	images	Hunden hoppar nerför en ramp.	En flicka hoppar i sanden.	1.20
+main-captions	images	Hunden leker i parken.	Hunden hoppar över staketet i parken.	3.20
+main-captions	images	Fyra hundar står i snön.	Fyra hundar som leker i snön.	3.60
+main-captions	images	Bruna och svarta hundar på snö, som visar tänder och skäller på varandra.	En svart hund som slåss med en brun hund i snön.	3.40
+main-captions	images	En man springer på en bana.	en löparbana för en man	5.00
+main-captions	images	En ljus hund springer genom gräset.	En hund springer genom gräset.	4.00
+main-captions	images	Barn som håller ett föremål som brinner.	Ett barn i rosa håller ett föremål som ser ut att brinna.	4.00
+main-captions	images	En liten vit hund klättrar över en stock.	en liten hund kliver upp på en stock.	2.80
+main-captions	images	Hundarna leker i snön på bakbenen.	Två hundar leker i snön.	3.80
+main-captions	images	En pojke åker skateboard nerför räcket i en graffititrappa	En skateboardåkare glider nerför en ledstång på fötterna.	2.60
+main-captions	images	En svartvit hund springer genom vattnet.	Svart och brun hund springer genom fältet.	2.00
+main-captions	images	En flicka springer på en ökenstig.	En ung flicka pratar i en mobiltelefon.	0.80
+main-captions	images	En man styr en blå båt förbi färgglada hus.	en man som kör en blå båt passerar några färgglada hus.	5.00
+main-captions	images	En kvinna som bär stora solglasögon håller tidningar i båda händerna.	En tjock kvinna som bär en ljusblå topp blåser såpbubbla.	1.00
+main-captions	images	Ett rådjur hoppar över ett staket.	Ett rådjur hoppar över ett staket.	5.00
+main-captions	track5.en-en	En person är med i ett basebolllag.	En person spelar basket i ett lag.	2.400000
+main-captions	track5.en-en	En cykel står bredvid ett par kvinnor.	Ett barn bredvid en cykel.	2.000000
+main-captions	track5.en-en	Gruppen äter samtidigt som de njuter av en hisnande utsikt.	En grupp människor tittar på ett ovanligt träd.	2.200000
+main-captions	track5.en-en	Pojken räcker upp handen.	Mannen räcker upp handen.	3.400000
+main-captions	track5.en-en	En man med grått skägg rakas framför en föreläsningssal	En man med skägg sitter i gräset.	0.800000
+main-captions	track5.en-en	En ung person djupt i tankarna.	En ung man djupt i tankarna.	4.600000
+main-captions	track5.en-en	En man utför arbete.	En man uppträder idag.	2.800000
+main-captions	track5.en-en	Två män som bär traditionella kläder står utanför.	Tre kvinnor i svarta västar och grå skjortor pratar utanför en byggnad.	2.000000
+main-captions	track5.en-en	en man som bär en grå hatt och fiskar ut ur en fiskebåt.	En man som bär en stråhatt och fiskeväst i en bäck.	2.600000
+main-captions	track5.en-en	En liten flicka i en orange randig outfit är luftburen medan hon studsar på en säng.	En hund i röd skjorta jagar en ekorre genom glaset.	0.200000
+main-captions	track5.en-en	En person tittar på folk som åker skidor nerför backen.	Kvinnan hoppar en lång sträcka medan folk tittar på.	1.400000
+main-captions	track5.en-en	Gården har en hund.	Hunden springer efter en annan hund.	1.600000
+main-captions	track5.en-en	Tre kvinnor lagar mat.	Två kvinnor lagar mat.	3.200000
+main-captions	track5.en-en	Kvinnan står på knä bredvid en katt.	En tjej står bredvid en man.	0.200000
+main-captions	track5.en-en	Tre killar spelar en proffsbasketmatch.	två killar som spelar en omgång baseboll.	2.400000
+main-captions	track5.en-en	Pojkarna förtjänar sitt nästa bälte i karate.	Fem flickor och en pojke är i sina baddräkter alla mitt i att hoppa i poolen.	0.200000
+main-captions	track5.en-en	En kvinna gräver i sanden.	En man är begravd i sanden.	1.400000
+main-captions	track5.en-en	En kvinna kör golfbil.	En man som åker vagn.	1.800000
+main-captions	track5.en-en	En person som filmar utomhus.	Det finns ett par utomhus.	1.600000
+main-captions	track5.en-en	En människa som åker skateboard.	Ett barn åker skateboard.	3.800000
+main-captions	track5.en-en	En kvinna i en rutig outfit tittar igenom en påse med produkter.	Det här är bilden av en kvinna i en blommig klänning som bär något i en hink.	1.000000
+main-captions	track5.en-en	Tennisspelaren slog bollen ut i rymden och knäckte dödsstjärnan.	En kvinnlig tennisspelare hoppar upp i luften för att slå bollen.	1.200000
+main-captions	track5.en-en	En pojke klättrar på en skogsbacke.	En pojke klättrar på en kulle.	4.000000
+main-captions	track5.en-en	Blond pojke som hoppar upp på däck.	En pojke som hoppar nerför en blöt uppblåsbar rutschkana.	2.000000
+main-captions	track5.en-en	En man använder en motorsåg för att skulptera en fallisk isskulptur.	En man använder en motorsåg för att snida en träskulptur.	2.600000
+main-captions	track5.en-en	En grupp manliga byggnadsarbetare reparerar järnvägsspår på en molnig dag	En besättning arbetare som arbetar på ett järnvägsspår.	3.800000
+main-captions	track5.en-en	Flickan har något på huvudet.	Kvinnan har något med sig.	2.600000
+main-captions	track5.en-en	Människor som gör en struktur av kort.	Två personer är tillsammans och en använder ett klädesplagg på ett annat sätt än det är tänkt.	0.200000
+main-captions	track5.en-en	Det är fyra personer utanför.	Fem personer är utanför.	3.000000
+main-captions	track5.en-en	Flickor håller hand i blå kläder	De unga har jeans med sina röda och gröna skjortor.	1.800000
+main-captions	track5.en-en	En man visar hur man arbetar med lera medan minst två personer observerar.	Åtminstone en av de tre kvinnorna pratar med de andra.	0.600000
+main-captions	track5.en-en	En hund har en tröja på sig.	En man i en kavaj sitter på en röd soffa med en katt.	0.600000
+main-captions	track5.en-en	Skulptör applicerar betong på en stor staty av en mänsklig figur som står utan huvud.	En person står framför en byggnad och håller upp lite plywood	0.200000
+main-captions	track5.en-en	En pojke med mörkt hår är i vatten och tittar upp.	Mannen är korthårig.	0.600000
+main-captions	track5.en-en	En stolpe är bakom en person som leker tittut med ett barn.	Det finns ett barn med en boll	0.200000
+main-captions	track5.en-en	En kvinna är på väg att måla.	En pojke ska ta en bild.	1.000000
+main-captions	track5.en-en	en man som arbetar på stålverket	En man som arbetar i ett gjuteri.	3.400000
+main-captions	track5.en-en	Den unga kvinnan flirtar med den unge pojken.	Flickan är ung och glad.	1.400000
+main-captions	track5.en-en	männen är på väg att göra mål i en vattenpoloturnering	De två männen är på väg att tävla i en match.	2.000000
+main-captions	track5.en-en	En man äter popcorn medan han tittar på tecknade filmer sent en kväll.	En man och en tjej tittar på tecknade filmer hemma	2.800000
+main-captions	track5.en-en	Tre män sitter på en bänk.	två män sitter på en bänk.	3.200000
+main-captions	track5.en-en	Vägen är lång.	Det finns ingenting vid sidan av vägen.	0.800000
+main-captions	track5.en-en	en ung man klädd i en vit t-shirt och gröna och svarta shorts som står på en stubbe.	En man klädd i vit skjorta och röda och svarta shorts springer på trottoaren.	1.800000
+main-captions	track5.en-en	En hund under trappan	En hund vilar på trappan.	2.200000
+main-captions	track5.en-en	Två kvinnor ger en demonstration på en renässansmässa.	Två personer gör en demonstration på en renässansmässa.	4.200000
+main-captions	track5.en-en	Någon kille som sitter i en soffa och tittar på tv.	En kille sitter i soffan och tittar på tv	5.000000
+main-captions	track5.en-en	En kvinna poserar för ett julkort.	En tjej tar ett foto.	1.200000
+main-captions	track5.en-en	En man arbetar på sin gård.	En gammal kille arbetar på sin gård och en ko sparkar honom.	2.800000
+main-captions	track5.en-en	En flicka pratar med sin pappa i en mobiltelefon.	en tjej pratar i sin telefon.	4.400000
+main-captions	track5.en-en	En person använder ett paraply.	En person håller ett paraply.	4.400000
+main-captions	track5.en-en	En grupp tonåringar som hoppar och har det bra.	En grupp barn som har det bra.	3.600000
+main-captions	track5.en-en	En man spelar på sin gitarr på Joe's Cafe.	Mannen spelar trummor för sin mamma.	1.200000
+main-captions	track5.en-en	Någon ligger på en filt.	Personen gör en filt.	1.400000
+main-captions	track5.en-en	Mannen har en orange skjorta.	Kvinnan har en orange skjorta.	3.400000
+main-captions	track5.en-en	De två barnen tittar på produkterna som säljs inne i tunnelbanebutiken.	Barnen stjäl från en butik.	0.800000
+main-captions	track5.en-en	Pojken vill ha sin mamma.	En pojke är glad över att se sin mamma.	2.800000
+main-captions	track5.en-en	En pojke är väldigt nära en tjej.	En flicka är nära en pojke vars ansikte inte visas.	3.200000
+main-captions	track5.en-en	Sex barn städar ett rum.	Två manliga barn som städar upp löv på en parkeringsplats.	1.600000
+main-captions	track5.en-en	Det finns en kock som lagar mat.	En kock lagar mat.	5.000000
+main-captions	track5.en-en	Två män hjälper en pojke.	Två män är tillsammans med ett litet barn.	3.600000
+main-captions	track5.en-en	Två skidåkare åker längdskidor.	Människor som åker längdåkning.	3.600000
+main-captions	track5.en-en	En hund bajsar på gatan.	En man som gör ballongdjur för två barn i ett gathörn.	0.400000
+main-captions	track5.en-en	Ett barn pratar i klassen.	En tjej går till klassen.	1.800000
+main-captions	track5.en-en	Kvinnorna försöker sälja något till individen.	Männen försöker tjäna lite pengar.	1.200000
+main-captions	track5.en-en	Folk väntar på att fyrverkeriet ska börja.	Tre personer väntar på att regnet ska sluta.	1.200000
+main-captions	track5.en-en	En hund förbereder sig för att valla tre får med horn.	En hund och får springer tillsammans.	2.200000
+main-captions	track5.en-en	Folk samlades i ett rum.	Människor samlades i ett rum.	5.000000
+main-captions	track5.en-en	Kvinnan i overall målar en tavla till sin vägg.	En kvinna målar sin vägg vit.	2.600000
+main-captions	track5.en-en	Att lägga till aspirin i vattnet kan döda växten.	Män försöker ta bort olja från en vattenmassa.	0.000000
+main-captions	track5.en-en	Kvinnan är klädd i gult.	Kvinnan är klädd i rött.	2.800000
+main-captions	track5.en-en	En man gör ett stunt på sin cykel.	En man kör en wheelie på sin motorcykel.	3.200000
+main-captions	track5.en-en	Tio personer åker ATV.	4 personer cyklar	1.600000
+main-captions	track5.en-en	En gulklädd person utför vägarbete.	En person klarar sig väldigt bra på sin skateboard.	0.200000
+main-captions	track5.en-en	Två arbetare sitter bredvid rören och äter lunch	Byggnadsarbetarna sitter ner för att äta lunch.	3.800000
+main-captions	track5.en-en	En grupp människor som bor i öknen	En grupp människor mitt i öknen.	4.000000
+main-captions	track5.en-en	Två barn simmar.	Sex barn ska simma.	2.800000
+main-captions	track5.en-en	människor får sina smutsiga kläder rengjorda	Folk får sina kläder tvättade.	5.000000
+main-captions	track5.en-en	Barnen håller i musikinstrument.	En grupp barn sjunger och spelar instrument	3.400000
+main-captions	track5.en-en	En grupp människor bär polisuniformer för att genomföra en arrestering.	En grupp poliser bär skydd.	2.800000
+main-captions	track5.en-en	mannen planerar att filma ett bröllop	kvinnan ska på bröllop.	1.400000
+main-captions	track5.en-en	Barnets cykel blev blöt.	Hon lägger undan cykeln.	1.200000
+main-captions	track5.en-en	En soldat går ut med en hund.	En man går ut med en hund.	3.200000
+main-captions	track5.en-en	En kvinna i bar överkropp driver en gräsklippare.	En tjej klipper gräset med en gräsklippare.	3.000000
+main-captions	track5.en-en	De två poliserna kör	Två officerare är på hästar.	2.200000
+main-captions	track5.en-en	Damen ser ledsen ut eftersom ingen köper hennes varor.	Damen säljer saker.	2.000000
+main-captions	track5.en-en	En flock fåglar svävade över sandstranden.	Fåglar flyger på en strand.	3.800000
+main-captions	track5.en-en	folk går hem	Människor som väntar.	1.600000
+main-captions	track5.en-en	En man skrattar med en kvinna	En man och en kvinna skrattar.	4.800000
+main-captions	track5.en-en	Han är på väg att springa in i båten	Mannen håller på att göra rent sin båt för att ta den ut på vattnet.	1.200000
+main-captions	track5.en-en	2 Kor är på en åker.	Två får är på ett fält.	2.400000
+main-captions	track5.en-en	Ett blött barn njuter av sommaren.	En kvinna njuter av sommarvädret.	1.800000
+main-captions	track5.en-en	Flickan har körkort	En man har körkort.	2.600000
+main-captions	track5.en-en	Människor på motorcyklar som bär racerutrustning åker runt en racerbana	Människor på motorcyklar åker runt en racerbana	3.800000
+main-captions	track5.en-en	En man står på marken med en pensel	En man med en krycka liggande på marken.	1.200000
+main-captions	track5.en-en	Barnen är på teatern och tittar på en film.	det är bilddag för pojkarna	0.200000
+main-captions	track5.en-en	Två kvinnor går nerför trottoaren till butiken.	Två kvinnor går på trottoaren på eftermiddagen.	3.800000
+main-captions	track5.en-en	En man har sin son på ryggen	En man tillbringade sin tid med sin son.	2.400000
+main-captions	track5.en-en	En grupp mörkhyade människor går förbi taggtråd.	Två kvinnor skvallrar vid ett staket.	0.400000
+main-captions	track5.en-en	Zombies som paraderar runt ätande hjärnor.	Zombierna äter kött tillsammans.	3.400000
+main-captions	track5.en-en	En grupp människor sitter på en strand på handdukar och tittar på Blue Angels.	En grupp människor sitter på en strand och tittar på Blue Angels.	4.200000
+main-captions	track5.en-en	Tre personer träffas för att fika.	Två personer kokar kaffe.	2.400000
+main-captions	track5.en-en	En ung flicka med smuts i ansiktet och en röd barncykel är i bakgrunden.	Den gamla kvinnan i shorts och vit t-shirt står på en stig och tittar på barn som leker.	0.800000
+main-captions	track5.en-en	En rad skotrar parkerar mitt på en gata.	En rad motorcyklar står parkerade mitt på en gata.	4.400000
+main-captions	track5.en-en	En man som håller i en katt.	En man som håller i en hund.	3.000000
+main-captions	track5.en-en	Katterna springer genom gräset.	Några hundar springer genom parken.	2.000000
+main-captions	track5.en-en	De två pojkarna spelar kickball fram och tillbaka till varandra.	Spelarna sparkar varandra medan de försöker sparka bollen.	3.000000
+main-captions	track5.en-en	Två tjejer springer.	Tre pojkar springer.	2.200000
+main-captions	track5.en-en	En liten flicka i en vit blus och blå byxor leker i gräset.	En kvinna i grön skjorta och vita byxor spelar golf på green.	1.800000
+main-captions	track5.en-en	En man i vit skjorta och hatt spelar gitarr.	En man i grön skjorta och svart hatt spelar gitarr på scenen.	2.800000
+main-captions	track5.en-en	En man med svart huva använder ett stort förstoringsglas för att titta på ett häfte.	En kvinna med vit huva använder ett förstoringsglas för att titta på ett häfte.	2.800000
+main-captions	track5.en-en	folket springer ett maraton	Folk springer ett maraton	5.000000
+main-captions	track5.en-en	En grupp människor är nervösa över att korsa vattnet.	En grupp människor är på vattnet.	2.200000
+main-captions	track5.en-en	En grupp barn har en hopptävling.	En grupp barn sover över.	1.200000
+main-captions	track5.en-en	Personen bär en fedora.	En man bär uniform.	1.600000
+main-captions	track5.en-en	En kvinna och en man omfamnar varandra medan de tittar på en skräckfilm.	En man och en kvinna tittar på en film tillsammans.	2.800000
+main-captions	track5.en-en	En man i en blå skjorta.	En man i vit skjorta och blåa byxor pratar med en kvinna i rosa skjorta.	1.800000
+main-captions	track5.en-en	Ett par spelar livets spel.	Familjen spelar ett spel tillsammans.	2.600000
+main-captions	track5.en-en	Huvudet på ett barn med mörka glasögon är i fokus.	Det finns en kvinna med ett huvud fullt med hår.	0.200000
+main-captions	track5.en-en	En underhållsman reparerar ett nät på en tennisbana.	En man som tar bort ett tennisnät.	2.400000
+main-captions	track5.en-en	Ett barn sitter på en fotboll utanför.	Ett barn som sitter på en fotboll i parken.	4.200000
+main-captions	track5.en-en	En man i brun rock gnuggar sig på näsan.	En skallig man med rött skägg håller handen nära munnen.	2.200000
+main-captions	track5.en-en	Hunden jagar gässen.	Den ena hunden jagar den andra.	1.600000
+main-captions	track5.en-en	Litet barn som leker med bokstaven P	Två unga flickor sitter framför en bokhylla och en läser en bok.	0.800000
+main-captions	track5.en-en	En brun hund hoppar.	En brun hund hoppar	5.000000
+main-captions	track5.en-en	En grupp tonåringar i röda skjortor ler.	En grupp människor bär orange skjortor.	1.200000
+main-forums	answer-answer	Jag stannade kvar under banyanträdet, utmattad av min dagliga ritual att dra männen varannan timme.	Jag stannade kvar under banyanträdet, utmattad av min dagliga ritual att valla katterna varannan timme.	3
+main-forums	answer-answer	I USA kommer det att bero på skolan.	Det beror verkligen på skolan och programmet.	3
+main-forums	answer-answer	Det finns också vad snöret är gjort av.	Det finns även en Youtube-version av filmen.	0
+main-forums	answer-answer	Du antyder också att du kanske inte får betalt om de inte kan placera dig hos en kund.	Du kan göra det, men du kanske inte är professor.	0
+main-forums	answer-answer	Jag gjorde det här en gång också.	Jag har den här vanan också.	2
+main-forums	answer-answer	Du måste bara basera ditt svar på vad du vet, vilket är vad du vill.	Du kanske vill ha det, men processen som ges till dig är vad du måste arbeta inom.	0
+main-forums	answer-answer	Du behöver inte oroa dig.	Du behöver inte oroa dig.	5
+main-forums	answer-answer	Du borde göra det.	Du ska göra som den säger.	3
+main-forums	answer-answer	Du borde bara fråga din chef vad han vill att du ska göra.	Du bör lyssna på din chef, för du får inte betalt för att berätta för chefen vad han ska göra.	2
+main-forums	answer-answer	Du behöver läsa mycket för att veta vad du gillar och vad du inte gillar.	Du måste bestämma dig för hur mycket du vill kräva, och vilka ouppfyllda krav du kan leva med.	0
+main-forums	answer-answer	Det beror på vad du vill ha i din tank.	Jag tror det beror på vad du vill ha:	2
+main-forums	answer-answer	Du kan göra det också.	Ja, du kan göra det.	5
+main-forums	answer-answer	Du borde göra det.	Du kan göra det också.	1
+main-forums	answer-answer	Du måste bestämma dig för vad du vill få ut av det här.	Du måste veta vad du vill göra.	4
+main-forums	answer-answer	Jag har några förslag till dig:	Jag har två förslag till dig:	4
+main-forums	answer-answer	Du vill börja i det rum som är störst för att vara säker på att du får den rakaste starten.	Du måste börja med kliniken, och kanske gå vidare till försäkringsbolaget.	1
+main-forums	answer-answer	om du inte vill spåra ur mötet, men nyckeln är att säga ifrån.	Det viktigaste du behöver göra i det här mötet är att lyssna.	1
+main-forums	answer-answer	Tyvärr är svaret på din fråga att vi helt enkelt inte vet.	"Mitt svar på din fråga är ""förmodligen inte""."	1
+main-forums	answer-answer	Så snart som möjligt.	Starta dem så tidigt som möjligt.	4
+main-forums	answer-answer	Du måste bara basera ditt svar på vad du vet, vilket är vad du vill.	Det beror på vad du vill göra härnäst och var du vill göra det.	1
+main-forums	answer-answer	Svaret på båda frågorna är: Ja.	Svaret på båda dina frågor är ja.	5
+main-forums	answer-answer	För att ge detta ett svar:	Jag ska svara på denna fråga:	4
+main-forums	answer-answer	Tyvärr är svaret på din fråga att vi helt enkelt inte vet.	Tyvärr, jag vet inte svaret på din fråga.	4
+main-forums	answer-answer	Regeln - Släng ut den när du är osäker!	"Jag följer alltid regeln ""När du är osäker, släng ut den!"	4
+main-forums	answer-answer	Det här är ingen bra idé.	Det här låter som en väldigt dålig idé.	4
+main-forums	answer-answer	Ja, det är nog en bra idé att förnya sitt pass.	Det är en bra idé.	3
+main-forums	answer-answer	Det beror nog på styckningen av köttet.	Det beror på köttet och hur det skärs.	4
+main-forums	answer-answer	Det är ingen bra idé.	Det är en bra fråga.	0
+main-forums	answer-answer	Det är ganska mycket upp till dig.	Det är mycket bättre att fråga.	0
+main-forums	answer-answer	Ja, det finns en anledning till det.	Ja, det är precis vad det betyder.	1
+main-forums	answer-answer	Har du testat att fråga dina anställda?	Har du provat att fråga?	4
+main-forums	answer-answer	Ni gör det här AAAAALLDELES för komplicerat.	Du gör det här för komplicerat.	5
+main-forums	answer-answer	Du behöver inte veta.	Du behöver inte göra någonting.	2
+main-forums	answer-answer	Det finns två saker att tänka på:	Det finns två möjliga orsaker till detta:	4
+main-forums	answer-answer	Arbeta långsamt in i det.	Det verkar fungera.	0
+main-forums	answer-answer	Du kan köpa den på Amazon för $5.	Du kan köpa den på ebay för $25 och uppåt.	2
+main-forums	answer-answer	Kaffet plockar helt enkelt upp aluminiumet från grytan, eftersom kaffet är surt.	En idé är att rengöra kafferesterna från kaffekannan.	1
+main-forums	answer-answer	Det finns två sätt att börja med: att störta och droppa.	Det finns två traditionella sätt att böja trä:	0
+main-forums	answer-answer	Du kanske måste prova en sort innan du hittar en som klickar med honom.	Mitt råd är att prova en mängd olika kaffesorter som du har råd med och hitta en du gillar.	2
+main-forums	answer-answer	Det är ingen bra idé.	Det är ingen bra idé.	5
+main-forums	answer-answer	Du måste bara basera ditt svar på vad du vet, vilket är vad du vill.	De kan, men sättet att göra det beror på vad du har tillgängligt.	1
+main-forums	answer-answer	Ja, du bör nämna din erfarenhet.	Ja, du borde nämna det.	3
+main-forums	answer-answer	Vad jag förstår är det här vad du kan göra:	Kan du göra det här?	2
+main-forums	answer-answer	Ta en titt på dessa:	Titta på det här:	5
+main-forums	answer-answer	Jag skulle säga att det främst beror på två saker:	Jag skulle säga att det beror på det slutliga resultatet du vill ha?	2
+main-forums	answer-answer	Några av vad du kan göra:	Inte mycket du kan göra förutom:	1
+main-forums	answer-answer	Det här är ingen bra idé.	Men det är ingen bra idé.	5
+main-forums	answer-answer	Svaren hittills är redan bra, men jag skulle vilja lägga till en karta för Schweiz:	Du har redan många svar, men jag skulle vilja lägga till curryrätter som en annan lösning.	0
+main-forums	answer-answer	Jag var i en liknande situation.	Jag hade en liknande situation.	5
+main-forums	answer-answer	Jag har haft samma problem.	Jag hade samma problem.	5
+main-forums	answer-answer	Det finns inget max.	Det finns ingen karantänstid.	0
+main-forums	answer-answer	Jag är inte säker på att detta är rätt sida för frågan.	Jag är inte säker på att denna fråga skulle ha varit mycket meningsfull för romarna själva.	2
+main-forums	answer-answer	Det beror på vad du vill göra härnäst och var du vill göra det.	Det beror med andra ord på vart du går, när du gör det och hur.	4
+main-forums	answer-answer	Du behöver läsa mycket för att veta vad du gillar och vad du inte gillar.	Ja, du bör skapa en portföljwebbplats för att visa upp vad du kan och vad du har gjort.	0
+main-forums	answer-answer	Du avslöjar inte nyckelinformation.	Nej det är du inte.	2
+main-forums	answer-answer	Det beror på vad du vill göra härnäst och var du vill göra det.	Jag antar att det beror på vad du ska göra.	3
+main-forums	answer-answer	Du måste bara basera ditt svar på vad du vet, vilket är vad du vill.	Det är hans jobb att se att du har det du behöver för att utföra ditt jobb.	0
+main-forums	answer-answer	Det beror på vad du vill göra härnäst och var du vill göra det.	Det beror på vad du vill uppnå.	3
+main-forums	answer-answer	Detta är ett problem som professorn måste ta itu med.	Detta är ett stort problem.	1
+main-forums	answer-answer	Detta är en mycket ovanlig begäran.	Det här låter lite ovanligt.	3
+main-forums	answer-answer	Det beror väldigt mycket på vilket bidrag det gäller.	Jag tror att det beror väldigt mycket på området.	2
+main-forums	answer-answer	Jag har samma sak.	Jag har haft samma problem.	4
+main-forums	answer-answer	Nej det påverkar inte dina betyg.	Nej det är det inte.	0
+main-forums	answer-answer	"Mitt svar på din fråga är ""förmodligen inte""."	Jag tror att det korta svaret på din fråga är: Nej.	4
+main-forums	answer-answer	Jag tror inte att det gör någon jättestor skillnad.	Jag tror inte att det gör så stor skillnad.	4
+main-forums	answer-answer	Det beror på vad de är.	Det beror på vad de utvärderar och hur.	2
+main-forums	answer-answer	Det finns inte mycket du kan göra åt det.	Det finns inte så mycket du kan göra med en surdegsförrätt.	2
+main-forums	answer-answer	Du svarade på din egen fråga.	Du har svarat på din egen fråga.	5
+main-forums	answer-answer	Du måste bara basera ditt svar på vad du vet, vilket är vad du vill.	Svaret på ditt problem är att du faktiskt inte vet vad du får in.	2
+main-forums	answer-answer	Det här är ingen bra idé.	Detta är förmodligen ingen bra idé men jag kommer att föreslå det i alla fall.	2
+main-forums	answer-answer	Det bästa du kan göra är att kunna dina saker.	Min rekommendation är att inte säga något, och gör så gott du kan.	0
+main-forums	answer-answer	Jag skulle säga att det främst beror på två saker:	Jag skulle säga att det beror på vilka förutsättningar du har.	2
+main-forums	answer-answer	Du behöver inte veta.	Du behöver inte göra något för att krydda den.	0
+main-forums	answer-answer	Jag har samma sak.	Jag har samma situation och har rest mycket.	2
+main-forums	answer-answer	Det är ingen bra idé.	Jag tror inte att det är en bra idé.	4
+main-forums	answer-answer	Du är på rätt väg.	Du är på rätt sätt.	4
+main-forums	answer-answer	Detta svarar inte på din fråga, men:	Detta är ett delsvar på din fråga	1
+main-forums	answer-answer	Hur ska jag gå tillväga med detta?	Så hur ska jag göra detta?	4
+main-forums	answer-answer	Svarar den här sidan på din fråga?	Svarar detta på dina frågor?	4
+main-forums	answer-answer	Du kan använda den också.	Du kan fortfarande använda den för träning.	2
+main-forums	answer-answer	Det beror verkligen på hur arbetsgivaren dokumenterar det.	Det beror på hur du uttrycker det.	2
+main-forums	answer-answer	Jag har haft samma problem.	Jag hade det här problemet när jag jobbade på en pub.	2
+main-forums	answer-answer	Du behöver läsa mycket för att veta vad du gillar och vad du inte gillar.	Du bör berätta en bra historia och ibland måste du justera verkligheten/historien för att göra det.	0
+main-forums	answer-answer	Det beror på vad du vill göra härnäst och var du vill göra det.	Det beror på vad du vill kunna göra.	3
+main-forums	answer-answer	Ja, du måste lämna in en skattedeklaration i Kanada.	Du behöver inte lämna in en skattedeklaration i Kanada om du inte har någon skattepliktig inkomst.	1
+main-forums	answer-answer	Jag förstår inte varför det skulle vara några som helst problem med detta.	Jag förstår inte varför det skulle vara ett problem.	5
+main-forums	answer-answer	Hoppas detta är vad du letar efter.	Om det du letar efter är mycket högre får de bilden.	1
+main-forums	answer-answer	Det bästa du kan göra är att kunna dina saker.	Det bästa man kan göra är att övervinna krånglet.	0
+main-forums	answer-answer	Det beror på rätten och hur mottaglig den är i det skede du gör misstaget.	Det beror på såsen och vilket resultat du vill ha.	2
+main-forums	answer-answer	Du måste bara basera ditt svar på vad du vet, vilket är vad du vill.	Du måste göra det som är rätt för dig.	2
+main-forums	answer-answer	FÖRMODLIGEN har du ingen chans just nu.	"Säger ""tack, jag har inga frågor just nu."""	0
+main-forums	answer-answer	Det spelar verkligen ingen roll.	Det spelar ingen roll om det inte är riktigt långt borta.	3
+main-forums	answer-answer	Du behöver inte veta allt.	Du behöver inte veta.	3
+main-forums	answer-answer	Jag tror att du letar efter Mikey (1992).	Jag tror att du letar efter filmen	3
+main-forums	answer-answer	Det gör absolut INGEN skillnad.	Nej, det gör ingen skillnad.	5
+main-forums	answer-answer	Jag tycker att det är bra att ställa den här frågan.	Jag tycker att det är okej att ställa frågan.	5
+main-forums	answer-answer	Jag kommer att vara väldigt direkt här.	Jag ska vara rakt på sak, här: Det gör du inte.	4
+main-forums	answer-answer	Du måste bara basera ditt svar på vad du vet, vilket är vad du vill.	Ja, du kan göra precis vad du vill.	1
+main-forums	answer-answer	Du borde göra det.	Du bör prima den först.	0
+main-forums	answer-answer	Det finns inte mycket du kan göra åt det.	Jag är rädd att det inte finns så mycket du kan göra.	5
+main-forums	answer-answer	Vad är det för isolering?	Vilken typ av golv finns ovanför?	0
+main-forums	answer-answer	Det beror helt på ditt företag och ditt kontrakt.	Jag antar att det beror på typen av ditt kontrakt.	4
+main-forums	answer-answer	Du svarade på din egen fråga.	Du har redan svarat på din egen fråga.	5
+main-forums	answer-answer	Jag tror inte att det finns någon.	Jag tror inte att det finns någon universell term.	3
+main-forums	answer-answer	Det finns några saker du kan göra:	Det finns några minimalt effektiva saker du kan göra på personlig nivå.	3
+main-forums	answer-answer	Detta är det tips jag tycker är mest användbart:	Något sånt här är användbart:	3
+main-forums	answer-answer	Det är vad jag tror.	Ja, jag tror att det är en bra idé.	2
+main-forums	answer-answer	Om du inte är säker på hur du gör det, gör det inte alls.	Om inte, gör inte det och spendera den tiden med något du gillar att göra.	1
+main-forums	answer-answer	Allt sitter i hennes huvud.	Allt handlar om vidhäftning.	0
+main-forums	answer-answer	Om du inte är säker på hur du gör det, gör det inte alls.	Om du inte har en mycket stark vetenskaplig anledning att göra det, gör det inte.	2
+main-forums	answer-answer	Du behöver läsa mycket för att veta vad du gillar och vad du inte gillar.	Du måste veta vad du vill göra.	0
+main-forums	answer-answer	Jag skulle säga att du kan göra det, men det skulle inte rekommenderas.	Personligen skulle jag säga inte om det inte passar dig.	2
+main-forums	answer-answer	Kan du göra det här?	Kan du göra det?	5
+main-forums	answer-answer	Visst, jag har gjort just den här resan.	Jag har gjort det här många dussintals gånger.	3
+main-forums	answer-answer	Du kan använda den också.	Du kan göra det också.	3
+main-forums	answer-answer	Hur gör man det?	Hur gör man det?	5
+main-forums	answer-answer	Jag har hittat en artikel som kan vara till hjälp: http://www.dsattorney.com/qa-pseudonyms-in-contracts/	Jag hittade en länk som kan vara till hjälp för dig:	3
+main-forums	answer-answer	Jag skulle säga att du kan göra det, men det skulle inte rekommenderas.	Jag skulle säga att det är omöjligt att veta, så riskera inte det.	2
+main-forums	answer-answer	Tyvärr är svaret på din fråga att vi helt enkelt inte vet.	Svaret på din fråga är inte riktigt.	1
+main-forums	answer-answer	Om du inte är säker på hur du gör det, gör det inte alls.	Det gör du inte, det kommer inte att fungera.	1
+main-forums	answer-answer	Det är också en smaksak.	Det är definitivt bara en fråga om preferenser.	5
+main-forums	answer-answer	Det är ingen bra idé.	Det är en bra idé att göra båda.	1
+main-forums	answer-answer	Det här svaret är baserat på min erfarenhet av att undervisa i matematik i grundutbildningen i USA.	Det här svaret är baserat på erfarenheter som jag inte undersökte för referenser.	2
+main-forums	answer-answer	Det finns några saker jag tycker du bör göra.	Det finns en hel del saker du skulle behöva göra;	4
+main-forums	answer-answer	Du kommer att vilja rengöra området först.	Du vill också ta bort fröna.	0
+main-forums	answer-answer	Det beror på vad du vill ha i din tank.	Det beror på vad du vill uppnå.	2
+main-forums	answer-answer	Det finns ett par alternativ som du kan överväga:	Det finns många sätt som kan gå dåligt för dig.	1
+main-forums	answer-answer	Du behöver inte oroa dig.	Eftersom du har en biljett behöver du inte oroa dig.	3
+main-forums	answer-answer	Vietnamesiska medborgare behöver visum för att besöka USA.	Nepalesiska medborgare behöver visum för att besöka Storbritannien.	1
+main-forums	answer-answer	Det beror på hur det används.	Det beror på hur länge det har varit ute.	1
+main-forums	answer-answer	Jag förstår inte varför det skulle vara några som helst problem med detta.	Jag förstår inte varför detta skulle kunna vara ett problem.	5
+main-forums	answer-answer	Det finns inte mycket du kan göra åt det.	Jag tror verkligen inte att det finns så mycket du kan göra åt det.	5
+main-forums	answer-answer	Du har förstått rätt.	Ja du fick det.	5
+main-forums	answer-answer	Du måste bara basera ditt svar på vad du vet, vilket är vad du vill.	Kom ihåg att det är din examen vi pratar om, det är upp till dig vad du vill göra.	0
+main-forums	answer-answer	Hur gör man det?	Hur ska man göra det?	4
+main-forums	answer-answer	Jag var i en liknande situation.	Jag är i en liknande situation.	4
+main-forums	answer-answer	Vad är ditt lock gjort av?	Vad är ditt papper till för?	0
+main-forums	answer-answer	Du behöver inget visum.	Du behöver inte sås  alls.	0
+main-forums	answer-answer	Det är ditt problem, inte din handledares.	Arbeta med din handledare och ditt team för att lösa problemet.	2
+main-forums	answer-answer	Det beror på vad du vill göra härnäst och var du vill göra det.	Det är upp till dig vad du vill göra härnäst.	4
+main-forums	answer-answer	Det finns två saker att tänka på:	Ett par saker att tänka på:	5
+main-forums	answer-answer	Det beror helt på ditt företag och ditt kontrakt.	Det beror på ditt företag.	3
+main-forums	answer-answer	Träet är förmodligen inte ruttet, det är bara utslitet.	Den är bara utsliten och inte säker.	3
+main-forums	answer-answer	Tja, jag skulle inte lägga det på mitt cv.	Jag skulle inte sätta det här jobbet på mitt CV.	4
+main-forums	answer-answer	Det här är en jättebra...	Det här är svårt.	1
+main-forums	answer-answer	Svaret på båda frågorna är: Ja.	För att direkt svara på de två frågorna i din titel.	0
+main-forums	answer-answer	Ja, det finns en anledning att inte göra det du föreslår.	Giltiga skäl att känna som du gör, men inte en anledning att säga upp sig.	2
+main-forums	answer-answer	Jag tror att det beror på programmet.	Det beror på hur termen används tror jag.	2
+main-forums	answer-answer	Kan du göra det här?	Så, KAN du göra detta?	5
+main-forums	answer-answer	Jag tror att det inte finns något generellt svar.	Jag tror inte att det finns något svar på detta.	4
+main-forums	answer-answer	Det finns några saker du kan göra:	Det finns ett par saker du kan prova.	5
+main-forums	answer-answer	Nyckeln är att du måste hitta något som fungerar för dig och dina mål.	Du kanske vill ha det, men processen som ges till dig är vad du måste arbeta inom.	1
+main-forums	answer-answer	Du behöver inte veta.	Du har ingen utrustning/anläggningar för att forska i B.	0
+main-forums	answer-answer	Jag tror att du i stort sett har gjort din recension.	Du har i stort sett svarat på din egen fråga.	2
+main-forums	answer-answer	Det finns några saker jag tycker du bör göra.	Det finns några saker jag inte förstår:	0
+main-forums	answer-answer	Du bränner mer kalorier genom att smälta protein än du gör med kolhydrater och fett.	Ju mer du svettas, desto snabbare bränner du kalorier och fett.	2
+main-forums	answer-answer	Det beror på vad du vill göra härnäst och var du vill göra det.	Det beror på vad du vill säga/antyda.	1
+main-forums	answer-answer	Du har förstått rätt.	Du har förstått det rätt.	5
+main-forums	answer-answer	Du svarade på din egen fråga.	Du svarade ganska mycket på din egen fråga.	5
+main-forums	answer-answer	Jag har samma sak.	Jag hade samma problem som du.	3
+main-forums	answer-answer	Ja, det finns en kemisk skillnad.	Ja, det finns en anledning till det.	0
+main-forums	answer-answer	De kan vara lite ur nivå, men platt är viktigt.	Ja, fast de kan vara lite sura.	0
+main-forums	answer-answer	Jag skulle titta på detta: USA	Jag skulle se på så här:	2
+main-forums	answer-answer	Du är på rätt väg.	Du är på rätt väg.	5
+main-forums	answer-answer	Om du inte har det borde du göra det.	Du borde, men du behöver inte.	1
+main-forums	answer-answer	Ja det är vanligt!	Det enkla svaret är ja!	3
+main-forums	answer-answer	Jag tror inte att det finns någon.	Jag tror inte att det finns några fördelar.	3
+main-forums	answer-answer	Det ser ut som att det här är inställt för vad du vill ha:	Det är upp till dig om du vill göra det.	2
+main-forums	answer-answer	Problemet är att systemet inte tar hänsyn till personer som bryr sig mindre om pengar eller titel.	Jokern bryr sig inte om pengar.	1
+main-forums	answer-answer	I det första fallet tror jag att du inte behöver det.	Så jag tror inte att du behöver sätta den på omslaget.	1
+main-forums	answer-answer	Det är omöjligt att svara på denna fråga utan en blankettkontroll.	Det är svårt, för att inte säga omöjligt, att ge ett fullständigt svar på denna fråga.	2
+main-forums	answer-answer	Du måste lägga till detta i ditt CV eftersom det är den enda tjänst du har haft.	Detta ger dig möjligheten att hävda att du verkligen har expertis inom XXX.	2
+main-forums	answer-answer	Arbeta långsamt in i det.	Du jobbar långsamt på det.	4
+main-forums	answer-answer	Nej, du BEHÖVER ingen brödmaskin.	Du behöver inte oroa dig.	0
+main-forums	answer-answer	Ja, det är möjligt att publicera en artikel om modellanalys.	Ja, det är svårt att publicera i en peer reviewed tidskrift.	1
+main-forums	answer-answer	Du måste bara basera ditt svar på vad du vet, vilket är vad du vill.	Så om det är vad du behöver, måste du verkligen vara tydlig med det.	1
+main-forums	answer-answer	Ja, du bör nämna din erfarenhet.	Ja, du borde göra en meritförteckning.	2
+main-forums	answer-answer	Jag tycker att det är jättebra att du gjorde ett test.	Jag tycker att det är en bra plan.	2
+main-forums	answer-answer	Du behöver inte veta.	Utöver det har du inget skatteproblem.	0
+main-forums	answer-answer	Ja, det finns en regel mot detta.	Det finns ingen regel mot det.	1
+main-forums	answer-answer	Vilka är dina mål?	Vad har du för mål?	5
+main-forums	answer-answer	Jag ska ge mig ut här...	Jag kommer att vara väldigt direkt här.	2
+main-forums	answer-answer	Om ditt långtidsvisum för Schweiz är giltigt behöver du inget transitvisum.	Du behöver inget transitvisum, men för att komma in i Zürich behöver du ett visum.	2
+main-forums	answer-answer	Några fler saker att tänka på:	Några saker att tänka på:	5
+main-forums	answer-answer	Nu behöver du inte vara perfekt på varje svar.	Du behöver inte veta.	2
+main-forums	answer-answer	Jag är rädd att vi har otur i det här.	Jag tror att det här är en av de saker där du bara har otur.	5
+main-forums	answer-answer	Det är mer att bestämma vad du ska göra och vad du ska få andra att göra.	Poängen är: vet vad du vill och var inte rädd för att be om det.	0
+main-forums	answer-answer	Det varierar beroende på situation.	Detta varierar beroende på institution.	4
+main-forums	answer-answer	Jag har samma sak.	Jag har samma problem.	4
+main-forums	answer-answer	Jag har samma sak.	Jag har exakt samma problem.	4
+main-forums	answer-answer	Du är på rätt väg.	Du har rätt angående exempeldefinitionen.	0
+main-forums	answer-answer	Primer/lack fungerar inte.	Nej det kommer inte att fungera.	2
+main-forums	answer-answer	Det bästa du kan göra är att kunna dina saker.	Det bästa du kan göra är att hitta något annat intressant att göra medan du väntar.	2
+main-forums	answer-answer	Det är också en smaksak.	Det är mest en smaksak.	5
+main-forums	answer-answer	Jag var i en liknande situation.	Personligen när jag var i en liknande situation skickade jag paret ett kort och en present.	2
+main-forums	answer-answer	Du kan använda den också.	Ja, du kan göra det.	3
+main-forums	answer-answer	Du måste bestämma dig för vad du vill få ut av det här.	Du måste ta reda på vad som fungerar för dig.	4
+main-forums	answer-answer	Det beror på vad de är.	Det beror på hur det används.	1
+main-forums	answer-answer	Jag hade samma problem som du.	Jag har precis haft samma problem.	5
+main-forums	answer-answer	Någon gång om du verkligen vill ha det kan du behöva betala en byrå för att få platsen åt dig.	Du kan förmodligen få en resebyrå att göra det åt dig, men det skulle kosta dig.	2
+main-forums	answer-answer	Du behöver inte veta allt.	De vill bara inte att du ska veta det.	1
+main-forums	answer-answer	Det är också användbart att behålla följdriktigheten i din berättelse.	Det är viktigt att hålla berättelsen inom ramen för din gräns.	2
+main-forums	answer-answer	Jag tror att det bara är en vana.	Jag tycker att det är en dålig idé.	1
+main-forums	answer-answer	Det är ingen bra idé.	Nej, det är inte bra.	4
+main-forums	answer-answer	Jag tycker att det är en dålig idé.	Jag tycker att det är en dålig idé.	5
+main-forums	answer-answer	Det beror på vad du vill göra härnäst och var du vill göra det.	Du måste välja hur och var du vill placera din fot och göra det.	1
+main-forums	answer-answer	Du har ett problem.	Detta är ett stort problem.	4
+main-forums	answer-answer	Tyvärr är svaret på din fråga att vi helt enkelt inte vet.	Om samtalet inte handlar om arbete vet du vad svaret är på din egen fråga.	2
+main-forums	answer-answer	Tyvärr kan denna fråga inte besvaras i sin fulla allmänhet.	Detta kan inte besvaras generellt.	4
+main-forums	answer-answer	Jag skulle personligen akta mig för den brokiga dåren.	Jag skulle rekommendera att titta på The Motley Fool.	2
+main-forums	answer-answer	Jag tror att det inte finns något generellt svar.	Jag tror inte att det finns en enda definition.	4
+main-forums	answer-answer	Det är ingen bra idé.	Inte en bra idé.	5
+main-forums	answer-answer	Du behöver inget visum.	Du behöver inte oroa dig.	0
+main-forums	answer-answer	Du måste bestämma dig för vad du vill få ut av det här.	Du kommer förmodligen att behöva läsa olika bloggar för att få all information du vill ha.	0
+main-forums	answer-answer	Jag hade samma problem som du.	Jag har exakt samma problem.	5
+main-forums	answer-answer	"Mitt svar på din fråga är ""förmodligen inte""."	Svaret på din fråga är inte riktigt.	4
+main-forums	answer-answer	Du borde göra det.	Du ska aldrig göra det.	1
+main-forums	answer-answer	Jag hade samma problem som du.	Jag hade samma problem.	4
+main-forums	answer-answer	Hoppas detta är vad du letar efter.	Är det sånt här du letar efter?	4
+main-forums	answer-answer	Det finns två saker att tänka på:	Jag tror att det finns två viktiga saker att tänka på:	5
+main-forums	answer-answer	Det är ganska mycket upp till dig.	Det är upp till dig.	5
+main-forums	answer-answer	Det finns några saker du kan göra:	Det finns några saker du måste tänka på:	4
+main-forums	answer-answer	Svaret på denna och alla liknande frågor är i två steg:	Svaret på båda frågorna är: Ja.	1
+main-forums	answer-answer	Det är omöjligt att svara på denna fråga utan en blankettkontroll.	Detta är ett delsvar på din fråga	0
+main-forums	answer-answer	Det finns några saker du kan göra:	Det finns några saker jag tycker du bör göra.	3
+main-forums	answer-answer	Det beror på vad du vill göra härnäst och var du vill göra det.	Det beror på vad och var du ska göra.	4
+main-forums	answer-answer	Det finns några möjliga orsaker.	Det finns några anledningar till att måla veck.	3
+main-forums	answer-answer	Det finns tre alternativ:	Det finns bara tre alternativ:	5
+main-forums	answer-answer	Så tänk på det här sättet.	Tänk på det så här.	5
+main-forums	answer-answer	Kanske kan detta fungera för dig.	Kanske kan detta fungera för dig.	5
+main-forums	answer-answer	Det beror på vad du vill göra härnäst och var du vill göra det.	De kan, men sättet att göra det beror på vad du har tillgängligt.	1
+main-forums	answer-answer	Mikrovågsugn skulle vara din bästa insats.	Din bästa insats är forskning.	0
+main-forums	answer-answer	I USA kommer det att bero på skolan.	Detta beror på universitetet.	4
+main-forums	answer-answer	Det är ingen bra idé.	Det är inte bara en bra idé, det är en utmärkt idé.	1
+main-forums	answer-answer	Det finns några saker jag tycker du bör göra.	Det finns några minimalt effektiva saker du kan göra på personlig nivå.	4
+main-forums	answer-answer	Jag har haft samma problem.	Jag hade samma situation.	3
+main-forums	answer-answer	Det här är ingen bra idé.	Inte en bra idé.	5
+main-forums	answer-answer	Jag insåg att det redan finns ett accepterat svar men jag tror att jag skulle lägga till mina 2 cent.	Jag vet att detta är en gammal fråga men jag känner att jag borde lägga till mina 2 cent.	5
+main-forums	answer-answer	Ja, det finns en anledning att inte göra det du föreslår.	Ja, det finns en kemisk skillnad.	0
+main-forums	answer-answer	Ja, det finns åtminstone en såvitt jag vet.	Såvitt jag vet finns det inget tidskrav.	1
+main-forums	answer-answer	Du behöver inte oroa dig.	Du behöver inte göra något för att krydda den.	0
+main-forums	answer-answer	Det finns inget test som kan säga om det är förseglat eller inte.	Det finns ingen kod som säger att du inte kan göra detta.	0
+main-forums	answer-answer	Ja, du borde göra en meritförteckning.	Ja, du borde prata med din professor.	0
+main-forums	answer-answer	Du ska inte känna någon skyldighet alls.	Du behöver inte alls sås.	0
+main-forums	answer-answer	Jag har haft samma problem.	Jag hade det här problemet förut.	4
+main-forums	answer-answer	Du kanske måste experimentera och hitta det du gillar.	Du måste ta reda på vad som fungerar för dig.	5
+main-forums	answer-answer	"Mitt svar på din fråga är ""förmodligen inte""."	Detta är ett delsvar på din fråga	1
+main-forums	answer-answer	Det viktigaste att inse här är att det inte är din uppgift att få människor att göra sitt arbete.	Det är verkligen inte ditt problem hur de ska hitta en kvalificerad person att göra jobbet.	1
+main-forums	answer-answer	Inget direkt svar på frågan, men något att tänka på.	Inget riktigt svar på din fråga, men det kanske hjälper.	4
+main-forums	answer-answer	Det finns två möjliga orsaker till detta:	Det finns två alternativ för dig -	1
+main-forums	answer-answer	Jag håller med de andra kommentarerna.	Jag håller med de tidigare kommentarerna.	5
+main-forums	answer-answer	Svaret på båda frågorna är: Ja.	Om svaret på någon av dessa frågor är ja, kan en doktorsexamen vara värt besväret för dig.	3
+main-forums	answer-answer	Det beror snarare på vilket land du är i.	Det beror på vilket land du befinner dig i.	5
+main-forums	answer-answer	Det här är en hemsk idé.	Det här är en dålig idé.	5
+main-news	MSRpar	Vivendi-aktien stängde 1,9 procent till 15,80 euro i Paris efter att ha fallit 3,6 procent på måndagen.	I New York sjönk Vivendi-aktien med 1,4 procent till 18,29 dollar.	1.400
+main-news	MSRpar	Bremer sa att ett initiativ är att lansera ett nationellt program på 70 miljoner USD under de kommande två veckorna för att städa upp stadsdelar och bygga samhällsprojekt.	Bremer sa att han skulle lansera ett program på 70 miljoner dollar under de kommande två veckorna för att städa upp stadsdelar över hela Irak och bygga samhällsprojekt, men gav inga detaljer.	3.600
+main-news	MSRpar	Guvernör Gray Davis uppskattade i går att bränderna kunde kosta nästan 2 miljarder dollar.	Statliga tjänstemän uppskattade kostnaden till nästan 2 miljarder dollar.	3.500
+main-news	MSRpar	American Express Corp. har utlovat minst 3 miljoner dollar av mer än 5 miljoner dollar som behövs.	Staden hade begärt federala medel, men drog tillbaka den begäran när American Express utlovade minst 3 miljoner dollar.	3.200
+main-news	MSRpar	Claudette, den första orkanen under den atlantiska stormsäsongen, drabbade mitten av Texas kust den 15 juli med en vind på 85 mph.	Claudette, den första orkanen under den atlantiska stormsäsongen, drabbade mitten av Texas kust den 15 juli, klassad som en kategori 1-orkan med maximala ihållande vindar på 85 mph.	4.000
+main-news	MSRpar	Resultat från den nummer 2 amerikanska läsktillverkaren PepsiCo Inc. (nyse: PEP - nyheter - människor) var sannolikt i rampljuset.	Wall Street väntade också på att aluminiumtillverkaren Alcoa Inc. (nyse: PEP - nyheter - människor) skulle rapportera resultat efter stängningen.	2.000
+main-news	MSRpar	Taylors medhjälpare varnar för att en abrupt avgång kan utlösa mer kaos, en syn som delas av många i Liberia och, privat, även av medlare.	Hans medhjälpare varnar för att en abrupt avgång kan utlösa mer blodsutgjutelse, en uppfattning som delas av många i Liberia.	3.600
+main-news	MSRpar	Men Odette är den första som bildas över Karibiska havet i december, sa centret.	Det är den första namngivna stormen som utvecklades i Karibien i december.	4.200
+main-news	MSRpar	AFL-CIO väntar till oktober för att besluta om den kommer att godkänna en kandidat.	AFL-CIO meddelade på onsdagen att de kommer att besluta i oktober om de ska godkänna en kandidat före primärvalet.	4.000
+main-news	MSRpar	Den utvecklades med samråd från mer än 300 ledare inom akademi, industri, myndigheter och allmänheten.	Planen, kallad The NIH Roadmap, utvecklades under 14 månader med hjälp av mer än 300 konsulter inom industri och akademi.	3.250
+main-news	MSRpar	Lokala polismyndigheter behandlar explosionen som ett brott och ingenting är uteslutet.	Tillförordnad New Haven-polischef Francisco Ortiz sa att polisen behandlade explosionen som ett brottsligt ärende.	3.400
+main-news	MSRpar	Chiron har redan nästan 20 procents acceptans från PowderJects aktieägare.	Chiron har accepter från innehavare av nästan 20 procent av PowderJect-aktierna.	3.667
+main-news	MSRpar	"""Vi tror att vi är fullt förberedda att rulla ut [pekskärms]-maskinerna för presidentvalet 2004"", säger Gilles W. Burger, ordförande för statliga valstyrelsen."	"""Vi tror att vi är fullt beredda att rulla ut de reviderade Diebold-maskinerna"", säger Gilles W. Burger, ordförande för Maryland State of Elections."	3.750
+main-news	MSRpar	Analytiker förväntade sig en vinst på 27 cent per andel på intäkter på 17,7 miljarder dollar, säger Thomson First Call.	Hewlett-Packard satsar på en vinst för andra kvartalet på 659 miljoner dollar, eller 29 cent per aktie, på en omsättning på 18 miljarder dollar.	1.200
+main-news	MSRpar	En annan var i allvarligt tillstånd vid Northwest Medical Center i Springdale.	Vid Northwest Medical Center i Washington County i Springdale är ett barn i allvarligt tillstånd.	3.800
+main-news	MSRpar	Sean Harrigan, ordförande för California Public Employees' Retirement System, föreslog också att man skulle skära ner NYSE:s styrelse med 27 medlemmar, ändra dess sammansättning och göra den mer ansvarsfull.	Sean Harrigan, ordförande för California Public Employees' Retirement System, föreslog också att NYSE:s styrelse med 27 ledamöter skulle skäras ner och att tilldela fler platser till investerare utanför värdepappersbranschen.	3.400
+main-news	MSRpar	Den svenska centralbanken träffades också på onsdagen och förväntas allmänt meddela en sänkning på torsdagen.	Den svenska centralbanken, som också träffas på onsdag, väntas allmänt meddela en sänkning på torsdagen med så mycket som en halv procentenhet.	3.200
+main-news	MSRpar	Hans Chevrolet Tahoe från 1996 hittades övergiven på en parkeringsplats i Virginia Beach, Virginia den 25 juni.	Hans sportfordon hittades den 25 juni, övergivet utan sina registreringsskyltar i Virginia Beach, Va.	3.600
+main-news	MSRpar	Heatley var sexa i ligan i mål förra säsongen med 41 och nionde i poäng med 89.	Heatley ledde Atlanta i mål förra säsongen med ett lagrekord på 41 mål och 48 assist.	3.000
+main-news	MSRpar	"""Tony mår inte bra"", sa Spurs tränare Gregg Popovich."	Vi är stolta över att vara uppe på 3-2, sa tränaren Gregg Popovich på onsdagen.	1.600
+main-news	MSRpar	Electronic Data Systems Corp. torsdagen sade att Securities and Exchange Commission har bett företaget om dokument relaterade till dess stora kontrakt med US Navy.	I en regulatorisk ansökan sa EDS att SEC hade bett om information relaterad till dess problematiska IT-outsourcingkontrakt med US Navy.	3.200
+main-news	MSRpar	Förutom delfinplanen har kaoset gjort det möjligt för utländska företag att engagera sig i skadlig avverkning och fiske utan ordentlig övervakning eller exportkontroll.	Internt kaos har gjort det möjligt för utländska företag att starta skadlig kommersiell avverkning och fiske utan ordentlig övervakning eller exportkontroll.	3.800
+main-news	MSRpar	Nästa rättegångssammanträde blir när tredomartribunalen meddelar sin dom i mitten av februari.	Domstolens tribunal med tre domare förväntades ge sin dom nästa februari.	4.200
+main-news	MSRpar	Konsensus bland Wall Street-analytiker var en förlust på 28 cent per aktie.	Analytiker som undersöktes av First Call förväntade sig en försäljning på 723 miljoner dollar och en förlust på 28 cent per aktie.	3.000
+main-news	MSRpar	Den civila arbetslösheten förbättrades marginellt förra månaden – sjunkande till 6,1 procent – även när företag minskade lönesumman med 93 000.	Den civila arbetslösheten förbättrades marginellt förra månaden _ och sjönk ner till 6,1 procent _ då företag minskade lönesumman med 93 000 bland fortsatta blandade signaler om landets ekonomiska hälsa.	4.000
+main-news	MSRpar	Moffitt sa att resultaten måste replikeras i en annan studie innan testning av individer för närvaron av de långa eller korta versionerna av genen kommer att genomföras.	Professor Moffitt sa att resultaten behövde replikeras innan man fortsätter att testa individer för närvaron av de långa eller korta versionerna av genen.	4.750
+main-news	MSRpar	Ersättningskommittén kommer att förbjuda värdepappersbranschens direktörer att sitta i den.	Börsen sa också att dess ersättningskommitté på fem personer endast kommer att bestå av direktörer utanför värdepappersbranschen.	3.533
+main-news	MSRpar	F: Kan jag köpa täckning för receptbelagda läkemedel direkt?	Kongressen har lagt till en ny förmån - en möjlighet att köpa försäkringsskydd för receptbelagda läkemedel.	1.250
+main-news	MSRpar	Aktierna i Mandalay stängde åtta cent till 29,42 dollar, innan vinsten tillkännagavs.	Mandalays aktier stängde ned 8 cent till 29,42 USD på torsdagen.	4.000
+main-news	MSRpar	1999 utfärdade byggnadens ägare, hamnmyndigheten i New York och New Jersey, riktlinjer för att uppgradera brandskyddet till en tjocklek av 1{ tum.	NIST upptäckte att hamnmyndigheten 1999 utfärdade riktlinjer för att uppgradera brandskyddet till en tjocklek av 1 1/2 tum.	3.000
+main-news	MSRpar	Dollarn låg senast på 1,1149 dollar mot euron, nära sin starkaste nivå sedan 30 april.	Dollarn pressade så högt som $1,1115 till euron i tidig handel, vilket utökade tisdagens enprocentsrally till att nå sin starkaste nivå sedan den 30 april.	2.600
+main-news	MSRpar	Den gemensamma valutan steg så långt som 135,13 yen, vilket motsvarar en rekordhög hit kort efter eurons lansering i januari 1999.	Den gemensamma valutan steg så långt som 135,26 yen, den högsta nivån sedan införandet av den gemensamma valutan i januari 1999.	3.500
+main-news	MSRpar	En kvinna i New Castle County har blivit den första patienten i Delaware som drabbats av West Nile-viruset i år, rapporterade statens hälsodepartement.	En 62-årig man från West Babylon har fått West Nile-viruset, det första mänskliga fallet i Suffolk County i år, enligt länets hälsoavdelning.	1.500
+main-news	MSRpar	Han bekräftade också sin önskan att lösa den nordkoreanska kärnvapenkrisen på ett fredligt sätt.	Men den nordkoreanska kärnkraftskrisen har dominerat hans tid i ämbetet.	2.000
+main-news	MSRpar	En rebell som tillfångatogs sa att mer än 2 000 rebeller var inblandade i attacken.	En tillfångatagen rebell sa att 2 100 kombattanter hade varit inblandade i offensiven.	3.500
+main-news	MSRpar	Kyi, säger ett FN-sändebud, när Japan bidrar till det växande internationella trycket genom att säga att det kommer att stoppa sitt rejäla ekonomiska bistånd om inte Suu Kyi friges.	JAPAN bidrog till det växande internationella trycket på Burma i går och hotade att stoppa dess rejäla ekonomiska bistånd om inte militärregeringen släppte den prodemokratiska ledaren Aung San Suu Kyi.	3.000
+main-news	MSRpar	Wal-Mart, Kohl's Corp., Family Dollar Stores Inc. och Big Lots Inc. var bland handlarna som publicerade försäljningen i maj som föll under Wall Streets blygsamma förväntningar.	Wal-Mart, Kohl's Corp., Family Dollar Stores Inc. och Big Lots Inc. hade en försäljning i maj som föll under Wall Streets blygsamma förväntningar.	4.750
+main-news	MSRpar	"Mr Eddington varnade i går att flygbolagets framtid är ""i händerna på förhandlarna""."	"""Framtiden för BA ligger i händerna på förhandlarna"", sa Eddington till British Broadcasting Corp. på söndagen."	3.400
+main-news	MSRpar	"""Båda dessa barn är i underbar fysisk form just nu"", sa han under en pressträff på sjukhuset."	"""Båda dessa barn är i underbar fysisk form just nu"", säger Goodrich, även chef för pediatrisk neurokirurgi vid barnsjukhuset i Montefiore."	3.400
+main-news	MSRpar	På cellens yta känns de främmande komponenterna igen av andra celler som sedan inser att den är infekterad och dödar den.	De främmande bitarna känns igen av andra celler som inser att den är infekterad och dödar den.	4.250
+main-news	MSRpar	Handeln med Loral stoppades igår; aktierna stängde på måndagen på $3,01.	New York-börsen avbröt handeln i Loral igår, som stängde på 3,01 dollar i fredags.	3.800
+main-news	MSRpar	Knox County Health Department följer nationella Centers for Disease Control and Prevention Protocol för att förhindra infektion.	Talesmannen för hälsoavdelningen tillade att avdelningen följer protokollet för Centers for Disease Control.	3.000
+main-news	MSRpar	"Skolkansler Joel Klein sa att strävan efter högre standarder och ansvarsskyldighet ""visar resultat."""	Skolkansler Joel Klein sa att han var nöjd med resultaten.	3.000
+main-news	MSRpar	Ett vittne berättade för Anatolian att han såg planet brinna medan det fortfarande var i luften.	Ett vittne berättade för den anatoliska nyhetsbyrån att han såg planet brinna i luften.	4.600
+main-news	MSRpar	Han föreslog ett system enligt vilket det skulle krävas färre och färre röster för att övervinna en filibuster.	Frist föreslog en process där det skulle krävas gradvis färre röster för att övervinna filibusters som förhindrar slutliga omröstningar om rättsliga bekräftelser.	3.000
+main-news	MSRpar	Hormonersättningsterapi som kombinerar östrogen och gestagen fördubblar en kvinnas risk för bröstcancer, har en brittisk studie av mer än en miljon kvinnor funnit.	En stor brittisk studie har lagt till bevisen att hormonbehandling ökar risken för bröstcancer, särskilt när kvinnor får en kombination av östrogen och gestagen.	4.250
+main-news	MSRpar	Barbinis kommentarer kom i tisdags, den andra dagen av ministerkonferensen och utställningen om jordbruksvetenskap och -teknik.	USA:s jordbruksminister Ann Veneman inleder den tre dagar långa ministerkonferensen och utställningen om jordbruksvetenskap och teknologi på måndag.	1.800
+main-news	MSRpar	Igår stängde aktierna upp 29 cent, eller 0,54 procent, till 54,32 dollar.	Amazons aktier stängde i går på 54,32 dollar på Nasdaq-börsen, upp 29 cent.	2.800
+main-news	MSRpar	Lawtey är inte det första trosbaserade programmet i Floridas fängelsesystem.	Men Lawtey är det första hela fängelset som tar den vägen.	1.250
+main-news	MSRpar	Transaktionen kommer att ge Handsprings aktieägare 0,09 av en aktie i Palm - och inga aktier i PalmSource - för varje aktie i Handsprings stamaktie.	Enligt de föreslagna villkoren för transaktionen, och efter avknoppningen av PalmSource, kommer Palm att byta ut 0,09 aktier för varje aktie i Handspring.	3.750
+main-news	MSRpar	Den gigantiska stenen observerades första gången den 24 augusti av Lincoln Near-Earth Asteroid Research Program, baserat i Socorro, New Mexico.	Stenen observerades först av Lincoln Near Earth Asteroid Research Program, även känd som LINEAR.	3.750
+main-news	MSRpar	"""Vi måste ändra gamla vanor och seriöst tänka om business-as-usual."""	"Han uppmanade anställda att ""undvika självbelåtenhet"" och att ""ändra gamla vanor och allvarligt tänka om ""business as usual""."	3.750
+main-news	MSRpar	"""Dessa avskyvärda handlingar begicks av mördare vars enda tro är hat"", sa Bush och tillade att USA kommer att hitta mördarna."	Dessa avskyvärda handlingar begicks av mördare vars enda tro är hat och USA kommer att hitta mördarna och de kommer att lära sig innebörden av amerikansk rättvisa.	3.500
+main-news	MSRpar	Det finns totalt 659 kvinnor inskrivna vid akademin, sa rapporten.	Det var 659 kvinnor inskrivna vid akademin vid tidpunkten för undersökningen.	4.600
+main-news	MSRpar	Det är en nationell angelägenhet som kommer att beröra praktiskt taget alla amerikaner, säger Abraham.	"Effekterna av naturgasbrist ""kommer att beröra praktiskt taget alla amerikaner"", varnade energiminister Spencer Abraham i går."	3.250
+main-news	MSRpar	I USA röker 20,7 procent av alla kvinnor.	Nevada är där flest kvinnor röker, 28 procent.	1.333
+main-news	MSRpar	Den har en felmarginal på plus eller minus 4 procentenheter.	Den undersökningen hade 712 sannolika väljare och ett urvalsfel på plus eller minus 3,7 procentenheter.	2.500
+main-news	MSRpar	Aktien i MONY steg 2,57 USD, eller 9 %, till 31,90 USD i efterhandel på Instinet.	MONY-aktien steg 8,76 procent till 31,90 USD i efterhandel i New York.	3.250
+main-news	MSRpar	Diana var på sin lägsta nivå när hon skrev brevet till Paul Burrell och hävdade att det fanns en komplott för att döda henne.	Burrell sa att Diana skrev ett brev i oktober 1996 och hävdade att det fanns en komplott för att döda henne i en smäll och gav honom det som försäkring.	3.000
+main-news	MSRpar	Gillespie skickade ett brev till CBS president Leslie Moonves och bad om en historisk granskning eller en ansvarsfriskrivning.	Den republikanska nationella kommitténs ordförande Ed Gillespie utfärdade ett brev på fredagen till CBS Televisions president Leslie Moonves.	3.600
+main-news	MSRpar	"""Låt oss visa att vi inte släpper dem"", sa Marc Blondel, ledare för Force Ouvrière-facket."	"""Rörelsen för att försvara pensioner tar fart, och vi kommer inte att ge upp"", säger Marc Blondel, ledare för Force Ouvrière-facket."	2.200
+main-news	MSRpar	I motsats till vad PeopleSofts ledning skulle få dig att tro, har Oracle för avsikt att stödja PeopleSofts kunder och produkter fullt ut under många år framöver.	"Ellison sa att i motsats till vad PeopleSofts ledning hävdar, har Oracle för avsikt att ""fullständigt stödja PeopleSofts kunder och produkter"" under många år framöver."	4.800
+main-news	MSRpar	Enligt mexikansk lag anses prisjakt vara en form av kidnappning.	Prisjakt är olagligt i Mexiko, och prisjägaren anklagades för kidnappning.	4.000
+main-news	MSRpar	Tillkännagivandena gjordes vid International Broadcasting Convention (IBC) i Amsterdam.	Inlämningen skedde i måndags, men tillkännagivandet gjordes på fredagen vid International Broadcasting Convention i Amsterdam.	3.400
+main-news	MSRpar	Dess nyckelord stöds av kinesiska webbportaler.	Kinesiska webbportaler stöder också 3721 nyckelord, sa webbplatsen.	3.200
+main-news	MSRpar	Konsensusuppskattningen från analytiker tillfrågade av Thomson First Call krävde en vinst på $1,70 per aktie.	Analytiker tillfrågade av Reuters Research, en enhet inom Reuters Group Plc, förutspår i genomsnitt en vinst på 1,69 dollar per aktie.	2.500
+main-news	MSRpar	De första obduktionsrapporterna visar att de dog av uttorkning, hypertermi och kvävning.	Ytterligare två dog senare, och initiala obduktionsrapporter visar att de dukade under för uttorkning, hypotermi och kvävning.	3.250
+main-news	MSRpar	Myndigheterna vädjade till allmänheten på fredagen att träda fram och ge vad som kan vara nyckeln till att lösa skjutningarna i prickskyttestil som har dödat tre personer utanför närbutiker.	Myndigheterna såg till allmänheten i går för att få hjälp med att lösa de dödliga skjutningarna av prickskytteliknande tre personer utanför närbutiker i Charleston-området.	3.800
+main-news	MSRpar	Tvåa kommer HP (27 procent med 2,9 miljarder dollar, en ökning med bara 0,4 procent).	HP föll till andra plats med serverförsäljningen som ökade med 0,4 procent till 2,9 miljarder dollar.	4.400
+main-news	MSRpar	Amerikanska styrkor grep nyligen ett 40-tal misstänkta utländska militanter nära den syriska gränsen och förhör dem nu.	Det tredje pansarkavalleriregementet grep nyligen omkring 40 misstänkta krigare nära den syriska gränsen, sade tjänstemän.	3.500
+main-news	MSRpar	Det kan jämföras med en vinst på 1 miljon dollar, eller att gå jämt upp, på 1,39 miljarder dollar i intäkter under samma period förra året.	De totala intäkterna för andra kvartalet var 1,48 miljarder dollar, en ökning med 7% från 1,39 miljarder dollar samma period förra året.	1.500
+main-news	MSRpar	Bolivias armé kämpade för att stoppa kolonner av demonstranter från att strömma in i den matsvälta huvudstaden på onsdagen när ett folkligt uppror mot presidenten spred sig.	Bolivias armé kämpade för att stoppa en kolonn av dynamitsvingande gruvarbetare från att strömma in i den belägrade huvudstaden på onsdagen, vilket lämnade två döda när ett folkligt uppror mot presidenten spred sig.	2.800
+main-news	MSRpar	A920 kommer med en skrivare, skanner och kopiator för $89.	Dells personliga allt-i-ett A920 är en nybörjarenhet som kombinerar skrivar-, skanner- och kopiatorfunktioner för $89.	3.600
+main-news	MSRpar	Men under de första 30 sekunderna efter att Young gick in i ringen visste familjen att det var en ojämn match, sa Meyers.	Men under de första 30 sekunderna av matchen visste familjemedlemmarna att det var en ojämn match, sa Jodie Meyers, Stacy Youngs syster.	4.200
+main-news	MSRpar	Singapore rapporterade inga misstänkta SARS-fall på onsdagen, men tjänstemän satte 70 personer i karantän som hade kontakt med den taiwanesiska patienten.	Ändå satte Singapore 70 personer i karantän som hade varit i nära kontakt med vetenskapsmannen.	3.000
+main-news	MSRpar	Nedströms vid Mount Vernon förväntades Skagit-floden att hamna på 36 fot - 8 fot över översvämningsstadiet - ikväll, sa Burke.	Skagit förväntades hamna under natten på 38 fot vid Mount Vernon, 10 fot över översvämningsstadiet, sa National Weather Service.	3.000
+main-news	MSRpar	På måndagen sjönk Dow 5,25, eller 0,1 procent, till 8 983,80, efter att ha tappat 2,3 procent förra veckan.	I den tidiga handeln sjönk Dow Jones industriindex med 39,94, eller 0,4 procent, till 8 945,50, efter att ha fallit 3,61 poäng på måndagen.	1.600
+main-news	MSRpar	De skadade fördes till sjukhus i Jefferson City och Columbia, en universitetsstad cirka 30 mil norrut.	De skadade fördes till sjukhus i Jefferson City och Columbia, cirka 48 km norrut; deras villkor var inte omedelbart tillgängliga.	4.000
+main-news	MSRpar	Dollarn låg på 117,85 yen mot den japanska valutan, upp 0,1 procent.	Mot schweizerfrancen låg dollarn på 1,3289 franc, upp 0,5 procent på dagen.	1.333
+main-news	MSRpar	Förutom O'Connor anslöt sig till Rehnquists majoritetsåsikt justitieråden David Souter, Ruth Bader Ginsburg och Stephen Breyer.	Med honom i majoritetens åsikt var justitieråden Sandra Day O'Connor, David H. Souter, Ruth Bader Ginsburg och Stephen G. Breyer.	3.600
+main-news	MSRpar	Martin, 58, kommer att släppas i dag efter att ha avtjänat två tredjedelar av sitt femåriga straff för dråp på 16-årige Fred Barras.	Martin avtjänade två tredjedelar av ett femårigt straff för dråpet på Barras och för att ha skadat Fearon.	3.000
+main-news	MSRpar	IDEC-aktieägare skulle äga 50,5 procent av aktierna i det sammanslagna bolaget och Biogenaktieägare resterande 49,5 procent.	Företagen sa att Idec-innehavare skulle äga cirka 50,5 procent av aktierna i det kombinerade företaget.	3.000
+main-news	MSRpar	"Icke desto mindre insisterade open source-gurun, ""Denna attack var fel, och den var farlig för våra mål."""	"""Det här anfallet var fel, och det var farligt för våra mål"", sa Raymond."	3.500
+main-news	MSRpar	Frank Quattrone, tidigare Credit Suisse First Boston-teknikinvesteringsbankgurun, har enligt uppgift erkänt sig oskyldig på tisdagen till anklagelserna om obstruktiv rättvisa och manipulation av vittnen.	NEW YORK -(Dow Jones)- Den före detta stjärninvesteringsbankiren Frank Quattrone erkände sig i tisdags oskyldig till brottsanklagelser för att ha hindrat rättvisan och manipulering av vittnen.	4.000
+main-news	MSRpar	Blue-chip Dow Jones industriindex .DJI föll 86,56 poäng, eller 0,94 procent, till 9 109,99, efter att ha gett upp mer än 1 procent tidigare.	Dow Jones industriindex .DJI föll 79,43 poäng, eller 0,86 procent, till 9 117,12 på fredagen.	2.200
+main-news	MSRpar	Dow Jones industriindex slutade dagen ned 10,89 till 9 837,94, efter att ha gått upp 111,04 på onsdagen.	Dow Jones industriindex föll med 10,89 punkter, eller 0,11 procent, till 9 837,94.	3.400
+main-news	MSRpar	Perry har sedan dess kallat till två särskilda lagstiftande sessioner för att försöka tvinga igenom omfördelningsplanen.	Sedan dess har Texas guvernör Rick Perry kallat två särskilda sessioner för att försöka driva igenom åtgärden.	3.500
+main-news	MSRpar	"Byrån kommer att ""betrakta som aktuella skattedeklarationer eller betalningar"" den 15 augusti om de lämnas in senast den 22 augusti."	Byrån sa att den skulle betrakta alla skattedeklarationer eller betalningar som ska betalas från fredag till 22 augusti som lägliga om de är klara senast 22 augusti.	4.250
+main-news	MSRpar	Demokrater har för närvarande en fördel på 17-15 i delstatens kongressdelegation.	Texas kongressdelegation är nu 17-15 demokratisk.	2.600
+main-news	MSRpar	Chaudhry släpptes 56 dagar senare och Fijis militär installerade en regering med alla ursprungsbefolkningar ledd av Qarase, som vann demokratiska val i september 2001.	Den fijianska militären installerade en regering med alla ursprungsbefolkningar ledd av Qarase, som vann demokratiska val i september 2001.	3.000
+main-news	MSRpar	Ny legitim nedladdningstjänst lanseras med PC-användare i åtanke.	BuyMusic är den första prenumerationsfria betalda nedladdningsmusiktjänsten för PC-användare.	2.400
+main-news	MSRpar	Den 30-åriga obligationen US30YT=RR steg 22/32 till en direktavkastning på 4,31 procent, jämfört med 4,35 procent vid onsdagens stängning.	Den 30-åriga obligationen US30YT=RR växte 1-3/32 till en avkastning på 4,30 procent, ned från 4,35 procent sent på onsdagen.	3.800
+main-news	MSRpar	Förra veckan bad hans advokater guvernör Mark R. Warner att ge nåd, men guvernören avböjde att ingripa.	Förra veckan bad hans advokater Warner att bevilja nåd under vissa villkor som skulle ha lett till en ny dom.	3.000
+main-news	MSRpar	Guvernör Linda Lingle och medlemmar av hennes personal var på marinbasen och såg uppskjutningen.	Guvernör Linda Lingle och andra dignitärer är planerade att vara vid basen för att titta på lanseringen.	3.500
+main-news	MSRpar	"""Det bästa utredarna kan göra är att nöta om processen och innehållet i isolerade affärsbeslut ... och ifrågasätta hans kompetens som chef."""	"Ebbers advokat, Reid Weingarten, sa trots den grundliga undersökningen, ""det bästa utredarna kan göra är att ta reda på processen och innehållet i isolerade affärsbeslut."""	3.500
+main-news	MSRpar	"Justitiedepartementet lämnade in en stämningsansökan på torsdagen mot delstaten Mississippi för att ha misslyckats med att avsluta vad federala tjänstemän kallar ""störande"" missbruk av ungdomar och ""samvetslösa"" förhållanden vid två statliga anläggningar."	Justitiedepartementet lämnade in en stämningsansökan om medborgerliga rättigheter på torsdagen mot delstaten Mississippi, med påstående om övergrepp mot ungdomsförbrytare vid två statliga anläggningar.	3.750
+main-news	MSRpar	Chelsea-försvararen Marcel Desailly har varit den senaste att uttala sig.	Marcel Desailly, Frankrikes kapten och Chelsea-försvarare, tror att det sistnämnda är sant.	2.250
+main-news	MSRpar	Hon var den enda kvinnan i sin enhet och medlem i Teamsters Local 995.	Hon var den enda kvinnan som var anställd som lagerarbetare och operatör av tung utrustning och den enda kvinnan i sitt lokala Teamsters.	3.250
+main-news	MSRpar	Specialpolis grep Chodorkovskij tidigt på lördagen i den sibiriska staden Novosibirsk, där hans plan hade gjort ett tankningsstopp.	Polisen grep Chodorkovskij tidigt på lördagen när hans jetplan gjorde ett stopp för tankning i den sibiriska staden Novosibirsk.	4.800
+main-news	MSRpar	Sony Ericsson sa också att de skulle lägga ner sitt GSM/UMTS FoU-center i München, Tyskland, för att öka lönsamheten.	Sony Ericsson sa också att de planerar att stänga sin FoU-anläggning i München, Tyskland, för GSM- och UMTS-telefoner.	3.800
+main-news	MSRpar	Men landet kämpar på för att förhindra att det sprids till den stora landsbygden där de flesta av dess 1,3 miljarder människor bor.	Kina försöker stoppa sjukdomen från att spridas till landsbygden, där de flesta av dess 1,3 miljarder människor bor.	3.400
+main-news	MSRpar	Kansas Department of Health and Environment visar att det gjordes 88 aborter på flickor 14 år och yngre förra året.	Statistik från Kansas Department of Health and Environment visar att 11 844 aborter utfördes i delstaten förra året.	2.000
+main-news	MSRpar	"""Upptäckten att MAP-buggen finns hos de allra flesta Crohns-patienter betyder att den nästan säkert orsakar tarminflammation"", heter det i ett uttalande."	Forskarna säger att faktumet att MAP-infekten finns hos de allra flesta Crohnspatienter betyder att den nästan säkert orsakar tarminflammationen.	4.600
+main-news	MSRpar	Den förväntade livslängden för pojkar födda 2001 var 74,4 år, en ökning med två år sedan 1990.	Enligt rapporten har medellivslängden ökat med nästan två år sedan 1990.	3.500
+main-news	MSRpar	Under hela 12-månadersperioden ökade höghastighetskabelmodemanslutningarna med 49 procent.	För helårsperioden som slutade den 30 juni 2003 ökade höghastighetslinjerna med 45 procent.	3.333
+main-news	MSRpar	Vi anser att rapporten är helt förenlig med vad domstolarna har slagit fast ... att avdelningens agerande ligger helt inom lagen.	Comstock sa att flera federala domstolar har beslutat att frihetsberövandena är helt inom lagen.	2.667
+main-news	MSRpar	Faktum är att Mr. Weill, en självbeskriven arbetsnarkoman, sa att han planerade att förbli mycket engagerad i företaget.	Ändå kommer Mr. Weill att förbli en mycket stor makt på företaget.	3.200
+main-news	MSRpar	Gregory Parseghian, en före detta investeringsbankir, utsågs till verkställande direktör.	Greg Parseghian utsågs till ny vd.	3.800
+main-news	MSRpar	"Rapporten citerar äktenskapet mellan den påstådda operativa befälhavaren för bombdåden på Bali, Mukhlas, med Farida, en ""högt kosmopolitisk och välutbildad ung kvinna""."	Rapporten citerar äktenskapet mellan den påstådda operativa befälhavaren för Bali-bombningarna, Mukhlas, som ett exempel på hur JI använder äktenskap för att växa.	3.400
+main-news	MSRpar	The Cradle of Liberty Council är inte den första som slår emot den nationella gruppens ståndpunkt.	Philadelphias råd är inte det första att trotsa den nationella politiken.	3.400
+main-news	MSRpar	"""Det är absurt,"" sa Funny Cides tränare Barclay Tagg."	"Samtidigt kallade Funny Cides tränare, Barclay Tagg, anklagelserna ""löjliga""."	3.600
+main-news	MSRpar	Förra året sa kubanska tjänstemän att ingen av nästan två dussin nominerade kubanska musiker fick amerikanska visum i tid för att närvara vid Grammisgalan i Los Angeles.	Kubanska tjänstemän sa att förra året fick ingen av cirka två dussin nominerade kubanska musiker amerikanska visum i tid för att delta i Latin Grammys.	3.800
+main-news	MSRpar	De amerikanska konservativa är helt klart i minoritet inom Episcopal Church.	Brevet visar Vatikanens intresse av att stärka konservativa inom den episkopala kyrkan.	1.800
+main-news	MSRpar	"Senatorns nya bok från New York, ""Living History"", verkar vara en viss bestseller."	Hillary Clinton, senatorn från New York och före detta första dam, ger ut en bok på måndag med titeln Levande historia.	3.200
+main-news	MSRpar	"""Kanada är ett litet land, och det behöver sådana här företag, sådana här affärer."""	"En passionerad nationalist, Mr. D'Alessandro sa: ""Kanada är ett litet land, och vi behöver fler företag som detta."""	3.000
+main-news	MSRpar	Polistjänstemannen SK Tonapi berättade för Reuters att minst 40 personer hade dödats och över 100 skadats.	Det statliga inrikesministeriets talesman Vasant Pitke berättade för Reuters att minst 42 människor hade dödats och 112 skadats.	1.800
+main-news	MSRpar	"""Jeremy är en bra kille,"" sa Barber och tillade: ""Jeremy lever New York-atletens drömliv."	"Han sa också att shockey ""lever drömlivet för en New York-atlet."""	2.750
+main-news	MSRpar	Men Mitsubishi Tokyo Financial (JP:8306: nyheter, diagram, profil) sjönk 3 000 yen, eller 0,65 procent, till 456 000 yen.	Sumitomo Mitsui Financial (JP:8316: nyheter, diagram, profil) sjönk 2,5 procent till 198 000 yen.	1.600
+main-news	MSRpar	Cirka 1 557 gener på kromosom 6 tros vara funktionella.	De återstående 1 557 generna tros alla vara funktionella.	2.750
+main-news	MSRpar	Under andra kvartalet förväntar sig Anadarko nu en volym på 46 miljoner BOE, ned från 48 miljoner BOE.	Produktionen för andra kvartalet minskade till 46 miljoner fat från 48 miljoner fat.	3.250
+main-news	MSRpar	Amerikanska trupper mötte inget motstånd under den fem timmar långa svepningen nära Tikrit, Saddam Husseins hemstad och centrum i en region av Baath-partiets anhängare.	Tikrit är Saddam Husseins hemstad och regionen runt den är känd som en härd för Baath-partiets anhängare och tidigare högt uppsatta irakiska militära tjänstemän.	2.250
+main-news	MSRpar	Miodrag Zivkovic, från Liberal Alliance of Montenegro, fick 31 procent av rösterna medan den oberoende Dragan Hajdukovic fick fyra procent.	Miodrag Zivkovic, ledaren för den fristående oppositionen Liberal Alliance, kom på andra plats med 31 procent av rösterna.	3.000
+main-news	MSRpar	Under förra året redovisade Pearson en vinst före skatt på 26 miljoner.	För ett år sedan gjorde företaget en vinst på 26 miljoner pund.	3.182
+main-news	MSRpar	Fram till torsdagen sa Oracle att 34,75 miljoner PeopleSoft-aktier hade lämnats in.	Cirka 34,7 miljoner aktier har lämnats in, säger Oracle i ett uttalande.	3.750
+main-news	MSRpar	Yucaipa ägde Dominick's innan han sålde kedjan till Safeway 1998 för 2,5 miljarder dollar.	Yucaipa köpte Dominick's 1995 för 693 miljoner dollar och sålde det till Safeway för 1,8 miljarder dollar 1998.	2.600
+main-news	MSRpar	Gravar rapporterade från Albuquerque, Villafranca från Austin och Ratcliffe från Laredo.	Pete Slover rapporterade från Laredo och Gromer Jeffers från Albuquerque.	1.250
+main-news	MSRpar	En ökning med 25 procent skulle höja undervisningen på grundutbildningen till cirka 5 247 USD per år, inklusive diverse campusbaserade avgifter.	Den 25-procentiga höjningen tar den årliga UC grundutbildningen till $4,794 och examensavgifterna till $5,019.	2.500
+main-news	MSRpar	Myndigheterna sa att forskaren satte sig ordentligt i karantän hemma efter att han utvecklade SARS-symtom den 10 december.	Forskaren satte sig också i karantän hemma så snart han utvecklade SARS-symtom, sa tjänstemän.	4.200
+main-news	MSRpar	Supporten kommer som en gratis mjukvaruuppgradering kallad WebVPN för nuvarande kunder som har supportavtal.	Uppgraderingen kommer att vara tillgänglig som en gratis nedladdning för nuvarande kunder med SmarNet-support i januari 2004.	2.600
+main-news	MSRpar	Hilsenrath och Klarman åtalades vardera för tre fall av värdepappersbedrägeri.	Klarman åtalades för 16 fall av bedrägeri.	1.400
+main-news	MSRpar	"Den nya sensorn - kallad CANARY för ""cellulär analys och meddelande om antigenrisker och avkastning"" - kapar denna naturliga process med två viktiga förändringar."	Teamet har döpt sensorn till Canary, för cellulär analys och meddelande av antigenrisker och avkastning.	3.600
+main-news	MSRpar	En, Fort Carson-baserade Sgt. Ernest Bucklew, 33, hade varit på väg hem för att delta i sin mammas begravning i Pennsylvania.	Sgt. Ernest Bucklew, 33, skulle komma hem från Irak för att begrava sin mamma i Pennsylvania.	3.000
+main-news	MSRpar	Waksal har erkänt sig skyldig till värdepappersbedrägeri och ska dömas nästa vecka.	Waksal erkände sig skyldig till anklagelser om insiderhandel förra året, och han är planerad att dömas den 10 juni.	3.500
+main-news	MSRpar	Enheten spelar internetradioströmmar och kommer med en 30-dagars testversion av RealNetworks musiktjänst Rhapsody.	Produkten strömmar även internetradio och kommer med en 30-dagars gratis provperiod för RealNetworks digitala musikprenumerationstjänst Rhapsody.	5.000
+main-news	MSRpar	Dollarn föll så lågt som $1,1624 per euro från $1,1486 på fredagen och handlades till $1,1594 kl. 10:15 i London.	Dollarn sjönk till $1,1564 per euro klockan 7:30 i London från $1,1486 på fredagen.	3.000
+main-news	MSRpar	"Under utfrågningen uttryckte Morales ""uppriktig beklagan och ånger"" för sina handlingar."	"Morales, som erkände sig skyldig i juli, uttryckte ""uppriktig beklagan och ånger"" för sina brott."	3.800
+main-news	MSRpar	Site Finder har besökts 65 miljoner gånger sedan introduktionen, sa Galvin.	Till och med söndagen den 21 september har Site Finder besökts över 65 miljoner gånger av internetanvändare.	3.800
+main-news	MSRpar	"Enligt SunnComms Peter Jacobs presterar MediaMax exakt som ""annonserat"" för företagen som köpte det."	"""MediaMax uppträder EXAKT som ""reklam"" för företagen som köpte det"", sa Jacobs i uttalandet."	4.222
+main-news	MSRpar	Han spårades till Atlanta där han greps på tisdagskvällen.	Han greps i Atlanta, Georgia, på måndagskvällen av polisen som handlade på ett tips.	2.500
+main-news	MSRpar	Bushadministrationen skyller på Hussein-lojalister och utländska muslimska militanter som har tagit sig in i Irak för att bekämpa amerikanska trupper för vågen av bombningar och gerillaattacker.	Bushadministrationen skyller vågen av bombningar och gerillaattacker på Saddamlojalister och utländska muslimska militanter som har tagit sig in i Irak för att bekämpa amerikanska trupper.	5.000
+main-news	MSRpar	Det visade sig senare att han hade brutit höger lår och ben i höger handled och armbåge.	Reseläkare bekräftade senare att han hade brutit sitt högra ben nära höften och även fått frakturer i handleden och armbågen.	4.000
+main-news	MSRpar	Senaten enades på tisdagen om att häva ett tio år gammalt förbud mot forskning och utveckling av kärnvapen med låg avkastning.	Både parlamentets och senatens lagförslag skulle upphöra med förbudet mot forskning och utveckling av kärnvapen med låg avkastning.	3.600
+main-news	MSRpar	Cirka 95 miljoner amerikaner - hälften av alla hushåll - investerar i fonder.	Ungefär hälften av alla amerikanska hushåll har pengar i fonder.	4.200
+main-news	MSRpar	Huset har antagit lagstiftning om receptbelagda läkemedel under de senaste två sessionerna, men senaten har misslyckats med att göra det.	Huset har antagit lagförslag de senaste två kongresserna, men senaten har inte.	3.400
+main-news	MSRpar	Äldre och personer med nedsatt immunförsvar uppmanas också att skydda sig mot myggbett.	Men för äldre och de med nedsatt immunförsvar kan det vara dödligt.	2.600
+main-news	MSRpar	"Ms Laffertys advokat, Thomas Ezzell, sa till en tidning i Kentucky: ""Min uppfattning om detta är att det finns en lägre andel framgångsrika impregnationer med frysta."	"""Min förståelse av detta är att det finns en lägre andel framgångsrik impregnering med frysta,"" sa Ezzell."	3.600
+main-news	MSRpar	Klarman greps av FBI-agenter i Hamptons, en exklusiv sommarorts enklav öster om New York City.	Klarman greps av FBI-agenter på måndagsmorgonen i sitt hem i New York.	4.000
+main-news	MSRpar	Biskopen berättade för polisen att han trodde att han hade slagit en hund eller en katt eller att någon hade kastat en sten mot hans fordon.	Biskop O'Brien, 67 år, hade berättat för polisen att han trodde att han hade slagit en hund eller katt.	3.500
+main-news	MSRpar	"En reklamaffisch, komplett med nedräkningsurtavla, påminner läsarna om den kommande releasen av ""Harry Potter and the Order of the Phoenix""."	"Lådorna är fulla av inbundna kopior av ""Harry Potter and the Order of the Phoenix""."	1.500
+main-news	MSRpar	"""Ytterligare tester pågår fortfarande, men i detta skede, med tanke på den tidiga upptäckten, skulle utsikterna i sådana fall vara positiva"", sa specialisten i går."	"""Men i det här skedet, med tanke på den tidiga upptäckten, skulle utsikterna i sådana fall vara positiva,"" sa han."	3.500
+main-news	MSRpar	I morgonhandeln var Dow Jones industriindex upp 40,12, eller 0,5 procent, till 8 571,69, efter att ha fallit 51 poäng i måndags.	I New York var Dow Jones industrisnitt, en mätare på 30 blue chip-aktier, upp 3,29 poäng eller 0,04 procent till 8 585,97.	1.750
+main-news	MSRpar	Rich media fördubblade sin andel och ökade från 3 % under andra kvartalet 2002 till 6 % under andra kvartalet 2003.	Interaktiva multimedieannonsformat fördubblade sin andel från 3 % andra kvartalet 2002 till 6 % andra kvartalet 2003.	3.750
+main-news	MSRpar	Det kommer att ta tid att avsätta inbitna rester av Saddam Husseins avsatta regim i Irak, sade försvarsminister Donald H. Rumsfeld på tisdagen.	Försvarsminister Donald H. Rumsfeld sa på tisdagen att det kommer att ta tid att lokalisera inbitna rester av Saddam Husseins avsatta regim i Irak.	4.800
+main-news	MSRpar	Sayliyah var kommandobasen för Irakkriget, men Central Command skickade hundratals som skötte kriget hem till Tampa, Florida.	Eftersom Sayliyah var kommandobasen för Irakkriget, men hundratals som ledde kriget har återvänt till USA.	3.400
+main-news	MSRpar	SCO säger att prisvillkoren för en licens inte kommer att tillkännages på flera veckor.	Detaljer om prissättning kommer att tillkännages inom några veckor, sa McBride.	2.600
+main-news	MSRpar	Källor inom racingbranschen har berättat för Daily Bulletin att Fontana kommer att få ett andra NASCAR-lopp på Labor Day-helgen med start nästa säsong.	Källor i racingbranschen sa att Fontana kommer att få ett andra NASCAR-lopp på Labor Day-helgen med start nästa säsong.	4.400
+main-news	MSRpar	Dow Jones industriindex .DJI hamnade på 56,79 poäng, eller 0,67 procent, på 8 588,36 – den högsta nivån sedan den 17 januari.	Dow Jones Industrial Average ($DJ: nyheter, diagram, profil) steg 56 poäng, eller 0,7 procent, till 8 588.	3.600
+main-news	MSRpar	Dennehy, som flyttade till Baylor förra året efter att ha blivit sparkad av University of New Mexico Lobos för raserianfall, hade börjat läsa Bibeln dagligen.	Dennehy, som flyttade till Baylor förra året efter att ha blivit sparkad av University of New Mexico Lobos för raserianfall, blev en pånyttfödd kristen i juni 2002.	3.600
+main-news	MSRpar	Bashir kände att han prövades av åsikter och inte på fakta, sa Mahendradatta till Reuters.	Bashir kände också att han prövades av åsikt snarare än lagfakta, tillade han.	4.000
+main-news	MSRpar	Schofield fick Toepfer att erkänna vid korsförhör att hon ignorerade många av O'Donnells förslag och projekt.	Men under korsförhör av O'Donnells advokat, Lorna Schofield, medgav Toepfer att hon hade ignorerat många av O'Donnells förslag och projekt.	4.500
+main-news	MSRpar	I det fallet ansåg domstolen att Cincinnati hade brutit mot det första tillägget genom att endast förbjuda reklambroschyrer i estetikens intresse.	I det fallet ansåg domstolen att staden Cincinnati hade brutit mot det första tillägget genom att förbjuda, i estetikens intresse, endast reklambroschyrerna.	5.000
+main-news	MSRpar	Lådskärare användes som ett vapen av kaparna den 11 september 2001 och har sedan dess förbjudits som handbagage.	Lådskärare var de vapen som användes av de 19 kaparna i attackerna den 11 september 2001.	3.400
+main-news	MSRpar	Den 22 juli meddelade Moore att han skulle överklaga fallet direkt till USA:s högsta domstol.	Moore från Alabama säger att han kommer att överklaga sitt fall till landets högsta domstol.	3.750
+main-news	MSRpar	Southwest sa att dess trafik ökade med 4,6 procent under kvartalet och att det avslutade kvartalet med 2,2 miljarder dollar i kontanter.	Southwest sa att dess trafik ökade med 4,6 procent under kvartalet på en kapacitetsökning på 4,2 procent.	3.176
+main-news	MSRpar	Fyra versioner av Windows operativsystem är inriktade: Windows NT, Windows 2000, Windows XP och Windows Server 2003.	Den nya masken påverkar dessa Windows-system: 2000, XP, NT 4.0 och Server 2003.	3.600
+main-news	MSRpar	Aktierna i McDonald's Corp. och Wendy's International Inc. fortsatte en blygsam uppgång på New York-börsen i måndags.	Aktierna i McDonald's och Wendy's fortsatte sin senaste återhämtning i måndags och steg mer än 1 procent på New York-börsen i eftermiddagshandeln.	3.200
+main-news	MSRpar	"Han beklagade lekfullt senatens ""lilla skattelättnadsplan""."	Vi behöver inte en liten töntig skattelättnadsplan.	3.500
+main-news	MSRpar	Vill du köpa den senaste Harry Potter?	Harry Potters senaste trollkarlstrick?	1.900
+main-news	MSRpar	Bland MediaQs kunder finns de stora handhållna tillverkarna Mitsubishi, Siemens, Palm, Sharp, Philips, Dell och Sony.	Nvidia kommer att dra fördel av MediaQ-kunder, som inkluderar sådana spelare som Siemens AG, Sharp, Philips, Dell, Mitsubishi och Sony Corp.	3.000
+main-news	MSRpar	Aventis, baserat i Strasbourg, Frankrike, är ett av en handfull företag som fortfarande tillverkar influensavaccin.	Aventis, baserat i Strasbourg, Frankrike, är en av de ledande tillverkarna av vaccinet och ett av en handfull företag som fortfarande tillverkar det.	3.600
+main-news	MSRpar	"Michael Bloomberg, New Yorks borgmästare: ""Jag ska försöka marschera med ett antal olika grupper."	"""Jag ska försöka marschera med ett antal olika grupper"", sa Bloomberg."	3.750
+main-news	MSRpar	Attacken verkade likna andra som genomfördes nära främmande anläggningar i Riyadh den 12 maj.	Attacken verkade likna attacker som genomfördes nära utländska anläggningar i Riyadh den 12 maj, som tjänstemän också har skyllt på al-Qaida för.	3.600
+main-news	MSRpar	"""Vi lägger mycket kraft och energi på att förbättra vår patchprocess, förmodligen senare än vi borde ha gjort och nu får vi bara otrolig fart."	"""Vi har lagt mycket kraft och energi på att förbättra våra patchningsframsteg, förmodligen senare än vi borde ha gjort."	3.750
+main-news	MSRpar	Pojken sprejade också rummet fullt med retardant från brandsläckare, vilket gjorde det svårt att se, sa chefen.	Pojken sköt en gång in i en vägg och besprutade rummet med brandsläckare, vilket gjorde det svårt att se, sa chefen.	3.333
+main-news	MSRpar	"""Men HRT bör inte användas för att förhindra hjärtsjukdom eller något annat kroniskt tillstånd."""	"""Det tydliga budskapet är att det inte ska användas för att förebygga hjärt-kärlsjukdom,"" sa Manson."	2.600
+main-news	MSRpar	Köttet, fågeln, smöret, osten och nötterna beslagtogs för ett år sedan på ett LaGrou Cold Storage-lager i Chicago.	Köttet, fågeln, smöret, osten och nötterna lagrades av mer än 100 grossister i Chicago.	1.800
+main-news	MSRpar	BlueCore3-Multimedia inkluderar en 16-bitars stereoljud CODEC med dubbla ADC och DAC för stereoljud.	BlueCore3-Multimedia innehåller en DSP-samprocessor med öppen plattform och inkluderar även en 16-bitars stereoljudcodec med dubbla ADC och DAC för stereoljud.	3.600
+main-news	MSRpar	Nu, med byråns tre sista skyttlar på grund i kölvattnet av Columbia-katastrofen, kan den väntan bli ännu längre.	Med de återstående tre skyttlarna på grund i kölvattnet av Columbia-olyckan, kommer nybörjarna att få vänta ännu längre.	4.400
+main-news	MSRpar	Bremer, 61, är engångsassistent till tidigare utrikesminister William P. Rogers och Henry Kissinger och var en bred ambassadör för kampen mot terrorism från 1986 till 1989.	Bremer, 61, är en före detta assistent till tidigare utrikesminister William P. Rogers och Henry Kissinger.	3.000
+main-news	MSRpar	Dessa samtal hade inte ägt rum på tisdag kväll, enligt en taleskvinna för Oracle.	De samtalen har inte ägt rum, enligt en taleskvinna för Oracle.	4.000
+main-news	MSRpar	Taiwan har försökt få observatörsstatus till FN-anslutna WHO i sju år, men avvisades igen den 19 mars vid den årliga konferensen i Genève.	Den har sökt observatörsstatus i sju år, men avvisades igen den 19 maj vid WHO:s årliga konferens i Genève.	3.250
+main-news	MSRpar	En karl i Washingtonlän kan ha det första mänskliga fallet för länet av West Nile virus, sade hälsaavdelningen på fredagen.	Länets första och enda mänskliga fall av West Nile i år bekräftades av hälsotjänstemän den 8 september.	3.000
+main-news	MSRpar	National Breast Cancer Centers vd professor Christine Ewan sa att det var för tidigt att kvantifiera risken för kvinnor.	Professor Christine Ewan, chef för National Breast Cancer Center, sa att det inte fanns något behov av panik.	2.600
+main-news	MSRpar	Brendsel och finanschefen Vaughn Clarke avgick den 9 juni.	Bolagets verkställande direktör gick i pension och ekonomichefen avgick.	2.600
+main-news	MSRpar	När det gäller sjukvård, säger NDP att det inte kommer att bli någon privatisering och inga sjukvårdspremier.	De nya demokraterna förnyade också sitt åtagande om ingen privatisering av hälsovården och inga premier.	4.600
+main-news	MSRpar	De nya bolagen kommer att börja handla på Nasdaq idag under tickersymbolerna PLMO och PSRC.	Som en del av affären kommer PalmSource-aktien att börja handlas på NASDAQ-börsen på onsdag under tickersymbolen: PSRC.	2.750
+main-news	MSRpar	"Barn, vuxna, bokhandlare och postanställda förbereder sig alla för ""Harry Potter och Fenixorden""."	"Lådorna är fulla av inbundna kopior av ""Harry Potter and the Order of the Phoenix""."	2.200
+main-news	MSRpar	Regeringen identifierade inte taikonauterna - en term myntad från â€˜â€˜taikong,â€™â€™, det kinesiska ordet för rymden - som skulle resa på det andra uppdraget.	Regeringen identifierade inte taikonauterna - en term som myntats från taikong, det kinesiska ordet för rymd.	3.333
+main-news	MSRpar	"""Jag tror att vi gjorde det rätta fallet och gjorde rätt."""	"Blair fortsatte: ""Jag tycker att vi gjorde rätt i förhållande till Irak."""	2.769
+main-news	MSRpar	Kollar-Kotelly har planerat ytterligare en utfrågning om efterlevnad av antitrustuppgörelser i januari.	Domaren planerade ytterligare en tillsynsförhandling till slutet av januari.	2.800
+main-news	MSRpar	I morgon på Mission Inn har jag möjligheten att gratulera den tillträdande guvernören i den stora delstaten Kalifornien.	"""Jag har möjligheten att gratulera den tillträdande guvernören i den stora delstaten Kalifornien, och jag ser fram emot det."""	4.000
+main-news	MSRpar	"""Jag förväntar mig att Japan kommer att fortsätta med interventionen, men volymen kommer sannolikt att falla kraftigt"", säger Junya Tanase, valutastrateg på JP Morgan Chase."	"Junya Tanase, valutastrateg på JP Morgan Chase, sa ""Jag förväntar mig att Japan kommer att fortsätta med interventionen, men volymen kommer sannolikt att falla kraftigt."""	4.733
+main-news	MSRpar	The Sunshine Group LTD representerade utvecklarna, The Related Companies och Apollo Real Estate Advisors LP, i affären.	Utvecklarna, The Related Cos. och Apollo Real Estate Advisors, hoppas att försäljningen toppar 1 miljard dollar.	1.600
+main-news	MSRpar	"""Det är ungefär en tredjedel av vad jag är skyldig i världen"", sa han till reportrar."	Det kommer inte till mig, men det är bara ungefär en tredjedel av vad jag är skyldig i världen.	3.750
+main-news	MSRpar	Det tekniska Nasdaq Composite Index steg med 2,90 poäng, eller 0,18 procent, till 1 606,87.	Klockan 12:10 EDT, Kanadas jämförelseindex S&P/TSX kompositindex var upp 6,87 punkter eller 0,1 procent till 6 979,29.	0.500
+main-news	MSRpar	Referensräntan på 10-åriga statsobligationer<US10YT=RR> sjönk under 4,20 procent på tisdagen.	Priserna på statspapper steg också, med räntan på riktmärket 10-årsedel som sjönk till 4,19 procent.	3.250
+main-news	MSRpar	"Det var även Edie Falco, den kritikerrosade motspelaren i ""Frankie och Johnny""."	"Edie Falco var inte nominerad för ""Frankie och Johnny""."	2.400
+main-news	MSRpar	"""Saddam är borta, men vi vill att (USA) ockupationen ska upphöra"", säger Hit-bon Abu Qasim."	"""Saddam är borta, men vi vill att (USA) ockupationen ska upphöra."""	3.200
+main-news	MSRpar	Joe Kernan, som varit löjtnantguvernör under de senaste sju åren, svors in som guvernör efter att O'Bannon dog i lördags.	Kernan, som var O'Bannons löjtnantguvernör, vän och politiska partner, svors in sex timmar efter att O'Bannon dog i lördags.	3.750
+main-news	MSRpar	Advanced Micro Devices sa att Fujitsu Siemens Computers erbjuder en avancerad arbetsstation baserad på AMDs Opteron 200-serie.	Fujitsu Siemens Computers gav på tisdagen ett löfte om att erbjuda en arbetsstation baserad på Advanced Micro Devices Opteron-processor.	3.250
+main-news	MSRpar	Kodak förväntar sig en vinst på 5 cent till 25 cent per aktie under kvartalet.	Analytiker tillfrågade av Thomson First Call hade förväntat sig att Kodak skulle tjäna 68 cent per aktie för kvartalet.	2.400
+main-news	MSRpar	Aktien i Corixa föll med 12 cent till 6,88 dollar på Nasdaq-börsen.	Corixas aktie ryckte knappt till på nyheterna och sjönk 12 cent för att stänga på $6,88.	4.500
+main-news	MSRpar	Han syftade på John S. Reed, den tidigare verkställande direktören för Citicorp som blev interimsordförande och verkställande direktör för börsen i söndags.	Nästa vecka tillträder John S. Reed, den tidigare verkställande direktören för Citicorp som i söndags blev interimsordförande och verkställande direktör för börsen.	4.000
+main-news	MSRpar	Han vägrade att avslöja hur stor andel av flygningarna som bar luftmarskalkar, eller om de skulle ökas.	Han vägrade att säga hur stor andel av inrikesflygen som hade säkerhetstjänstemän ombord.	3.800
+main-news	MSRpar	Nasdaq Composite Index steg 19,67, eller 1,3 procent, till 1523,71, det högsta sedan 18 juni.	S&P 500 hade klättrat 16 procent sedan sin lägsta nivå i mars och stängde i går som den högsta sedan den 2 december.	0.800
+main-news	MSRpar	"De sa att de hade kommit fram till att filmen misslyckades med att ""presentera en balanserad skildring"" av Reagans."	"CBS sa att showen ""inte presenterar en balanserad skildring av Reagans för CBS och dess publik."	3.000
+main-news	MSRpar	Statens hälsovårdstjänstemän sa idag att en ung kvinna i nordöstra Kansas troligen har delstatens första fall av apkoppor bland människor eller djur.	Hälsomyndigheter bekräftade idag att en kvinna i nordöstra Kansas har delstatens första fall av apkoppor och det första fallet väster om Mississippifloden.	3.500
+main-news	MSRpar	Navistar-aktien sjönk med 44 cent, eller 1,1 procent, till 41,19 dollar på New York-börsen efter att ha fallit så lågt som 39,93 dollar.	Navistar-aktien steg en slant till 41,64 dollar sent på eftermiddagen på New York-börsen efter att ha fallit så lågt som 39,93 dollar tidigare.	2.000
+main-news	MSRpar	Endast Intel Corps 0,3 procents direktavkastning var lägre.	Endast Intel Corp. har en lägre direktavkastning.	2.800
+main-news	MSRpar	MGM, NBC och Liberty chefer var inte omedelbart tillgängliga för kommentarer.	En talesman för Microsoft var inte omedelbart tillgänglig för att kommentera.	2.000
+main-news	MSRpar	Den nya analysen fann att 32 av de 16 608 deltagarna utvecklade äggstockscancer under cirka 5 års uppföljning.	Den nya analysen fann att 32 av 16 608 deltagare utvecklade äggstockscancer under cirka 5 1/2 års uppföljning, inklusive 20 kvinnor som tog hormoner.	3.000
+main-news	MSRpar	Veteranen och skådespelaren Hume Cronyn dog i cancer i söndags.	Skådespelaren Hume Cronyn, 91, dog i söndags i sitt hem i Connecticut.	3.500
+main-news	MSRpar	Deirdre Hisler, Government Canyons chef, sa att staten länge har haft ögonen på den här fastigheten och är angelägen om att slutföra affären för att få den.	Deirdre Hisler, Government Canyons chef, sa att staten länge har eftertraktat denna egendom och är angelägen om att slutföra affären.	5.000
+main-news	MSRpar	Vittnen från Reuters sa att många hus hade tillplattats och att stadens torg var fulla av gråtande barn och hemlösa, inkröpta i filtar för att skydda sig mot kylan.	Reuters vittnen sa att offentliga torg var fulla av gråtande barn och att människor lämnades hemlösa, hopkurade i filtar för att skydda sig mot kylan.	3.250
+main-news	MSRpar	De tre livsmedelskedjorna förlitade sig på butikschefer och ersättare för att hålla sina butiker öppna.	Stormarknadskedjorna har använt chefer och ersättare för att hålla sina butiker öppna, ofta på kortare tider.	3.400
+main-news	MSRpar	Säkerhetstjänstemannens backup kunde inte fyllas i eftersom han var i aktiv militärtjänst, sa Strutt.	Säkerhetstjänstemannens backup var i aktiv tjänst och lotteriföreningen hade ingen ersättare i New Jersey, sa Strutt.	3.400
+main-news	MSRpar	Forskare hittade fossilerna i ett halvökenområde i Venezuela, cirka 250 miles väster om Caracas.	Phoberomys skelett grävdes fram 250 miles väster om Caracas, Venezuela.	3.750
+main-news	MSRpar	Mr McDonnell leder Grant Thornton Internationals utredning om den italienska verksamheten.	McDonnell vill fastställa om den italienska verksamheten följde Grant Thorntons revisionsförfaranden.	2.750
+main-news	MSRpar	Branschens största förening uppmanar sina medlemmar att inte ringa de mer än 50 miljoner hem- och mobilnummer på listan.	Under tiden sa Direct Marketing Association att dess medlemmar inte borde ringa de nästan 51 miljoner numren på listan.	3.200
+main-news	MSRpar	"Arbetarna anklagar General Dynamics för ""omvänd åldersdiskriminering"" på grund av en förändring av pensionsförmånerna 1997."	General Dynamics stämdes när det ändrade sina pensionsförmåner 1997.	2.600
+main-news	MSRpar	Det tekniska Nasdaq Composite Index .IXIC minskade med 5,16 punkter, eller 0,32 procent, till 1 590,75, vilket bröt en sex-dagars kedja av uppgångar.	Det tekniktunga Nasdaq Composite Index .IXIC sjönk 0,11 procent, eller 1,78 poäng, till 1 594,13.	1.600
+main-news	MSRpar	Space Infrared Telescope Facility har som uppdrag att söka efter universums början.	NASA planerar att skjuta upp Space Infrared Telescope Facility på måndag morgon.	2.500
+main-news	MSRpar	Den respekterade medicinska tidskriften Lancet har krävt ett totalt förbud mot tobak i Storbritannien.	En ledande brittisk medicinsk tidskrift krävde i fredags ett fullständigt förbud mot tobak, vilket ledde till upprördhet från rökargrupper.	3.400
+main-news	MSRpar	Föraren av lastbilen rymde och söks nu av polisen, säger Supoyo.	Men polisen säger att föraren av lastbilen inte har hittats och är efterlyst för förhör.	4.000
+main-news	MSRpar	"""På så många olika sätt har svarta musikers konstnärskap förmedlat upplevelsen av svarta amerikaner genom hela vår historia"", sa Bush."	"Omgiven av sångare från Harlem sa Bush: ""svarta musikers konstnärskap har förmedlat erfarenheterna från svarta amerikaner genom hela vår historia."""	4.250
+main-news	MSRpar	Geraldine Andrews, pastorns svärdotter, sa att Robinson nyligen tog ut sin dotter från en mentalvårdsinrättning.	Geraldine Andrews, Reynolds svärdotter och en vän till Wilsons familj, sa att Robinson nyligen hade tagit ut Wilson från en mentalvårdsinrättning.	4.000
+main-news	MSRpar	Innan torsdagens matiné kallade Baker till ett klubbhusmöte, oroad över att kontroversen hade distraherat ungarna.	Baker kallade till ett förspelsmöte och trodde att avsnittet med corked-bat hade distraherat laget.	3.400
+main-news	MSRpar	Hon fördes med ambulans till Charing Cross Hospital i Hammersmith.	Hon fördes till Charing Cross Hospital, där hon förblev kritiskt sjuk i natt.	2.800
+main-news	MSRpar	Strax efter öppningsklockan steg Dow Jones Industrial Average med 11,13 till 9 228,48, medan S&P 500-index steg 1,74 till 982,33.	Efter en svag start slutade Dow Jones Industrial Average dagen upp 26,26 till 9 217,35, medan S&P 500-index steg 3 till 980,59.	1.600
+main-news	MSRpar	Dessutom fick primärvårdsstiftelser (PCT) stjärnbetyg för första gången i år.	Primary Care Trusts och Mental Health Trusts har också blivit formellt betygsatta för första gången i år.	3.800
+main-news	MSRpar	"""Vi lägger alla tillgängliga resurser på utredningen"", säger biträdande amerikansk åklagare Todd Greenberg, åklagare i Seattle."	"""Vi är medvetna om situationen"", säger biträdande amerikansk åklagare Todd Greenberg, åklagare i Seattle."	2.667
+main-news	MSRpar	Det teknologiriktade Nasdaq Composite Index .IXIC tappade 15 poäng, eller 0,98 procent, till 1 492.	Det bredare Standard &amp; Poor's 500-indexet <.SPX> minskade med 9 punkter, eller 0,98 procent, till 921.	1.200
+main-news	MSRpar	Analysföretaget hade tidigare förutspått en ökning med 4,9 procent.	Företaget hade tidigare i år förutspått en ökning med 4,9 procent.	4.800
+main-news	MSRpar	PeopleSoft kommer att avsätta 863 miljoner dollar i kontanter och utfärda 52,6 miljoner nya aktier, sade företagen.	Den nya affären skulle värderas till 1,75 miljarder dollar, inklusive 863 miljoner dollar i kontanter och 52,6 miljoner PeopleSoft-aktier.	3.000
+main-news	MSRpar	"Så i sitt State of the Union-tal i januari förklarade Bush att den brittiska regeringen ""har fått reda på att Saddam Hussein nyligen sökte betydande mängder uran från Afrika."""	"I sitt meddelande om State of the Union den 28 januari sa Bush: ""Den brittiska regeringen har fått veta att Saddam Hussein nyligen sökte betydande mängder uran från Afrika."""	4.000
+main-news	MSRpar	"De övriga 24 ledamöterna är uppdelade på företrädare för värdepappersbranschen och så kallade ""offentliga"" styrelseledamöter."	Av de 24 styrelseledamöter som inte är börschefer är hälften representanter för värdepappersbranschen och hälften är utsedda offentliga ledamöter.	4.000
+main-news	MSRpar	Episkopala stiftet i Centrala Florida blev ett av de första i landet i lördags att officiellt förkasta det nationella trossamfundens politik för homosexualitet.	Episkopala stiftet i Central Florida röstade i lördags för att förkasta ett beslut från trossamfundets nationella konvent att bekräfta en homosexuell man som biskop.	2.750
+main-news	MSRpar	McGill beskrev också hålet som hade skurits i Caprices bagageutrymme.	McGill sa också att en mörk handske stoppades in i ett hål som hade skurits i Caprices bål.	2.250
+main-news	MSRpar	Det jämfört med en vinst på 102 miljoner dollar föregående år, eller 13 cent per aktie.	Det var mer än dubbelt så mycket som 102 miljoner dollar, eller 13 cent per aktie, för kvartalet föregående år.	3.200
+main-news	MSRpar	Ändå har ekonomin ännu inte uppvisat hållbar tillväxt.	Men ekonomin har inte visat tecken på hållbar tillväxt.	4.750
+main-news	MSRpar	Kommissionen uppskattade att Kalifornien förlorade 937 miljoner dollar till bolagsskatteskydd 2001.	Kaliforniens förlorade skatteintäkter berodde till största delen på internationella företagsskatteskydd.	2.800
+main-news	MSRpar	På andra marknader började amerikanska statsobligationer svagare på måndagen, eftersom aktierna steg tidigt.	På andra marknader steg amerikanska statsobligationer högre då fallande aktier ökade lockelsen av säker-tillflyktsortsskulder.	1.400
+main-news	MSRpar	Det teknologiriktade Nasdaq Composite Index .IXIC sjönk 25,36 punkter, eller 1,53 procent, till 1 628,26.	Det bredare Standard & Poor's 500 Index .SPX gav upp 11,91 poäng, eller 1,19 procent, till 986,60.	0.750
+main-news	MSRpar	Pentagon hade hoppats på att behålla kontrollen över efterkrigstidens insatser, så beslutet är en seger för utrikesminister Colin L. Powell.	Pentagon hade hoppats på att behålla kontrollen över efterkrigstidens insatser, så beslutet sågs av vissa insiders som en seger för Powell och utrikesdepartementet.	3.667
+main-news	MSRpar	Prof Sally Baldwin, 63, från York, föll i en hålighet som öppnade sig när strukturen kollapsade vid Tiburtina-stationen, sa italienska järnvägstjänstemän.	Sally Baldwin, från York, dödades omedelbart när en gångväg kollapsade och hon ramlade in i maskineriet vid Tiburtina-stationen.	3.400
+main-news	MSRpar	Det uppmanar myndigheten att planera en oberoende säkerhets- och ingenjörsorganisation.	Byrån har ännu inte helt formulerat en strategi för skapandet av en oberoende ingenjörsteknisk myndighet.	3.400
+main-news	MSRpar	WorldComs redovisningsproblem uppdagades i början av förra året, och företaget ansökte om konkurs i juli 2002, med hänvisning till massiva bokföringsmässiga oegentligheter.	WorldComs ekonomiska problem uppdagades förra året och företaget ansökte därefter om konkurs i juli 2002.	3.857
+main-news	MSRpar	Studien fann också att konsumentvaruannonsörer fortsatte att spendera mest dollar online, vilket representerade 35 % av all webbannonsering.	Under andra kvartalet fortsatte konsumentannonsörer att spendera mest online, vilket ökade deras andel något.	3.000
+main-news	MSRpar	Kiernan vittnade om att Seifert hade fått en skottskada i ryggen.	Seifert, vittnade han, hade en skottskada i ryggen.	3.500
+main-news	MSRpar	Det kostar $5 995 för ett obegränsat antal användare som använder den enda processorn, eller $195 per användare med minst fem användare.	Det kostar $5 995 eller $195 på en licensplan per användare med minst fem användare.	3.250
+main-news	headlines	Tropisk storm kommer passera längs Honduras kust	Tropiska stormvarningar för sydöstra kusten	1.4
+main-news	headlines	Självmordsbombare dödade 12 i kyrkan i Nigeria	Självmordsbombare dödade 21 i NW Pakistan	0.75
+main-news	headlines	USA säger att de är redo att hjälpa blind kinesisk aktivist	USA redo att hjälpa kinesisk aktivist: tjänsteman	3.4
+main-news	headlines	Gazabor avfyrar 2 raketer mot Israel; inga skador	2 Gaza-raketer träffade Israel; inga skador	4.8
+main-news	headlines	Berri säger att han är redo att hjälpa till att lansera en nationell enhetsregering	Uppfattningen om Spanien har förändrats dramatiskt med denna regering	0.4
+main-news	headlines	13 döda i bombattentat i Irak	16 dödade i attacker i norra Irak	1.8
+main-news	headlines	Orkanen Isaac flyttar in i landet efter landfall	Orkanen Isaac drabbar USA:s kust nära New Orleans	2.4
+main-news	headlines	Nigeria sörjer över 193 människor som omkom i flygkrasch	Nigeria inleder förundersökning om dödlig flygolycka	1.6
+main-news	headlines	ICC fängslar den kongolesiska krigsherren i 14 år för barnsoldater	Kongolesisk krigsherre dömd till 14 år i ett landmärkesmål - video	3.2
+main-news	headlines	7 soldater dödade, 56 skadade i PKK-attack i östra Turkiet	3 dödade, 14 skadade i attacker i Irak	0.4
+main-news	headlines	Schiphols flygplats delvis evakuerad efter bombhot	Flygplatsen Schiphol evakuerades på grund av bombhot	4
+main-news	headlines	MIER höjer 2012 års tillväxtprognos till 4,2 procent	CMIE sänker tillväxtprognosen 2012-13 till 6,3 %	0.8
+main-news	headlines	Aktivister: Syriska trupper stormar Damaskus förort	Aktivist säger att en syrisk medborgarkameraman dödades i Homs	1.4
+main-news	headlines	Teheran: EU:s sanktioner kommer inte att tvinga Iran till kärnvapensamtal	Låga förväntningar på Irans kärnvapensamtal	1.8
+main-news	headlines	Drunkning i Portugal: Brittisk flicka och farfar 	Brittisk flicka och farfar drunknar i Portugal	2.2
+main-news	headlines	Iran, makter inställda på kärnkraftssamtal med hög insats	USA, Iran förbereder sig för kärnkraftssamtalen i Istanbul	3.2
+main-news	headlines	Syriska styrkor dödar tonåringar i protester i Aleppo	Syriska styrkor dödar 3 demonstranter i Damaskus-aktivister	1.2
+main-news	headlines	Jaguar skapar 1 100 jobb i Storbritannien	Royal Mail skapar 1 000 jobb	1.25
+main-news	headlines	Irak genomsöker Syrienbundet Iranskt plan: tjänstemän	Irak genomsöker syrisktbundet iranskt plan	4.2
+main-news	headlines	Syrienstriderna rasar när Ryssland uppmanar västvärlden att tänka om	Syrienstrider rasar i huvudstaden, Ryssland pressade	2.6
+main-news	headlines	Erdogans parti lägger fram plan för turkiskt presidentskap	Erdogans parti siktar på turkiskt presidentskap	3.6
+main-news	headlines	Förläggare frikänd i integritetsmål	PBS publicerar nya riktlinjer om opartiskhet	0.4
+main-news	headlines	Samsung kör om Nokia i telefoner	Åtal för hundattack mot polis	0
+main-news	headlines	Mordrättegången mot Gu Kailai avslutas i Kina	Gu Kailais mordrättegång avslutas i Kina	5
+main-news	headlines	"Inte ""gömma bollen"" på Ryssland: Obama"	"Obama säger att han inte ""gömmer bollen"" för Ryssland"	4.4
+main-news	headlines	Englands kapten Andrew Strauss drar sig tillbaka från professionell cricket	Englands kapten Strauss drar sig tillbaka från cricket	4.8
+main-news	headlines	Kina stöder Sri Lanka i FN:s resolution	Krigsförbrytelser: Kina stöder Lanka på FN:s resolution	3.6
+main-news	headlines	Ton upp: Tendulkar når 100:e internationella hundratalet	Sachin Tendulkars når 100 århundraden - i bilder	3.8
+main-news	headlines	Konspiration mot mig - Lance	Dagen börjar i panik	0.2
+main-news	headlines	Mursi avlägger ed, blir egyptisk president	Morsi avlägger ed som Egyptens första civila president	3.8
+main-news	headlines	Syrisk opposition vädjar till brottmålsrätt	Syriens oppositionsledare kritiserar USA	2.2
+main-news	headlines	Sunderland 2-2 Bolton: Davies dubbel får Trotters en poäng men de stannar i botten tre	Sunderland 2-2 Bolton: Davies in vid dubbeln	4
+main-news	headlines	Syriska styrkor beskjuter städer, kolliderar med rebeller	Syriska styrkor och rebeller drabbar samman i kustprovinsen	2.6
+main-news	headlines	Bahrainska demonstranter och polis drabbas samman efter begravningen	Grekiska demonstranter och polis drabbar samman som räddningsavtal i limbo	0.6
+main-news	headlines	Apple köper säkerhetsföretaget AuthenTec för 356 miljoner dollar	Nyhetssammanfattning: Apple köper AuthenTec för 356 miljoner dollar	4.4
+main-news	headlines	Facktidningen Variety till salu	Hollywood-handelspublikationen Variety lades ut till försäljning	4
+main-news	headlines	Australiensare flyr hem under översvämningar	Den australiensiska talaren kliver åt sidan	0.8
+main-news	headlines	Tyskland undviker recession med tillväxt under första kvartalet	Euroområdet undviker recession under Q1, tack vare Tyskland	2
+main-news	headlines	Asiatiska aktier stiger efter att grekisk omröstning lindrar rädslan	Oljan stiger efter det grekiska valresultatet	1.4
+main-news	headlines	Brittisk soldat dödad i södra Afghanistan	Två brittiska soldater dödade i Afghanistan	3
+main-news	headlines	Obama tyst om Kina-dissidenten	Obama besöker koreanska DMZ	0.6
+main-news	headlines	Självmordsbombare dödar 6 i Afghanistans huvudstad	Självmordsbombare dödade 37 vid moské i Afghanistan	2
+main-news	headlines	Skjutning i Denver: Polis detonerar enheter i den misstänktes hem	Polisen ska detonera enheter i Colorado som skjuter den misstänktes hem	4.6
+main-news	headlines	Syrien överlämnar kroppar av journalister	Syriens TV säger att regeringstrupper befriar fångna journalister	1.4
+main-news	headlines	Rättsläkare: Whitney Houston dog i badkaret	Rättsläkare bekräftar att Whitney Houston hittats i badkaret	4.5
+main-news	headlines	Japan drabbas av svåra översvämningar - på bilder	Skogsbränder i Oklahoma förstör hem – på bilder	0.8
+main-news	headlines	Japan ska deportera kineser som hålls över ön	Den tyska domstolen överväger försening av beslut om eurofonden	0
+main-news	headlines	En del våld i Syrien motsvarar inbördeskrig - Röda Korset	En del våld i Syrien kvalificeras som inbördeskrig - Röda Korset	4.4
+main-news	headlines	Romney vinner Nevada Caucus	Romney flyttar fokus till Santorum inför valmöten	1
+main-news	headlines	Apple iPad mini gör debut	Apple iPad mini gör debut i Asien	3.4
+main-news	headlines	Hamas hänger tre Gaza-fångar	Myanmar tillkännager frigivning av fångar	0.6
+main-news	headlines	Östtimor röstar i presidentvalet	Venezuelaner uppmanas att rösta i presidentvalet	1
+main-news	headlines	Sunday Times-journalisten Marie Colvin dödades i Syrien	"Sunday Times journalist, fransk fotograf ""dödad i Syrien"""	2.8
+main-news	headlines	KL-aktien högre vid mitten av eftermiddagen	KL-aktien lägre vid mitten av förmiddagen	1.6
+main-news	headlines	Lärare i Chicago strejkar i bitter kontraktstvist	Lärarfackliga delegater i Chicago kan avsluta strejken	2.4
+main-news	headlines	Israel ska befria palestinsk hungerstrejkande	Israel ber USA om vapen som kan hjälpa Iran att anfalla	0.8
+main-news	headlines	Ingen bra början: Hollandes plan träffat av blixten på väg till Berlin	Frankrikes president Francois Hollandes plan träffat av blixten på väg till Berlin	4.4
+main-news	headlines	Det afghanska parlamentet röstar för att avsätta nyckelministrar	Det afghanska parlamentet röstar för att avsätta viktiga ministrar	4.8
+main-news	headlines	Angripare i afghansk uniform dödar 2 NATO-trupper	Man i afghansk arméuniform dödar Nato-soldat	3.4
+main-news	headlines	Billiga generika inget universalmedel för Indiens fattigaste	Billiga cancerläkemedel inget botemedel för Indiens fattigaste	3.8
+main-news	headlines	"""Arresteringsorder"" för Maldivernas före detta president"	Maldivernas domstol utfärdar arresteringsorder för tidigare president	4.5
+main-news	headlines	HRW: Jordanien avvisar palestinska flyktingar från Syrien	Rapport: Jordanien är partisk över palestinier från Syrien	2.2
+main-news	headlines	Syriska styrkor har överskridit rebellernas fäste	Syriens armé tar rebellernas fäste i norr	4
+main-news	headlines	Kinesiska börser stänger högre mitt på fredag	Kinesiska börser öppnar lägre fredag	1
+main-news	headlines	Sandy smäller in i nordost; minst 18 döda, 7,4 miljoner utan ström	Stormar i östra USA lämnar 2 döda i Va., 2 miljoner utan ström	2.6
+main-news	headlines	Putin utropar seger i Rysslands presidentomröstning	Klagomålen i ryska valet ökar	1
+main-news	headlines	Högsta domstolen ska pröva ärendet om rösträttslagen	Högsta domstolen ska pröva företagens mänskliga rättigheter	1.4
+main-news	headlines	Libyen skjuter upp parlamentsvalet till den 7 juli	Libyen skjuter upp viktiga val till den 7 juli	4
+main-news	headlines	"Invigningsceremonin för OS i London 2012 ""att presentera ett grönt och trevligt land"""	"OS i London 2012: Invigningsceremonin ska bli ett ""grönt och trevligt land"", säger Danny Boyle"	4.2
+main-news	headlines	Pakistan blockerar Twitter på grund av antiislamiskt material	"Pakistan blockerar Twitter på grund av ""hädning"""	3.8
+main-news	headlines	Annan besöker syriska flyktingar i Turkiet på tisdag	Annan för att besöka syriska flyktingar i Turkiet före Iran	3.8
+main-news	headlines	Pakistans premiärminister chockad över lavinfångad armépersonal	Lavin i Pakistan: räddningsmän letar efter begravda soldater	2.4
+main-news	headlines	Oppositionsledare dyker upp för att fira kambodjanska arbetares död	Kambodjas oppositionsledare kallades till domstol	0.4
+main-news	headlines	Mali ska rösta för president	Mali räknar röster efter presidentvalet	2.2
+main-news	headlines	Pussy Riot-medlemmen Alyokhina släpptes från fängelse i Ryssland	Pussy Riot-medlemmen Maria Alyokhina befriad från fängelse	4.4
+main-news	headlines	Asiana-jet kraschlandar på flygplatsen i San Francisco	Planet kraschlandar på flygplatsen i San Francisco	3.6
+main-news	headlines	Blizzard hamrar i nordöstra USA, fem döda, 700 000 förlorar ström	Blizzard stormar nordost i USA, stänger vägar	2.2
+main-news	headlines	2 franska journalister dödade i Mali	Två franska journalister dödades i Mali	5
+main-news	headlines	Fordon brinner i den kollapsade Japantunneln	"Fordon ""lämnade brinnande"" när rök kommer ut från Japans tunnel"	4.2
+main-news	headlines	Kinas börser stänger lägre på fredagen	Kinas börser stänger högre på onsdagen	1.8
+main-news	headlines	Borgmästare säger att det är 14 döda i en explosion i en gödselfabrik i Texas	Räddningsmän letar efter överlevande från explosionen av gödselmedel i Texas	1.4
+main-news	headlines	CBN upprepar planen att fasa ut polymersedlar	Nigeria tillkännager planer på att ändra polymer Naira-anteckningar	2.2
+main-news	headlines	USA anklagar spionage mot NSA-läckare	USA anklagar Snowden för spionage för läckor	3.8
+main-news	headlines	Den kinesiska generalens son får 10 års fängelse för våldtäkt	Den kinesiska generalens son får 10 års fängelse för gruppvåldtäkt	4.2
+main-news	headlines	Var är Rusty? Röd panda försvinner från National Zoo	Försvunnen röd panda återvände säkert till National Zoo	2
+main-news	headlines	Drottning Beatrix av Nederländerna abdikerar för sin son	Drottning Beatrix av Nederländerna abdikerar till förmån för sonen	5
+main-news	headlines	USA dumpar bomber vid Stora barriärrevet	USA:s militär kastar bomber nära Australiens stora barriärrev	3.8
+main-news	headlines	38 talibanmilitanter dödade i Afghanistan	Talibanerna attackerar USA:s bas i Afghanistan	1.2
+main-news	headlines	Den kraftigaste tyfonen 2013 drabbade Filippinerna	23 Försvunna när tyfonen Utor träffar Filippinerna	2.2
+main-news	headlines	Efterlyser fler protester i Egypten	Dödssiffran i Egyptens protester stiger till 49	1.4
+main-news	headlines	"USA:s regering ""på randen av avstängning"""	Obama avvisar GOP:s erbjudande om att underlätta avstängningen	2.4
+main-news	headlines	123 dödade i strider i norra Syrien	Många dödade i syriskt flyganfall	3
+main-news	headlines	Kritiker säger att Putins säkerhetsrestriktioner kränker rättigheter	Putins säkerhetsdekret för Sotji väcker kritik hos kritiker	3.2
+main-news	headlines	Egypten rustar för fler protester, ber om lugn	Egypten rustar för fler protester mot Morsi, ber om lugn	3.8
+main-news	headlines	Morsi-anhängare protesterar i Egypten	Morsi-stödjare trotsar inför hotet från Egyptens regering	3
+main-news	headlines	Aktier stiger i tidig handel	Amerikanska aktier lättar i hackig handel	2
+main-news	headlines	Dödssiffran i Bangladeshs byggnadkollaps stiger upp till 540: armén	Byggnadskollaps i Bangladesh toppar 600	2.8
+main-news	headlines	"Den trotsige Mugabe, som svors in för sjunde mandatperioden, spränger ""elaka"" västerut"	Mugabe svors in för ytterligare en mandatperiod	4
+main-news	headlines	Nelson Mandela på sjukhus för tester	Sydafrika: Mandela på sjukhus för tester	4.6
+main-news	headlines	Iran, sex globala makter undertecknar ett landmärke kärnkraftsavtal	Iran, världsmakter kommer överens om kärnkraftsavtal	4
+main-news	headlines	Algeriet inleder militär operation för att rädda gisslan från al-Qaida	Algeriet funderar på internationell styrka för gisslan	2.2
+main-news	headlines	Offret för gruppvåldtäkt i Delhi dör på sjukhuset i Singapore	Offret för gruppvåldtäkt i Delhi flögs till sjukhuset i Singapore	3.4
+main-news	headlines	Preventivmedel kopplat till högre risk för glaukom	"P-piller ""fördubblar risken för glaukom"""	3.4
+main-news	headlines	Malaysia anger den 5 maj som datum för tätt omtvistade val	Malaysia sätter datum för landmärkeval	3.4
+main-news	headlines	Dhawan slår Indien till storseger över Sydafrika	Dhawan ton sätter upp India Trophy vinst över Sydafrika	4.2
+main-news	headlines	N-Korea skjuter upp familjeåterföreningar	Nordkorea skjuter upp krigshärjade familjeförbund	3.8
+main-news	headlines	Syrien avvisar USA:s och Storbritanniens påståenden om kemiska vapen	USA misstänker att Syrien använt kemiska vapen	2.6
+main-news	headlines	Egypten arresterar Muslimska brödraskapets Supreme Guide	Egypten förbjuder muslimska brödraskapet	2.2
+main-news	headlines	Beväpnade män dödar nio personer i nordvästra Pakistan	Beväpnade män dödar tre poliser i Irak	0.4
+main-news	headlines	Nyhetssammanfattning för 11 mars	Nyhetssammanfattning för 14 januari	1.8
+main-news	headlines	Hawaii godkänner homoäktenskapsförslaget	Den amerikanska senaten godkänner lagförslaget för homosexuella arbetare	1
+main-news	headlines	Syrisk opposition uppmanar EU att skicka vapen till rebeller	Syrisk opposition möts för att välja tillfällig premiärminister	1.6
+main-news	headlines	Begravning av Oscar Pistorius flickvän Reeva Steenkamp äger rum	Oscar Pistorius sköt Steenkamp i badrummet	1.6
+main-news	headlines	Två brandmän dödades i bakhåll i New York	Två brandmän i New York i bevakat tillstånd efter ett dödligt bakhåll	2.6
+main-news	headlines	Tio räddade utanför Waterford, Dublins kuster	Sex räddade efter att en båt kantrat i Dublin Bay	2.6
+main-news	headlines	Mars roversamlar första berggrundsprovet	Wawrinka når första grand slam-finalen	0
+main-news	headlines	Ankeet Chavan beviljade villkorlig borgen för äktenskap	Ankeet Chavan beviljade borgen för att gifta sig	4.4
+main-news	headlines	Man som kämpade mot Fukushima-katastrofen dör i cancer	Tidigare fabrikschef som kämpade mot Fukushima-katastrofen dör i cancer	3.4
+main-news	headlines	Iran säger att kärnkraftssamtalen ska återupptas nästa månad	Iran säger att de kan störa fiendens kommunikationssystem	0.6
+main-news	headlines	Amerikanska myndigheter åtalar mannen i ricinsond	Sydafrikansk polis arresterar 50 i gårdsprotest	0
+main-news	headlines	25 kroppar hittades vid en razzia i algerisk gasanläggning	Ytterligare 25 kroppar hittades vid den algeriska gasanläggningen	4.4
+main-news	headlines	Ferrer tar sig in i Australian Opens kvartsfinal	Ferrer slår Nishikori för att gå vidare till Australian Opens kvartsfinal	3.6
+main-news	headlines	UBS avgör stämningsansökan om hypotekslån i USA	UBS avgör stämningsansökan om hypotekslån i USA och tar 600 miljoner pund i avgift	3
+main-news	headlines	Nord, Sydkorea går med på samtal	Nord, Sydkorea håller sällsynta samtal	3.8
+main-news	headlines	Beväpnade män dödar en kvinnlig politiker i Pakistan	Beväpnade män dödar fem kvinnliga lärare i Pakistan	2.2
+main-news	headlines	Kardashian skilsmässa redo för rättegång	Hårt drabbade hotell redo för priskrig	0
+main-news	headlines	Nya Zeeland kommer att legalisera homosexuella äktenskap	Nya Zeeland röstar för att legalisera samkönade äktenskap	4.6
+main-news	headlines	Syriens regim hävdar evakuering av 5 000 nära Damaskus	Syriens armé fortsätter att sanera insatser nära Damaskus	1.6
+main-news	headlines	Nobelprisvinnande författaren Doris Lessing dör	Nobelpristagaren Doris Lessing avlider vid 94 års ålder	4.6
+main-news	headlines	Internet, telefontjänst återställd i Syriens huvudstad	Internettjänsten återupptas i Syrien	4.2
+main-news	headlines	Syriens premiärminister överlever bombattacken	Syriens premiärminister överlever bombattacken i huvudstaden	3.8
+main-news	headlines	Amerikanska aktieterminer stiger före jobbrapporten	Aktieterminer stiger högre, alla blickar på Fed	3
+main-news	headlines	Bombexplosion dödade 10 i sydvästra Pakistan	Ett stort skalv dödade 39 i Pakistan	1
+main-news	headlines	David Cameron uppmärksammar Sri Lanka för anklagelser om krigsförbrytelser	Sri Lanka varnade för anklagelser om krigsbrott	3.6
+main-news	headlines	Morsi-anhängare drabbar samman med kravallpolis i Kairo	Demonstranter drabbar samman med kravallpolis i Kiev	0.8
+main-news	headlines	Afghansk polis dödar 5 talibankrigare	5 talibaner, 5 afghanska poliser dödade i bakhåll	2.2
+main-news	headlines	Beväpnade män kidnappar flygbolagspiloter i Libanon	Beväpnade män kidnappar 2 Turkish Airlines-piloter i Libanon	4.2
+main-news	headlines	Kurdiska rebeller drar sig tillbaka från Turkiet i mars: rapport	Kurdiska rebeller drar sig tillbaka från Turkiet	4.2
+main-news	headlines	Japan reviderar BNP-tillväxten till 1,1 procent årligen under tredje kvartalet	Japans BNP-tillväxt nedgraderades till 1,1 % årligen	3.4
+main-news	headlines	Grunden för Sydafrika bygger på Nelson Mandelas minne	Australiska politiker klagar över Nelson Mandelas död	1.30
+main-news	headlines	Ukrainas protestledare utnämner ministrar, ryska trupper i beredskap	"Ukraina vägrar att agera mot rysk ""provokation"""	1.20
+main-news	headlines	Malala, Snowden, vitryssar nominerade till Sacharovpriset	Flyktingen Snowden nominerad till det europeiska rättighetspriset	3.60
+main-news	headlines	ElBaradei blir egyptisk premiärminister	Liberala ElBaradei utnämndes av Egypten till premiärminister, islamister gråter fult	3.20
+main-news	headlines	Taiwans ekonomi växer med 2,27 % under april-juni kvartalet	Kinas ekonomiska tillväxt återhämtade sig till 7,8% under det senaste kvartalet	1.00
+main-news	headlines	Tamerlan Tsarnaev begravd i Virginia	Boston bombmisstänkt begravd på Virginia kyrkogård	3.00
+main-news	headlines	State Dept. utfärdar bred resevarning, säger att terrorattack är möjlig	USA utfärdar global resevarning, citerar al-Qaida-hot	3.80
+main-news	headlines	Singapore varulager hamnar på 0,11 pct	Singapore-aktien slutar ner 0,45 %	1.60
+main-news	headlines	Ryssland varnar Ukraina för ett EU-avtal	Rebeller tar ner Ukrainas helikoptrar	1.20
+main-news	headlines	Hernandez dubbel ger Mexiko seger	Hernandez dubbel ger Mexiko seger över Japan	3.40
+main-news	headlines	Kina sparkar den högsta ekonomiska tjänstemannen	China FM är värd för höga ASEAN-tjänstemän	0.40
+main-news	headlines	Kanada godkänner oljeledning till Stillahavskusten	Den kanadensiska regeringen godkänner kontroversiell oljeledning till Stilla havet	4.80
+main-news	headlines	Stormen begraver nordost; 16 tum snö i NJ	Forumet uppmanar till stabila relationer för Kina och Japan	0.00
+main-news	headlines	Jamaicansk anknytning i Liverpools vinst	Japansval: Shinzo Abe hyllar jordskredsvinst	0.40
+main-news	headlines	Internationella vapenexperter lämnar Syrien, Obama kommer att uttala sig	Vapenexperter lämnar Syrien, USA förbereder attack	2.80
+main-news	headlines	Southwest-jet träffade nosen först	Southwest Jet's Nose Gear landade först	3.60
+main-news	headlines	Tolv dödade i bombexplosion på pakistanska tåg	Beväpnade män dödar nio i sydvästra Pakistan: Polis	2.00
+main-news	headlines	Ett kraftigt skalv har drabbat östra Indonesien	Skalvet på 6,6 mag drabbade östra Indonesien	4.00
+main-news	headlines	Obama piskae Nordkorea som pariastat	"Obama piskar Nordkorea som en svag ""pariastat""."	3.80
+main-news	headlines	Colombia slår till tre gånger	Colombia för glatt för Grekland	1.80
+main-news	headlines	Lord Palumbo ger hopp om ett förhållande med sin son James	Oscar Pistorius skickas för mental utvärdering: vad kommer det att betyda?	0.20
+main-news	headlines	Vice talman står inför nya sexanspråk	Vice talman Nigel Evans återgripen	2.00
+main-news	headlines	CIA-chefen besöker Israel för Syriensamtal	CIA-chef i Israel för att diskutera situationen i Syrien	5.00
+main-news	headlines	Självmordsbomb dödar 4, skadar 13 i Pakistan	Twitter blockerar innehåll i Pakistan	0.00
+main-news	headlines	"Ukrainska rebeller ""flyr det östliga fästet"""	Ukraina hävdar att rebellerna spolats från huvudfästet	3.60
+main-news	headlines	4 utlänningar bland 9 dödade i hotellattacken i Kabul	Utlänningar bland döda i hotellattack i Kabul	3.60
+main-news	headlines	Brandmän bekämpar skogsbrand i sydvästra Kina	Brandmän kämpar mot skurbrand i Hokianga	3.40
+main-news	headlines	Hassan Rouhani vinner presidentvalet i Iran	Maduro vinner Venezuelas presidentomröstning	0.20
+main-news	headlines	Kvinna häktad för barns död En kvinna har häktats åtalad för mord efter att en åttaårig flicka hittats död i ett flerfamiljshus.	Mamma häktad för dotters död En mamma har häktats åtalad för mord efter att hennes åttaåriga dotter hittats död i ett flerfamiljshus.	4.40
+main-news	headlines	Rödskjortaledaren uppmanar att inte motsätta sig armén	Oljerigg spottade: Peking att inte skicka armén	0.60
+main-news	headlines	Ryssland hyllar idén att ge rättighetshjälp till Ukraina	Ryssland fängslar misstänkta islamistiska militanter i en räd i Moskva	0.40
+main-news	headlines	Georgiens premiärministers allierade för att bli president - avslutningsenkät	Allierad till Georgiens miljardärs premiärminister blir president - avslutningsenkät	4.60
+main-news	headlines	Bilbomber dödar minst 16 i Iraks huvudstad	Bilbomber dödar minst 47 i Bagdad-området	2.60
+main-news	headlines	Saudiarabien får en plats i FN:s säkerhetsråd	Saudiarabien avvisar plats i FN:s säkerhetsråd	2.80
+main-news	headlines	USA:s drönaranfall dödar 11 personer i Pakistan	Amerikansk drönare dödar 16 i Pakistan	3.20
+main-news	headlines	20 dödade i bombattack på pakistansk bas	8 soldater dödades i bombattack i nordvästra Pakistan	2.00
+main-news	headlines	Shenzhen aktieindex stänger högre på måndag	Shenzhen aktieindex stänger lägre -- 31 oktober	1.80
+main-news	headlines	Prins Harry hyllar amerikanska krigsdöda	USA:s presidenter hyllar Mandela	0.40
+main-news	headlines	15 döda i Irakattacker, bomb på fotbollsplan	46 döda i attacken i Irak	1.40
+main-news	headlines	Myanmar arresterar 44 för sekteristiskt våld	Förbud varnar att Syrienstrejker kan förvärra sekteristiskt våld	1.20
+main-news	headlines	Irans tjänsteman: USA:s avslag på visum till iranskt sändebud kommer inte att påverka atomförhandlingarna	Iransk förhandlare optimistisk om de senaste kärnkraftssamtalen	2.60
+main-news	headlines	Regeringar, grupper lovar miljoner för tyfonhjälp	Kanada lovar 5 miljoner dollar i tyfonhjälp	2.40
+main-news	headlines	Grekland stänger av statliga programföretag	Grekland stänger statliga programföretag för att spara pengar	4.20
+main-news	headlines	Guatemalas domstol finner före detta diktator skyldig till folkmord	Guatemalas tidigare ledare dömd för folkmord	5.00
+main-news	headlines	Misshandlad tonåring i Florida släpptes i Israel	Palestinsk tonåring dör av skador som ådragits i israelisk skottlossning	0.40
+main-news	headlines	Iran, sextett för att återuppta expertsamtal	"Iran är positivt inställd till ""användbara"" kärnvapenförhandlingar på expertnivå"	1.60
+main-news	headlines	Bangladesh kollapssökning över; dödssiffran 1 127	Dödsfall i kollaps i Bangladesh topp 620	3.20
+main-news	headlines	Neymar tar Brasilien till sextondelsfinal	Neymar tar Brasilien in i åttondelsfinalen i VM	4.40
+main-news	headlines	Ukraina kommer att genomföra ensidig vapenvila	Ukraina erbjuder ensidig vapenvila	4.80
+main-news	headlines	Stones lägger till en andra Hyde Park-konsert	Rolling Stones lägger till andra Hyde Park-datum	5.00
+main-news	headlines	Vad tidningarna säger, 19 augusti 2013	Vad tidningarna säger, 30 december 2013	2.67
+main-news	headlines	5 nationer möts i dis	Putins äktenskap är över	0.00
+main-news	headlines	Bilbomb vid svenskt konsulat i Libyens Benghazi, inga skadade	Bilbomb träffade svenska konsulatet i Benghazi, ingen skadad	5.00
+main-news	headlines	Bombattack nära den pakistanska arméns huvudkvarter	Bombning utanför restaurangen i Pakistan skadade 15	3.00
+main-news	headlines	Kroatien börjar nedräkningen till ett historiskt EU-inträde	Kroatien räknar ner till EU-anslutningen	4.80
+main-news	headlines	Självmordsattack dödar åtta i Bagdad	Självmordsattacker dödar 24 människor i Bagdad	2.40
+main-news	headlines	Om krigsförbrytare och hjältar: The Whitewashing of Ariel Sharon ŔÄ	Om krigsförbrytare och hjältar: The whitewashing of Ariel Sharon	5.00
+main-news	headlines	Rogers, Videotron utökar räckvidden med nätverksdelningsavtal	Rogers, Videotron når nätverksdelning, spektrumavtal	4.80
+main-news	headlines	Framstående AIDS-forskare dödades i en malaysisk flygkrasch	Topp-AIDS-forskare dödades i flygkrasch i Malaysia	5.00
+main-news	headlines	Israeliska styrkor dödar 2 palestinska militanter	Israelisk armé dödar palestinsk militant i razzia	3.20
+main-news	headlines	"Dödssiffran ""stiger till 17"" efter att tyfonen drabbat Japan"	Dödssiffran stiger till 84 i översvämningar i Pakistan	1.20
+main-news	headlines	Protesterna fortsätter i spänd Ukrainsk huvudstad	Protesterna fortsätter i Ukrainas huvudstad	5.00
+main-news	headlines	Två franska journalister dödades efter kidnappningen i Mali	Två franska journalister bortförda, dödade i norra Mali	4.60
+main-news	headlines	Rubriker i stora iranska tidningar den 14 december	Rubriker i stora iranska tidningar den 29 juli	2.00
+main-news	headlines	Iran varnar för spridning av eventuellt krig mot Syrien	Iransk delegation beger sig till Libanon, Syrien	1.80
+main-news	headlines	Pakistans tidigare president Pervez Musharraf arresterades igen	Den tidigare pakistanska militärhärskaren Pervez Musharraf beviljades borgen	3.00
+main-news	headlines	"USA:s drönareanfall ""dödar 4 militanter i Pakistan"""	USA:s drönareanfall dödar 10 personer i Pakistan	3.80
+main-news	headlines	Storbritanniens ex-premiärminister Margaret Thatcher dör vid 87 år	Storbritanniens tidigare premiärminister Margaret Thatcher avlider	4.00
+main-news	headlines	"Isbjörns-DNA ""kan hjälpa till att bekämpa fetma"""	Studier av isbjörnar kan öka kampen mot fetma	4.80
+main-news	headlines	"""Fast & Furious""-stjärnan Paul Walker dör i en bilolycka"	Paul Walker död: Fast and Furious-stjärnan, 40, dödades i bilolycka	4.80
+main-news	headlines	Flyganfall dödar en man i Syriens Hama	USA:s drönareanfall dödar elva i Pakistan	2.80
+main-news	headlines	Turkiets premiärminister och president sammandrabbade över svar på protester	Turkiets president uppmanar till lugn i rikstäckande protester	2.60
+main-news	headlines	Ett nytt kraftigt jordbävning drabbar den krossade regionen Pak	6,8 jordbävning i sönderslagen Pakistan-region	4.40
+main-news	headlines	Översvämningar i Centraleuropa fortsätter att skapa förödelse	Europas översvämningar fortsätter att skapa förödelse	4.60
+main-news	headlines	Luxemburgs premiärminister avgår efter spionskandal	Luxemburg röstar efter spionbråk	2.20
+main-news	headlines	3 döda, 4 saknade i byggolycka i centrala Kina	En död, 8 saknade i en båtolycka i Vietnam	0.40
+main-news	headlines	USA, Kina misslyckas med att skriva över sprickor i banden	Kina: Lättnad i fokus när hopp om saknad bleknar	0.40
+main-news	headlines	VM live: Frankrike 0-0 Tyskland	VM live: Tyskland 0-0 Ghana	1.40
+main-news	headlines	Tokyo kommer att vara värd för spelen 2020	Tokyo vinner loppet om att vara värd för de olympiska spelen 2020	4.80
+main-news	headlines	Frankrike varnar för extremister som drar nytta av Egyptens våld	Frankrike fruktar att extremister kommer att dra nytta av Egyptens våld	4.40
+main-news	headlines	Brittisk tonåring dödades i höstas i fall från hotell i Magaluf	Brittisk tonåring dödad i Magalufs hotellfall	5.00
+main-news	headlines	USA:s drönareanfall dödar åtta i Waziristan	USA:s drönareanfall dödar 11 i Pakistan	2
+main-news	headlines	Rysk oppositionsledare i husarrest	Rysk oppositionsledare placerad i husarrest	5
+main-news	headlines	Senaten bekräftar Janet Yellen som ordförande för US Federal Reserve	Senaten bekräftar Janet Yellen som nästa ordförande för Federal Reserve	5
+main-news	headlines	Israel bekräftar attack mot Syrien riktade vapen	Israeliska tjänstemän: Anfall mot Syrien riktade vapen	5
+main-news	headlines	Jurymedlemmar finner Jodi Arias kvalificerad för dödsstraff	Jodi Arias är berättigad till dödsstraff, säger juryn	5
+main-news	headlines	Twitter rapporterar blockering i Venezuela	Twitter säger att bilder blockeras i Venezuela	4
+main-news	headlines	Dödssiffran i Goa-byggnaden är nära 15	Antalet döda i indisk byggnadskollaps stiger till 14	3
+main-news	headlines	Pak religiösa organ stöder minderåriga äktenskap	CII stöder minderåriga äktenskap	3
+main-news	headlines	"Mt Gox avslöjar 200 000 ""glömda"" bitcoin-drag"	"Mt Gox hittar 200 000 ""glömda"" bitcoins"	5
+main-news	headlines	Mer än 100 skadades i en anläggningsexplosion i Texas	Hundratals tros ha skadats i en explosion i en gödselfabrik i Texas	4
+main-news	headlines	Redford hyllar Albertas ekonomi inför omröstningen om ledarskap	Redford talar om PC-konventionen inför ledarskapsgranskning	2
+main-news	headlines	Obama håller ut över anfallen i Syrien	Storbritannien uppmanar länder att hjälpa Syrien	1
+main-news	headlines	Sydkoreansk soldat enligt uppgift flyr efter att ha dödat 5 kamrater vid gränsen till Nordkorea	Sydkoreansk soldat dödar kamrater och flyr	4
+main-news	headlines	Tycoon hävdar vinst i Ukraina och lovar att söka framtiden i EU	Vallokalerna öppnar vid det ukrainska presidentvalet	0
+main-news	headlines	Syrien går med på att överlämna kemiska vapen	Storbritanniens Cameron: Syrien, Ryssland måste visa att förslaget om kemiska vapen är äkta	2
+main-news	headlines	AbbVie surar på 55 miljarder dollar Shire Deal efter skatteförändringar	AbbVie svalkar på 55 miljarder dollar Shire-affär efter amerikanska skatteförändringar	5
+main-news	headlines	Militant attack från Afghanistan dödar fyra i Upper Dir	Militant attack från Afghanistan dödar FC-soldat i Balochistan	3
+main-news	headlines	13 dödade i afgansk terrorattack	6 dödade i den afghanska huvudstadens moskéattack	2
+main-news	headlines	Revs tidiga läsningar: 2 mars	Rev.s tidiga läsningar: 3 september 2015	2
+main-news	headlines	Påven helgonförklarar 2 palestinier	Sverige erkänner den palestinska staten	0
+main-news	headlines	Ian Paisleys begravning äger rum i Belfast	Begravning av MH17-offret Liam Sweeney äger rum i Newcastle	0
+main-news	headlines	Waba blir ny NLC-president	Väntar på nästa president	1
+main-news	headlines	5 amerikanska luftangrepp riktar sig mot Islamiska statens krigare	Kurderna ser att Turkiet hindrar kampen mot Islamiska staten	1
+main-news	headlines	Den amerikanska senaten röstar för att lägga fram lagförslaget om översyn av kärnkraften i Iran	Amerikanska forskare hyllar Irans kärnkraftsavtal	1
+main-news	headlines	Redaktörer från hela världen uppmanar Turkiet att skydda media	Mediefrihet står på spel när Turkiet bekämpar rebeller	2
+main-news	headlines	Filippinerna, Kanada lovar att ytterligare stärka relationerna	Filippinerna sparar 100 efter att färjan sjunker	0
+main-news	headlines	Israel blockerar palestinier från Gamla Staden i Jerusalem	Tvåstatslösning mellan palestinier, Israel i luften	1
+main-news	headlines	Hur mycket vet du om Secret Service?	Lagstiftare från båda sidor uttrycker upprördhet över Secret Service	1
+main-news	headlines	Obama kämpar för att lugna Saudiarabiens rädsla när Irans samtal återupptas	Myanmar kämpar för att slutföra röstlistan för söndagsundersökningar	0
+main-news	headlines	Sydkorea förklarar slutet på MERS-utbrottet	Nordkoreas delegation möter sydkoreanska tjänstemän	0

@@ -1,0 +1,49 @@
+I. IDENTIFYING INFORMATION	
+Title*	SuperLim Diagnostic Dataset
+Subtitle	
+Created by*	Felix Morger, Gothenburg University (felix.morger@gu.se)
+Publisher(s)*	Språkbanken Text (sb-info@svenska.gu.se)
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/en/resources/superlim 
+License(s)*	CC BY 4.0
+Abstract*	Manual Swedish translation of all 1106 sentence pairs of the SuperGLUE diagnostic dataset.
+Funded by*	Vinnova (grants no. 2020-02523, 2021-04165)
+Cite as	
+Related datasets	SuperLim, SuperGLUE diagnostic dataset, FraCaS test suite
+	
+II. USAGE	
+Key applications	Fine-grained analysis of system performance on a broad range of linguistic phenomena.
+Intended task(s)/usage(s)	Natural language inference.
+Recommended evaluation measures	Krippendorff's alpha (the official SuperLim measure), Matthews' correlation coefficient.
+Dataset function(s)	Diagnostics
+Recommended split(s)	Test only
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	1106
+Nature of the content*	Pairs of sentences annotated according with their inference relation and the linguistic phenomena that account for their differencs
+Format*	JSONL and TSV. Nine columns/objects: id, four columns with the information about the relevant linguistic phenomena; domain; label; premise; hypothesis
+Data source(s)*	SuperGLUE Diagnostic Dataset: Pruksachatkun, Yada & Nangia, Nikita & Singh, Amanpreet & Michael, Julian & Hill, Felix & Levy, Omer & Bowman, Samuel. (2019). SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems. 
+Data collection method(s)*	See original source. 
+Data selection and filtering*	See original source. 
+Data preprocessing*	See original source. 
+Data labeling*	Some data labels (annotations) were changed to fit with Swedish example, but in general the aim was to keep such changes to a minimum. 
+Annotator characteristics	
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	See original data source.
+Things to watch out for	See original data source.
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	2021-06-04, v1.0
+Which changes have been made, compared to the previous version*	Full translation coverage.
+Access to previous versions	
+This document created*	2021-06-04, Felix Morger.
+This document last updated*	2023-02-03, Aleksandrs Berdicevskis.
+Where to look for further details	
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	
+	
+References	

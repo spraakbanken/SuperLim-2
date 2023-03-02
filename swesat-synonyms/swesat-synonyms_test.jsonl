@@ -1,0 +1,739 @@
+{"id": "h06a01", "item": "ingivelse", "candidate_answers": ["impuls", "tvångstanke", "invändning", "självklarhet", "uppmaning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h06a02", "item": "solid", "candidate_answers": ["tjock", "massiv", "tung", "härdad", "stel"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06a03", "item": "tappning", "candidate_answers": ["förklaring", "version", "repetition", "vändning", "överraskning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06a04", "item": "popularisera", "candidate_answers": ["stödja", "göra lättillgänglig", "engagera", "visa uppskattning", "umgås"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06a05", "item": "gängse", "candidate_answers": ["fullt trovärdig", "tråkig", "allmänt rådande", "omtyckt", "strikt neutral"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06a06", "item": "sanskrit", "candidate_answers": ["religion", "dans", "tempel", "konst", "språk"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06a07", "item": "med hull och hår", "candidate_answers": ["stadigt", "med glädje", "spontant", "brutalt", "fullständigt"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06a08", "item": "hybrid", "candidate_answers": ["virvelvind", "himlakropp", "förfalskning", "blandform", "dubbelgångare"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06a09", "item": "moralkaka", "candidate_answers": ["oanständigt förslag", "mästrande anmärkning", "dold motsägelse", "kärnfull slutsats", "orättvis beskyllning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06a11", "item": "ekvivalens", "candidate_answers": ["osäkerhet", "överlägsenhet", "allmängiltighet", "likvärdighet", "otydlighet"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06a12", "item": "idka", "candidate_answers": ["framtvinga", "utstå", "bedriva", "kräva", "befrämja"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06a13", "item": "företrädesvis", "candidate_answers": ["omedelbart", "självklart", "främst", "troligen", "möjligtvis"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06a14", "item": "terrakotta", "candidate_answers": ["kalksten", "lergods", "avgjutning", "grottmålning", "stenläggning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06a15", "item": "förlegad", "candidate_answers": ["beprövad", "kvarglömd", "gammalmodig", "ihopsjunken", "vanvårdad"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06a16", "item": "skrymmande", "candidate_answers": ["översvallande", "blockerande", "uppfylld", "nedtyngd", "utrymmeskrävande"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06a17", "item": "renässans", "candidate_answers": ["återgång", "upplysning", "tillbakablick", "försköning", "pånyttfödelse"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06a18", "item": "dialys", "candidate_answers": ["fotografering", "undersökning", "blodrening", "fostervattensprov", "strålbehandling"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06a19", "item": "disposition", "candidate_answers": ["fastlagd ordning", "obalans", "slöseri med resurser", "helhetsintryck", "god utdelning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h06a20", "item": "tidningsanka", "candidate_answers": ["löpsedelsrubrik", "falsk pressuppgift", "ung nyhetsreporter", "reklambilaga", "skvallerpress"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06a21", "item": "handlägga", "candidate_answers": ["handleda", "anvisa", "förhandla", "avsluta", "behandla"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06a22", "item": "dystopi", "candidate_answers": ["fasansfull insikt", "mardröm", "mörk framtidsvision", "minnesförlust", "tråkig utveckling"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06a24", "item": "alienation", "candidate_answers": ["rimmat ordspråk", "omvänd bevisföring", "känsla av främlingskap", "elak anspelning", "organiserat samarbete"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06a25", "item": "streck i räkningen", "candidate_answers": ["utlösande faktor", "definitivt besked", "framstressat beslut", "oväntat hinder", "fullgjord betalning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06a26", "item": "tempererad", "candidate_answers": ["överhettad", "nära fryspunkten", "livlig", "varmblodig", "lagom varm"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06a27", "item": "sufflera", "candidate_answers": ["viska repliker", "kämpa emot", "skydda mot sol", "vispa till skum", "skära upp kött"], "label": 0, "meta": {"comment": ""}}
+{"id": "h06a28", "item": "kollaboratör", "candidate_answers": ["förföljare", "förrädare", "förförare", "försvarare", "förbrytare"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06a30", "item": "prångla ut", "candidate_answers": ["klämma fram", "försöka överlista", "tränga undan", "försöka sälja", "smita iväg"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06a31", "item": "garva", "candidate_answers": ["behandla trä", "svetsa plåtar", "bearbeta ull", "förstärka tyg", "bereda hudar"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06a32", "item": "rendera", "candidate_answers": ["ge stöd åt", "låta passera", "ge i utbyte", "låta hämta", "göra upp om"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06a33", "item": "figurativ", "candidate_answers": ["formbar", "ungefärlig", "påhittad", "föreställande", "fantasifull"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06a34", "item": "tillstå", "candidate_answers": ["ersätta", "räcka till", "erkänna", "klara av", "erbjuda"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06a35", "item": "otillräknelig", "candidate_answers": ["misslyckad", "ouppfostrad", "sinnesförvirrad", "otränad", "slarvig"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06a36", "item": "pannå", "candidate_answers": ["träskiva för målning", "utställningsmonter", "hästdragen praktvagn", "informationstavla", "väggfast köksbänk"], "label": 0, "meta": {"comment": ""}}
+{"id": "h06a37", "item": "inhösta", "candidate_answers": ["få", "stjäla", "förena", "avvakta", "hinna ifatt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h06a39", "item": "få sitt lystmäte", "candidate_answers": ["få rättvist straff", "få upprättelse", "få tillräckligt", "få beröm", "få begär"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06a40", "item": "name-dropping", "candidate_answers": ["det att ofta nämna kända personer", "överanvändning av smeknamn", "det att ta sig ett artistnamn", "kunskap om personers titlar", "byte av båda makars namn vid giftermål"], "label": 0, "meta": {"comment": ""}}
+{"id": "h06b01", "item": "mångfasetterad", "candidate_answers": ["fint fördelad", "användbar", "rikt nyanserad", "gåtfull", "mycket vanlig"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06b02", "item": "pseudonym", "candidate_answers": ["dubbelnatur", "namnteckning", "känt namn", "vetenskaplig term", "påhittat namn"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06b03", "item": "provocera", "candidate_answers": ["överlista", "förakta", "utmana", "motarbeta", "kritisera"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06b04", "item": "yrkande", "candidate_answers": ["befallning", "upprop", "påminnelse", "protest", "krav"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06b05", "item": "lomma iväg", "candidate_answers": ["skynda sig", "få ett försprång", "drömma sig bort", "långsamt ge sig av", "fly undan ansvar"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06b06", "item": "sediment", "candidate_answers": ["träfiber", "avlagring", "husstomme", "grundvatten", "fogmassa"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06b07", "item": "gått i stå", "candidate_answers": ["upprepats", "arbetat hårt", "slutförts", "avstannat", "envisats"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06b08", "item": "överlag", "candidate_answers": ["ungefär", "genomgående", "sannolikt", "ofta", "varsomhelst"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06b09", "item": "demografi", "candidate_answers": ["vägbeskrivning", "rösträkning", "befolkningslära", "hälsoundersökning", "glesbygdspolitik"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06b10", "item": "vidimera", "candidate_answers": ["avtala", "intyga", "avsluta", "förneka", "ersätta"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06b11", "item": "idog", "candidate_answers": ["trevlig", "artig", "ärlig", "kunnig", "flitig"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06b12", "item": "påfallande", "candidate_answers": ["brådskande", "oväntad", "hotande", "anmärkningsvärd", "liknande"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06b13", "item": "delge", "candidate_answers": ["överlåta", "fördela", "beskylla", "meddela", "bevilja"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06b14", "item": "antiseptisk", "candidate_answers": ["utvärtes", "smärtlindrande", "motståndskraftig", "verkningslös", "bakteriedödande"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06b15", "item": "föresats", "candidate_answers": ["bestämd avsikt", "handling", "lång inledning", "hinder", "kort presentation"], "label": 0, "meta": {"comment": ""}}
+{"id": "h06b16", "item": "ligga i träda", "candidate_answers": ["vara i konflikt", "inte synas", "vara fattig", "inte användas", "arbeta hårt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06b17", "item": "ta bladet från munnen", "candidate_answers": ["anförtro sig", "vägra berätta", "tala ut", "tala flytande", "försäga sig"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06b18", "item": "ambivalent", "candidate_answers": ["orolig", "kluven", "målmedveten", "flyttbar", "underliggande"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06b19", "item": "profession", "candidate_answers": ["metod", "ärende", "livsverk", "yrke", "utbildning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06b20", "item": "fadäs", "candidate_answers": ["överdrift", "motgång", "ovana", "misstag", "förlust"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06b21", "item": "avpassa", "candidate_answers": ["utvisa", "bevaka", "reglera", "fästa", "överföra"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06b22", "item": "kardiolog", "candidate_answers": ["svampkännare", "grottforskare", "hjärtspecialist", "kartritare", "frimärkssamlare"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06b24", "item": "fatalism", "candidate_answers": ["tro på utomjordiskt liv", "tro på alltings gudomlighet", "tro på ett förutbestämt öde", "tro på jordens undergång", "tro på övernaturliga krafter"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06b25", "item": "konsol", "candidate_answers": ["välvt tak", "utskjutande stöd", "skyddande skärm", "bärande vägg", "låsanordning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06b26", "item": "rank", "candidate_answers": ["ostadig", "vissen", "rädd", "utsliten", "tålig"], "label": 0, "meta": {"comment": ""}}
+{"id": "h06b27", "item": "kurbits", "candidate_answers": ["mönstrad bård", "profilerad list", "gardinuppsättning", "orientalisk matta", "målad blomsterdekor"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06b30", "item": "begivenhet", "candidate_answers": ["stor händelse", "sammanhang", "högtidligt löfte", "oväntad följd", "prövning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h06b32", "item": "förfärdiga", "candidate_answers": ["avvisa", "kämpa", "tillverka", "chockera", "erbjuda"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06b34", "item": "avantgarde", "candidate_answers": ["bakåtsträvare", "översittare", "motståndare", "nyskapare", "lagbrytare"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06b36", "item": "i så måtto", "candidate_answers": ["lika mycket", "trots allt", "i hög grad", "i det avseendet", "jämförelsevis"], "label": 3, "meta": {"comment": ""}}
+{"id": "h06b37", "item": "skandera", "candidate_answers": ["bråka", "anklaga", "tro på rykten", "skratta åt andra", "taktfast läsa upp"], "label": 4, "meta": {"comment": ""}}
+{"id": "h06b38", "item": "paria", "candidate_answers": ["fattigkvarter", "ekonomisk nedgång", "utstött person", "tropisk sjukdom", "långvarig torka"], "label": 2, "meta": {"comment": ""}}
+{"id": "h06b39", "item": "durkdriven", "candidate_answers": ["snabb", "skicklig", "fattig", "vilsen", "irriterad"], "label": 1, "meta": {"comment": ""}}
+{"id": "h06b40", "item": "maskrosbarn", "candidate_answers": ["barn som växer upp under svåra villkor och lär sig bemästra dem", "barn som lever i stadsmiljö utan kontakt med naturen", "barn som växer upp i en stor syskonskara", "barn som anses ha dåligt inflytande över andra barn", "barn som inte kräver så mycket uppmärksamhet"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a00", "item": "förslå", "candidate_answers": ["stå ut", "klara av", "bli över", "hjälpa upp", "räcka till"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07a01", "item": "ackord", "candidate_answers": ["löneförhöjning", "övertidsersättning", "löneförmån", "prestationslön", "löneförhandling"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07a02", "item": "förorda", "candidate_answers": ["samtala", "varna", "rekommendera", "planera", "inleda"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07a03", "item": "vakant", "candidate_answers": ["enformig", "stadig", "växlande", "intressant", "ledig"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07a04", "item": "stagnation", "candidate_answers": ["bortstötning", "avstannande", "förstärkning", "nedskärning", "upptrappning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07a05", "item": "utröna", "candidate_answers": ["meddela", "ta reda på", "avskilja", "ge vika för", "avsluta"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07a06", "item": "kateter", "candidate_answers": ["injektionsspruta", "kontrastvätska", "tappningsrör", "provsticka", "sårklämma"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07a07", "item": "oskick", "candidate_answers": ["avvisande hållning", "svag karaktär", "olämplig miljö", "dåligt uppförande", "omild behandling"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07a08", "item": "skäligt", "candidate_answers": ["trovärdigt", "nödvändigt", "säkert", "rimligt", "grundligt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07a09", "item": "slå dank", "candidate_answers": ["skada sig", "sälja bra", "missta sig", "göra slät", "lata sig"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07a10", "item": "klorofyll", "candidate_answers": ["doftsignal", "bladnerv", "ogräsmedel", "färgämne", "växtnäring"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07a11", "item": "kontentan", "candidate_answers": ["första intrycket", "motsättningen", "höjdpunkten", "slutfasen", "huvudinnehållet"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07a12", "item": "kastanjetter", "candidate_answers": ["ugnsbakad rätt", "rytminstrument", "små stenfrukter", "utsmyckning", "dansskor"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07a13", "item": "deciderad", "candidate_answers": ["avgränsad", "bestämd", "utvecklad", "förklarad", "undersökt"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07a14", "item": "paradera", "candidate_answers": ["marschera", "skämta", "strida", "härma", "avvärja"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a15", "item": "cytostatika", "candidate_answers": ["cellgift", "blodansamling", "nervinflammation", "arvsmassa", "näringslösning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a16", "item": "svärmisk", "candidate_answers": ["omtänksam", "ombytlig", "romantisk", "fåfäng", "flyktig"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07a17", "item": "pådyvla", "candidate_answers": ["driva på", "anvisa", "passa på", "överdriva", "tvinga på"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07a18", "item": "fingertoppskänsla", "candidate_answers": ["stor lyhördhet", "nyfikenhet", "idérikedom", "musikalitet", "stark självkänsla"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a19", "item": "inlemma", "candidate_answers": ["inge", "insamla", "inviga", "insända", "införliva"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07a20", "item": "få ovett", "candidate_answers": ["få ett dåligt förslag", "bli lurad", "få skäll", "bli motsagd", "få en orättvis dom"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07a21", "item": "utan krumbukter", "candidate_answers": ["utan eftertanke", "utan undanflykter", "utan ånger", "utan baktankar", "utan nåd"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07a22", "item": "stranda", "candidate_answers": ["lyckas", "försenas", "överge", "avsluta", "misslyckas"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07a23", "item": "ogin", "candidate_answers": ["ondskefull", "underlig", "snål", "skrämmande", "bitter"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07a24", "item": "brödtext", "candidate_answers": ["löpande text", "bildtext", "utkast", "rubrik", "oredigerad text"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a26", "item": "anagram", "candidate_answers": ["bokstavslek", "guldhalt", "fingeravtryck", "pulskurva", "avbildning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a27", "item": "kavat", "candidate_answers": ["orädd", "beredd", "lycklig", "envis", "vaksam"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a28", "item": "fäbless", "candidate_answers": ["förkärlek", "entusiasm", "berömmelse", "förvåning", "övertygelse"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a29", "item": "prägling", "candidate_answers": ["teckentydning", "gradvis avvänjning", "intensiv övertalning", "instinktiv inlärning", "produktbeskrivning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07a30", "item": "oförtrutet", "candidate_answers": ["fräckt", "nyfiket", "frimodigt", "uthålligt", "hederligt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07a31", "item": "övermaga", "candidate_answers": ["övermodigt självsäker", "överkänslig", "överlägset bäst", "överförfriskad", "överdrivet beskyddande"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a32", "item": "esplanad", "candidate_answers": ["öppet torg", "trädplantering", "stenlagd trottoar", "kvarter", "bred gata"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07a33", "item": "enrollera", "candidate_answers": ["gå i god för", "vara emot", "föra bort", "ta itu med", "få att delta i"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07a34", "item": "vidsynt", "candidate_answers": ["fantasifull", "uppmärksam", "allmänbildad", "optimistisk", "tolerant"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07a35", "item": "kornisch", "candidate_answers": ["gardinlist", "tavelram", "brädfodring", "vägglampa", "takmålning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a36", "item": "despot", "candidate_answers": ["förtryckare", "krigshetsare", "befriare", "andlig ledare", "landsförrädare"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a37", "item": "avyttra", "candidate_answers": ["sälja", "undvika", "förklara", "avslöja", "skänka"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07a38", "item": "idealist", "candidate_answers": ["hyllad person", "ärlig person", "osjälvisk person", "kreativ person", "krävande person"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07a39", "item": "ratificera", "candidate_answers": ["överklaga", "avslå", "godkänna", "sammanställa", "förväxla"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07a40", "item": "determinism", "candidate_answers": ["uppfattningen att verkligheten är av materiell natur", "övertygelsen om att världen kommer att gå under", "idén om alltings gudomliga ursprung", "viljan att genomföra det omöjliga", "ståndpunkten att allt är förutbestämt"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07b01", "item": "inkvartera", "candidate_answers": ["lägga sig i", "ge husrum åt", "uppta som medlem", "samordna", "uppdela"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07b02", "item": "klinga av", "candidate_answers": ["minska i styrka", "förlora sitt värde", "trötta ut", "ge sig iväg", "vänligt avböja"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07b04", "item": "grundval", "candidate_answers": ["föredöme", "öde", "bas", "djup", "reflektion"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07b05", "item": "övertalig", "candidate_answers": ["överdriven", "överarbetad", "överlägsen", "övermogen", "överflödig"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07b07", "item": "amnesi", "candidate_answers": ["stelhet", "chocktillstånd", "förlamning", "minnesförlust", "syrebrist"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07b08", "item": "flyktig", "candidate_answers": ["flytande", "förföljd", "förfallen", "föränderlig", "finkänslig"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07b09", "item": "klenod", "candidate_answers": ["dyrgrip", "släktträd", "offergåva", "hängsmycke", "arvslott"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07b10", "item": "sitar", "candidate_answers": ["klädedräkt", "spådom", "stränginstrument", "bönematta", "vattenpipa"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07b11", "item": "helt sonika", "candidate_answers": ["glasklart", "utan vidare", "improviserat", "säkerligen", "fullt ut"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07b12", "item": "upptåg", "candidate_answers": ["markerad början", "ilsken folksamling", "skämtsamt påhitt", "gemensam strävan", "modig handling"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07b13", "item": "linning", "candidate_answers": ["skjorttyg", "snörning", "bälte", "kantremsa", "pressveck"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07b14", "item": "utvikning", "candidate_answers": ["intygande om riktighet", "avvikelse från ämnet", "utspridning av verksamhet", "begäran om förlängning", "utjämning av skillnader"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07b15", "item": "propsa på", "candidate_answers": ["anklaga", "föreslå", "chansa", "hoppas", "kräva"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07b16", "item": "handgripligen", "candidate_answers": ["träffsäkert", "övertygat", "påtagligt", "oavsiktligt", "osäkert"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07b17", "item": "kvalster", "candidate_answers": ["bakterie", "lusägg", "damm", "nässelutslag", "spindeldjur"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07b18", "item": "doktrin", "candidate_answers": ["rekommendation", "åtgärd", "lärosats", "fördom", "föreläsning"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07b19", "item": "lidelse", "candidate_answers": ["sorg", "passion", "ömsinthet", "plåga", "medkänsla"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07b20", "item": "nit", "candidate_answers": ["högfärdighet", "renlighet", "sparsamhet", "ihärdighet", "anständighet"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07b21", "item": "kortison", "candidate_answers": ["hormon", "saltämne", "ledvätska", "bindväv", "blodfett"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07b22", "item": "ta fasta på", "candidate_answers": ["hålla ihop", "besluta", "utgå från", "anmäla", "påpeka"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07b23", "item": "förestående", "candidate_answers": ["framgångsrik", "självklar", "kommande", "beslutad", "oberoende"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07b24", "item": "trägen", "candidate_answers": ["tråkig", "kräsen", "egensinnig", "uthållig", "tjatig"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07b25", "item": "borgenär", "candidate_answers": ["köpman", "långivare", "ämbetsman", "medhjälpare", "tjänsteman"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07b26", "item": "skenhelig", "candidate_answers": ["lömsk", "ondsinnad", "föraktfull", "hycklande", "misstänksam"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07b27", "item": "behjärtansvärd", "candidate_answers": ["som oroar sig", "som litar på känslan", "som söker medlidande", "som är efterfrågad", "som förtjänar hjälp"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07b28", "item": "dryfta", "candidate_answers": ["diskutera", "avråda", "invänta", "besluta", "undvika"], "label": 0, "meta": {"comment": ""}}
+{"id": "h07b29", "item": "procession", "candidate_answers": ["projektplan", "företräde", "högtidligt tåg", "rättslig överenskommelse", "återkommande händelse"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07b30", "item": "härleda", "candidate_answers": ["undersöka", "leda i bevis", "rikta sig till", "ta efter", "upplysa"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07b31", "item": "aber", "candidate_answers": ["smärtsam förlust", "ovana", "olöslig gåta", "hinder", "dåligt föredöme"], "label": 3, "meta": {"comment": ""}}
+{"id": "h07b32", "item": "förankra", "candidate_answers": ["fördjupa sig i", "bestämma sig för", "skaffa stöd för", "binda upp sig för", "gå till botten med"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07b33", "item": "avhängig", "candidate_answers": ["självständig", "jämförd med", "stoppad", "betydande för", "beroende"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07b34", "item": "transpirera", "candidate_answers": ["växa", "byta", "signalera", "förvandlas", "svettas"], "label": 4, "meta": {"comment": ""}}
+{"id": "h07b35", "item": "malström", "candidate_answers": ["insektsangrepp", "vattenvirvel", "kortslutning", "strid fors", "folkvandring"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07b36", "item": "konnotation", "candidate_answers": ["känsligt ämne", "felaktigt beslut", "bibetydelse", "återupptäckt", "förväxling"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07b37", "item": "allitteration", "candidate_answers": ["ordspråk", "högläsning", "begynnelserim", "anspelning", "förenkling"], "label": 2, "meta": {"comment": ""}}
+{"id": "h07b38", "item": "vidtala", "candidate_answers": ["kräva svar", "informera och tillfråga", "försäga sig", "skvallra och ljuga", "vagt antyda"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07b39", "item": "skälmsk", "candidate_answers": ["svärmisk och drömmande", "okynnig och skämtsam", "naiv och blåögd", "vacker och behaglig", "tanklös och slarvig"], "label": 1, "meta": {"comment": ""}}
+{"id": "h07b40", "item": "wallraffa", "candidate_answers": ["ge ut en bok på eget förlag", "arbeta under falsk identitet i journalistiskt syfte", "ta med sig kunder till ett konkurrerande företag", "göra en snabb karriär inom media", "tvingas avgå för allmänhetens bästa"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08a00", "item": "mjärde", "candidate_answers": ["kartställ", "fiskeredskap", "utställningsskåp", "skjutvapen", "vägbeläggning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08a01", "item": "spritsa", "candidate_answers": ["tunna ut", "fylla på", "blanda till", "strö över", "pressa ut"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08a03", "item": "fascination", "candidate_answers": ["uppskattning", "intensivt intresse", "överdriven nyfikenhet", "skräckblandad känsla", "engagemang"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08a04", "item": "benägenhet", "candidate_answers": ["tendens", "önskan", "ambition", "möjlighet", "övertygelse"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08a05", "item": "expo", "candidate_answers": ["reportage", "överskott", "utförsäljning", "utställning", "undersökning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08a06", "item": "inte ha något till övers för", "candidate_answers": ["inte begripa", "inte ha råd med", "inte kunna göra något åt", "inte ha tid med", "inte sätta värde på"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08a07", "item": "dager", "candidate_answers": ["ljus", "skärpa", "dis", "struktur", "sikt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08a08", "item": "imaginär", "candidate_answers": ["obegriplig", "ovärderlig", "bildlig", "inbillad", "överdriven"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08a09", "item": "med bravur", "candidate_answers": ["med stolthet", "hederligt", "ståtligt", "skickligt", "med glädje"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08a10", "item": "killing", "candidate_answers": ["unge av ren", "unge av gris", "unge av get", "unge av räv", "unge av får"], "label": 2, "meta": {"comment": ""}}
+{"id": "h08a12", "item": "famla", "candidate_answers": ["göra misstag", "treva", "försvagas", "bli förvirrad", "tappa taget"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08a13", "item": "ekvivalent", "candidate_answers": ["osäker", "överlägsen", "allmängiltig", "likvärdig", "otydlig"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08a14", "item": "frispråkig", "candidate_answers": ["öppenhjärtig", "vältalig", "lättsam", "trotsig", "frågvis"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08a15", "item": "hybris", "candidate_answers": ["övermod", "vrede", "ångest", "minnesförlust", "falskhet"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08a16", "item": "gå i svaromål", "candidate_answers": ["begära", "bevisa", "bemöta", "bejaka", "besluta"], "label": 2, "meta": {"comment": ""}}
+{"id": "h08a17", "item": "projektera", "candidate_answers": ["rapportera", "färdigställa", "beordra", "planera", "hyra"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08a18", "item": "välbeställd", "candidate_answers": ["väntad", "noga utredd", "som har gott rykte", "som har god ekonomi", "välutbildad"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08a19", "item": "biotop", "candidate_answers": ["energikälla", "naturreservat", "livsmiljö", "näringsämne", "blandform"], "label": 2, "meta": {"comment": ""}}
+{"id": "h08a20", "item": "ledmotiv", "candidate_answers": ["drivkraft", "tema", "orsak", "målsättning", "ideal"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08a22", "item": "pjosk", "candidate_answers": ["fånigt prat", "överdriven omsorg", "inbillningssjuka", "kärleksgnabb", "pedantisk noggrannhet"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08a23", "item": "joint venture", "candidate_answers": ["försäljningskampanj", "gemensamt projekt", "allmän åsikt", "politisk satsning", "uppåtgående branch"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08a24", "item": "epik", "candidate_answers": ["modern teater", "kyrkomusik", "dramatisk vändning", "berättarkonst", "underliggande budskap"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08a25", "item": "falsarium", "candidate_answers": ["svårighet", "avledning", "sakförhållande", "förfalskning", "omständighet"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08a27", "item": "konvalescens", "candidate_answers": ["hänsynstagande", "alternativ behandling", "ökad känslighet", "självbehärskning", "period av tillfrisknande"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08a28", "item": "pagod", "candidate_answers": ["musikinstrument", "segelbåt", "tempelbyggnad", "ämbetstitel", "färgämne"], "label": 2, "meta": {"comment": ""}}
+{"id": "h08a29", "item": "hänförelse", "candidate_answers": ["förväntan", "frestelse", "förtjusning", "beröm", "förundran"], "label": 2, "meta": {"comment": ""}}
+{"id": "h08a30", "item": "kampera ihop", "candidate_answers": ["stötta varandra", "komma överens", "bo tillsammans", "dela minnen", "samlas kring"], "label": 2, "meta": {"comment": ""}}
+{"id": "h08a31", "item": "påstötning", "candidate_answers": ["påminnelse", "påverkan", "påslag", "påhälsning", "påfrestning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08a33", "item": "trolös", "candidate_answers": ["besviken", "försiktig", "svekfull", "misstänksam", "förvirrad"], "label": 2, "meta": {"comment": ""}}
+{"id": "h08a34", "item": "flagrant", "candidate_answers": ["uppenbar", "farlig", "krånglig", "dold", "utsökt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08a35", "item": "botanisera", "candidate_answers": ["vandra planlöst", "förädla", "sitta och fundera", "plocka och välja", "beskriva"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08a36", "item": "utmönstra", "candidate_answers": ["beskriva", "fundera ut", "överdriva", "gallra ut", "utveckla"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08a37", "item": "reaktionär", "candidate_answers": ["motsägelsefull", "bakåtsträvande", "bestämd", "jordnära", "tålig"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08a38", "item": "osökt", "candidate_answers": ["tydligt", "dolt", "riktigt", "avsiktligt", "naturligt"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08a39", "item": "gå i kvav", "candidate_answers": ["möta hinder", "hemlighålla", "bli bitter", "motarbeta", "gå under"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08a40", "item": "servitut", "candidate_answers": ["undertecknande av fördrag mellan stater", "inskränkning i fastighetsägares bestämmanderätt över egen mark", "dom eller beslut som kan utgöra norm för liknande fall", "regler för tjänstetillsättning inom statliga verk", "uppdelning av egendom i samband med arvsskifte"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08b01", "item": "stuteri", "candidate_answers": ["hästgård", "trädgårdsskola", "kursgård", "skinnfabrik", "lastningsplats"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08b02", "item": "abdikera", "candidate_answers": ["avlägga klosterlöfte", "bryta en överenskommelse", "avslå en begäran", "svära en ed", "avsäga sig tronen"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08b03", "item": "intensitet", "candidate_answers": ["stark smärta", "spontan känsla", "plötslig ökning", "tydlig påverkan", "ihållande styrka"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08b04", "item": "replikera", "candidate_answers": ["förklara", "anförtro", "försäkra", "avbryta", "svara"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08b06", "item": "hisnande", "candidate_answers": ["svindlande", "förtjusande", "äventyrlig", "livsfarlig", "himmelsvid"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08b07", "item": "aloe", "candidate_answers": ["luktsalt", "liljeväxt", "palmvin", "förkylningspreparat", "parfym"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08b08", "item": "intravenöst", "candidate_answers": ["in i blodådern", "under nedsövning", "in i muskeln", "via strålning", "i flytande form"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08b10", "item": "datortomografi", "candidate_answers": ["skiktröntgen", "ultraljudsundersökning", "strålbehandling", "cellgiftsbehandling", "blodanalys"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08b12", "item": "korrespondera", "candidate_answers": ["motverka", "förbättra", "ersätta", "sammanblanda", "överensstämma"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08b13", "item": "blottställd", "candidate_answers": ["fristående", "vilseledd", "avvisad", "utfattig", "uppsagd"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08b14", "item": "dissonans", "candidate_answers": ["sänkning", "otakt", "missljud", "språkljud", "höjning"], "label": 2, "meta": {"comment": ""}}
+{"id": "h08b15", "item": "esperanto", "candidate_answers": ["teckenspråk", "utdött språk", "inhemskt språk", "konstgjort språk", "kyrkospråk"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08b16", "item": "inbegripa", "candidate_answers": ["förstå", "tillägga", "instudera", "samordna", "omfatta"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08b18", "item": "polityr", "candidate_answers": ["rutinkontroll", "hårt mineral", "yttre förfining", "sträng uppfostran", "skämtteckning"], "label": 2, "meta": {"comment": ""}}
+{"id": "h08b19", "item": "frist", "candidate_answers": ["uppskov", "tillflyktsort", "ledighet", "sinnesro", "befrielse"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08b20", "item": "bära hundhuvudet", "candidate_answers": ["göra sig till", "gå i spetsen", "skämma ut sig", "få skulden", "bli förlöjligad"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08b21", "item": "public service", "candidate_answers": ["samhällsinformation", "kollektivtrafik", "offentligt finansierade tjänster", "medier i allmänhetens tjänst", "offentlighetsprincip"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08b22", "item": "cirrus", "candidate_answers": ["klätterväxt", "leversjukdom", "stjärnformation", "molntyp", "dryckesbägare"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08b23", "item": "anbelanga", "candidate_answers": ["anse", "bevara", "uppfatta", "angå", "avstå"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08b24", "item": "uppdämt", "candidate_answers": ["tillbakahållet", "långvarigt", "påfrestande", "förlösande", "förhöjt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08b25", "item": "kvotera", "candidate_answers": ["räkna ut", "ta del av vinst", "fördela i andelar", "ge större utrymme", "kräva åtgärd"], "label": 2, "meta": {"comment": ""}}
+{"id": "h08b26", "item": "kanvas", "candidate_answers": ["växtfiber", "tunt hölje", "sittmöbel", "styvt tyg", "regnplagg"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08b27", "item": "det går på ett ut", "candidate_answers": ["det finns inget val", "det spelar ingen roll", "det går som förväntat", "det ordnar sig", "det tar aldrig slut"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08b28", "item": "internalisera", "candidate_answers": ["införliva", "ingripa", "omvärdera", "inskränka", "övervinna"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08b29", "item": "malör", "candidate_answers": ["missöde", "gräl", "plåga", "försummelse", "förlust"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08b30", "item": "pärlspont", "candidate_answers": ["profilhyvlad bräda", "dekorativ bård", "isoleringsmaterial", "foderlist runt fönster", "underlag för taktegel"], "label": 0, "meta": {"comment": ""}}
+{"id": "h08b32", "item": "magenta", "candidate_answers": ["blommande växt", "fartyg", "bergart", "färgämne", "juvelsmycke"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08b33", "item": "bister", "candidate_answers": ["trist", "missnöjd", "misstänksam", "ledsen", "sträng"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08b34", "item": "adekvat", "candidate_answers": ["missvisande", "noggrann", "krävande", "övergående", "lämplig"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08b35", "item": "arkaism", "candidate_answers": ["försvenskat uttryck", "bildligt uttryck", "ålderdomligt uttryck", "målande uttryck", "överflödigt uttryck"], "label": 2, "meta": {"comment": ""}}
+{"id": "h08b36", "item": "stigmatisera", "candidate_answers": ["skänka liv åt", "ogiltigförklara", "utse till favorit", "stanna upp", "utpeka som avvikande"], "label": 4, "meta": {"comment": ""}}
+{"id": "h08b38", "item": "oktav", "candidate_answers": ["tonklang", "tonart", "tonstyrka", "tonintervall", "tonbild"], "label": 3, "meta": {"comment": ""}}
+{"id": "h08b39", "item": "emfatiskt", "candidate_answers": ["framstående", "eftertryckligt", "erfarenhetsmässigt", "frigjort", "berömmande"], "label": 1, "meta": {"comment": ""}}
+{"id": "h08b40", "item": "misstroendevotum", "candidate_answers": ["formell begäran om att få lämna en offentlig anställning", "anmälan om ministerstyre", "intern kritik av offentligt anställd", "riksdagsomröstning om förtroende för regeringen", "misstanke om dolda löneförmåner inom offentliga arbeten"], "label": 3, "meta": {"comment": ""}}
+{"id": "h09a01", "item": "klavertramp", "candidate_answers": ["ful ovana", "högljudd protest", "medveten lögn", "pinsamt misstag", "oväntad vändning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h09a02", "item": "ekipage", "candidate_answers": ["uppassare", "häst och vagn", "finare sällskap", "kläder och utrustning", "elegant uppvisning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09a04", "item": "fallenhet", "candidate_answers": ["naturlig följd", "medfödd förmåga", "avvikelse", "lycklig slump", "svaghet"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09a05", "item": "markant", "candidate_answers": ["grundlig", "hård", "självklar", "intensiv", "påtaglig"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09a06", "item": "förvanska", "candidate_answers": ["framställa", "förvränga", "framhäva", "förväxla", "förarga"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09a08", "item": "dust", "candidate_answers": ["fult grepp", "olyckshändelse", "kamp", "sista chans", "dimridå"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09a09", "item": "luttrad", "candidate_answers": ["viljestark", "härdad", "sviken", "uttråkad", "misslyckad"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09a10", "item": "ebenholts", "candidate_answers": ["oljefärg", "bergart", "keramik", "träslag", "gipsdekoration"], "label": 3, "meta": {"comment": ""}}
+{"id": "h09a11", "item": "dynamisk", "candidate_answers": ["oförutsägbar", "effektiv och uthållig", "spännande", "kraftfull och rörlig", "storslagen"], "label": 3, "meta": {"comment": ""}}
+{"id": "h09a12", "item": "permittera", "candidate_answers": ["tillsätta", "förflytta", "friställa", "utöka", "beordra"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09a13", "item": "ingrodd", "candidate_answers": ["svår att avlägsna", "översållad", "försjunken i sig själv", "svår att upptäcka", "genomborrad"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09a14", "item": "origami", "candidate_answers": ["pappersvikning", "konstutställning", "vindspel", "prydnadsväxt", "blåsinstrument"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09a15", "item": "sky", "candidate_answers": ["undvika", "försvara", "dölja", "misstro", "undkomma"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09a16", "item": "armatur", "candidate_answers": ["belysningsanordning", "gjutjärnsbeslag", "hyllkonstruktion", "trädekoration", "sittmöbel"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09a17", "item": "iscensätta", "candidate_answers": ["efterlikna", "demonstrera", "arrangera", "synliggöra", "uppträda"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09a18", "item": "beredvilligt", "candidate_answers": ["motvilligt", "noggrant", "dugligt", "tjänstvilligt", "öppenhjärtigt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h09a19", "item": "enfald", "candidate_answers": ["enighet", "hopplöshet", "ensamhet", "ensidighet", "dumhet"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09a20", "item": "gemener", "candidate_answers": ["skiljetecken", "kursiva bokstäver", "understrykningar", "små bokstäver", "sammansättningar"], "label": 3, "meta": {"comment": ""}}
+{"id": "h09a21", "item": "tillbakavisa", "candidate_answers": ["avråda från", "återge det viktigaste av", "förneka riktigheten av", "dra sig till minnes", "uppmärksamma"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09a22", "item": "le i mjugg", "candidate_answers": ["le trött", "le ansträngt", "le utan orsak", "le brett", "le i smyg"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09a23", "item": "satin", "candidate_answers": ["poröst material", "yttre hölje", "glänsande tyg", "vit nyans", "vågig struktur"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09a24", "item": "odelat", "candidate_answers": ["fullständigt", "hemligt", "enskilt", "allmänt", "måttligt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09a25", "item": "vara ur slag", "candidate_answers": ["vara omodern", "vara skadad", "vara ur form", "vara ur funktion", "vara i otakt"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09a26", "item": "konstfärdigt", "candidate_answers": ["egendomligt", "skickligt", "beskrivande", "föränderligt", "komplicerat"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09a27", "item": "moment 22", "candidate_answers": ["vild chanstagning", "tidsödande uppgift", "återkommande fara", "nedåtgående trend", "orimlig situation"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09a28", "item": "högdragen", "candidate_answers": ["nedlåtande", "uppjagad", "respektfull", "överdriven", "allvarlig"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09a29", "item": "indicier", "candidate_answers": ["onödiga tillägg", "orsaker", "inofficiella förslag", "misstag", "indirekta bevis"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09a31", "item": "vind för våg", "candidate_answers": ["motsträvigt", "utan tillsyn", "hastigt", "helt oväntat", "tillfälligt"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09a32", "item": "införliva", "candidate_answers": ["bekräfta", "tillfredsställa", "låta uppgå i", "visa vikten av", "ge stöd åt"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09a33", "item": "kaplan", "candidate_answers": ["präst", "körledare", "munk", "kyrkvärd", "frälsningssoldat"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09a34", "item": "tillbud", "candidate_answers": ["order", "introduktion", "inspektion", "incident", "ranson"], "label": 3, "meta": {"comment": ""}}
+{"id": "h09a35", "item": "traktör", "candidate_answers": ["konstkännare", "krigshetsare", "kyrkomusiker", "köpman", "krogvärd"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09a36", "item": "ackreditera", "candidate_answers": ["lämna omdöme om", "ge fullmakt åt", "skaffa fram bevis", "framföra klagomål", "efterskänka skuld"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09a37", "item": "komma till korta", "candidate_answers": ["bli osams", "missgynnas", "glömma bort", "misslyckas", "stressa"], "label": 3, "meta": {"comment": ""}}
+{"id": "h09a38", "item": "dysenteri", "candidate_answers": ["tarmsjukdom", "förlamning", "djup nedstämdhet", "kronisk smärta", "lungsjukdom"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09a39", "item": "byline", "candidate_answers": ["replikskifte", "varumärke", "upphovsmans namn", "stigande försäljningskurva", "stadsbild"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09a40", "item": "logopedi", "candidate_answers": ["läran om kroppens funktioner under arbete", "läran om skelettets uppbyggnad", "läran om barns inlärningsförmåga", "läran om röst- och talrubbningar", "läran om hjärnans utveckling"], "label": 3, "meta": {"comment": ""}}
+{"id": "h09b01", "item": "eskalera", "candidate_answers": ["öka", "följa", "påbörja", "avstanna", "sänka"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b03", "item": "rapsodi", "candidate_answers": ["rytmiskt framförande av diktverk", "kort instrumentalt solostycke", "humoristisk förvrängning av text", "underhållande teaterstycke", "musikaliskt verk i fri form"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09b05", "item": "burdus", "candidate_answers": ["uppstudsig", "framfusig", "upprörd", "högljudd", "besvärlig"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09b06", "item": "sakristia", "candidate_answers": ["sidorum i kyrka", "körläktare", "skåp för kyrksilver", "predikstol", "gravkapell"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b07", "item": "diktera", "candidate_answers": ["behandla", "bestämma", "undersöka", "döma", "begränsa"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09b08", "item": "olägenhet", "candidate_answers": ["oro", "misstag", "omöjlighet", "besvär", "motvilja"], "label": 3, "meta": {"comment": ""}}
+{"id": "h09b10", "item": "prolog", "candidate_answers": ["inledning", "beskrivning", "sammanfattning", "slutord", "tillbakablick"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b11", "item": "åsamka", "candidate_answers": ["påtvinga", "anklaga", "orsaka", "försumma", "påkalla"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09b12", "item": "fålla", "candidate_answers": ["sprätta upp", "sy en kant", "klä in", "dölja en söm", "sy för hand"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09b13", "item": "vanmäktig", "candidate_answers": ["orättvis", "egenkär", "maktlös", "ogenomtänkt", "överlägsen"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09b14", "item": "gnejs", "candidate_answers": ["hög kulle", "varm källa", "jordlager", "smågrus", "bergart"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09b15", "item": "kontaminerad", "candidate_answers": ["befruktad", "förorenad", "förbjuden", "oavbruten", "undersökt"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09b17", "item": "kondens", "candidate_answers": ["avkylning", "imma", "förtätning", "skum", "gasbildning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09b18", "item": "entreprenör", "candidate_answers": ["beställare", "ekonomiansvarig", "initiativrik företagare", "tillfälligt anställd", "rådgivare"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09b19", "item": "valhänt", "candidate_answers": ["fumlig", "generös", "händig", "snabb", "slarvig"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b20", "item": "dispenser", "candidate_answers": ["behållare", "dragplåster", "provexemplar", "utbyggnad", "omslag"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b21", "item": "stas", "candidate_answers": ["blodstockning", "övervikt", "synrubbning", "hjärtklappning", "njursvikt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b22", "item": "farsi", "candidate_answers": ["språk", "religion", "krydda", "ädelsten", "blomma"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b23", "item": "underhand", "candidate_answers": ["inofficiellt", "hjälpsamt", "olagligt", "plötsligt", "ödmjukt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b24", "item": "espadrill", "candidate_answers": ["rytminstrument", "amulett", "håruppsättning", "sångteknik", "sandal"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09b25", "item": "friska upp", "candidate_answers": ["muntra upp", "göra aktuell", "förstärka", "inspirera", "snygga till"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09b26", "item": "tillfyllest", "candidate_answers": ["generöst", "nätt och jämnt", "tillräckligt", "rimligt", "måttligt"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09b27", "item": "sisu", "candidate_answers": ["lust och intresse", "uthållighet och kampvilja", "glädje och livfullhet", "trohet och lojalitet", "humor och värme"], "label": 1, "meta": {"comment": ""}}
+{"id": "h09b28", "item": "karens", "candidate_answers": ["uppsägning", "strafflängd", "inskolning", "isolering", "väntetid"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09b29", "item": "skrodera", "candidate_answers": ["skryta", "ogilla", "skrämma", "föra oväsen", "berömma"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b30", "item": "halsstarrig", "candidate_answers": ["envis", "berusad", "egoistisk", "sjuklig", "komisk"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b32", "item": "gå på i ullstrumporna", "candidate_answers": ["handla i god tro", "göra bort sig", "vara omodern", "smita undan ansvar", "inte låta sig hejdas"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09b33", "item": "kvantifiera", "candidate_answers": ["jämföra data", "utvärdera", "ange i siffror", "minska", "välja ut fakta"], "label": 2, "meta": {"comment": ""}}
+{"id": "h09b34", "item": "pålaga", "candidate_answers": ["överskott", "böter", "löneökning", "förlust", "skattebörda"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09b35", "item": "oförställd", "candidate_answers": ["uppriktig", "orimlig", "självständig", "ovetande", "oskyldig"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b36", "item": "scripta", "candidate_answers": ["domstolssekreterare", "arkivarie", "reklamskribent", "journalist", "inspelningsassistent"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09b37", "item": "förekomma", "candidate_answers": ["hinna före", "gå förlorad", "anvisa", "förvarna", "känna på sig"], "label": 0, "meta": {"comment": ""}}
+{"id": "h09b38", "item": "undfallande", "candidate_answers": ["omoralisk", "rädd", "diskret", "opålitlig", "eftergiven"], "label": 4, "meta": {"comment": ""}}
+{"id": "h09b39", "item": "diskrepans", "candidate_answers": ["skillnad", "oförskämdhet", "osäkerhet", "missljud", "försämring"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a01", "item": "fabel", "candidate_answers": ["intetsägande fras", "högtidligt tal", "moraliserande saga", "dagdröm", "falsk anklagelse"], "label": 2, "meta": {"comment": ""}}
+{"id": "h10a02", "item": "koncern", "candidate_answers": ["bolagsgrupp", "familjeföretag", "industrigren", "exportföretag", "dotterbolag"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a03", "item": "högmodig", "candidate_answers": ["orädd", "självbelåten", "överdriven", "påstridig", "egoistisk"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10a04", "item": "eventualitet", "candidate_answers": ["antagande", "konsekvens", "tillställning", "avslutning", "möjlighet"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10a05", "item": "samarit", "candidate_answers": ["fattig människa", "helig man", "ensam människa", "självplågare", "hjälpsam människa"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10a06", "item": "befängd", "candidate_answers": ["osjälvständig", "orättvis", "orimlig", "omedgörlig", "overklig"], "label": 2, "meta": {"comment": ""}}
+{"id": "h10a08", "item": "sovring", "candidate_answers": ["tolkning", "övertalning", "kvalificering", "gallring", "genomgång"], "label": 3, "meta": {"comment": ""}}
+{"id": "h10a09", "item": "tempus", "candidate_answers": ["tidsform", "ordklass", "meningsbyggnad", "grundform", "satsdel"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a10", "item": "dagslända", "candidate_answers": ["tillfällig ljusning", "ny tanke", "positiv utveckling", "daglig vana", "kortlivad företeelse"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10a11", "item": "griller", "candidate_answers": ["dolda avsikter", "misstankar", "underliga idéer", "förhoppningar", "heta känslor"], "label": 2, "meta": {"comment": ""}}
+{"id": "h10a12", "item": "otvunget", "candidate_answers": ["helt och hållet", "övertygat", "i högsta grad", "nyfiket", "ledigt och säkert"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10a13", "item": "skövla", "candidate_answers": ["hyvla", "samla in", "vräka", "rensa ut", "ödelägga"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10a14", "item": "uppdaga", "candidate_answers": ["förnya", "avslöja", "komplettera", "påbörja", "väcka"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10a16", "item": "föreligga", "candidate_answers": ["finnas", "tyckas", "hinna med", "tillmötesgå", "presentera"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a17", "item": "korpulent", "candidate_answers": ["fetlagd", "generös", "högdragen", "förfinad", "pratglad"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a18", "item": "formalisera", "candidate_answers": ["uppställa regler för", "konservera", "skulptera", "hålla på etiketten", "slutföra"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a19", "item": "pådrag", "candidate_answers": ["sensationell nyhet", "oönskad publicitet", "rättslig följd", "insats av resurser", "oväntat motstånd"], "label": 3, "meta": {"comment": ""}}
+{"id": "h10a20", "item": "hematologi", "candidate_answers": ["läran om minnet", "läran om jordrörelser", "läran om dofter", "läran om blodet", "läran om örter"], "label": 3, "meta": {"comment": ""}}
+{"id": "h10a21", "item": "spatiös", "candidate_answers": ["mystisk", "rymlig", "rofylld", "dyrbar", "fyllig"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10a22", "item": "kakofoni", "candidate_answers": ["missljud", "lustigheter", "uppståndelse", "vansinne", "orimligheter"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a23", "item": "tillgodose", "candidate_answers": ["tillönska", "tillkännage", "tilldela", "tillfredsställa", "tillfoga"], "label": 3, "meta": {"comment": ""}}
+{"id": "h10a25", "item": "glupande", "candidate_answers": ["oväntad", "opålitlig", "omåttlig", "oansvarig", "oförskämd"], "label": 2, "meta": {"comment": ""}}
+{"id": "h10a26", "item": "karg", "candidate_answers": ["ofruktbar", "köldhärdig", "utbränd", "torr", "övergiven"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a27", "item": "få sina fiskar varma", "candidate_answers": ["få det man väntat på", "få mycket att göra", "få beröm", "få mer än man önskat", "få en utskällning"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10a28", "item": "andefattig", "candidate_answers": ["avhållsam", "ogudaktig", "omoralisk", "intetsägande", "obegåvad"], "label": 3, "meta": {"comment": ""}}
+{"id": "h10a29", "item": "passepartout", "candidate_answers": ["överskrift", "inramning", "dans", "text", "visa"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10a32", "item": "ockra", "candidate_answers": ["mönster", "tyg", "matta", "keramik", "färg"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10a33", "item": "synas", "candidate_answers": ["föreställa", "förevisa", "förespråka", "förebåda", "förefalla"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10a34", "item": "indolens", "candidate_answers": ["håglöshet", "munterhet", "avsky", "begåvning", "tvekan"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a36", "item": "aritmetik", "candidate_answers": ["symbolvärld", "taktkänsla", "räknelära", "formgivning", "konstruktionsteknik"], "label": 2, "meta": {"comment": ""}}
+{"id": "h10a37", "item": "påbjuda", "candidate_answers": ["anbefalla", "fylla på", "ge ett bud", "möjliggöra", "välkomna"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a38", "item": "indignerad", "candidate_answers": ["upprörd", "häpen", "oskyldig", "högfärdig", "inåtvänd"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a39", "item": "förta", "candidate_answers": ["ta bort", "öka", "undvika", "överdriva", "ta över"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10a40", "item": "namne", "candidate_answers": ["person som har ett mycket ovanligt namn", "person med samma namn som någon annan", "persons egenhändigt skrivna namnteckning", "person vars namn många känner till", "person som fått ge namn åt en ny produkt"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10b01", "item": "kvalmig", "candidate_answers": ["torr och dammig", "mörk och dyster", "trög och seg", "varm och fuktig", "grå och smutsig"], "label": 3, "meta": {"comment": ""}}
+{"id": "h10b02", "item": "bifalla", "candidate_answers": ["övertala", "godkänna", "avtacka", "berömma", "rösta ned"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10b03", "item": "skenbar", "candidate_answers": ["som inte går att föreställa sig", "svår att urskilja", "som inte går att missa", "svår att beskriva", "som inte är vad det tycks vara"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10b04", "item": "kulvert", "candidate_answers": ["gatunät", "inhägnat område", "underjordisk tunnel", "militärt förråd", "rörpostsystem"], "label": 2, "meta": {"comment": ""}}
+{"id": "h10b05", "item": "ortodox", "candidate_answers": ["gammalmodig", "bildad", "fullkomlig", "renlärig", "inskränkt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h10b07", "item": "stuva", "candidate_answers": ["spara", "rensa", "slå in", "packa", "sortera"], "label": 3, "meta": {"comment": ""}}
+{"id": "h10b08", "item": "kliché", "candidate_answers": ["insmickrande beröm", "kvickt svar", "ironisk humor", "liknelse", "banalt uttryck"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10b09", "item": "feodalism", "candidate_answers": ["kollektivt ägande", "uppodling av mark", "orättvis bestraffning", "hierarkiskt samhällssystem", "medeltida trosuppfattning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h10b10", "item": "visualisera", "candidate_answers": ["iaktta", "undersöka", "vägleda", "skymta", "åskådliggöra"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10b11", "item": "motorisk", "candidate_answers": ["självgående", "som avser rörelse", "effektiv", "som avser kraft", "målmedveten"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10b12", "item": "så split", "candidate_answers": ["odla ett intresse", "dela på", "skapa oenighet", "skälla ut", "släta över"], "label": 2, "meta": {"comment": ""}}
+{"id": "h10b13", "item": "attribut", "candidate_answers": ["tillbehör", "möjlighet", "intryck", "innehåll", "hyllning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10b14", "item": "tillskansa sig", "candidate_answers": ["ta sig samman", "göra sig till", "försvara sig", "lägga beslag på", "stänga in sig"], "label": 3, "meta": {"comment": ""}}
+{"id": "h10b15", "item": "hemoglobin", "candidate_answers": ["färgämne i blodet", "hormon i blodet", "blodersättning", "blodtrycksmedicin", "blodsocker"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10b16", "item": "meänkieli", "candidate_answers": ["minoritetsspråk", "sångstil", "jaktform", "folkdans", "naturskyddsområde"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10b17", "item": "ömsom", "candidate_answers": ["inbördes", "gemensam", "såväl som", "genomgående", "växelvis"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10b18", "item": "klematis", "candidate_answers": ["vändpunkt", "klängväxt", "hälsokostpreparat", "infektionssjukdom", "uppenbarelse"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10b19", "item": "stenografi", "candidate_answers": ["radiomeddelande", "mineralförteckning", "bullermätning", "åldersbestämning", "snabbskrift"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10b21", "item": "oförblommerat", "candidate_answers": ["inställsamt", "rakt på sak", "oanständigt", "med viss tvekan", "oskickligt"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10b22", "item": "plausibel", "candidate_answers": ["trolig", "viktig", "skonsam", "smidig", "rättvis"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10b23", "item": "artrit", "candidate_answers": ["ädelsten", "kurvdiagram", "kyrkorum", "molnformation", "ledinflammation"], "label": 4, "meta": {"comment": ""}}
+{"id": "h10b25", "item": "ode", "candidate_answers": ["versmått", "samlingsvolym", "saga", "hyllningsdikt", "skådespel"], "label": 3, "meta": {"comment": ""}}
+{"id": "h10b26", "item": "otillbörligt", "candidate_answers": ["oväntat", "overkligt", "olämpligt", "osäkert", "oåtkomligt"], "label": 2, "meta": {"comment": ""}}
+{"id": "h10b27", "item": "copywriter", "candidate_answers": ["reklamskribent", "talskrivare", "översättare", "medförfattare", "domstolssekreterare"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10b28", "item": "vantrogen", "candidate_answers": ["skeptisk", "oförnuftig", "obeslutsam", "oförskämd", "besvärlig"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10b29", "item": "bräm", "candidate_answers": ["öppning", "kant", "lutning", "topp", "lucka"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10b30", "item": "rojalistisk", "candidate_answers": ["kungatrogen", "av hög börd", "högfärdig", "konservativ", "förnäm"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10b33", "item": "kontrahent", "candidate_answers": ["part i avtal", "stor landmassa", "oavbrutet sammanhang", "bidragslämnare", "truppavdelning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10b34", "item": "inpass", "candidate_answers": ["kallelse", "replik", "löfte", "önskemål", "förslag"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10b35", "item": "komma på obestånd", "candidate_answers": ["hamna utanför", "få dålig ekonomi", "förlora sin ställning", "bli vräkt", "bli ovän med någon"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10b36", "item": "antropologi", "candidate_answers": ["läran om människan", "läran om spindeldjur", "läran om samspelet i naturen", "läran om bergarter", "läran om åldrandet"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10b37", "item": "potentat", "candidate_answers": ["domare", "pamp", "sponsor", "politiker", "svindlare"], "label": 1, "meta": {"comment": ""}}
+{"id": "h10b38", "item": "varsebli", "candidate_answers": ["uppfatta med sinnena", "förhålla sig avvaktande", "bli förvirrad", "få en förvarning", "bilda sig en åsikt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h10b39", "item": "disputation", "candidate_answers": ["orättvis behandling", "noggrann förteckning", "försvar av en avhandling", "fördelning av uppgifter", "brist på överensstämmelse"], "label": 2, "meta": {"comment": ""}}
+{"id": "h10b40", "item": "självutplåning", "candidate_answers": ["det att lämna ut sig själv", "det att känna sig övergiven", "det att ta på sig skulden", "det att tycka synd om sig själv", "det att undertrycka sina egna behov"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11a01", "item": "anspråk", "candidate_answers": ["order", "beslut", "krav", "bevis", "ursäkt"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11a02", "item": "varsko", "candidate_answers": ["upptäcka", "beklaga", "förvarna", "inbilla", "bevara"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11a03", "item": "borga för", "candidate_answers": ["besluta", "garantera", "motivera", "bevaka", "förbereda"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11a04", "item": "distinkt", "candidate_answers": ["tydligt", "genast", "grundligt", "snabbt", "taktfast"], "label": 0, "meta": {"comment": ""}}
+{"id": "h11a05", "item": "fristad", "candidate_answers": ["mötesplats", "tillflyktsort", "skatteparadis", "helig plats", "ingenmansland"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11a07", "item": "racka ner på", "candidate_answers": ["underskatta", "bryta ner", "kritisera", "baktala", "förkasta"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11a08", "item": "fjording", "candidate_answers": ["vagnstyp", "fjälltopp", "hästras", "gummibåt", "insjö"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11a09", "item": "decimera", "candidate_answers": ["dela", "minska", "tillägna", "lämna", "förgöra"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11a10", "item": "i gemen", "candidate_answers": ["i synnerhet", "i vissa fall", "i sällsynta fall", "i detta fall", "i allmänhet"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11a11", "item": "sona", "candidate_answers": ["plågas", "hämnas", "ångra", "trösta", "gottgöra"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11a12", "item": "perforering", "candidate_answers": ["rutmönster", "hålrad", "klisterremsa", "mittlinje", "pappersveck"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11a13", "item": "stötesten", "candidate_answers": ["risk", "tvång", "överdrift", "motsägelse", "svårighet"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11a14", "item": "koordinera", "candidate_answers": ["samarbeta", "sammanställa", "räkna samman", "sammanfoga", "samordna"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11a15", "item": "relativt", "candidate_answers": ["mestadels", "nästintill", "delvis", "förmodligen", "jämförelsevis"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11a16", "item": "eftersatt", "candidate_answers": ["ofördelaktig", "bedräglig", "svår", "försummad", "tillfällig"], "label": 3, "meta": {"comment": ""}}
+{"id": "h11a17", "item": "pudelns kärna", "candidate_answers": ["en svårlöst gåta", "den verkliga innebörden", "en väl bevarad hemlighet", "den inre drivkraften", "en engagerande fråga"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11a18", "item": "unison", "candidate_answers": ["inåtvänd", "enkel", "ensidig", "enstämmig", "sällsynt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h11a19", "item": "legislativ", "candidate_answers": ["som rör medborgarna", "som rör maktfördelning", "som rör utbildning", "som rör tjänstesektorn", "som rör lagstiftning"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11a20", "item": "burlesk", "candidate_answers": ["opålitlig", "poetiskt skön", "färggrann", "grovt komisk", "ovanlig"], "label": 3, "meta": {"comment": ""}}
+{"id": "h11a21", "item": "nobless", "candidate_answers": ["smyckeskrin", "påkostad bal", "social elit", "överdådig måltid", "aftonklänning"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11a22", "item": "opus", "candidate_answers": ["rättighet", "verk", "avtal", "teori", "vision"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11a23", "item": "meridian", "candidate_answers": ["havsnivå", "vändpunkt", "toppskikt", "längdgrad", "krökning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h11a24", "item": "behjälplig", "candidate_answers": ["nödvändig", "värd att hjälpa", "förlorad", "till hjälp", "hjälplös"], "label": 3, "meta": {"comment": ""}}
+{"id": "h11a25", "item": "påver", "candidate_answers": ["mörk", "gammal", "otydlig", "torftig", "strikt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h11a26", "item": "växelverkan", "candidate_answers": ["turordning", "kraftöverföring", "ömsesidigt inflytande", "motsatsförhållande", "gradvis förändring"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11a27", "item": "asterisk", "candidate_answers": ["varumärkessymbol", "stor bokstav", "symbol för valuta", "tecken i form av stjärna", "upphöjd siffra"], "label": 3, "meta": {"comment": ""}}
+{"id": "h11a28", "item": "hypofys", "candidate_answers": ["balansorgan", "cellkärna", "hormonkörtel", "syncentrum", "hjärnbark"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11a29", "item": "krinolin", "candidate_answers": ["bakverk", "smycke", "musikstycke", "sänghimmel", "kjol"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11a30", "item": "progressiv", "candidate_answers": ["saklig", "framstegsvänlig", "förutseende", "framfusig", "stridslysten"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11a31", "item": "haussa", "candidate_answers": ["öka förväntningarna", "kritisera skarpt", "göra besviken", "inte tänka igenom", "prestera bättre"], "label": 0, "meta": {"comment": ""}}
+{"id": "h11a32", "item": "pumpernickel", "candidate_answers": ["rågbröd", "tokstolle", "myntenhet", "evighetsmaskin", "grönsak"], "label": 0, "meta": {"comment": ""}}
+{"id": "h11a33", "item": "aria", "candidate_answers": ["folkvisa", "lyrisk dikt", "solosång", "antikt versmått", "psalmmelodi"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11a34", "item": "urskulda sig", "candidate_answers": ["förbise något", "försvara sig", "visa omdöme", "bete sig illa", "göra rätt för sig"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11a35", "item": "gobeläng", "candidate_answers": ["lampa", "bordsduk", "pelare", "sänggavel", "bildvävnad"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11a37", "item": "konvergera", "candidate_answers": ["närma sig varandra", "ingå avtal", "vara oense", "byta åsikt", "inleda förhandlingar"], "label": 0, "meta": {"comment": ""}}
+{"id": "h11a38", "item": "försmådd", "candidate_answers": ["nedtryckt", "avvisad", "medtagen", "oföretagsam", "besvärad"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11a39", "item": "kanonisation", "candidate_answers": ["välkomnande", "bibelstudium", "lagsamling", "invigning", "helgonförklaring"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11a40", "item": "outsourcing", "candidate_answers": ["att sälja varor av kända märken", "att lägga ut delar av sin verksamhet på entreprenad", "att omplacera personal i ledande ställning", "att begära företrädesrätt vid försäljning", "att fördela ett företags vinst på aktieägarna"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11ba01", "item": "utfall", "candidate_answers": ["ersättning", "möjlighet", "sannolikhet", "avvikelse", "resultat"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11ba02", "item": "övervägande", "candidate_answers": ["tillfälligtvis", "lite varstans", "huvudsakligen", "gradvis ökande", "omåttligt"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11ba03", "item": "polenta", "candidate_answers": ["majsgryn", "bröd", "fårost", "dryckeskärl", "baljväxt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h11ba04", "item": "ta i anspråk", "candidate_answers": ["förmoda", "nyttja", "tillrättavisa", "besluta", "önska"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11ba06", "item": "tvehågsen", "candidate_answers": ["obeslutsam", "mångbottnad", "tvåfaldig", "konflikträdd", "dubbeltydig"], "label": 0, "meta": {"comment": ""}}
+{"id": "h11ba07", "item": "särdeles", "candidate_answers": ["bara", "ganska", "utomordentligt", "tveksamt", "tudelat"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11ba08", "item": "fysionomi", "candidate_answers": ["själsliv", "utseende", "energiförbrukning", "välbefinnande", "självbild"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11ba09", "item": "kanapé", "candidate_answers": ["smycke", "vagn", "bakverk", "peruk", "versmått"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11bb01", "item": "alarmerande", "candidate_answers": ["aggressiv", "avskräckande", "oroande", "provocerande", "uppfordrande"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11bb02", "item": "stomi", "candidate_answers": ["lugnande preparat", "magkatarr", "missbildning", "kirurgisk öppning", "muskelstelhet"], "label": 3, "meta": {"comment": ""}}
+{"id": "h11bb03", "item": "hänföras", "candidate_answers": ["bli lurad", "upplysas", "förtjusas", "förvirras", "bli bortförd"], "label": 2, "meta": {"comment": ""}}
+{"id": "h11bb04", "item": "grynna", "candidate_answers": ["boplats för djur", "litet grund", "hästsele", "sagoväsen", "kokkärl"], "label": 1, "meta": {"comment": ""}}
+{"id": "h11bb05", "item": "utfästelse", "candidate_answers": ["tomt hot", "kungligt valspråk", "orimligt krav", "avslöjande", "offentligt löfte"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11bb06", "item": "förefalla", "candidate_answers": ["tyckas", "tolka", "anta", "inträffa", "påstå"], "label": 0, "meta": {"comment": ""}}
+{"id": "h11bb08", "item": "pittoresk", "candidate_answers": ["storslaget praktfull", "välordnad", "behagligt stillsam", "gammaldags", "charmigt idyllisk"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11bb09", "item": "repertoar", "candidate_answers": ["övningstillfälle", "privat loge", "scen", "återutsändning", "programutbud"], "label": 4, "meta": {"comment": ""}}
+{"id": "h11bb10", "item": "seraf", "candidate_answers": ["ängel", "demon", "furste", "krigare", "trollkarl"], "label": 0, "meta": {"comment": ""}}
+{"id": "h12aa01", "item": "sympatisör", "candidate_answers": ["medbrottsling", "livsnjutare", "anhängare", "samordnare", "jämlike"], "label": 2, "meta": {"comment": ""}}
+{"id": "h12aa02", "item": "portfolio", "candidate_answers": ["brevarkiv", "mobilt bibliotek", "illustrerat häfte", "samling lagtexter", "mapp med arbetsprover"], "label": 4, "meta": {"comment": ""}}
+{"id": "h12aa03", "item": "gäckande", "candidate_answers": ["retfullt", "envist", "fåfängt", "lustigt", "ivrigt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h12aa04", "item": "supera", "candidate_answers": ["berusa sig", "fullborda något", "äta en sen måltid", "göra sitt bästa", "överdriva"], "label": 2, "meta": {"comment": ""}}
+{"id": "h12aa05", "item": "tillstymmelse", "candidate_answers": ["komplement", "föraning", "beskyllning", "antydan", "likhet"], "label": 3, "meta": {"comment": ""}}
+{"id": "h12aa06", "item": "omedgörlig", "candidate_answers": ["impulsiv", "obeveklig", "handlingsförlamad", "obehärskad", "mekanisk"], "label": 1, "meta": {"comment": ""}}
+{"id": "h12aa07", "item": "pastörisera", "candidate_answers": ["tömma", "konservera", "finfördela", "upphetta", "skumma"], "label": 3, "meta": {"comment": ""}}
+{"id": "h12aa08", "item": "strata", "candidate_answers": ["mätning", "skikt", "fakta", "skydd", "strålning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h12aa09", "item": "pseudo-", "candidate_answers": ["evig", "oäkta", "upphöjd", "själslig", "föråldrad"], "label": 1, "meta": {"comment": ""}}
+{"id": "h12aa10", "item": "lagfart", "candidate_answers": ["arbetstillstånd", "snabbt överklagande", "inregistrering av fastighetsköp", "högsta tillåtna hastighet", "gällande lagstiftning"], "label": 2, "meta": {"comment": ""}}
+{"id": "h12ab01", "item": "kortege", "candidate_answers": ["förtrupp", "konstutställning", "långt följe", "utomhusteater", "slutet sällskap"], "label": 2, "meta": {"comment": ""}}
+{"id": "h12ab02", "item": "placebo", "candidate_answers": ["verkningslöst preparat", "naturläkemedel", "kemiskt rent preparat", "örtmedicin", "syntetiskt vitaminpreparat"], "label": 0, "meta": {"comment": ""}}
+{"id": "h12ab03", "item": "bohemisk", "candidate_answers": ["sökande", "obunden av normer", "hemkär", "öppen för idéer", "vemodig"], "label": 1, "meta": {"comment": ""}}
+{"id": "h12ab04", "item": "friska i", "candidate_answers": ["tillta i styrka", "ta sig an något nytt", "förbättra", "gripa tag i", "gå till överdrift"], "label": 0, "meta": {"comment": ""}}
+{"id": "h12ab05", "item": "cellofan", "candidate_answers": ["täckmassa", "omslagsmaterial", "hudplåster", "absorberande material", "lösningsmedel"], "label": 1, "meta": {"comment": ""}}
+{"id": "h12ab06", "item": "kännbar", "candidate_answers": ["lättsam", "mottaglig", "förmodad", "påtaglig", "utmärkande"], "label": 3, "meta": {"comment": ""}}
+{"id": "h12ab07", "item": "vanmakt", "candidate_answers": ["osjälvständighet", "skamkänsla", "respektlöshet", "lidande", "hjälplöshet"], "label": 4, "meta": {"comment": ""}}
+{"id": "h12ab08", "item": "enkom", "candidate_answers": ["framför allt", "bestämt", "med besvär", "uteslutande", "uppenbarligen"], "label": 3, "meta": {"comment": ""}}
+{"id": "h12ab09", "item": "jökel", "candidate_answers": ["vulkan", "brant stup", "glaciär", "liten kulle", "bäck"], "label": 2, "meta": {"comment": ""}}
+{"id": "h12ab10", "item": "bejaka", "candidate_answers": ["bevisa att något är sant", "säga sin mening", "ge förlåtelse", "vara positiv till", "bete sig inställsamt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h12ba01", "item": "moderator", "candidate_answers": ["mellanchef", "skulptör", "auktionsutropare", "debattledare", "kläddesigner"], "label": 3, "meta": {"comment": ""}}
+{"id": "h12ba02", "item": "gråtmild", "candidate_answers": ["ledsam", "tröstande", "sörjande", "medkännande", "sentimental"], "label": 4, "meta": {"comment": ""}}
+{"id": "h12ba03", "item": "dragplåster", "candidate_answers": ["häftmassa", "attraktion vid evenemang", "fiskeredskap", "påträngande person", "överdrag"], "label": 1, "meta": {"comment": ""}}
+{"id": "h12ba04", "item": "subventionera", "candidate_answers": ["beställa", "stödja ekonomiskt", "meddela", "utse en ersättare", "beskatta"], "label": 1, "meta": {"comment": ""}}
+{"id": "h12ba05", "item": "singel", "candidate_answers": ["grus", "metall", "gräsfrö", "mynt", "urdjur"], "label": 0, "meta": {"comment": ""}}
+{"id": "h12ba06", "item": "veterligen", "candidate_answers": ["följaktligen", "möjligtvis", "såvitt känt", "absolut", "visserligen"], "label": 2, "meta": {"comment": ""}}
+{"id": "h12ba07", "item": "aladåb", "candidate_answers": ["prydnadssten", "havslevande djur", "kall maträtt", "allvetande person", "prästdräkt"], "label": 2, "meta": {"comment": ""}}
+{"id": "h12ba08", "item": "förfaras", "candidate_answers": ["bli oanvändbar", "ta slut", "upplösas", "få nog", "bli bortskämd"], "label": 0, "meta": {"comment": ""}}
+{"id": "h12ba09", "item": "nihilist", "candidate_answers": ["en som vägrar bära vapen", "en som njuter av plågor", "en som förnekar normer", "en som lever i isolering", "en som inte vill äga något"], "label": 2, "meta": {"comment": ""}}
+{"id": "h12ba10", "item": "endogen", "candidate_answers": ["inifrån kommande", "tvåkönad", "tydligt avgränsad", "avsiktlig", "ofta förekommande"], "label": 0, "meta": {"comment": ""}}
+{"id": "h12bb02", "item": "förhärskande", "candidate_answers": ["mäktig", "rådande", "oroande", "fastslagen", "förödande"], "label": 1, "meta": {"comment": ""}}
+{"id": "h12bb03", "item": "glukos", "candidate_answers": ["vegetabiliskt fett", "mineralämne", "fruktsyra", "druvsocker", "mjölkprotein"], "label": 3, "meta": {"comment": ""}}
+{"id": "h12bb04", "item": "urskulda", "candidate_answers": ["försämra", "försöka", "förtala", "förtjäna", "försvara"], "label": 4, "meta": {"comment": ""}}
+{"id": "h12bb05", "item": "restriktion", "candidate_answers": ["motståndskraft", "återkoppling", "kvarhållande", "inskränkning", "påtryckning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h12bb08", "item": "lägga sordin på", "candidate_answers": ["förstärka", "dölja", "utsmycka", "dämpa", "slutföra"], "label": 3, "meta": {"comment": ""}}
+{"id": "h12bb09", "item": "andemening", "candidate_answers": ["egentlig innebörd", "själfullt yttrande", "avvikande uppfattning", "vag betydelse", "religiös idé"], "label": 0, "meta": {"comment": ""}}
+{"id": "h12bb10", "item": "uppskörtad", "candidate_answers": ["lurad att betala för mycket", "spänd av förväntan", "fullständigt utmattad", "tvingad att agera", "rädd utan anledning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h13aa01", "item": "naiv", "candidate_answers": ["påhittig", "rådlös", "busig", "godtrogen", "motsträvig"], "label": 3, "meta": {"comment": ""}}
+{"id": "h13aa02", "item": "högaktning", "candidate_answers": ["sorg", "högtid", "salighet", "högmod", "vördnad"], "label": 4, "meta": {"comment": ""}}
+{"id": "h13aa03", "item": "kandera", "candidate_answers": ["skära upp kött", "pryda med ljus", "överdra med socker", "steka på båda sidor", "hälla upp vin"], "label": 2, "meta": {"comment": ""}}
+{"id": "h13aa04", "item": "förbehåll", "candidate_answers": ["villkor", "ursäkt", "misstanke", "omvärdering", "ställningstagande"], "label": 0, "meta": {"comment": ""}}
+{"id": "h13aa05", "item": "oavvänt", "candidate_answers": ["igenkännande", "oupphörligt", "från rätt sida", "överlägset", "fientligt"], "label": 1, "meta": {"comment": ""}}
+{"id": "h13aa06", "item": "karoten", "candidate_answers": ["grundämne", "protein", "giftämne", "växtfiber", "färgämne"], "label": 4, "meta": {"comment": ""}}
+{"id": "h13aa09", "item": "genmäla", "candidate_answers": ["återge", "hindra", "svara", "anklaga", "ersätta"], "label": 2, "meta": {"comment": ""}}
+{"id": "h13aa10", "item": "kanon", "candidate_answers": ["utvald samling", "miniminivå", "grundkurs", "storgrupp", "ouppnåeligt ideal"], "label": 0, "meta": {"comment": ""}}
+{"id": "h13ab01", "item": "piccolo", "candidate_answers": ["skoputsare", "barnflicka", "mattknytare", "hotellpojke", "cykelbud"], "label": 3, "meta": {"comment": ""}}
+{"id": "h13ab03", "item": "förekomst", "candidate_answers": ["ursprung", "fenomen", "orsak", "möjlighet", "existens"], "label": 4, "meta": {"comment": ""}}
+{"id": "h13ab04", "item": "äntra", "candidate_answers": ["slingra sig runt", "få att välta", "hålla sig fast", "ta sig upp på", "gå och driva"], "label": 3, "meta": {"comment": ""}}
+{"id": "h13ab05", "item": "in natura", "candidate_answers": ["utan tillsatser", "med självklarhet", "i annat värde än pengar", "alltigenom äkta", "i det fria"], "label": 2, "meta": {"comment": ""}}
+{"id": "h13ab06", "item": "makulatur", "candidate_answers": ["äldre upplaga", "manuskript", "ogranskat textmaterial", "kasserade trycksaker", "arkiverad årgång"], "label": 3, "meta": {"comment": ""}}
+{"id": "h13ab07", "item": "förlikning", "candidate_answers": ["omvandling", "sammanbrott", "uppgörelse", "ursäkt", "nedläggning"], "label": 2, "meta": {"comment": ""}}
+{"id": "h13ab08", "item": "derivera", "candidate_answers": ["förstora", "härleda", "inskjuta", "tillägga", "överföra"], "label": 1, "meta": {"comment": ""}}
+{"id": "h13ab09", "item": "allusion", "candidate_answers": ["anpassning", "drömbild", "tillägg", "förvirring", "anspelning"], "label": 4, "meta": {"comment": ""}}
+{"id": "h13ab10", "item": "försagd", "candidate_answers": ["blyg", "förbisedd", "allvarlig", "kritiserad", "talför"], "label": 0, "meta": {"comment": ""}}
+{"id": "h13ba01", "item": "hospitaliserad", "candidate_answers": ["inbillningssjuk", "gästvänlig", "läkemedelsberoende", "väl mottagen", "sjukhustillvänjd"], "label": 4, "meta": {"comment": ""}}
+{"id": "h13ba02", "item": "alpinism", "candidate_answers": ["bergsbestigning", "fjällräddning", "snöblindhet", "höjdrädsla", "glaciärbildning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h13ba03", "item": "gestalta", "candidate_answers": ["fantisera", "utforma", "tyda", "urskilja", "fullborda"], "label": 1, "meta": {"comment": ""}}
+{"id": "h13ba04", "item": "amnesti", "candidate_answers": ["påtryckning", "försvar", "uppskov", "förbud", "benådning"], "label": 4, "meta": {"comment": ""}}
+{"id": "h13ba05", "item": "brådstörtat", "candidate_answers": ["tvärbrant", "smärtsamt", "djupgående", "plötsligt", "stressigt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h13ba06", "item": "schabrak", "candidate_answers": ["grustag", "mullrande ljud", "nederlag", "stort tygstycke", "metallbygel"], "label": 3, "meta": {"comment": ""}}
+{"id": "h13ba08", "item": "peang", "candidate_answers": ["klämma", "tunn kniv", "mätinstrument", "liten sax", "väggur"], "label": 0, "meta": {"comment": ""}}
+{"id": "h13ba09", "item": "upplåta", "candidate_answers": ["höja till skyarna", "belöna", "ställa till förfogande", "belysa", "uttrycka glädje"], "label": 2, "meta": {"comment": ""}}
+{"id": "h13ba10", "item": "subtilitet", "candidate_answers": ["finess", "stolthet", "upphöjdhet", "påverkan", "ersättning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h13bb01", "item": "frimodig", "candidate_answers": ["rörlig", "frågvis", "hederlig", "okritisk", "rättfram"], "label": 4, "meta": {"comment": ""}}
+{"id": "h13bb02", "item": "drive", "candidate_answers": ["risktagande", "investering", "vägval", "kampanj", "uppgång"], "label": 3, "meta": {"comment": ""}}
+{"id": "h13bb03", "item": "ordinera", "candidate_answers": ["förmana", "konstatera", "föreskriva", "utskänka", "fördela"], "label": 2, "meta": {"comment": ""}}
+{"id": "h13bb04", "item": "målsägande", "candidate_answers": ["domare", "åtalad person", "försvarsadvokat", "brottsutsatt person", "åklagare"], "label": 3, "meta": {"comment": ""}}
+{"id": "h13bb05", "item": "eminent", "candidate_answers": ["framstående", "känslosam", "erfaren", "utåtriktad", "enväldig"], "label": 0, "meta": {"comment": ""}}
+{"id": "h13bb06", "item": "aperitif", "candidate_answers": ["bakverk", "garnering", "fördrink", "efterrätt", "tilltugg"], "label": 2, "meta": {"comment": ""}}
+{"id": "h13bb08", "item": "ackumulation", "candidate_answers": ["tillvänjning", "avskiljande", "sammanställning", "anhopning", "uppvärmning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h13bb09", "item": "prygla", "candidate_answers": ["strimla", "hålla fast", "hetsa", "markera", "spöa"], "label": 4, "meta": {"comment": ""}}
+{"id": "h14aa01", "item": "oblat", "candidate_answers": ["marmorpelare", "silverbricka", "gammalt mynt", "skuldebrev", "nattvardsbröd"], "label": 4, "meta": {"comment": ""}}
+{"id": "h14aa02", "item": "infria", "candidate_answers": ["berömma", "avlasta", "charma", "uppfylla", "glädja"], "label": 3, "meta": {"comment": ""}}
+{"id": "h14aa03", "item": "algebra", "candidate_answers": ["räkning med heltal", "huvudräkning", "talserie", "procenträkning", "räkning med symboler"], "label": 4, "meta": {"comment": ""}}
+{"id": "h14aa04", "item": "rationell", "candidate_answers": ["pålitlig", "föränderlig", "sparsam", "lättbegriplig", "förnuftig"], "label": 4, "meta": {"comment": ""}}
+{"id": "h14aa05", "item": "trojka", "candidate_answers": ["diktator", "generalstab", "departement", "tremannavälde", "domstol"], "label": 3, "meta": {"comment": ""}}
+{"id": "h14aa07", "item": "lamell", "candidate_answers": ["kägla", "skiva", "tygbit", "frans", "rulle"], "label": 1, "meta": {"comment": ""}}
+{"id": "h14aa08", "item": "abonnera", "candidate_answers": ["leverera", "göra tillgänglig", "förhandsbeställa", "komma överens", "återbetala"], "label": 2, "meta": {"comment": ""}}
+{"id": "h14aa10", "item": "eutanasi", "candidate_answers": ["bedövning", "självbehärskning", "dödshjälp", "balansrubbning", "aptitlöshet"], "label": 2, "meta": {"comment": ""}}
+{"id": "h14ab01", "item": "kaki", "candidate_answers": ["bränt lergods", "modellteckning", "turkisk maträtt", "kortbyxor", "sandfärgat tyg"], "label": 4, "meta": {"comment": ""}}
+{"id": "h14ab02", "item": "illustrera", "candidate_answers": ["försköna", "bevisa", "markera", "belysa", "påpeka"], "label": 3, "meta": {"comment": ""}}
+{"id": "h14ab03", "item": "reminiscens", "candidate_answers": ["svag minnesbild", "avkoppling", "försynt anmärkning", "tillåtelse", "upprepad tillsägelse"], "label": 0, "meta": {"comment": ""}}
+{"id": "h14ab04", "item": "som en löpeld", "candidate_answers": ["ivrigt", "smidigt", "oavbrutet", "livligt", "snabbt"], "label": 4, "meta": {"comment": ""}}
+{"id": "h14ab05", "item": "delirium", "candidate_answers": ["raseriutbrott", "svimningsanfall", "förvirringstillstånd", "besatthet", "handlingsförlamning"], "label": 2, "meta": {"comment": ""}}
+{"id": "h14ab06", "item": "innevarande", "candidate_answers": ["omgiven", "pågående", "tillhörande", "modern", "vilande"], "label": 1, "meta": {"comment": ""}}
+{"id": "h14ab08", "item": "avpollettera", "candidate_answers": ["avrunda", "skicka iväg", "undvika", "glömma bort", "avråda"], "label": 1, "meta": {"comment": ""}}
+{"id": "h14ab09", "item": "förorättad", "candidate_answers": ["angiven", "bekymrad", "missförstådd", "sårad", "tillrättavisad"], "label": 3, "meta": {"comment": ""}}
+{"id": "h14ab10", "item": "antologi", "candidate_answers": ["textsamling", "motsägelse", "kulturstudie", "folklivsforskning", "kunskapsteori"], "label": 0, "meta": {"comment": ""}}
+{"id": "h14ba01", "item": "konferera", "candidate_answers": ["värdera", "bekräfta", "överlägga", "granska", "komma överens"], "label": 2, "meta": {"comment": ""}}
+{"id": "h14ba02", "item": "centrifug", "candidate_answers": ["torkskåp", "plattform mitt i gatan", "kraftcentral", "roterande behållare", "tvättautomat"], "label": 3, "meta": {"comment": ""}}
+{"id": "h14ba03", "item": "sömndrucken", "candidate_answers": ["i djup sömn", "som har stort sömnbehov", "pigg och utvilad", "som har försovit sig", "omtöcknad av sömn"], "label": 4, "meta": {"comment": ""}}
+{"id": "h14ba04", "item": "oboe", "candidate_answers": ["ödebygd", "pelare", "trädgårdsväxt", "ädelsten", "blåsinstrument"], "label": 4, "meta": {"comment": ""}}
+{"id": "h14ba05", "item": "de facto", "candidate_answers": ["för säkerhets skull", "i själva verket", "med ens", "till varje pris", "på inga villkor"], "label": 1, "meta": {"comment": ""}}
+{"id": "h14ba06", "item": "spel för galleriet", "candidate_answers": ["hemliga förhandlingar", "publikfrieri", "offentlig vadslagning", "repetition", "exklusiv underhållning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h14ba07", "item": "efterleva", "candidate_answers": ["förbättra", "ångra", "överta", "följa", "ersätta"], "label": 3, "meta": {"comment": ""}}
+{"id": "h14ba08", "item": "förtrytelse", "candidate_answers": ["förargelse", "förskräckelse", "förakt", "förtvivlan", "förvirring"], "label": 0, "meta": {"comment": ""}}
+{"id": "h14ba10", "item": "domesticering", "candidate_answers": ["inavel", "uppfostran", "avvänjning", "inlärning", "tämjning"], "label": 4, "meta": {"comment": ""}}
+{"id": "h14bb01", "item": "vinna gehör", "candidate_answers": ["bli framgångsrik", "uppfatta tydligt", "få medhåll", "lyssna in", "få en fördel"], "label": 2, "meta": {"comment": ""}}
+{"id": "h14bb02", "item": "inventering", "candidate_answers": ["tillställning", "förberedelse", "kartläggning", "skapelse", "inredning"], "label": 2, "meta": {"comment": ""}}
+{"id": "h14bb03", "item": "rådvill", "candidate_answers": ["målmedveten", "oförnuftig", "välmenande", "obeslutsam", "tankfull"], "label": 3, "meta": {"comment": ""}}
+{"id": "h14bb04", "item": "fradga", "candidate_answers": ["rök", "ånga", "kyla", "skum", "vätska"], "label": 3, "meta": {"comment": ""}}
+{"id": "h14bb05", "item": "retro-", "candidate_answers": ["ny-", "för-", "utåt-", "mot-", "tillbaka-"], "label": 4, "meta": {"comment": ""}}
+{"id": "h14bb06", "item": "genmäle", "candidate_answers": ["eko", "svar", "utrop", "fråga", "påstående"], "label": 1, "meta": {"comment": ""}}
+{"id": "h14bb07", "item": "differentiera", "candidate_answers": ["dra ner på", "bedöma", "lista ut", "avskärma", "skapa variation i"], "label": 4, "meta": {"comment": ""}}
+{"id": "h14bb08", "item": "läckergom", "candidate_answers": ["skämtare", "hedersman", "snygging", "finsmakare", "charmör"], "label": 3, "meta": {"comment": ""}}
+{"id": "h14bb09", "item": "bilateral", "candidate_answers": ["ömsesidig", "jämställd", "målinriktad", "inofficiell", "motstridig"], "label": 0, "meta": {"comment": ""}}
+{"id": "h14bb10", "item": "allegori", "candidate_answers": ["grov överdrift", "debattskrift", "bildlig framställning", "högtidstal", "visdomsord"], "label": 2, "meta": {"comment": ""}}
+{"id": "h15aa01", "item": "signalement", "candidate_answers": ["förklaring", "underrättelse", "varning", "stämpel", "beskrivning"], "label": 4, "meta": {"comment": ""}}
+{"id": "h15aa02", "item": "uppsåtlig", "candidate_answers": ["tänkbar", "överdriven", "trotsig", "förträfflig", "avsiktlig"], "label": 4, "meta": {"comment": ""}}
+{"id": "h15aa03", "item": "talg", "candidate_answers": ["skal", "hud", "fett", "frö", "hår"], "label": 2, "meta": {"comment": ""}}
+{"id": "h15aa04", "item": "kontrastera", "candidate_answers": ["motarbeta", "dra ihop", "återkalla", "säga emot", "bilda motsats"], "label": 4, "meta": {"comment": ""}}
+{"id": "h15aa05", "item": "eklips", "candidate_answers": ["soluppgång", "omloppsbana", "stjärnfall", "förmörkelse", "spiralform"], "label": 3, "meta": {"comment": ""}}
+{"id": "h15aa06", "item": "snart sagt", "candidate_answers": ["så gott som", "som väntat", "vanligtvis", "återkommande", "i bästa fall"], "label": 0, "meta": {"comment": ""}}
+{"id": "h15aa07", "item": "aktualitet", "candidate_answers": ["information", "åsikt", "principfråga", "nyhet", "allmänbildning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h15aa08", "item": "inmundiga", "candidate_answers": ["sucka", "äta", "andas", "bita", "tystna"], "label": 1, "meta": {"comment": ""}}
+{"id": "h15aa09", "item": "krum", "candidate_answers": ["böjd", "svag", "grym", "hård", "kort"], "label": 0, "meta": {"comment": ""}}
+{"id": "h15ab01", "item": "kulmen", "candidate_answers": ["lägsta punkt", "startskott", "mittpunkt", "slutskede", "höjdpunkt"], "label": 4, "meta": {"comment": ""}}
+{"id": "h15ab02", "item": "verkningsfullt", "candidate_answers": ["följdriktigt", "realistiskt", "arbetsamt", "effektivt", "konsekvent"], "label": 3, "meta": {"comment": ""}}
+{"id": "h15ab03", "item": "ge upphov till", "candidate_answers": ["intyga", "förändra", "orsaka", "uppmana", "tillåta"], "label": 2, "meta": {"comment": ""}}
+{"id": "h15ab05", "item": "absurd", "candidate_answers": ["ohållbar", "orimlig", "olämplig", "olustig", "osann"], "label": 1, "meta": {"comment": ""}}
+{"id": "h15ab06", "item": "ensemble", "candidate_answers": ["föreställning", "solosång", "teatersalong", "instrument", "grupp"], "label": 4, "meta": {"comment": ""}}
+{"id": "h15ab07", "item": "hysa", "candidate_answers": ["behandla välvilligt", "ge en tillsägelse", "skämta med", "ge husrum åt", "passa upp"], "label": 3, "meta": {"comment": ""}}
+{"id": "h15ab08", "item": "provokation", "candidate_answers": ["utmaning", "förnedring", "hämnd", "motstånd", "hot"], "label": 0, "meta": {"comment": ""}}
+{"id": "h15ab09", "item": "taktil", "candidate_answers": ["som beror på ärftliga faktorer", "som avser känsel och beröring", "som beror på hormonpåverkan", "som avser ämnesomsättningen", "som beror på miljöpåverkan"], "label": 1, "meta": {"comment": ""}}
+{"id": "h15ab10", "item": "chimär", "candidate_answers": ["liten häst", "inbillning", "kodat meddelande", "ljusfenomen", "elegant herre"], "label": 1, "meta": {"comment": ""}}
+{"id": "h15ba01", "item": "magnifik", "candidate_answers": ["högtidlig", "förhärligad", "överordnad", "praktfull", "förfinad"], "label": 3, "meta": {"comment": ""}}
+{"id": "h15ba02", "item": "fragmentering", "candidate_answers": ["utspädning", "nybildning", "sönderdelning", "förkortning", "spridning"], "label": 2, "meta": {"comment": ""}}
+{"id": "h15ba03", "item": "etsa sig in", "candidate_answers": ["blanda sig i", "vänja sig vid", "kämpa sig igenom", "ta kontroll över", "bränna sig fast"], "label": 4, "meta": {"comment": ""}}
+{"id": "h15ba05", "item": "uppfordrande", "candidate_answers": ["upprepande", "utvärderande", "uppmanande", "utmärkande", "upplysande"], "label": 2, "meta": {"comment": ""}}
+{"id": "h15ba06", "item": "lobotomi", "candidate_answers": ["blodanalys", "skiktröntgen", "tarmundersökning", "hjärnoperation", "ögonbehandling"], "label": 3, "meta": {"comment": ""}}
+{"id": "h15ba07", "item": "svartmåla", "candidate_answers": ["förtala", "utmärka", "förstöra", "dölja", "förfula"], "label": 0, "meta": {"comment": ""}}
+{"id": "h15ba08", "item": "bifall", "candidate_answers": ["medverkan", "synpunkt", "tilltal", "lydnad", "samtycke"], "label": 4, "meta": {"comment": ""}}
+{"id": "h15bb01", "item": "nisch", "candidate_answers": ["brytpunkt", "avstickare", "specialområde", "alternativ", "mönster"], "label": 2, "meta": {"comment": ""}}
+{"id": "h15bb02", "item": "momentan", "candidate_answers": ["utsträckt", "enformig", "unik", "tillfällig", "löpande"], "label": 3, "meta": {"comment": ""}}
+{"id": "h15bb03", "item": "föreskrift", "candidate_answers": ["bestämmelse", "intyg", "förslag", "inledning", "överenskommelse"], "label": 0, "meta": {"comment": ""}}
+{"id": "h15bb04", "item": "käbbla", "candidate_answers": ["reta", "klaga", "störa", "härja", "gräla"], "label": 4, "meta": {"comment": ""}}
+{"id": "h15bb05", "item": "exil", "candidate_answers": ["främlingskap", "landsflykt", "utegångsförbud", "krigstillstånd", "utvandring"], "label": 1, "meta": {"comment": ""}}
+{"id": "h15bb06", "item": "i gåsmarsch", "candidate_answers": ["i rad", "på rymmen", "i rask takt", "med jämna steg", "under stök och bök"], "label": 0, "meta": {"comment": ""}}
+{"id": "h15bb07", "item": "installation", "candidate_answers": ["invigning i ämbete", "handläggning", "inställd föreställning", "positionsmarkering", "inlärningsprocess"], "label": 0, "meta": {"comment": ""}}
+{"id": "h15bb08", "item": "undergräva", "candidate_answers": ["förbereda", "missbedöma", "avslöja", "försvaga", "etablera"], "label": 3, "meta": {"comment": ""}}
+{"id": "h15bb09", "item": "gastronomi", "candidate_answers": ["vältalighet", "stjärntydning", "finare matlagning", "läkemedelslära", "spådomskonst"], "label": 2, "meta": {"comment": ""}}
+{"id": "h16aa02", "item": "eloge", "candidate_answers": ["beröm", "prydnad", "gratulation", "hedersplats", "medalj"], "label": 0, "meta": {"comment": ""}}
+{"id": "h16aa04", "item": "alludera på", "candidate_answers": ["vänta på", "fundera på", "anspela på", "se ner på", "hoppas på"], "label": 2, "meta": {"comment": ""}}
+{"id": "h16aa05", "item": "pseudointellektuell", "candidate_answers": ["självlärd person", "skenbart bildad person", "geniförklarad person", "klassiskt skolad person", "nytänkande person"], "label": 1, "meta": {"comment": ""}}
+{"id": "h16aa06", "item": "hippologi", "candidate_answers": ["läran om skelettet", "läran om talmystik", "läran om subkulturer", "läran om bergarter", "läran om hästar"], "label": 4, "meta": {"comment": ""}}
+{"id": "h16aa07", "item": "bejakande", "candidate_answers": ["glädjande", "bekräftande", "längtande", "granskande", "bedjande"], "label": 1, "meta": {"comment": ""}}
+{"id": "h16aa08", "item": "ocker", "candidate_answers": ["att skicka bluffakturor", "att muta makthavare", "att göra oskälig vinst", "att missbruka ett förtroende", "att utnyttja insiderinformation"], "label": 2, "meta": {"comment": ""}}
+{"id": "h16aa09", "item": "florera", "candidate_answers": ["övertäcka", "frodas", "utsmycka", "lyckas", "gruppera"], "label": 1, "meta": {"comment": ""}}
+{"id": "h16aa10", "item": "eftermäle", "candidate_answers": ["efterlysning", "dålig kompromiss", "klagomål", "eftervärldens omdöme", "korrigering"], "label": 3, "meta": {"comment": ""}}
+{"id": "h16aa01", "item": "alter ego", "candidate_answers": ["andra jag", "nya jag", "sämre jag", "rätta jag", "gamla jag"], "label": 0, "meta": {"comment": ""}}
+{"id": "h16aa02", "item": "preskriberad", "candidate_answers": ["förklarad", "utesluten", "bearbetad", "avskriven", "företrädd"], "label": 3, "meta": {"comment": ""}}
+{"id": "h16aa03", "item": "gordisk knut", "candidate_answers": ["missförstånd", "svårlöst uppgift", "huvudfråga", "svag punkt", "förbannelse"], "label": 1, "meta": {"comment": ""}}
+{"id": "h16aa04", "item": "bestyrka", "candidate_answers": ["intyga", "tillägga", "förbättra", "inpränta", "härda"], "label": 0, "meta": {"comment": ""}}
+{"id": "h16aa05", "item": "ellips", "candidate_answers": ["elektrisk laddning", "sjukdomstillstånd", "matematiskt bevis", "planetformation", "geometrisk figur"], "label": 4, "meta": {"comment": ""}}
+{"id": "h16aa06", "item": "kufisk", "candidate_answers": ["opålitlig", "underlig", "inställsam", "ovänlig", "egenkär"], "label": 1, "meta": {"comment": ""}}
+{"id": "h16aa08", "item": "nagga", "candidate_answers": ["utvidga", "höja upp", "gnaga", "hugga tag i", "fästa"], "label": 2, "meta": {"comment": ""}}
+{"id": "h16aa09", "item": "med ens", "candidate_answers": ["som vanligt", "plötsligt", "likafullt", "ständigt", "allt eftersom"], "label": 1, "meta": {"comment": ""}}
+{"id": "h16aa10", "item": "patina", "candidate_answers": ["åldrad yta", "sirlig inristning", "kort musikstycke", "handsydda detaljer", "tunn pappskiva"], "label": 0, "meta": {"comment": ""}}
+{"id": "h16ba01", "item": "spannmål", "candidate_answers": ["rotsaker", "baljväxter", "husmanskost", "sädeskorn", "mjölkprodukter"], "label": 3, "meta": {"comment": ""}}
+{"id": "h16ba02", "item": "estetisk", "candidate_answers": ["äkta", "storslagen", "lättsam", "moralisk", "smakfull"], "label": 4, "meta": {"comment": ""}}
+{"id": "h16ba03", "item": "permafrost", "candidate_answers": ["ständig tjäle", "klimatförändring", "snöfri vinter", "glaciär i rörelse", "bottenfrusen sjö"], "label": 0, "meta": {"comment": ""}}
+{"id": "h16ba04", "item": "vanställa", "candidate_answers": ["föreställa", "förfula", "förnedra", "förkasta", "förhindra"], "label": 1, "meta": {"comment": ""}}
+{"id": "h16ba05", "item": "aspartam", "candidate_answers": ["blekmedel", "fyllningsmaterial", "lugnande medel", "färgämne", "sötningsmedel"], "label": 4, "meta": {"comment": ""}}
+{"id": "h16ba06", "item": "åtskilliga", "candidate_answers": ["mätbara", "relaterade", "bortvalda", "rangordnade", "många"], "label": 4, "meta": {"comment": ""}}
+{"id": "h16ba07", "item": "överlöpare", "candidate_answers": ["ryttare", "förrädare", "stolt person", "inkräktare", "kraftkarl"], "label": 1, "meta": {"comment": ""}}
+{"id": "h16ba08", "item": "manierad", "candidate_answers": ["trög", "modig", "konstlad", "begåvad", "närgången"], "label": 2, "meta": {"comment": ""}}
+{"id": "h16ba09", "item": "anestesi", "candidate_answers": ["bedövning", "frigörelse", "raseriutbrott", "färgblindhet", "självplågeri"], "label": 0, "meta": {"comment": ""}}
+{"id": "h16ba10", "item": "prata bredvid mun", "candidate_answers": ["vilseleda någon", "ljuga", "försäga sig", "härma", "avbryta någon"], "label": 2, "meta": {"comment": ""}}
+{"id": "h16bb02", "item": "förlägga", "candidate_answers": ["påverka", "inleda", "erbjuda", "placera", "utföra"], "label": 3, "meta": {"comment": ""}}
+{"id": "h16bb03", "item": "selektion", "candidate_answers": ["omval", "förstahandsval", "tillval", "valbarhet", "urval"], "label": 4, "meta": {"comment": ""}}
+{"id": "h16bb05", "item": "resonans", "candidate_answers": ["missljud", "omtagning", "återklang", "motstånd", "taktfasthet"], "label": 2, "meta": {"comment": ""}}
+{"id": "h16bb06", "item": "futilitet", "candidate_answers": ["nödvändighet", "förebild", "utfyllnad", "misstag", "obetydlighet"], "label": 4, "meta": {"comment": ""}}
+{"id": "h16bb07", "item": "röja", "candidate_answers": ["utlösa", "avslöja", "förstöra", "avfärda", "undersöka"], "label": 1, "meta": {"comment": ""}}
+{"id": "h16bb08", "item": "simpa", "candidate_answers": ["fiskart", "svampsort", "blåsinstrument", "huvudbonad", "maträtt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h16bb10", "item": "filantrop", "candidate_answers": ["människovän", "hästtämjare", "predikant", "konstsamlare", "växtförädlare"], "label": 0, "meta": {"comment": ""}}
+{"id": "h17aa01", "item": "kurage", "candidate_answers": ["respekt", "ärlighet", "disciplin", "tapperhet", "stolthet"], "label": 3, "meta": {"comment": ""}}
+{"id": "h17aa02", "item": "abrupt", "candidate_answers": ["oklart", "konstigt", "plötsligt", "onormalt", "kortvarigt"], "label": 2, "meta": {"comment": ""}}
+{"id": "h17aa03", "item": "torgföra", "candidate_answers": ["förnedra", "öppet uttrycka", "sammanträda", "kraftigt protestera", "underhålla"], "label": 1, "meta": {"comment": ""}}
+{"id": "h17aa04", "item": "preferenser", "candidate_answers": ["något förutbestämt", "förhoppningar", "något man förmodar", "förberedelser", "något man föredrar"], "label": 4, "meta": {"comment": ""}}
+{"id": "h17aa05", "item": "nischad", "candidate_answers": ["övertygad", "nivågrupperad", "instängd", "specialiserad", "nekad tillträde"], "label": 3, "meta": {"comment": ""}}
+{"id": "h17aa06", "item": "domän", "candidate_answers": ["nivå", "område", "rättighet", "församling", "ledarskap"], "label": 1, "meta": {"comment": ""}}
+{"id": "h17aa07", "item": "svulstig", "candidate_answers": ["drömmande och poetisk", "behaglig", "alltför utsmyckad", "högljudd", "enformig och ointressant"], "label": 2, "meta": {"comment": ""}}
+{"id": "h17aa08", "item": "celiaki", "candidate_answers": ["glutenintolerans", "syrebrist", "blodförgiftning", "halsinfektion", "ryggmärgsskada"], "label": 0, "meta": {"comment": ""}}
+{"id": "h17aa09", "item": "försitta", "candidate_answers": ["nöta", "förbereda", "dröja", "gå över", "missa"], "label": 4, "meta": {"comment": ""}}
+{"id": "h17aa10", "item": "såta vänner", "candidate_answers": ["nära vänner", "rika vänner", "falska vänner", "hemliga vänner", "gemensamma vänner"], "label": 0, "meta": {"comment": ""}}
+{"id": "h17ab01", "item": "symtomatisk", "candidate_answers": ["förstärkande", "övertygande", "förklarande", "kännetecknande", "förlåtande"], "label": 3, "meta": {"comment": ""}}
+{"id": "h17ab02", "item": "dränage", "candidate_answers": ["tillsättning av vätska", "ansamling av vätska", "bortledning av vätska", "läckage av vätska", "avdunstning av vätska"], "label": 2, "meta": {"comment": ""}}
+{"id": "h17ab03", "item": "ögonblickligen", "candidate_answers": ["för tillfället", "utan dröjsmål", "alldeles nyss", "utan eftertanke", "i förbifarten"], "label": 1, "meta": {"comment": ""}}
+{"id": "h17ab04", "item": "eskapism", "candidate_answers": ["storhetsvansinne", "ödestro", "självplågeri", "lyckorus", "verklighetsflykt"], "label": 4, "meta": {"comment": ""}}
+{"id": "h17ab05", "item": "anvisa", "candidate_answers": ["tilldela", "påminna", "tyda", "åtfölja", "driva"], "label": 0, "meta": {"comment": ""}}
+{"id": "h17ab06", "item": "jämkning", "candidate_answers": ["betalning", "avgörande", "förbättring", "genomgång", "anpassning"], "label": 4, "meta": {"comment": ""}}
+{"id": "h17ab07", "item": "missunnsam", "candidate_answers": ["orättvis", "anspråkslös", "ovärdig", "självcentrerad", "ogenerös"], "label": 4, "meta": {"comment": ""}}
+{"id": "h17ab08", "item": "skröna", "candidate_answers": ["tomt skryt", "olöst mysterium", "fantasifull berättelse", "traditionell folkvisa", "gammalt visdomsord"], "label": 2, "meta": {"comment": ""}}
+{"id": "h17ab09", "item": "representera", "candidate_answers": ["motsvara", "understödja", "tillträda", "introducera", "medverka"], "label": 0, "meta": {"comment": ""}}
+{"id": "h17ab10", "item": "deduktion", "candidate_answers": ["inverkan", "skildring", "upplägg", "härledning", "iakttagelse"], "label": 3, "meta": {"comment": ""}}
+{"id": "h17ba01", "item": "klimakterium", "candidate_answers": ["befruktning", "höjdpunkt", "övergångsålder", "miljöpåverkan", "bakterieodling"], "label": 2, "meta": {"comment": ""}}
+{"id": "h17ba02", "item": "insistera", "candidate_answers": ["envisas", "opponera sig", "överbevisa", "låta påskina", "antyda"], "label": 0, "meta": {"comment": ""}}
+{"id": "h17ba03", "item": "lektor", "candidate_answers": ["medeltida musikant", "mått på acceleration", "pensionerad militär", "del av koordinatsystem", "lärare vid högskola"], "label": 4, "meta": {"comment": ""}}
+{"id": "h17ba04", "item": "illustrativ", "candidate_answers": ["idealisk", "händelserik", "skenbar", "uppmärksammad", "belysande"], "label": 4, "meta": {"comment": ""}}
+{"id": "h17ba05", "item": "sömsmån", "candidate_answers": ["osynlig söm", "mönsterpassning", "tygkant utanför söm", "löst sydda stygn", "valbar söm på symaskin"], "label": 2, "meta": {"comment": ""}}
+{"id": "h17ba07", "item": "oförrätt", "candidate_answers": ["olycksfall", "kränkning", "osanning", "bestraffning", "missbedömning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h17ba08", "item": "tongivande", "candidate_answers": ["artig", "idérik", "pålitlig", "ledande", "övertygande"], "label": 3, "meta": {"comment": ""}}
+{"id": "h17ba09", "item": "inte på långt när", "candidate_answers": ["för länge sedan", "långt ifrån", "längre fram", "långt senare", "inte på länge"], "label": 1, "meta": {"comment": ""}}
+{"id": "h17ba10", "item": "superlativer", "candidate_answers": ["löften", "böner", "tillägg", "beröm", "argument"], "label": 3, "meta": {"comment": ""}}
+{"id": "h17bb01", "item": "essä", "candidate_answers": ["utkast", "saga", "skrivelse", "dikt", "uppsats"], "label": 4, "meta": {"comment": ""}}
+{"id": "h17bb02", "item": "fiktiv", "candidate_answers": ["symbolisk", "tecknad", "svårtolkad", "saklig", "påhittad"], "label": 4, "meta": {"comment": ""}}
+{"id": "h17bb03", "item": "koalition", "candidate_answers": ["överlämning", "beslutsamhet", "förhandling", "sammanslutning", "överensstämmelse"], "label": 3, "meta": {"comment": ""}}
+{"id": "h17bb05", "item": "åthutning", "candidate_answers": ["tillrättavisning", "kraftigt ryck", "avståndstagande", "hård örfil", "beskyllning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h17bb06", "item": "följaktligen", "candidate_answers": ["naturligtvis", "därför", "säkert", "ändå", "verkligen"], "label": 1, "meta": {"comment": ""}}
+{"id": "h17bb07", "item": "överpröva", "candidate_answers": ["föra till högre instans", "upprepa ett experiment", "få någon ur balans", "utvidga ett statistiskt urval", "förlänga en tjänst"], "label": 0, "meta": {"comment": ""}}
+{"id": "h17bb08", "item": "utblottad", "candidate_answers": ["utfrusen", "generad", "smutskastad", "ruinerad", "avklädd"], "label": 3, "meta": {"comment": ""}}
+{"id": "h17bb09", "item": "extremiteter", "candidate_answers": ["inre organ", "ryggkotor", "armar och ben", "ledband", "fina blodkärl"], "label": 2, "meta": {"comment": ""}}
+{"id": "h17bb10", "item": "parlör", "candidate_answers": ["rådgivare", "förförare", "liten ordbok", "missöde", "föredragshållare"], "label": 2, "meta": {"comment": ""}}
+{"id": "h18aa01", "item": "begrundan", "candidate_answers": ["övertygelse", "synsätt", "uppskattning", "kunskap", "eftertanke"], "label": 4, "meta": {"comment": ""}}
+{"id": "h18aa02", "item": "slå mynt av", "candidate_answers": ["utnyttja", "förstärka", "ersätta", "förgylla", "bearbeta"], "label": 0, "meta": {"comment": ""}}
+{"id": "h18aa03", "item": "gemene man", "candidate_answers": ["nära släkting", "finare sällskap", "känd person", "folk i allmänhet", "ondsint människa"], "label": 3, "meta": {"comment": ""}}
+{"id": "h18aa05", "item": "kallskänk", "candidate_answers": ["donation från en okänd", "plats för tillredning av mat", "känsla av övergivenhet", "rituell överlämning av gåva", "obehaglig överraskning"], "label": 1, "meta": {"comment": ""}}
+{"id": "h18aa06", "item": "avhandla", "candidate_answers": ["beställa", "rådfråga", "diskutera", "meddela", "prestera"], "label": 2, "meta": {"comment": ""}}
+{"id": "h18aa07", "item": "fonologi", "candidate_answers": ["läran om språkljuden", "läran om talekonsten", "läran om dialekterna", "läran om skriftspråken", "läran om tryckkonsten"], "label": 0, "meta": {"comment": ""}}
+{"id": "h18aa08", "item": "arla", "candidate_answers": ["klart", "tidigt", "vackert", "enkelt", "svalt"], "label": 1, "meta": {"comment": ""}}
+{"id": "h18aa09", "item": "mani", "candidate_answers": ["vanesak", "stark rädsla", "inbillningssjuka", "överdrivet intresse", "nedstämdhet"], "label": 3, "meta": {"comment": ""}}
+{"id": "h18aa10", "item": "umbärlig", "candidate_answers": ["onödig", "sällskaplig", "varsam", "bristfällig", "omständlig"], "label": 0, "meta": {"comment": ""}}
+{"id": "h18ab01", "item": "asymmetrisk", "candidate_answers": ["föränderlig", "olikformig", "avvikande", "missformad", "oförenlig"], "label": 1, "meta": {"comment": ""}}
+{"id": "h18ab02", "item": "beskaffenhet", "candidate_answers": ["slitstyrka", "intelligens", "uppsättning egenskaper", "pålitlighet", "motståndskraft"], "label": 2, "meta": {"comment": ""}}
+{"id": "h18ab03", "item": "tunnsått", "candidate_answers": ["svagt", "förminskande", "glest", "intetsägande", "ojämnt"], "label": 2, "meta": {"comment": ""}}
+{"id": "h18ab04", "item": "haiku", "candidate_answers": ["tibetansk strupsång", "orientalisk solodans", "japansk diktform", "karibisk segelfarkost", "västafrikansk trumma"], "label": 2, "meta": {"comment": ""}}
+{"id": "h18ab05", "item": "generalisera", "candidate_answers": ["nyansera", "förenkla", "överdriva", "förtala", "tillämpa"], "label": 1, "meta": {"comment": ""}}
+{"id": "h18ab06", "item": "fontanell", "candidate_answers": ["befruktad äggcell", "del av struphuvud", "salivutsöndrande körtel", "mjukt ställe mellan skallben", "skada på synnerv"], "label": 3, "meta": {"comment": ""}}
+{"id": "h18ab07", "item": "okvädingsord", "candidate_answers": ["slagord", "dialektord", "skällsord", "nonsensord", "slangord"], "label": 2, "meta": {"comment": ""}}
+{"id": "h18ab08", "item": "anspråkslös", "candidate_answers": ["utfattig", "förstummad", "obildad", "förminskad", "blygsam"], "label": 4, "meta": {"comment": ""}}
+{"id": "h18ab10", "item": "utmäta", "candidate_answers": ["ta i beslag", "kritiskt granska", "portionera ut", "värdesätta", "jämföra sig med"], "label": 0, "meta": {"comment": ""}}
+{"id": "h19aa01", "item": "kandelaber", "candidate_answers": ["soppskål", "festtåg", "bakverk", "kyrkorum", "ljusstake"], "label": 4, "meta": {"comment": ""}}
+{"id": "h19aa02", "item": "undermålig", "candidate_answers": ["förtryckt", "inställsam", "försiktig", "bristfällig", "förstummad"], "label": 3, "meta": {"comment": ""}}
+{"id": "h19aa03", "item": "feromoner", "candidate_answers": ["smaksättare", "nässeldjur", "slingerväxter", "näringspreparat", "doftämnen"], "label": 4, "meta": {"comment": ""}}
+{"id": "h19aa04", "item": "exponera", "candidate_answers": ["överdriva", "utsätta", "företräda", "utarma", "överlägga"], "label": 1, "meta": {"comment": ""}}
+{"id": "h19aa05", "item": "uppsåt", "candidate_answers": ["impuls", "avsikt", "drivkraft", "tillsyn", "innebörd"], "label": 1, "meta": {"comment": ""}}
+{"id": "h19aa06", "item": "habil", "candidate_answers": ["duglig", "modern", "artig", "långsam", "farlig"], "label": 0, "meta": {"comment": ""}}
+{"id": "h19aa07", "item": "polyglott", "candidate_answers": ["fantasifull", "rakryggad", "öppenhjärtig", "flerspråkig", "allsidig"], "label": 3, "meta": {"comment": ""}}
+{"id": "h19aa08", "item": "förpassa", "candidate_answers": ["planera", "skylla på", "prova ut", "skicka bort", "varna"], "label": 3, "meta": {"comment": ""}}
+{"id": "h19aa09", "item": "grift", "candidate_answers": ["gåva", "tunnel", "inhägnad", "borgruin", "grav"], "label": 4, "meta": {"comment": ""}}
+{"id": "h19aa10", "item": "fullvärdig", "candidate_answers": ["fullblodig", "fullgod", "fullbordad", "fullärd", "fullmogen"], "label": 1, "meta": {"comment": ""}}
+{"id": "h19ab01", "item": "plagiat", "candidate_answers": ["draghjälp", "förändring", "missbruk", "efterapning", "tillägg"], "label": 3, "meta": {"comment": ""}}
+{"id": "h19ab02", "item": "sparsmakad", "candidate_answers": ["vanlig", "okritisk", "inåtvänd", "omogen", "kräsen"], "label": 4, "meta": {"comment": ""}}
+{"id": "h19ab03", "item": "mota", "candidate_answers": ["avstå", "bråka", "förbjuda", "stoppa", "välkomna"], "label": 3, "meta": {"comment": ""}}
+{"id": "h19ab04", "item": "solidaritet", "candidate_answers": ["starkt ledarskap", "aktivt motstånd", "uppskattad insats", "självvald isolering", "känsla av samhörighet"], "label": 4, "meta": {"comment": ""}}
+{"id": "h19ab05", "item": "med råge", "candidate_answers": ["framför allt", "i stort sett", "med eftertryck", "på rätt sätt", "väl tilltaget"], "label": 4, "meta": {"comment": ""}}
+{"id": "h19ab06", "item": "elementa", "candidate_answers": ["dammpartiklar", "grundkunskaper", "vågrörelser", "förenklingar", "väderfenomen"], "label": 1, "meta": {"comment": ""}}
+{"id": "h19ab07", "item": "regenerera", "candidate_answers": ["återfinna", "återbilda", "återhämta", "återkalla", "återberätta"], "label": 1, "meta": {"comment": ""}}
+{"id": "h19ab08", "item": "kognition", "candidate_answers": ["motoriska egenskaper", "formuleringskonst", "känslomässiga uttryck", "överlevnadsinstinkt", "intellektuella funktioner"], "label": 4, "meta": {"comment": ""}}
+{"id": "h19ab09", "item": "oförvanskad", "candidate_answers": ["oförbätterlig", "uppenbar", "ofördärvad", "innehållslös", "otvetydig"], "label": 2, "meta": {"comment": ""}}
+{"id": "h19ab10", "item": "resning", "candidate_answers": ["diskussion", "varning", "omprövning", "domslut", "ställningstagande"], "label": 2, "meta": {"comment": ""}}
+{"id": "h19ba01", "item": "petitess", "candidate_answers": ["hemlighet", "skrivelse", "önskemål", "avvikelse", "obetydlighet"], "label": 4, "meta": {"comment": ""}}
+{"id": "h19ba02", "item": "ideell", "candidate_answers": ["omtänksam", "utan vinstintresse", "kompromisslös", "utan svagheter", "demokratisk"], "label": 1, "meta": {"comment": ""}}
+{"id": "h19ba03", "item": "legering", "candidate_answers": ["nedbantning", "förgasning", "värmebehandling", "färgning", "metallblandning"], "label": 4, "meta": {"comment": ""}}
+{"id": "h19ba04", "item": "hämma", "candidate_answers": ["neka", "hindra", "dölja", "tystna", "fördöma"], "label": 1, "meta": {"comment": ""}}
+{"id": "h19ba05", "item": "kommission", "candidate_answers": ["domstolsjury", "utlandstjänst", "grupp av sakkunniga", "intresseförening", "handelsbolag"], "label": 2, "meta": {"comment": ""}}
+{"id": "h19ba06", "item": "tämligen", "candidate_answers": ["lagom", "utan tvekan", "typiskt", "rätt så", "faktiskt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h19ba07", "item": "påföljd", "candidate_answers": ["avslut", "börda", "tillskott", "straff", "orsak"], "label": 3, "meta": {"comment": ""}}
+{"id": "h19ba08", "item": "handfallen", "candidate_answers": ["ledsen", "förälskad", "rådlös", "längtansfull", "praktisk"], "label": 2, "meta": {"comment": ""}}
+{"id": "h19ba09", "item": "alster", "candidate_answers": ["verk", "insekt", "princip", "redskap", "fält"], "label": 0, "meta": {"comment": ""}}
+{"id": "h19ba10", "item": "slå sina lovar kring", "candidate_answers": ["sprida ut", "undvika", "imponera på", "överblicka", "kretsa runt"], "label": 4, "meta": {"comment": ""}}
+{"id": "h19bb01", "item": "marginaliserad", "candidate_answers": ["upprepad", "förlorad", "hjälplös", "föråldrad", "åsidosatt"], "label": 4, "meta": {"comment": ""}}
+{"id": "h19bb02", "item": "fingervisning", "candidate_answers": ["klagomål", "förolämpning", "antydan", "punktinsats", "hotelse"], "label": 2, "meta": {"comment": ""}}
+{"id": "h19bb03", "item": "stipulera", "candidate_answers": ["fastställa", "uträtta", "konfrontera", "betala", "förneka"], "label": 0, "meta": {"comment": ""}}
+{"id": "h19bb04", "item": "plädering", "candidate_answers": ["umgängesregel", "undersökning", "uppskattning", "utläggning", "ursäkt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h19bb05", "item": "arrogant", "candidate_answers": ["irriterande", "överlägsen", "utlämnande", "avvisande", "motstridig"], "label": 1, "meta": {"comment": ""}}
+{"id": "h19bb06", "item": "cysta", "candidate_answers": ["broskskiva", "inre blödning", "tarmficka", "vätskefylld blåsa", "muskelbristning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h19bb07", "item": "tillika", "candidate_answers": ["sammanlagt", "dessutom", "eventuellt", "fullständigt", "exempelvis"], "label": 1, "meta": {"comment": ""}}
+{"id": "h19bb08", "item": "ynnest", "candidate_answers": ["förmån", "hyllning", "begåvning", "överdrift", "förlåtelse"], "label": 0, "meta": {"comment": ""}}
+{"id": "h19bb09", "item": "kartlägga", "candidate_answers": ["arrangera", "lägga grund för", "systematiskt utforska", "pussla ihop", "förbereda"], "label": 2, "meta": {"comment": ""}}
+{"id": "h19bb10", "item": "instans", "candidate_answers": ["beslutsnivå", "närvaro", "grundprincip", "kännetecken", "betänketid"], "label": 0, "meta": {"comment": ""}}
+{"id": "h20aa01", "item": "gourmand", "candidate_answers": ["munter person", "kunnig person", "argsint person", "omtyckt person", "matglad person"], "label": 4, "meta": {"comment": ""}}
+{"id": "h20aa02", "item": "bojkotta", "candidate_answers": ["tala illa om", "göra sig fri från", "vägra befatta sig med", "göra slut på", "förstöra för"], "label": 2, "meta": {"comment": ""}}
+{"id": "h20aa04", "item": "kognitiv", "candidate_answers": ["intetsägande", "som gäller kroppen", "angelägen", "som rör intellektet", "fantasieggande"], "label": 3, "meta": {"comment": ""}}
+{"id": "h20aa05", "item": "seminarium", "candidate_answers": ["inledande dialog", "kort presentation", "individuell undervisning", "större sammanträdesrum", "kunskapshöjande diskussion"], "label": 4, "meta": {"comment": ""}}
+{"id": "h20aa06", "item": "trollbinda", "candidate_answers": ["förhindra", "fascinera", "bluffa", "förvirra", "överraska"], "label": 1, "meta": {"comment": ""}}
+{"id": "h20aa07", "item": "jargong", "candidate_answers": ["en positiv stämning", "ett vänligt bemötande", "en grupps språkbruk", "ett trångt utrymme", "en välljudande klang"], "label": 2, "meta": {"comment": ""}}
+{"id": "h20aa08", "item": "väsensskild", "candidate_answers": ["innehållslös", "overklig", "motbjudande", "obetydlig", "annorlunda"], "label": 4, "meta": {"comment": ""}}
+{"id": "h20aa09", "item": "resiliens", "candidate_answers": ["framgång", "nedrustning", "återhämtningsförmåga", "bakåtsträvan", "avståndstagande"], "label": 2, "meta": {"comment": ""}}
+{"id": "h20aa10", "item": "ymnigt", "candidate_answers": ["rikligt", "fuktigt", "virrigt", "ljudligt", "smakligt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h20ab01", "item": "konfederation", "candidate_answers": ["kungadöme", "förbund av stater", "stödparti", "nation med folkstyre", "republik"], "label": 1, "meta": {"comment": ""}}
+{"id": "h20ab02", "item": "brysk", "candidate_answers": ["tanklös", "sur och grinig", "beslutsam", "tvär och ovänlig", "trotsig"], "label": 3, "meta": {"comment": ""}}
+{"id": "h20ab03", "item": "forcera", "candidate_answers": ["krocka", "försvåra", "plåga", "fullfölja", "påskynda"], "label": 4, "meta": {"comment": ""}}
+{"id": "h20ab04", "item": "röse", "candidate_answers": ["skräp", "milstolpe", "fälla", "stenhög", "grop"], "label": 3, "meta": {"comment": ""}}
+{"id": "h20ab05", "item": "samvetsgrann", "candidate_answers": ["plikttrogen", "ångerfull", "hjälpsam", "omoralisk", "förlåtande"], "label": 0, "meta": {"comment": ""}}
+{"id": "h20ab06", "item": "reprimand", "candidate_answers": ["erkännande", "tillrättavisning", "efterkontroll", "påhälsning", "återseende"], "label": 1, "meta": {"comment": ""}}
+{"id": "h20ab07", "item": "utsiktslöst", "candidate_answers": ["enformigt", "instängt", "obetydligt", "avlägset", "hopplöst"], "label": 4, "meta": {"comment": ""}}
+{"id": "h20ab08", "item": "kriterium", "candidate_answers": ["kännetecken", "uppfattning", "följdverkan", "möjlighet", "anledning"], "label": 0, "meta": {"comment": ""}}
+{"id": "h20ab09", "item": "bräcka", "candidate_answers": ["utbrista", "avdela", "överträffa", "avbryta", "utforma"], "label": 2, "meta": {"comment": ""}}
+{"id": "h21aa01", "item": "implicera", "candidate_answers": ["medföra", "ställa upp", "försvaga", "hålla fast", "undvik"], "label": 0, "meta": {"comment": ""}}
+{"id": "h21aa02", "item": "ypperligt", "candidate_answers": ["uppenbart", "typiskt", "överdrivet", "utmärkt", "värdefullt"], "label": 3, "meta": {"comment": ""}}
+{"id": "h21aa03", "item": "hieroglyf", "candidate_answers": ["gravsten", "himlakropp", "bönbok", "skrivtecken", "väggmålning"], "label": 3, "meta": {"comment": ""}}
+{"id": "h21aa04", "item": "initial", "candidate_answers": ["väl insatt", "pådrivande", "sammanhängande", "verkningsfull", "inledande"], "label": 4, "meta": {"comment": ""}}
+{"id": "h21aa05", "item": "surrogat", "candidate_answers": ["tillsats", "ersättning", "hjälpmedel", "avvikelse", "förmedling"], "label": 1, "meta": {"comment": ""}}
+{"id": "h21aa06", "item": "strandsätta", "candidate_answers": ["överta", "fullborda", "misslyckas", "säkerställa", "överge"], "label": 4, "meta": {"comment": ""}}
+{"id": "h21aa07", "item": "katharsis", "candidate_answers": ["kraftprov", "undergång", "själslig rening", "höjdpunkt", "kärlekssorg"], "label": 2, "meta": {"comment": ""}}
+{"id": "h21aa08", "item": "anseende", "candidate_answers": ["rykte", "hållning", "uttryck", "karaktär", "ståndpunkt"], "label": 0, "meta": {"comment": ""}}
+{"id": "h21aa10", "item": "utlöpare", "candidate_answers": ["undantag", "sidogren", "felbedömning", "varning", "framkant"], "label": 1, "meta": {"comment": ""}}
+{"id": "h21ab01", "item": "norm", "candidate_answers": ["förslag", "skala", "regel", "lärdom", "handling"], "label": 2, "meta": {"comment": ""}}
+{"id": "h21ab02", "item": "lyhörd", "candidate_answers": ["förbisedd", "mottaglig", "tondöv", "oresonlig", "tålmodig"], "label": 1, "meta": {"comment": ""}}
+{"id": "h21ab03", "item": "föranleda", "candidate_answers": ["orsaka", "övertyga", "tillföra", "godkänna", "senarelägga"], "label": 0, "meta": {"comment": ""}}
+{"id": "h21ab04", "item": "manifestation", "candidate_answers": ["provokation", "stridsrop", "motsättning", "avslöjande", "opinionsyttring"], "label": 4, "meta": {"comment": ""}}
+{"id": "h21ab06", "item": "tillämpning", "candidate_answers": ["kontroll", "grund för bedömning", "justering", "praktisk användning", "bestämmelse"], "label": 3, "meta": {"comment": ""}}
+{"id": "h21ab07", "item": "vedertagen", "candidate_answers": ["åsidosatt", "tagen på allvar", "tvingande", "allmänt accepterad", "förutbestämd"], "label": 3, "meta": {"comment": ""}}
+{"id": "h21ab08", "item": "sejour", "candidate_answers": ["ögonblick", "kortare vistelse", "omloppsbana", "historisk epok", "rundvandring"], "label": 1, "meta": {"comment": ""}}
+{"id": "h21ab09", "item": "låta undslippa sig", "candidate_answers": ["kasta bort", "vägra ta ställning", "ivrigt förneka", "tanklöst råka säga", "dra sig tillbaka"], "label": 3, "meta": {"comment": ""}}
+{"id": "h21ab10", "item": "farsot", "candidate_answers": ["riskfylld aktivitet", "giftutsläpp", "vilseledande information", "missbruk", "smittsam sjukdom"], "label": 4, "meta": {"comment": ""}}
+{"id": "h21ba01", "item": "mynna ut i", "candidate_answers": ["stanna av", "omvandlas till", "blanda in", "fyllas på med", "leda till"], "label": 4, "meta": {"comment": ""}}
+{"id": "h21ba02", "item": "ornament", "candidate_answers": ["aftonsång", "byggnad", "stjärnhimmel", "botemedel", "utsmyckning"], "label": 4, "meta": {"comment": ""}}
+{"id": "h21ba03", "item": "dedikerad", "candidate_answers": ["stödjande", "beslutsam", "fascinerad", "hängiven", "uppskattad"], "label": 3, "meta": {"comment": ""}}
+{"id": "h21ba04", "item": "övertramp", "candidate_answers": ["olämplig handling", "fysisk påfrestning", "byte av ståndpunkt", "allvarligt missförstånd", "olaga intrång"], "label": 0, "meta": {"comment": ""}}
+{"id": "h21ba05", "item": "få upprättelse", "candidate_answers": ["få hjälp i en krissituation", "få beröm för en prestation", "få möjlighet till självbestämmande", "få vägledning i en svår fråga", "få sitt anseende återställt"], "label": 4, "meta": {"comment": ""}}
+{"id": "h21ba06", "item": "allmänning", "candidate_answers": ["grundläggande kunskap", "vida spritt rykte", "gemensamt ägd mark", "helt vanlig person", "kommunalt bostadsområde"], "label": 2, "meta": {"comment": ""}}
+{"id": "h21ba07", "item": "oaktat", "candidate_answers": ["på grund av", "trots", "knappast", "såsom", "genomgående"], "label": 1, "meta": {"comment": ""}}
+{"id": "h21ba08", "item": "inventarier", "candidate_answers": ["lös egendom", "råvaror", "lämningar", "framgångar", "tillfälliga lösningar"], "label": 0, "meta": {"comment": ""}}
+{"id": "h21ba09", "item": "ohöljd", "candidate_answers": ["förnedrad", "öppen", "sällsynt", "inbjudande", "otymplig"], "label": 1, "meta": {"comment": ""}}
+{"id": "h21ba10", "item": "inackordering", "candidate_answers": ["beställning", "lön och förmåner", "avslag", "kost och logi", "överenskommelse"], "label": 3, "meta": {"comment": ""}}
+{"id": "h21bb01", "item": "alf", "candidate_answers": ["änglabild", "folksaga", "trollkarl", "naturväsen", "skyddshelgon"], "label": 3, "meta": {"comment": ""}}
+{"id": "h21bb02", "item": "delegera", "candidate_answers": ["stifta lagar", "påbörja ett projekt", "överlåta beslutsrätt", "avsluta en anställning", "bevilja undantag"], "label": 2, "meta": {"comment": ""}}
+{"id": "h21bb03", "item": "polaritet", "candidate_answers": ["ytterlighet", "väderfenomen", "motsatsförhållande", "vänskapsband", "klimatzon"], "label": 2, "meta": {"comment": ""}}
+{"id": "h21bb05", "item": "dialektik", "candidate_answers": ["argumentationsteknik", "skendemokrati", "uppfostringsprincip", "religionssamverkan", "behandlingsresultat"], "label": 0, "meta": {"comment": ""}}
+{"id": "h21bb06", "item": "vara gripet ur luften", "candidate_answers": ["sakna grund", "vara osynligt", "komma plötsligt", "vara en sista utväg", "sakna innehåll"], "label": 0, "meta": {"comment": ""}}
+{"id": "h21bb07", "item": "inskränkning", "candidate_answers": ["anspelning", "förslappning", "utfrysning", "tillrättavisning", "begränsning"], "label": 4, "meta": {"comment": ""}}
+{"id": "h21bb08", "item": "oöverlagd", "candidate_answers": ["avslöjad", "oslagbar", "påtaglig", "opåverkad", "förhastad"], "label": 4, "meta": {"comment": ""}}
+{"id": "h21bb09", "item": "koral", "candidate_answers": ["droppsten", "kyrkosång", "samlingsrum", "juvelsmycke", "däggdjur"], "label": 1, "meta": {"comment": ""}}
+{"id": "h21bb10", "item": "i sin linda", "candidate_answers": ["i sitt hem", "i sin början", "i sitt sammanhang", "i sin ensamhet", "i sitt slutskede"], "label": 1, "meta": {"comment": ""}}

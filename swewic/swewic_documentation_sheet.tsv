@@ -1,0 +1,64 @@
+I. IDENTIFYING INFORMATION	
+Title*	SweWiC v2.0
+Subtitle	A Swedish Word-in-Context dataset
+Created by*	Gerlof Bouma (gerlof.bouma@gu.se)
+Publisher(s)*	Språkbanken Text
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/en/resources/swewic
+License(s)*	CC BY 4.0 for development and test data
+	CC BY-SA 4.0 for the full dataset consisting of training, development and test data.
+Abstract*	The Swedish Word-in-Context dataset provides a benchmark for evaluating distributional models of word meaning, in particular context-sensitive/dynamic models. Constructed following the principles of the (English) Word-in-Context dataset, the SweWiC test data consists of 1000 sentence pairs, where each sentence in a pair contains an occurence of a potentially ambiguous focus word specific to that pair. The question posed to the tested system is whether these two occurrences represent instances of the same word sense. Starting from version 2.0, SweWiC also contains training and development data, suitable for, for instance, fine tuning a pre-trained language model to the WiC task.  
+Funded by*	Vinnova (grants no. 2020-02523, 2021-04165)
+Cite as	
+Related datasets	Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim)
+	
+II. USAGE	
+Key applications	Evaluation of (preferably dynamic) representations of word meaning, and finetuning such models.
+Intended task(s)/usage(s)	For each test pair, predict if the uses of the focus word in two different contexts constitute the same sense.
+Recommended evaluation measures	Accuracy
+Dataset function(s)	Training, development and testing.
+Recommended split(s)	Data comes organized in train, dev and test portions.
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	The test data consists of 1000 items, 500 positive, 500 negative. Constructed from 558 focus word types: 263 types occurring in one test item, 148 in two, and 147 in three. The focus words are of the following parts of speech according to SALDO: 462 nouns, 353 verbs, 143 adjectives, 32 adverbs, 9 prepositions, and 1 interjection.
+	The development data consist of 500 items, 250 positive, 250 negative. Constructed from 274 focus word types: 138 types occurring in one item, 46 in two, and 90 in three. The focus words are of the following parts of speech according to SALDO: 207 nouns, 176 verbs, 88 adjectives, 23 adverbs, 4 prepositions, and 2 subordinating conjunctions.
+	The training data consist of 4486 items, 2243 positive, 2243 negative. Constructed from 911 focus word types: 363 types occurring in once item, 161 in two, 119 in three, 41 in four, 43 in five, and 184 types occurring in more than five items. The focus words are of the following parts of speech according to the Swedish Wiktionary: 1815 verbs, 1705 nouns, 690 adjectives, 185 adverbs, 78 prepositions, 7 conjunctions, and 6 interjections.
+Nature of the content*	Pairs of sentences with one highlighted word form in each sentence, such that these highlighted forms are linked to the same base form (but not necessarily in the same paradigm!). These pairs are accompanied with an indication of whether these forms in these contexts have the same sense (meaning) or not. For the development and test data, the lexical resource SALDO is used to supply the senses and sense distinctions, for the training data, Wiktionary.
+Format*	JSON Lines, with 1 test item per line. Each item is given as a pair first word in context-second word in context (attributes 'first' and 'second'). The 'label' attribute states whether the same sense is used or not. A word in context is given as a string for the whole context ('context'), and an object  ('word' attribute) that specifies the focus word using a string ('text') and string indices ('start', 'stop'). Index ranges are 0-based and half-open, and refer to the NFKC-normalized unicode string. Metadata included for each item is intended for analysis, and not for use by the sense disambiguation system.
+Data source(s)*	SALDO v2.3 (CC BY 4.0, https://spraakbanken.gu.se/en/resources/saldo, see also [1]) is used to provide the sense inventory for the test data.
+	SALDO’s morphology (CC BY 4.0, https://spraakbanken.gu.se/en/resources/saldom) is used to ensure that the word forms in the sentences are possible word forms for the sense(s) involved in the test item.
+	SALDO examples (CC BY 4.0, https://spraakbanken.gu.se/en/resources/saldoe) and Eukalyptus v0.2.0 (mixed CC licenses, inclusion of sentences in SweWiC under CC BY 4.0 with permission, https://spraakbanken.gu.se/en/resources/eukalyptus; see [2] for the sense annotation in this corpus) are used as sources of sense annotated words in context in the development and test data. 
+	Swedish Wiktionary (CC BY-SA 3.0, https://sv.wiktionary.gu.se/, Enterprise HTML dump of 20220901) is used for the examples in the training data.
+Data collection method(s)*	(See data selection and filtering.)
+Data selection and filtering*	In the spirit of the design principles given in [3], the development and test items adhere to the following restrictions:
+	1. all focus words are potentially ambiguous according to SALDO, even in the same-sense test items,
+	2. none of the involved meanings is directly at SALDO’s top level (this avoids abstract ”semantic primitives”),
+	3. a focus word type occurs at most in three items in the test set, no combination of a focus word and a context is repeated,
+	4. the instances in both contexts in a test item are of the same part of speech (SALDO in principle allows for semantic base forms that cross part of speech), and
+	5. SALDO’s morphology lists the word forms used in the contexts as possible realizations of the involved senses.
+	The training items are not subject to restriction 3 listed above (cf. [3]). Restriction 4 in the training data is based upon the parts of speech supplied by Swedish Wiktionary. Finally, constraints 1, 2 and 4 are implemented in the test data by linking the word forms in the test items to SALDO meanings through SALDO’s morphology’s fullform lexicon. Therefore, only Wiktionary items are included whose full forms appear in SALDO.   
+Data preprocessing*	None.
+Data labeling*	Judgements about word senses are taken from resources with manual annotation of word senses, and therefore constitute gold-standard data where the development data is concerned.
+Annotator characteristics	(No additional annotation, that is, beyond the annotation done in the projects creating the data sources, was done in the compilation of SweWiC.)
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	None to report.
+Things to watch out for	Although care has been taken to only include training data from Wiktionary for items that SALDO also thinks are ambiguous, it is not necessarily the case that Wiktionary and SALDO make the same distinctions. Some deviation between the two is therefore to be expected.
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	20221007, v2.0
+Which changes have been made, compared to the previous version*	A small number of items (about 10) where replaced in the test data. Development data and training data where added.
+Access to previous versions	Earlier versions available from website.
+This document created*	20210615 Gerlof Bouma (gerlof.bouma@gu.se)
+This document last updated*	20230208 Gerlof Bouma (gerlof.bouma@gu.se)
+Where to look for further details	-
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	The task and the design principles of the dataset were taken from / heavily inspired by the original (English) Word-in-Context benchmark described in [3]. See also the companion website https://pilehvar.github.io/wic/. 
+	A description of a collection of WiCs for 12 languages (but not Swedish) is given in [4]. See also https://pilehvar.github.io/xlwic/.
+References	[1] Borin, Forsberg and Lönngren (2013): SALDO: a touch of yin to WordNet's yang. Language resources and evaluation 47(4), pp1191-1211. https://doi.org/10.1007/s10579-013-9233-4
+	[2] Johansson, Adesam, Bouma and Hedberg (2016): A Multi-domain Corpus of Swedish Word Sense Annotation. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16), pp3019–3022. https://www.aclweb.org/anthology/L16-1482.pdf
+	[3] Pilehvar and Camacho-Collados (2019): WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers). http://dx.doi.org/10.18653/v1/N19-1128
+	[4] Raganato, Pasini, Camacho-Collados and Pilehvar (2020): XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). http://dx.doi.org/10.18653/v1/2020.emnlp-main.584

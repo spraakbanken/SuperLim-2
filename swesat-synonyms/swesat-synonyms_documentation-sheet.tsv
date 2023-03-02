@@ -1,0 +1,50 @@
+	
+I. IDENTIFYING INFORMATION	
+Title*	SweSAT Synonyms v1.1
+Subtitle	Högskoleprovet Ordförståelse, Swedish Scholastic Aptitude Test Synonyms
+Created by*	Yvonne Adesam (yvonne.adesam@gu.se), Lars Borin (lars.borin@gu.se)
+Publisher(s)*	Språkbanken Text
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/en/resources/superlim
+License(s)*	CC BY 4.0
+Abstract*	The dataset provides a gold standard for Swedish word synonymy/definition. The test items are collected from the Swedish Scholastic Aptitude Test (högskoleprovet), currently spanning the years 2006--2021 and 822 vocabulary test items. The task for the tested system is to determine which synonym or definition of five alternatives is correct for each test item.
+Funded by*	Vinnova (grants no. 2020-02523, 2021-04165), Språkbanken Text
+Cite as	
+Related datasets	Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim)
+	
+II. USAGE	
+Key applications	Evaluation of word meaning through synonymy.
+Intended task(s)/usage(s)	For each test item, predict the synonym out of five alternatives.
+Recommended evaluation measures	Krippendorff's pseudoalpha (the official SuperLim measure), a derived Krippendorff's alpha. For this dataset, pseudoalpha = (Accuracy - 1/5) / (4/5), where accuracy is the proportion of correctly answered questions. Other possible measures: accuracy.
+Dataset function(s)	Few-shot training ("prompting"), testing
+Recommended split(s)	A few-shot training set (aka "prompt", 10%), test set (90%). The prompt was added with the GPT-like models in mind. For those models that do not need a prompt, it can be ignored.
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	83 train items and 739 test items with one focus word and five answer alternatives each.
+Nature of the content*	Each test item contains one focus word, which may be a single word or a phrase or expression. The answer alternatives may also be a single word or a phrase or expression. Only one alternative is marked as correct. There may be other possible meanings of the focus word, which are not possible alternatives.
+Format*	JSON Lines, with one item per line. Each line contains an id (("h"+year+"a"|"b"|"c"("a"|"b")+item number ("00" is a practice item)), a target item, an array of candidate answers and a label index which indicates the correct answer (numbering starts at 0). Metadata contain a comment which showswhether the item is marked "excluded" in the answer key, because they were leaked on the internet immediately before the 2012 spring test (four items in total)
+Data source(s)*	The data has been collected from https://www.studera.nu/hogskoleprov/infor-hogskoleprovet/ova-pa-gamla-hogskoleprov/
+Data collection method(s)*	Copy and reformat.
+Data selection and filtering*	None
+Data preprocessing*	None
+Data labeling*	This is gold data from the Swedish Scolastic Aptitude Test.
+Annotator characteristics	
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	None
+Things to watch out for	
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	20220921, v1.1, Aleksandrs Berdicevskis
+Which changes have been made, compared to the previous version*	One error corrected, format changed from “wide” to “long”, some other format changes
+Access to previous versions	Work in progress
+This document created*	20210618 Yvonne Adesam (yvonne.adesam@gu.se)
+This document last updated*	20230207, v1.1, Aleksandrs Berdicevskis
+Where to look for further details	
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	
+	
+References	

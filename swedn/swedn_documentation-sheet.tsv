@@ -1,0 +1,48 @@
+I. IDENTIFYING INFORMATION	
+Title*	SWE-DN
+Subtitle	A Swedish text summarization corpus
+Created by*	Julius Monsen (julius.monsen@liu.se), Arne Jönsson (arne.jonsson@liu.se)
+Publisher(s)*	Linköping University
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/resurser/superlim
+License(s)*	CC BY 4.0
+Abstract*	The SWE-DN corpus is based on 1,963,576 news articles from the Swedish newspaper Dagens Nyheter (DN) during the years 2000--2020. The articles are filtered to resemble the CNN/DailyMail dataset both regarding textual structure
+Funded by*	SweClarin
+Cite as	[1] A method for building non-English corpora for abstractive text summarization, Julius Monsen, Arne Jönsson, Proceedings of the CLARIN Annual Conference, 2021 
+Related datasets	Similar to CNN/DailyMail; part of SuperLim 2.0 collection
+	
+II. USAGE	
+Key applications	Training text summarizers, both extractive and abstractive.
+Intended task(s)/usage(s)	Given a text (article), provide its summary.
+Recommended evaluation measures	Harmonic mean of Bleu and Rouge; Rouge, BERTScore, Coh-Metrix
+Dataset function(s)	Model development
+Recommended split(s)	"The articles in the dataset fall into five categories: domestic news, economy, sports, culture, other. The training set consists of the first three categories (78% of the dataset), the test set contains the fourth category (12%), the test set the fifth category (10%). The purpose is to have a cross-domain split which helps evaluate the model's ability to generalize to new data. The ""other"" category was chosen for the test set as the most diverse one (and presumably the most difficult)."
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	38,121 news articles with corresponding preambles
+Nature of the content*	News texts
+Format*	JSONL and TSV files with id, headline, summary, article and article category. An additional file with various statistics for each entry (including length measures, embedding similarity and article category) can be accessed at Språkbanken's website. The entries can be matched using the ids.
+Data source(s)*	Dagens Nyheter news texts from 2000--2020
+Data collection method(s)*	Received 1,936,576 news articles from Dagens Nyheter
+Data selection and filtering*	Filtered to resemble the CNN/DailyMail dataset, see [1]
+Data preprocessing*	See [1]
+Data labeling*	None
+Annotator characteristics	
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	
+Things to watch out for	
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	20221217, Julius Monsen
+Which changes have been made, compared to the previous version*	First data release
+Access to previous versions	
+This document created*	20221206, Arne Jönsson
+This document last updated*	20230203, Aleksandrs Berdicevskis
+Where to look for further details	
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	
+References	[1] A method for building non-English corpora for abstractive text summarization, Julius Monsen, Arne Jönsson, Proceedings of the CLARIN Annual Conference, 2021 

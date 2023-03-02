@@ -1,0 +1,57 @@
+I. IDENTIFYING INFORMATION	
+Title*	SweParaphrase v2.0
+Subtitle	Sentence-level semantic similarity dataset (a subset of the Swedish STS Benchmark).
+Created by*	Dana Dannélls (dana.dannells@svenska.gu.se)
+Publisher(s)*	Språkbanken Text (sb-info@svenska.gu.se)
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/en/resources/sweparaphrase
+License(s)*	The text of each dataset has a license of its own, as specified here <http://ixa2.si.ehu.es/stswiki/images/4/48/Stsbenchmark.tar.gz>
+Abstract*	SweParaphrase is a sentence similarity test and training set, containing sentence pairs and their similarity scores ranging between 0 (no semantic overlap) and 5 (semantic equivalence). These sentences were automatically translated from the English STS-B data and manually corrected by a native speaker of Swedish with background in linguistics.  
+Funded by*	Vinnova (grants no. 2020-02523, 2021-04165) 
+Cite as	
+Related datasets	Part of the SuperLim collection <https://spraakbanken.gu.se/en/resources/superlim>. Created from the development version of the automatically translated Swedish STS Benchmark <https://github.com/timpal0l/sts-benchmark-swedish>, that were translated from the English source <http://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark>. Similarity scores were kept unchanged. 
+	
+II. USAGE	
+Key applications	Machine Translation, Question Answering, Information Retrieval, Text classification, Semantic parsing, Evaluation of language models.
+Intended task(s)/usage(s)	Given two sentences determine how similar they are.
+Recommended evaluation measures	'Krippendorff''s alpha (the official SuperLim measure), Pearson or Spearman correlation coefficients'
+Dataset function(s)	Training, testing and development 
+Recommended split(s)	Train, dev and test (provided)
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	8592 sentence pairs; 3 genres; 9 sources. 
+Nature of the content*	Each pair belongs to one genre (e.g. news, forums or captions) and is linked to a file from source (e.g. headlines, answers-forums, images). The English pairs from which the Swedish sentences were translated are also included.
+Format*	JSONL and TSV with the following columns/objects:
+	(1) Sentence ID from the automatically translated Swedish dataset; 
+	(2) Genre from source (captions, news, forum);
+	(3) File from source (images, headlines, answers);
+	(4) and (5) manually corrected Swedish sentence pairs;
+	(6) Similarity score from source (based on the English sentence pairs done by Crowdsourcing through Mechanical Turk).
+	
+Data source(s)*	The original STS benchmark comprises 8628 sentence pairs, collected from SemEval 2012 (task 6), 2014 (task 10), 2015 (task 2), 2016 (task 1), 2017 (task 1) and *SEM 2013.  
+Data collection method(s)*	The original English STS-B dataset taken from the SemEval shared tasks [2] was automatically translated by a master student at the MLT program at GU using Google translate API in 2022 [3]. This automatically translated version can be downloaded from Språkbanken Text [4].
+Data selection and filtering*	The automatically translated STS-B from 2022 [4] was manually corrected by a graduate student with background in linguistics.  
+Data preprocessing*	English sentence pairs were tab-separated. Scores with decimals longer than 4 were shortened.
+Data labeling*	No additional labeling was added. In the English version each sentence pair is annotated with a score (0-5), annotation was done by Crowdsourcing through Mechanical Turk. In the Swedish version we kept the scores that were assigned to the source English pairs.
+Annotator characteristics	Native speaker of Swedish; fluent non-native speaker of Swedish
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	
+Things to watch out for	The similarity scores are based on the English data and are not necessarily representative for the Swedish counter parts. 
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	2022-08-25, v2.0, Dana Dannélls
+Which changes have been made, compared to the previous version*	Train and dev sets have been added
+Access to previous versions	Work in progress
+This document created*	2023-02-08, Dana Dannélls
+This document last updated*	2023-02-03, Aleksandrs Berdicevskis
+Where to look for further details	[1],[2],[3], [4]
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	Language models for Swedish authorities, Vinnova (grant no. 2019-02996) <https://www.vinnova.se/en/p/language-models-for-swedish-authorities/>.
+References	[1] Isbister, T. and Sahlgren, M. (2020): Why not simply translate? A first Swedish evaluation benchmark for semantic similarity. Proceedings of the Eighth Swedish Language Technology Conference (SLTC), University of Gothenburg. <https://gubox.box.com/v/SLTC-2020-paper-15>. 
+		[2] The original English STS-B dataset: <http://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark#Reference>
+		[3] Google Translate API, 2022 <https://cloud.google.com/translate/docs/advanced/translating-text-v3>
+		[4] STS-B automatically translated to Swedish, 2022: <https://svn.spraakdata.gu.se/sb-arkiv/pub/sweparaphrase/new_sts-b-svenska-tsv.zip>
