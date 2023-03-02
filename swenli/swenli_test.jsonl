@@ -1,0 +1,305 @@
+{"id": 1, "premise": "En italienare blev världens främsta tenor.", "hypothesis": "En italienare har varit världens främsta tenor.", "label": "entailment"}
+{"id": 2, "premise": "Varje italiensk man vill vara en ledande tenor. Några italienska män är ledande tenorer.", "hypothesis": "Det finns italienska män som vill vara ledande tenorer.", "label": "entailment"}
+{"id": 3, "premise": "Alla italienska män vill vara ledande tenorer. Några italienska män är ledande tenorer.", "hypothesis": "Det finns italienska män som vill vara ledande tenorer.", "label": "entailment"}
+{"id": 4, "premise": "Varje italiensk tenor vill vara ledande. Några italienska tenorer är ledande.", "hypothesis": "Det finns italienska tenorer som vill vara ledande.", "label": "entailment"}
+{"id": 5, "premise": "De verkligt framåtsträvande tenorerna är italienare.", "hypothesis": "Det finns verkligt framåtsträvande italienska tenorer.", "label": "entailment"}
+{"id": 6, "premise": "Inga verkligt stora tenorer är blygsamma.", "hypothesis": "Det finns verkligt stora och blygsamma tenorer.", "label": "contradiction"}
+{"id": 7, "premise": "Några ledande tenorer är svenskar.", "hypothesis": "Det finns ledande svenska tenorer.", "label": "entailment"}
+{"id": 8, "premise": "Många ledande tenorer är tyskar.", "hypothesis": "Det finns ledande tyska tenorer.", "label": "entailment"}
+{"id": 9, "premise": "Flera ledande tenorer är britter.", "hypothesis": "Det finns ledande brittiska tenorer.", "label": "entailment"}
+{"id": 10, "premise": "De flesta ledande tenorerna är italienare.", "hypothesis": "Det finns ledande italienska tenorer.", "label": "entailment"}
+{"id": 11, "premise": "Ett fåtal ledande tenorer sjunger populärmusik. Några ledande tenorer gillar populärmusik.", "hypothesis": "Det finns ledande tenorer som sjunger populärmusik.", "label": "entailment"}
+{"id": 12, "premise": "Båda förstatenorerna är lysande. Lysande förstatenorer är oumbärliga.", "hypothesis": "Båda förstatenorerna är oumbärliga.", "label": "entailment"}
+{"id": 13, "premise": "Ingen av förstatenorerna är billig att anlita. En av förstatenorerna är Pavarotti.", "hypothesis": "Pavarotti är en förstatenor som är billig att anlita.", "label": "contradiction"}
+{"id": 14, "premise": "Minst tre tenorer ska delta i konserten.", "hypothesis": "Några tenorer kommer att delta i konserten.", "label": "entailment"}
+{"id": 15, "premise": "En irländare har fått nobelpriset i litteratur.", "hypothesis": "Någon irländare har fått nobelpris.", "label": "entailment"}
+{"id": 16, "premise": "En europé får bo i Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.", "hypothesis": "En europé kan resa fritt inom Europa.", "label": "entailment"}
+{"id": 17, "premise": "Alla européer får bo i Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.", "hypothesis": "Alla européer kan resa fritt inom Europa.", "label": "entailment"}
+{"id": 18, "premise": "Varje europé får bo i Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.", "hypothesis": "Alla européer kan resa fritt inom Europa.", "label": "entailment"}
+{"id": 19, "premise": "Medlemsstaternas invånare får bo i Europa. Alla medlemsstaternas invånare är individer. Den som får bo i Europa kan resa fritt inom Europa.", "hypothesis": "Medlemsstaternas invånare kan resa fritt inom Europa.", "label": "entailment"}
+{"id": 20, "premise": "Ingen av de medverkande lämnade in rapporten i tid.", "hypothesis": "Ingen av de medverkande lämnade in rapporten.", "label": "neutral"}
+{"id": 21, "premise": "Några av de medverkande genomförde enkäten i tid.", "hypothesis": "Några av de medverkande genomförde enkäten.", "label": "entailment"}
+{"id": 22, "premise": "Många av de medverkande intresserade sig för enkätresultaten.", "hypothesis": "Många av de medverkande tog del av enkätresultaten.", "label": "entailment"}
+{"id": 23, "premise": "Flera av de medverkande kunde publicera resultaten i större rikstäckande tidningar.", "hypothesis": "Flera av de medverkande fick resultaten publicerade.", "label": "entailment"}
+{"id": 24, "premise": "De flesta européer bor i Europa. Alla européer är individer. Alla som bor i Europa kan resa fritt inom Europa.", "hypothesis": "De flesta européerna kan resa fritt inom Europa.", "label": "entailment"}
+{"id": 25, "premise": "Ett fåtal kommittémedlemmar är från Sverige. Alla kommittémedlemmar är individer. Alla svenskar är från Norden.", "hypothesis": "Åtminstone några kommittémedlemmar är från Norden.", "label": "entailment"}
+{"id": 26, "premise": "Endast ett fåtal kommittémedlemmar är från Portugal. Alla kommittémedlemmar är individer. Alla portugiser är från Sydeuropa.", "hypothesis": "Endast ett fåtal kommittémedlemmar är från Sydeuropa.", "label": "neutral"}
+{"id": 27, "premise": "Båda kommissionärerna har ett förflutet som ledande affärsmän.", "hypothesis": "Båda kommissionärerna har varit affärsmän.", "label": "entailment"}
+{"id": 28, "premise": "Ingen av kommissionärerna är mycket ute och reser.", "hypothesis": "Ingen av kommissionärerna brukar vara ute och resa.", "label": "neutral"}
+{"id": 29, "premise": "Minst tre kommissionärer är mycket ute och reser.", "hypothesis": "Minst tre kommissionärer brukar vara ute och resa.", "label": "entailment"}
+{"id": 30, "premise": "Högst tio kommissionärer är mycket ute och reser.", "hypothesis": "Högst tio kommissionärer brukar vara ute och resa.", "label": "neutral"}
+{"id": 31, "premise": "En irländare har fått nobelpris.", "hypothesis": "En irländare har fått nobelpriset i litteratur.", "label": "neutral"}
+{"id": 32, "premise": "En europé kan resa fritt inom Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.", "hypothesis": "Varje europé får bo i Europa.", "label": "neutral"}
+{"id": 33, "premise": "Alla européer kan resa fritt inom Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.", "hypothesis": "Alla européer får bo i Europa.", "label": "neutral"}
+{"id": 34, "premise": "Varje europé kan resa fritt inom Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.", "hypothesis": "Varje europé kan bo i Europa.", "label": "neutral"}
+{"id": 35, "premise": "Medlemsstaternas invånare kan resa fritt inom Europa. Alla medlemsstaternas invånare är individer. Den som får bo var som helst i Europa kan resa fritt inom Europa.", "hypothesis": "Medlemsstaternas invånare får bo var som helst i Europa.", "label": "neutral"}
+{"id": 36, "premise": "Ingen av de medverkande lämnade in rapporten.", "hypothesis": "Någon medverkande lämnade in rapporten i tid.", "label": "contradiction"}
+{"id": 37, "premise": "Några av de medverkande genomförde enkäten.", "hypothesis": "Några av de medverkande genomförde enkäten i tid.", "label": "neutral"}
+{"id": 38, "premise": "Många av de medverkande tog del av enkätresultaten.", "hypothesis": "Många av de medverkande intresserade sig för enkätresultaten.", "label": "neutral"}
+{"id": 39, "premise": "Flera medverkande kunde publicera resultaten.", "hypothesis": "Flera medverkande fick resultaten publicerade i större rikstäckande tidningar.", "label": "neutral"}
+{"id": 40, "premise": "De flesta européer kan resa fritt inom Europa. Alla européer är individer. Alla som bor i Europa kan resa fritt inom Europa.", "hypothesis": "De flesta européerna bor I Europa.", "label": "neutral"}
+{"id": 41, "premise": "Ett fåtal kommittémedlemmar är från Norden. Alla kommittémedlemmar är individer. Alla svenskar är från Norden.", "hypothesis": "Åtminstone några kommittémedlemmar är svenskar.", "label": "neutral"}
+{"id": 42, "premise": "Endast ett fåtal kommittémedlemmar är från södra Europa. Alla kommittémedlemmar är individer. Alla portugiser är från södra Europa.", "hypothesis": "Endast ett fåtal kommittémedlemmar är portugiser.", "label": "entailment"}
+{"id": 43, "premise": "Båda kommissionärerna har ett förflutet som affärsmän.", "hypothesis": "Båda kommissionärerna har varit framgångsrika affärsmän.", "label": "neutral"}
+{"id": 44, "premise": "Ingen av kommissionärerna är mycket ute och reser.", "hypothesis": "Någon av kommissionärerna är mycket ute och reser.", "label": "contradiction"}
+{"id": 45, "premise": "Minst tre kommissionärer brukar vara ute och resa.", "hypothesis": "Minst tre kommissionärer är mycket ute och reser.", "label": "neutral"}
+{"id": 46, "premise": "Högst tio kommissionärer brukar vara ute och resa.", "hypothesis": "Högst tio kommissionärer är mycket ute och reser.", "label": "entailment"}
+{"id": 47, "premise": "En svensk har fått nobelpris. Den som är svensk är nordbo.", "hypothesis": "Någon nordbo har fått nobelpris.", "label": "entailment"}
+{"id": 48, "premise": "Den som är bosatt i Kanada kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.", "hypothesis": "Den som är bosatt i Nordamerika kan resa fritt inom Europa.", "label": "neutral"}
+{"id": 49, "premise": "All som är bosatta i Kanada kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.", "hypothesis": "Alla som är bosatta i Nordamerika kan resa fritt inom Europa.", "label": "neutral"}
+{"id": 50, "premise": "Var och en som är bosatt i Kanada kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.", "hypothesis": "Var och en som är bosatt i Nordamerika kan resa fritt inom Europa.", "label": "neutral"}
+{"id": 51, "premise": "De som är bosatta i större västländer kan resa fritt inom Europa. De som är bosatta i större västländer är bosatta i västländer.", "hypothesis": "De som är bosatta i västländer får bo i Europa.", "label": "neutral"}
+{"id": 52, "premise": "Ingen av de nordiska medverkande lämnade in rapporten i tid.", "hypothesis": "Någon av de medverkande lämnade in rapporten i tid.", "label": "neutral"}
+{"id": 53, "premise": "Några av de irländska medverkande genomförde enkäten i tid.", "hypothesis": "Några av de medverkande genomförde enkäten i tid.", "label": "entailment"}
+{"id": 54, "premise": "Många brittiska medverkande tyckte att enkätens resultat var intressanta.", "hypothesis": "Många medverkande tyckte att enkätens resultat var intressanta.", "label": "neutral"}
+{"id": 55, "premise": "Flera portugisiska medverkande kunde publicera resultaten i större rikstäckande tidningar.", "hypothesis": "Flera medverkande kunde publicera resultaten i större rikstäckande tidningar.", "label": "entailment"}
+{"id": 56, "premise": "De flesta européer som är bosatta i Europa kan resa fritt inom Europa.", "hypothesis": "De flesta européer kan resa fritt inom Europa.", "label": "neutral"}
+{"id": 57, "premise": "Ett fåtal kvinnliga kommittémedlemmar är från Norden.", "hypothesis": "Åtminstone några kommittémedlemmar är från Norden.", "label": "entailment"}
+{"id": 58, "premise": "Ett fåtal kvinnliga kommittémedlemmar är från södra Europa.", "hypothesis": "Kommittémedlemmarna från södra Europa är få till antalet.", "label": "neutral"}
+{"id": 59, "premise": "Minst tre kvinnliga kommissionärer brukar vara ute och resa.", "hypothesis": "Minst tre kommissionärer brukar vara ute och resa.", "label": "entailment"}
+{"id": 60, "premise": "Högst tio kvinnliga kommissionärer brukar vara ute och resa.", "hypothesis": "Högst tio kommissionärer brukar vara ute och resa", "label": "neutral"}
+{"id": 61, "premise": "En nordbo har fått nobelpris. Den som är svensk är nordbo.", "hypothesis": "Någon svensk har fått nobelpris.", "label": "neutral"}
+{"id": 62, "premise": "Den som är bosatt i Nordamerika kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.", "hypothesis": "Den som är bosatt i Kanada kan resa fritt inom Europa.", "label": "entailment"}
+{"id": 63, "premise": "Alla som är bosatta i Nordamerika kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.", "hypothesis": "Alla som är bosatta i Kanada kan resa fritt inom Europa.", "label": "entailment"}
+{"id": 64, "premise": "Var och en som är bosatt i Nordamerika kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.", "hypothesis": "Var och en som är bosatt i Kanada kan resa fritt inom Europa.", "label": "entailment"}
+{"id": 65, "premise": "De som är bosatta i västländer kan resa fritt inom Europa. Alla som är bosatta i större västländer är bosatta i västländer.", "hypothesis": "De som är bosatta i större västländer får bo i Europa.", "label": "entailment"}
+{"id": 66, "premise": "Ingen av de medverkande lämnade in rapporten i tid.", "hypothesis": "Någon av de nordiska medverkande lämnade in rapporten i tid.", "label": "contradiction"}
+{"id": 67, "premise": "Några medverkande lämnade in rapporten i tid.", "hypothesis": "Några av de irländska medverkande lämnade in rapporten i tid.", "label": "neutral"}
+{"id": 68, "premise": "Många av de medverkande tyckte att enkätens resultat var intressanta.", "hypothesis": "Många brittiska medverkande tyckte att resultaten var intressanta.", "label": "neutral"}
+{"id": 69, "premise": "Flera medverkande kunde publicera resultaten i större rikstäckande tidningar.", "hypothesis": "Flera portugisiska medverkande kunde publicera resultaten i större rikstäckande tidningar.", "label": "neutral"}
+{"id": 70, "premise": "De flesta européer kan resa fritt inom Europa.", "hypothesis": "De flesta européer som är bosatta utanför Europa kan resa fritt inom Europa.", "label": "neutral"}
+{"id": 71, "premise": "Ett fåtal kommittémedlemmar är från Norden..", "hypothesis": "Åtminstone några kvinnliga kommittémedlemmar är från Norden.", "label": "neutral"}
+{"id": 72, "premise": "Ett fåtal kommittémedlemmar är från södra Europa..", "hypothesis": "Få kvinnliga kommittémedlemmar är från södra Europa.", "label": "entailment"}
+{"id": 73, "premise": "Minst tre kommissionärer brukar vara ute och resa.", "hypothesis": "Minst tre manliga kommissionärer brukar vara ute och resa.", "label": "neutral"}
+{"id": 74, "premise": "Högst tio kommissionärer brukar vara ute och resa.", "hypothesis": "Högst tio kvinnliga kommissionärer brukar vara ute och resa.", "label": "entailment"}
+{"id": 75, "premise": "Svensson, Johansson och Andersson skrev på kontraktet.", "hypothesis": "Johansson skrev på kontraktet.", "label": "entailment"}
+{"id": 76, "premise": "Svensson, Johansson och flera advokater skrev på kontraktet.", "hypothesis": "Johansson skrev på kontraktet.", "label": "entailment"}
+{"id": 77, "premise": "Någon av Svensson, Johansson eller Andersson skrev på kontraktet.", "hypothesis": "Johansson skrev på kontraktet.", "label": "neutral"}
+{"id": 78, "premise": "Någon av Svensson, Johansson eller Andersson skrev på kontraktet.", "hypothesis": "Om Svensson och Andersson inte skrev på kontraktet, skrev Johansson på kontraktet.", "label": "entailment"}
+{"id": 79, "premise": "Exakt två advokater och tre revisorer skrev på kontraktet.", "hypothesis": "Sex advokater skrev på kontraktet.", "label": "contradiction"}
+{"id": 80, "premise": "Exakt två advokater och tre revisorer skrev på kontraktet.", "hypothesis": "Sex revisorer skrev på kontraktet.", "label": "contradiction"}
+{"id": 81, "premise": "Varje representant eller kund var på mötet.", "hypothesis": "Varje representant och kund var på mötet.", "label": "entailment"}
+{"id": 82, "premise": "Ordföranden läste upp punkterna på dagordningen.", "hypothesis": "Ordföranden läste upp varje punkt på dagordningen.", "label": "entailment"}
+{"id": 83, "premise": "Mötesdeltagarna röstade för en ny ordförande.", "hypothesis": "Alla på mötet röstade för en ny ordförande.", "label": "neutral"}
+{"id": 84, "premise": "Alla mötesdeltagarna röstade för en ny ordförande", "hypothesis": "Alla på mötet röstade för en ny ordförande.", "label": "entailment"}
+{"id": 85, "premise": "Mötesdeltagarna röstade alla för en ny ordförande.", "hypothesis": "Alla på mötet röstade för en ny ordförande.", "label": "entailment"}
+{"id": 86, "premise": "Göteborgarna röstade för det tredje alternativet.", "hypothesis": "Varje göteborgare röstade för det tredje alternativet.", "label": "neutral"}
+{"id": 87, "premise": "Antikens greker ansågs vara filosofer.", "hypothesis": "Varje grek ansågs vara filosof under antiken.", "label": "neutral"}
+{"id": 88, "premise": "Antikens greker ansågs alla vara filosofer.", "hypothesis": "Varje grek ansågs vara filosof under antiken.", "label": "entailment"}
+{"id": 89, "premise": "Programvarufel sades ha orsakat systemkraschen.", "hypothesis": "Systemkraschen skylldes på ett eller flera programvarufel.", "label": "entailment"}
+{"id": 90, "premise": "Programvarufel sades ha orsakat systemkraschen. Millienniebuggen är ett känt programvarufel.", "hypothesis": "Systemkraschen skylldes på millienniebuggen.", "label": "neutral"}
+{"id": 91, "premise": "Vid presentationen blev alla kunderna imponerade av mjukvaran. Svensson var en av kunderna vid presentationen.", "hypothesis": "Svensson blev imponerad av mjukvaran.", "label": "entailment"}
+{"id": 92, "premise": "Vid presentationen blev kunderna imponerade av mjukvaran.", "hypothesis": "De flesta kunderna var imponerade av mjukvaran vid presentationen.", "label": "entailment"}
+{"id": 93, "premise": "Högskoleutbildade brukar bli dåliga börsmäklare. Svensson är högskoleutbildad.", "hypothesis": "Det är troligt att Svensson blir en dålig börsmäklare.", "label": "entailment"}
+{"id": 94, "premise": "Högskoleutbildade brukar bli dåliga börsmäklare. Svensson är högskoleutbildad.", "hypothesis": "Svensson blir en dålig börsmäklare.", "label": "neutral"}
+{"id": 95, "premise": "Alla företagets chefer har tjänstebilar. Johansson är chef i företaget.", "hypothesis": "Johansson har tjänstebil.", "label": "entailment"}
+{"id": 96, "premise": "Alla företagets chefer har tjänstebilar. Johansson är chef i företaget.", "hypothesis": "Johansson har mer än en tjänstebil.", "label": "neutral"}
+{"id": 97, "premise": "Endast en revisor deltog i mötet.", "hypothesis": "Inga revisorer deltog i mötet.", "label": "contradiction"}
+{"id": 98, "premise": "Endast en revisor deltog i mötet.", "hypothesis": "Ingen revisor deltog i mötet.", "label": "contradiction"}
+{"id": 99, "premise": "Endast en revisor deltog i mötet.", "hypothesis": "Några revisorer deltog i mötet.", "label": "entailment"}
+{"id": 100, "premise": "Endast en revisor deltog i mötet.", "hypothesis": "Någon revisor deltog i mötet.", "label": "entailment"}
+{"id": 101, "premise": "Endast en revisor deltog i mötet.", "hypothesis": "Någon revisor deltog i mötet.", "label": "entailment"}
+{"id": 102, "premise": "Svensson skrev på två kontrakt. Johansson skrev också på dem.", "hypothesis": "Svensson och Johansson har skrivit på två kontrakt.", "label": "entailment"}
+{"id": 103, "premise": "Mikael rastade sin hund.", "hypothesis": "Mikaels hund har blivit rastad.", "label": "entailment"}
+{"id": 104, "premise": "Mikael rastade sin hund.", "hypothesis": "Mikael har en hund.", "label": "entailment"}
+{"id": 105, "premise": "Mikael och hans hund är oskiljaktiga.", "hypothesis": "Mikael är man.", "label": "entailment"}
+{"id": 106, "premise": "Varje kursdeltagare rastade sin hund. Mikael är kursdeltagare.", "hypothesis": "Mikael har rastat sin hund.", "label": "entailment"}
+{"id": 107, "premise": "Varje kursdeltagare rastade sin hund. Mikael är kursdeltagare.", "hypothesis": "Mikael har en hund.", "label": "entailment"}
+{"id": 108, "premise": "Ingen kursdeltagare har rastat sin hund. Mikael är kursdeltagare.", "hypothesis": "Mikael har rastat en hund.", "label": "neutral"}
+{"id": 109, "premise": "Svensson deltog i ett möte. Hon ledde det.", "hypothesis": "Svensson ledde ett möte.", "label": "entailment"}
+{"id": 110, "premise": "Svensson lämnade en rapport till Tantek. Hon gav dem även en faktura. Och hon gav dem ett projektförslag.", "hypothesis": "Svensson lämnade en rapport, en faktura och ett projektförslag till Tantek.", "label": "entailment"}
+{"id": 111, "premise": "Varje kommitté har en ordförande. Hen utses av dess ledamöter.", "hypothesis": "Varje kommitté har en ordförande utsedd av kommittéledamöterna.", "label": "entailment"}
+{"id": 112, "premise": "Tantek har skickat de flesta av rapporterna Svensson behöver. De är på hennes skrivbord.", "hypothesis": "Det finns några rapporter från Tantek på Svenssons skrivbord.", "label": "entailment"}
+{"id": 113, "premise": "Två av tio maskiner är försvunna. De har förts bort.", "hypothesis": "Två maskiner har förts bort.", "label": "entailment"}
+{"id": 114, "premise": "Två av tio maskiner är försvunna. De har förts bort.", "hypothesis": "Åtta maskiner har förts bort.", "label": "neutral"}
+{"id": 115, "premise": "Två av tio maskiner är försvunna. De var alla här igår.", "hypothesis": "Det var tio maskiner här igår.", "label": "entailment"}
+{"id": 116, "premise": "Anna och hennes kollegor gick på ett möte. De var missnöjda med det.", "hypothesis": "Annas kollegor var missnöjda med mötet.", "label": "entailment"}
+{"id": 117, "premise": "Varje avdelning har en egen kaffeautomat. De hyr dem av Rastex.", "hypothesis": "Varje avdelning hyr en kaffeautomat från Rastex.", "label": "entailment"}
+{"id": 118, "premise": "Varje avdelning har en egen kaffeautomat. Försäljningsavdelningen hyr sin av Rastex.", "hypothesis": "Försäljningsavdelningen hyr en kaffeautomat av Rastex.", "label": "entailment"}
+{"id": 119, "premise": "SBT har flera datorer. Tantek servar dem.", "hypothesis": "Tantek servar alla SBT:s datorer.", "label": "entailment"}
+{"id": 120, "premise": "Varje kund som har en dator har ett servicekontrakt för den. SBX är en kund som har exakt en dator.", "hypothesis": "SBX har servicekontrakt för alla sina datorer.", "label": "entailment"}
+{"id": 121, "premise": "Varje kund som har en dator har ett servicekontrakt för den. SBX är en kund som har flera datorer.", "hypothesis": "SBX har servicekontrakt för alla sina datorer.", "label": "entailment"}
+{"id": 122, "premise": "Varje chef som hade en bärbar dator tog med den för att anteckna på mötet. Svensson är chef och har fem bärbara datorer.", "hypothesis": "Svensson tog med sig fem bärbara datorer till mötet.", "label": "neutral"}
+{"id": 123, "premise": "Vi har data om 100 företag. YYAB är ett av företagen och det har 150 datorer. Det har inte servicekontrakt för någon av sina datorer. Vart och ett av de andra 99 företagen har en dator. De har servicekontrakt för dem.", "hypothesis": "De flesta företag har som har en dator ett servicekontrakt för den.", "label": "entailment"}
+{"id": 124, "premise": "Varje rapport har ett försättsblad. R-2021-103 är en rapport. Svensson satte sin signatur på försättsbladet.", "hypothesis": "Svensson satte sin signatur på försättsbladet till R-2021-103.", "label": "entailment"}
+{"id": 125, "premise": "En direktör gav sig själv en stor löneförhöjning..", "hypothesis": "Någon direktör har delat ut och fått en löneförhöjning.", "label": "entailment"}
+{"id": 126, "premise": "Anna sade att Karin hade gjort sig illa.", "hypothesis": "Anna sade att Karin hade blivit skadad.", "label": "entailment"}
+{"id": 127, "premise": "Anna sade att Karin hade gjort sig illa.", "hypothesis": "Någon sade att Anna hade blivit skadad.", "label": "neutral"}
+{"id": 128, "premise": "Anna talade med Mikael. Det gjorde Karin också.", "hypothesis": "Karin talade med Mikael.", "label": "entailment"}
+{"id": 129, "premise": "Anna talade med Mikael. Det gjorde Karin också. Anna talade med Mikael klockan fyra.", "hypothesis": "Karin talade med Mikael klockan fyra.", "label": "neutral"}
+{"id": 130, "premise": "Anna talade med Mikael klockan fyra. Det gjorde Karin också.", "hypothesis": "Karin talade med Mikael klockan fyra.", "label": "entailment"}
+{"id": 131, "premise": "Anna talade med Mikael klockan fyra. Och Karin klockan fem.", "hypothesis": "Karin talade med Mikael klockan fem.", "label": "entailment"}
+{"id": 132, "premise": "Anna har talat med Mikael. Karin kommer att göra det.", "hypothesis": "Karin ska tala med Mikael.", "label": "entailment"}
+{"id": 133, "premise": "Anna talade med Mikael i måndags. Det gjorde inte Karin.", "hypothesis": "Karin talade med Mikael i måndags.", "label": "contradiction"}
+{"id": 134, "premise": "Har Anna talat med Mikael? Det har Karin gjort.", "hypothesis": "Karin har talat med Mikael.", "label": "entailment"}
+{"id": 135, "premise": "Anna har talat med Mikael. Det har studenterna med.", "hypothesis": "Studenterna har talat med Mikael.", "label": "entailment"}
+{"id": 136, "premise": "Anna tog bilen och Karin tåget till Paris.", "hypothesis": "Karin tog tåget till Paris.", "label": "entailment"}
+{"id": 137, "premise": "Anna tog bilen till Paris och Karin tåget till Berlin.", "hypothesis": "Karin tog tåget till Berlin.", "label": "entailment"}
+{"id": 138, "premise": "Anna tog bilen till Paris och Karin till Berlin.", "hypothesis": "Karin tog bilen till Berlin.", "label": "entailment"}
+{"id": 139, "premise": "Anna tar bilen och studenterna tåget till Paris.", "hypothesis": "Studenterna tar tåget till Paris.", "label": "entailment"}
+{"id": 140, "premise": "Anna tog bilen till Paris. Karin tåget.", "hypothesis": "Karin tog tåget till Paris.", "label": "entailment"}
+{"id": 141, "premise": "Anna är bilägare. Det är Karin med.", "hypothesis": "Karin har en bil.", "label": "entailment"}
+{"id": 142, "premise": "Anna är bilägare. Det är Karin med.", "hypothesis": "Anna och Karin äger en bil gemensamt.", "label": "neutral"}
+{"id": 143, "premise": "Anna har en röd bil. Karins är blå.", "hypothesis": "Karin har en blå bil.", "label": "entailment"}
+{"id": 144, "premise": "Anna har en röd bil. Karin har en blå.", "hypothesis": "Karin har en röd bil.", "label": "neutral"}
+{"id": 145, "premise": "Anna har en röd bil. Karins är snabb.", "hypothesis": "Karin har en snabb bil.", "label": "entailment"}
+{"id": 146, "premise": "Anna har en röd bil. Karin har en likadan, fast långsam.", "hypothesis": "Karin har en långsam röd bil.", "label": "entailment"}
+{"id": 147, "premise": "Anna fick artikeln accepterad. Karin vet inte varför.", "hypothesis": "Karin vet varför Anna fick artikeln accepterad.", "label": "contradiction"}
+{"id": 148, "premise": "Anna talade med Mikael. Och med Stefan.", "hypothesis": "Anna har talat med Stefan.", "label": "entailment"}
+{"id": 149, "premise": "Anna talade med Mikael. I fredags.", "hypothesis": "Anna talade med Mikael i fredags.", "label": "entailment"}
+{"id": 150, "premise": "Anna talade med Mikael i torsdags. Och i fredags.", "hypothesis": "Anna talade med Mikael i fredags.", "label": "entailment"}
+{"id": 151, "premise": "Tjugo män arbetar på försäljningsavdelningen. Men bara en kvinna.", "hypothesis": "Två kvinnor arbetar på försäljningsavdelningen.", "label": "contradiction"}
+{"id": 152, "premise": "Fem män arbetar deltid. Och fyrtiofem kvinnor.", "hypothesis": "Fyrtiofem kvinnor arbetar deltid.", "label": "entailment"}
+{"id": 153, "premise": "Anna vill veta hur många män som arbetar deltid. Och kvinnor.", "hypothesis": "Anna vill veta hur många kvinnor som arbetar deltid.", "label": "entailment"}
+{"id": 154, "premise": "Anna vill veta hur många män som arbetar deltid, och vilka de är.", "hypothesis": "Anna vill veta vilka som arbetar deltid.", "label": "entailment"}
+{"id": 155, "premise": "Karin har talat med alla som Anna har talat med. Anna har talat med Mikael.", "hypothesis": "Karin har talat med Mikael.", "label": "entailment"}
+{"id": 156, "premise": "Karin har talat med alla som Anna har talat med. Karin har talat med Mikael.", "hypothesis": "Anna har talat med Mikael.", "label": "neutral"}
+{"id": 157, "premise": "Anna sade att Mikael hade skrivit en rapport, och Karin också.", "hypothesis": "Karin har sagt att Mikael hade skrivit en rapport.", "label": "neutral"}
+{"id": 158, "premise": "Anna har skrivit en rapport, och Karin sade att Sara också hade gjort det.", "hypothesis": "Karin sade att Sara hade skrivit en rapport.", "label": "entailment"}
+{"id": 159, "premise": "Om Anna har skrivit en rapport så har Karin också gjort det. Anna har skrivit en rapport.", "hypothesis": "Karin har skrivit en rapport.", "label": "entailment"}
+{"id": 160, "premise": "Anna ville köpa bil, och det gjorde hon.", "hypothesis": "Anna har köpt bil.", "label": "entailment"}
+{"id": 161, "premise": "Anna behövde köpa bil, och Karin gjorde det.", "hypothesis": "Karin har köpt bil.", "label": "entailment"}
+{"id": 162, "premise": "Svensson representerar sitt företag och det gör Johansson också.", "hypothesis": "Svensson representerar Johanssons företag.", "label": "neutral"}
+{"id": 163, "premise": "Svensson påstod att han hade kostnadsberäknat sitt förslag och det gjorde Johansson också.", "hypothesis": "Johansson påstod att Svensson hade kostnadsberäknat Johanssons förslag.", "label": "neutral"}
+{"id": 164, "premise": "Karin föreslog för Hannas chef att de borde gå till mötet tillsammans, liksom Kristina för Evas make.", "hypothesis": "Om förslaget var att Karin och Hanna borde gå till mötet tilsammans, var förslaget då även att Kristina och Eva borde gå tillsammans.", "label": "entailment"}
+{"id": 165, "premise": "Karin föreslog för Hannas chef att de borde gå till mötet tillsammans, liksom Kristina för Evas make.", "hypothesis": "Om förslaget var att Karin och Hanna borde gå till mötet tilsammans, var förslaget då även att Kristina och Evas make borde gå tillsammans.", "label": "neutral"}
+{"id": 166, "premise": "Karin föreslog för Hannas chef att de borde gå till mötet tillsammans, liksom Kristina för Evas make.", "hypothesis": "Om förslaget var att Karin och Hannas chef borde gå till mötet tilsammans, var förslaget även att Kristina och Evas make borde gå tillsammans.", "label": "entailment"}
+{"id": 167, "premise": "Karin föreslog för Hannas chef att de borde gå till mötet tillsammans, liksom Kristina för Evas make.", "hypothesis": "Om förslaget var att Karin och Hannas chef borde gå till mötet tilsammans, var förslaget då även att Kristina och Eva borde gå tillsammans.", "label": "neutral"}
+{"id": 168, "premise": "Karin föreslog för Hannas chef att de borde gå till mötet tillsammans, liksom Kristina för Evas make.", "hypothesis": "Om förslaget var att Karin, Hanna och Hannas chef borde gå till mötet tilsammans, var förslaget då även att Kristina, Eva och Evas make borde gå tillsammans.", "label": "entailment"}
+{"id": 169, "premise": "En advokat skrev under varje rapport, och även en revisor. Annorlunda uttryckt: en och samma advokat skrev under alla rapporterna.", "hypothesis": "En och samma revisor skrev under alla rapporterna.", "label": "entailment"}
+{"id": 170, "premise": "John har en äkta diamant.", "hypothesis": "John har en diamant.", "label": "entailment"}
+{"id": 171, "premise": "John är en före detta framgångsrik student.", "hypothesis": "John är framgångsrik.", "label": "neutral"}
+{"id": 172, "premise": "John är en före detta framgångsrik student.", "hypothesis": "John är student.", "label": "neutral"}
+{"id": 173, "premise": "Varje däggdjur är ett djur.", "hypothesis": "Varje fyrbent däggdjur är ett fyrbent djur.", "label": "entailment"}
+{"id": 174, "premise": "Dumbo är ett fyrbent djur.", "hypothesis": "Dumbo är fyrbent.", "label": "entailment"}
+{"id": 175, "premise": "Musse är ett litet djur.", "hypothesis": "Musse är ett stort djur.", "label": "contradiction"}
+{"id": 176, "premise": "Dumbo är ett stort djur.", "hypothesis": "Dumbo är ett litet djur.", "label": "contradiction"}
+{"id": 177, "premise": "Fido är inte ett litet djur.", "hypothesis": "Fido är ett stort djur.", "label": "neutral"}
+{"id": 178, "premise": "Fido är inte ett stort djur.", "hypothesis": "Fido är ett litet djur.", "label": "neutral"}
+{"id": 179, "premise": "Musse är ett litet djur. Dumbo är ett stort djur.", "hypothesis": "Musse är mindre än Dumbo.", "label": "entailment"}
+{"id": 180, "premise": "Musse är ett litet djur. Dumbo är ett stort djur.", "hypothesis": "Musse är större än Dumbo.", "label": "contradiction"}
+{"id": 181, "premise": "Alla möss är små djur. Musse är en stor mus.", "hypothesis": "Musse är ett stort djur.", "label": "contradiction"}
+{"id": 182, "premise": "Alla elefanter är stora djur. Dumbo är en liten elefant.", "hypothesis": "Dumbo är ett litet djur.", "label": "contradiction"}
+{"id": 183, "premise": "Alla möss är små djur. Alla elefanter är stora djur. Musse är en stor mus. Dumbo är en liten elefant.", "hypothesis": "Dumbo är större än Musse.", "label": "entailment"}
+{"id": 184, "premise": "Alla juridiska experter är juridiklärare. Alla juridiklärare är juridiska experter.", "hypothesis": "Alla kortvuxna juridiska experter är kortvuxna juridiklärare.", "label": "entailment"}
+{"id": 185, "premise": "Alla juridiska experter är juridiklärare. Alla juridiklärare är juridiska experter.", "hypothesis": "Alla skickliga juridiska experter är skickliga juridiklärare.", "label": "neutral"}
+{"id": 186, "premise": "Anna är en vältaligare politiker än Karin.", "hypothesis": "Anna är vältaligare än Karin.", "label": "entailment"}
+{"id": 187, "premise": "Anna är en smartare politiker än Karin.", "hypothesis": "Anna är smartare än Karin.", "label": "neutral"}
+{"id": 188, "premise": "Kim är en smart typ.", "hypothesis": "Kim är smart.", "label": "entailment"}
+{"id": 189, "premise": "Kim är en smart politiker.", "hypothesis": "Kim är smart.", "label": "neutral"}
+{"id": 190, "premise": "PC 6082  är snabbare än Tantek XZ. Tantek XZ är snabb.", "hypothesis": "PC 6082 är snabb.", "label": "entailment"}
+{"id": 191, "premise": "PC 6082  är snabbare än Tantek XZ.", "hypothesis": "PC 6082 är snabb.", "label": "neutral"}
+{"id": 192, "premise": "PC 6082  är snabbare än Tantek XZ. PC 6082 är snabb.", "hypothesis": "Tantek XZ är snabb.", "label": "neutral"}
+{"id": 193, "premise": "PC 6082  är snabbare än Tantek XZ. PC 6082 är långsam.", "hypothesis": "Tantek XZ är snabb.", "label": "contradiction"}
+{"id": 194, "premise": "PC 6082  är lika snabb som Tantek XZ. Tantek XZ är snabb.", "hypothesis": "PC 6082 är snabb.", "label": "entailment"}
+{"id": 195, "premise": "PC 6082  är lika snabb som Tantek XZ.", "hypothesis": "PC 6082 är snabb.", "label": "neutral"}
+{"id": 196, "premise": "PC 6082  är lika snabb som Tantek XZ. PC 6082 är snabb.", "hypothesis": "Tantek XZ är snabb.", "label": "neutral"}
+{"id": 197, "premise": "PC 6082  är lika snabb som Tantek XZ. PC 6082 är långsam.", "hypothesis": "Tantek XZ är snabb.", "label": "contradiction"}
+{"id": 198, "premise": "PC 6082  är lika snabb som Tantek XZ.", "hypothesis": "PC 6082 är snabbare än Tantek XZ.", "label": "neutral"}
+{"id": 199, "premise": "PC 6082  är lika snabb som Tantek XZ", "hypothesis": "PC 6082 är långsammare än Tantek XZ.", "label": "contradiction"}
+{"id": 200, "premise": "Tantek har tagit hem fler kontrakt än Gucom klarat av.", "hypothesis": "Tantek har tagit hem några kontrakt.", "label": "entailment"}
+{"id": 201, "premise": "Tantek har tagit hem fler kontrakt än Gucom klarat av.", "hypothesis": "Gucom har tagit hem några kontrakt.", "label": "neutral"}
+{"id": 202, "premise": "Tantek har tagit hem fler kontrakt än Gucom klarat av. Gucom har tagit hem tio kontrakt.", "hypothesis": "Tantek har tagit hem minst elva kontrakt.", "label": "entailment"}
+{"id": 203, "premise": "Tantek har tagit hem fler kontrakt än Gucom.", "hypothesis": "Tantek har tagit hem några kontrakt.", "label": "entailment"}
+{"id": 204, "premise": "Tantek har tagit hem fler kontrakt än Gucom.", "hypothesis": "Gucom har tagit hem några kontrakt.", "label": "neutral"}
+{"id": 205, "premise": "Tantek har tagit hem fler kontrakt än Gucom. Gucom har tagit hem tio kontrakt.", "hypothesis": "Tantek har tagit hem minst elva kontrakt.", "label": "entailment"}
+{"id": 206, "premise": "Tantek har tagit hem fler än enbart Gucom-kontraktet.", "hypothesis": "Tantek har tagit hem Gucom-kontraktet.", "label": "entailment"}
+{"id": 207, "premise": "Tantek har tagit hem fler än enbart Gucom-kontraktet", "hypothesis": "Tantek har tagit hem mer än ett kontrakt.", "label": "entailment"}
+{"id": 208, "premise": "Tantek har tagit hem dubbelt så många kontrakt som Gucom. Gucom har tagit hem tio kontrakt.", "hypothesis": "Tantek har tagit hem tjugo kontrakt.", "label": "entailment"}
+{"id": 209, "premise": "Tantek har tagit hem fler kontrakt än Gucom gått miste om.", "hypothesis": "Tantek har tagit hem några kontrakt.", "label": "entailment"}
+{"id": 210, "premise": "Tantek har tagit hem fler kontrakt än Gucom gått miste om.", "hypothesis": "Gucom har gått miste om några kontrakt.", "label": "neutral"}
+{"id": 211, "premise": "Tantek har tagit hem fler kontrakt än Gucom gått miste om. Gucom har gått miste om tio kontrakt.", "hypothesis": "Tantek har tagit hem minst elva kontrakt.", "label": "entailment"}
+{"id": 212, "premise": "PC 6082 är snabbare än 500 MIPS. Tantek XZ är långsammare än 500 MIPS.", "hypothesis": "PC 6082 är snabbare än Tantek XZ.", "label": "entailment"}
+{"id": 213, "premise": "Tantek har sålt 3000 fler datorer än Gucom. Gucom har sålt exakt 2500 datorer.", "hypothesis": "Tantek har sålt 5500 datorer.", "label": "entailment"}
+{"id": 214, "premise": "PC 6082 är snabbare än varje Tantekdator. Tantek XZ är en Tantekdator.", "hypothesis": "PC 6082 är snabbare än Tantek XZ.", "label": "entailment"}
+{"id": 215, "premise": "PC 6082 är snabbare än åtminstone någon Tantekdator. Tantek XZ är en Tantekdator.", "hypothesis": "PC 6082 är snabbare än Tantek XZ.", "label": "neutral"}
+{"id": 216, "premise": "PC 6082 är snabbare än vilken Tantekdator som helst. Tantek XZ är en Tantekdator.", "hypothesis": "PC 6082 är snabbare än Tantek XZ.", "label": "entailment"}
+{"id": 217, "premise": "PC 6082 är snabbare än Tantek XZ och Tantek XY.", "hypothesis": "PC 6082 är snabbare än Tantek XZ.", "label": "entailment"}
+{"id": 218, "premise": "Tantek har en fabrik i Västerås.", "hypothesis": "Tantek har en fabrik i Västerås nu.", "label": "entailment"}
+{"id": 219, "premise": "Sedan 2012 har Tantek funnits i Västerås. I år är det 2021.", "hypothesis": "Tantek fanns i Västerås 2017.", "label": "entailment"}
+{"id": 220, "premise": "Tantek har utvecklat en ny processor sen 2012. I år är det 2021.", "hypothesis": "Tantek utvecklade en ny processor 2017.", "label": "neutral"}
+{"id": 221, "premise": "Tantek har expanderat sedan 2012. I år är det 2021.", "hypothesis": "Tantek expanderade under 2017.", "label": "neutral"}
+{"id": 222, "premise": "Tantek har gått med förlust sedan 2012. I år är det 2021.", "hypothesis": "Tantek gick med förlust 2017.", "label": "entailment"}
+{"id": 223, "premise": "I mars 2013 avknoppades Gucom från Tantek.", "hypothesis": "Gucom fanns 2012.", "label": "contradiction"}
+{"id": 224, "premise": "Konferensen började den 5 mars 2020. Den pågick i 2 dagar.", "hypothesis": "Konferensen var över den 9 mars 2020.", "label": "entailment"}
+{"id": 225, "premise": "Igår skrev Gucom på kontraktet. Idag är det lördagen den 14 juli.", "hypothesis": "Gucom skrev på kontraktet fredagen den 13.", "label": "entailment"}
+{"id": 226, "premise": "Svensson gav sig iväg före Johansson. Johansson gav sig iväg före Andersson.", "hypothesis": "Svensson gav sig iväg före Andersson.", "label": "entailment"}
+{"id": 227, "premise": "Svensson gav sig iväg efter Johansson. Johansson gav sig iväg efter Andersson.", "hypothesis": "Svensson gav sig iväg efter Andersson.", "label": "entailment"}
+{"id": 228, "premise": "Svensson var på plats efter det att Johansson gett sig iväg. Johansson gav sig iväg efter det att Andersson varit på plats.", "hypothesis": "Svensson var på plats efter det att Andersson varit på plats.", "label": "neutral"}
+{"id": 229, "premise": "Svensson gav sig iväg. Johansson gav sig iväg. Svensson gav sig iväg före Johansson.", "hypothesis": "Johansson gav sig iväg efter Svensson.", "label": "entailment"}
+{"id": 230, "premise": "Svensson gav sig iväg. Johansson gav sig iväg. Svensson gav sig iväg efter Johansson.", "hypothesis": "Johansson gav sig iväg före Svensson.", "label": "entailment"}
+{"id": 231, "premise": "Svensson gav sig iväg. Johansson gav sig iväg. Johansson gav sig iväg före Svensson.", "hypothesis": "Svensson gav sig iväg efter Johansson.", "label": "entailment"}
+{"id": 232, "premise": "Johansson har granskat kontraktet. Svensson har granskat kontraktet. Johansson granskade kontraktet före Svensson.", "hypothesis": "Svensson granskade kontraktet efter Johansson.", "label": "entailment"}
+{"id": 233, "premise": "Johansson har granskat kontraktet. Svensson har granskat kontraktet. Johansson granskade kontraktet efter Svensson.", "hypothesis": "Svensson granskade kontraktet före Johansson.", "label": "entailment"}
+{"id": 234, "premise": "Svensson motionssimmade igår. Johansson motionssimmade igår. Svensson motionssimmade före Johansson igår.", "hypothesis": "Johansson har motionssimmat efter Svensson igår.", "label": "neutral"}
+{"id": 235, "premise": "Svensson simmade till stranden. Johansson simmade till stranden. Svensson simmade till stranden före Johansson.", "hypothesis": "Johansson simmade till stranden efter Svensson.", "label": "entailment"}
+{"id": 236, "premise": "Svensson var där. Johansson var där. Svensson var där efter Johansson.", "hypothesis": "Johansson var där före Svensson.", "label": "neutral"}
+{"id": 237, "premise": "Svensson var där. Johansson var där. Svensson var där före Johansson.", "hypothesis": "Johansson var där efter Svensson.", "label": "neutral"}
+{"id": 238, "premise": "Svensson satt och skrev på en rapport. Johansson satt och skrev på en rapport. Svensson satt och skrev på en rapport före Johansson.", "hypothesis": "Johansson satt och skrev på en rapport efter Svensson.", "label": "neutral"}
+{"id": 239, "premise": "Svensson satt och skrev på en rapport. Johansson satt och skrev på en rapport. Svensson satt och skrev på en rapport efter Johansson.", "hypothesis": "Johansson satt och skrev på en rapport före Svensson.", "label": "neutral"}
+{"id": 240, "premise": "Svensson lämnade mötet innan han gjorde något oåterkalleligt.", "hypothesis": "Svensson gjorde något oåterkalleligt.", "label": "neutral"}
+{"id": 241, "premise": "Svensson bodde i Västerås 2011.", "hypothesis": "Svensson bodde i Västerås 2012.", "label": "neutral"}
+{"id": 242, "premise": "Svensson skrev sin första roman 2011.", "hypothesis": "Svensson skrev sin första roman 2012.", "label": "contradiction"}
+{"id": 243, "premise": "Svensson skrev en roman 2011.", "hypothesis": "Svensson skrev den 2012.", "label": "contradiction"}
+{"id": 244, "premise": "Svensson skrev en roman 2011.", "hypothesis": "Svensson skrev en roman 2012.", "label": "neutral"}
+{"id": 245, "premise": "Svensson drev ett företag 2011.", "hypothesis": "Svensson drev det 2012.", "label": "neutral"}
+{"id": 246, "premise": "Svensson upptäckte en ny art 2011.", "hypothesis": "Svensson upptäckte den 2012.", "label": "contradiction"}
+{"id": 247, "premise": "Svensson upptäckte en ny art 2011.", "hypothesis": "Svensson upptäckte en ny art 2012.", "label": "neutral"}
+{"id": 248, "premise": "Svensson skrev en rapport på två timmar. Svensson började skriva rapporten klockan 8.", "hypothesis": "Svensson hade slutat att skriva rapporten klockan 11.", "label": "entailment"}
+{"id": 249, "premise": "Svensson skrev en rapport på två timmar.", "hypothesis": "Svensson har lagt två timmar på att skriva rapporten.", "label": "neutral"}
+{"id": 250, "premise": "Svensson skrev en rapport på två timmar.", "hypothesis": "Svensson har lagt mer än två timmar på att skriva rapporten.", "label": "contradiction"}
+{"id": 251, "premise": "Svensson skrev en rapport på två timmar.", "hypothesis": "Svensson har skrivit en rapport på en timme.", "label": "neutral"}
+{"id": 252, "premise": "Svensson skrev en rapport på två timmar.", "hypothesis": "Svensson har skrivit en rapport.", "label": "entailment"}
+{"id": 253, "premise": "Svensson upptäckte en ny art på två timmar.", "hypothesis": "Svensson har lagt två timmar på att upptäcka den nya arten.", "label": "contradiction"}
+{"id": 254, "premise": "Svensson upptäckte en ny art på två timmar.", "hypothesis": "Svensson har upptäckt en ny art.", "label": "entailment"}
+{"id": 255, "premise": "Svensson var egenföretagare i två år.", "hypothesis": "Svensson har lagt två år på att vara egenföretagare.", "label": "neutral"}
+{"id": 256, "premise": "Svensson var egenföretagare i två år.", "hypothesis": "Svensson har lagt mer än två år på att vara egenföretagare.", "label": "neutral"}
+{"id": 257, "premise": "Svensson var egenföretagare i två år.", "hypothesis": "Svensson har varit egenföretagare.", "label": "entailment"}
+{"id": 258, "premise": "Efter två år ägde Svensson en företagskedja.", "hypothesis": "Svensson har ägt en företagskedja i två år.", "label": "neutral"}
+{"id": 259, "premise": "Efter två år ägde Svensson en företagskedja.", "hypothesis": "Svensson har ägt en företagskedja i mer än två år.", "label": "neutral"}
+{"id": 260, "premise": "Efter två år ägde Svensson en företagskedja.", "hypothesis": "Svensson har ägt en företagskedja.", "label": "entailment"}
+{"id": 261, "premise": "Svensson har bott i Västerås i två år.", "hypothesis": "Svensson har bott i Västerås i ett år.", "label": "entailment"}
+{"id": 262, "premise": "Svensson har bott i Västerås i två år.", "hypothesis": "Svensson har bott i Västerås i exakt ett år.", "label": "contradiction"}
+{"id": 263, "premise": "Svensson har bott i Västerås i två år.", "hypothesis": "Svensson har bott i Västerås.", "label": "entailment"}
+{"id": 264, "premise": "Svensson var egenföretagare i två år.", "hypothesis": "Svensson har varit egenföretagare i ett år.", "label": "entailment"}
+{"id": 265, "premise": "Svensson var egenföretagare i två år.", "hypothesis": "Svensson har varit egenföretagare.", "label": "entailment"}
+{"id": 266, "premise": "Svensson skrev på en rapport i två timmar.", "hypothesis": "Svensson har skrivit på en rapport i en timme.", "label": "entailment"}
+{"id": 267, "premise": "Svensson skrev på en rapport i två timmar.", "hypothesis": "Svensson har skrivit en rapport.", "label": "neutral"}
+{"id": 268, "premise": "Svensson upptäckte nya arter under två år.", "hypothesis": "Svensson har upptäckt nya arter.", "label": "entailment"}
+{"id": 269, "premise": "Under 2014 lämnade Tantek en statusrapport varje månad.", "hypothesis": "Tantek lämnade en statusrapport i juli 2014.", "label": "entailment"}
+{"id": 270, "premise": "Svensson lämnade hemmet kvart över fem. Sen tog hon en taxi till stationen.", "hypothesis": "Svensson lämnade hemmet innan hon tog en taxi till stationen.", "label": "entailment"}
+{"id": 271, "premise": "Tantek är alltid sena med sina rapporter. Under 2013 lämnade Tantek in flera rapporter.", "hypothesis": "Tantek var sena med några rapporter under 2013.", "label": "entailment"}
+{"id": 272, "premise": "Tantek är aldrig sena med sina rapporter. Under 2013 lämnade Tantek in flera rapporter.", "hypothesis": "Tantek var sena med några rapporter under 2013.", "label": "contradiction"}
+{"id": 273, "premise": "Svensson kom till Paris den 5 juni 2021. Idag är det den 15 juni 2021. Hon är fortfarande i Paris.", "hypothesis": "Svensson var i Paris den 7 juni 2021.", "label": "entailment"}
+{"id": 274, "premise": "När Svensson kom fram till Kathmandu hade hon rest i tre dagar.", "hypothesis": "Svensson hade varit på resande fot dagen innan hon kom fram till Kathmandu.", "label": "entailment"}
+{"id": 275, "premise": "Johansson tog examen i mars och har varit anställd ända sedan dess. Johansson har varit arbetslös tidigare.", "hypothesis": "Johansson har varit arbetslös någon gång innan han tog examen.", "label": "entailment"}
+{"id": 276, "premise": "Varje ledamot har läst den här rapporten. Endast en ledamot åt gången har läst den. Ingen ledamot har lagt mindre än en halv dag på att läsa rapporten. Det finns sexton ledamöter.", "hypothesis": "Det har tagit ledamöterna mer än en vecka att läsa rapporten.", "label": "entailment"}
+{"id": 277, "premise": "Medan Johansson höll på att revidera programmet, kom Mikael in och gav henne en redogörelse för styrelsemötet. Han slutade före henne.", "hypothesis": "Mikaels redogörelse varade lika länge som Johanssons arbete med att revidera programmet.", "label": "contradiction"}
+{"id": 278, "premise": "Innan Gucom köpte sin nuvarande kontorsbyggnad, hade man amorterat på sina tidigare lokaler i 8 år. Sedan Gucom köpte sin nuvarande kontorsbyggnad, har man amorterat på den i 10 år.", "hypothesis": "Gucom har amorterat i sammanlagt 15 år eller mer.", "label": "entailment"}
+{"id": 279, "premise": "När Johansson fick jobbet på Säpo visste han att han aldrig skulle få skriva sina memoarer.", "hypothesis": "Det är så att Johansson inte får och aldrig kommer att få skriva sina memoarer.", "label": "entailment"}
+{"id": 280, "premise": "Svensson har besökt Florens två gånger tidigare. Svensson ska åka till Florens två gånger under det kommande året.", "hypothesis": "Om två år kommer Svensson att ha besökt Florens minst fyra gånger.", "label": "entailment"}
+{"id": 281, "premise": "Förra veckan visste jag redan att när Svensson om en månad upptäcker att hon har blivit lurad, så blir hon rasande.", "hypothesis": "Det blir så att Svensson om några veckor kommer att upptäcka att hon har blivit lurad och då blir hon rasande.", "label": "entailment"}
+{"id": 282, "premise": "Ingen som spelar på allvar slutar förrän hen är pank. Ingen kan spela när hen är pank.", "hypothesis": "Alla som börjar spela på allvar kommer att sluta i samma stund som de blir panka.", "label": "entailment"}
+{"id": 283, "premise": "Ingen som börjar spela på allvar slutar förrän hen är pank.", "hypothesis": "Alla som börjar spela på allvar kommer att fortsätta tills de blivit panka.", "label": "entailment"}
+{"id": 284, "premise": "Ingen som sover vet någonsin att hen sover. Men somliga vet att de har har sovit efter det att de har sovit.", "hypothesis": "Det finns personer som upptäcker att de har sovit.", "label": "entailment"}
+{"id": 285, "premise": "Tantek utarbetade sin nya affärsstrategi 2013.", "hypothesis": "Tanteks nya affärsstrategi blev klar 2013.", "label": "entailment"}
+{"id": 286, "premise": "Tantek arbetade på sin nya affärsstrategi 2013.", "hypothesis": "Tanteks nya affärsstrategi blev klar 2013.", "label": "neutral"}
+{"id": 287, "premise": "2013 tog Tantek tog hem kontraktet med Gucom .", "hypothesis": "Tantek tog hem ett kontrakt 2013.", "label": "entailment"}
+{"id": 288, "premise": "2013 var Tantek var på väg att ta hem kontraktet med Gucom.", "hypothesis": "Tantek tog hem ett kontrakt 2013.", "label": "neutral"}
+{"id": 289, "premise": "Tantek ägde Gucom från 2008 till 2012.", "hypothesis": "Tantek ägde Gucom 2010.", "label": "entailment"}
+{"id": 290, "premise": "Svensson och Johansson lämnade mötet.", "hypothesis": "Svensson har lämnat mötet.", "label": "entailment"}
+{"id": 291, "premise": "Svensson och Johansson lämnade mötet.", "hypothesis": "Johansson har lämnat mötet.", "label": "entailment"}
+{"id": 292, "premise": "Svensson, Andersson och Johansson möttes.", "hypothesis": "Ett möte har ägt rum.", "label": "entailment"}
+{"id": 293, "premise": "Svensson visste att Tantek hade tagit hem kontraktet 2012.", "hypothesis": "Tantek tog hem kontraktet 2012.", "label": "entailment"}
+{"id": 294, "premise": "Svensson trodde att Tantek hade tagit hem kontraktet 2012.", "hypothesis": "Tantek tog hem kontraktet 2012.", "label": "neutral"}
+{"id": 295, "premise": "Tantek lyckades ta hem kontraktet 2012.", "hypothesis": "Tantek tog hem kontraktet 2012.", "label": "entailment"}
+{"id": 296, "premise": "Tantek försökte ta hem kontraktet 2012.", "hypothesis": "Tantek tog hem kontraktet 2012.", "label": "neutral"}
+{"id": 297, "premise": "Det är sant att Tantek tog hem kontraktet 2012.", "hypothesis": "Tantek tog hem kontraktet 2012.", "label": "entailment"}
+{"id": 298, "premise": "Det är inte sant att Tantek tog hem kontraktet 2012.", "hypothesis": "Tantek tog hem kontraktet 2012.", "label": "contradiction"}
+{"id": 299, "premise": "Svensson såg Johansson skriva på kontraktet. Om Johansson skrev på kontraktet, så slog hans hjärta.", "hypothesis": "Svensson såg Johanssons hjärta slå.", "label": "neutral"}
+{"id": 300, "premise": "Svensson såg Johansson skriva på kontraktet. Då Johansson skrev på kontraktet, slog hans hjärta.", "hypothesis": "Svensson såg Johanssons hjärta slå.", "label": "neutral"}
+{"id": 301, "premise": "Svensson såg Johansson skriva på kontraktet.", "hypothesis": "Johansson har skrivit på kontraktet.", "label": "entailment"}
+{"id": 302, "premise": "Svensson såg Johansson skriva på kontraktet. Johansson är styrelseordförande i Tantek.", "hypothesis": "Svensson såg styrelseordföranden i Tantek skriva på kontraktet.", "label": "entailment"}
+{"id": 303, "premise": "Hans såg avdelningschefen svara i telefon. Avdelningschefen är en individ.", "hypothesis": "Hans såg någon svara i telefon.", "label": "entailment"}
+{"id": 304, "premise": "Svensson såg hur Johansson skrev på kontraktet och hur sekreteraren gjorde en kopia av det.", "hypothesis": "Svensson såg Johansson skriva på kontraktet.", "label": "entailment"}
+{"id": 305, "premise": "Svensson såg Johansson skriva på kontraktet, alternativt kryssa över den omtvistade klausulen.", "hypothesis": "Svensson såg antingen hur Johansson skrev på kontraktet eller hur hon kryssade över den omtvistade klausulen.", "label": "entailment", "meta": {"original_id": 346}}

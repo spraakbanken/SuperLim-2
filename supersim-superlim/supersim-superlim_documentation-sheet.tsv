@@ -1,0 +1,57 @@
+I. IDENTIFYING INFORMATION	
+Title*	SuperSim (repackaged for Superlim) v1.1
+Subtitle	A test set for word similarity and relatedness in Swedish 
+Created by*	Simon Hengchen (simon.hengchen@gu.se), Nina Tahmasebi (nina.tahmasebi@gu.se)
+Publisher(s)*	Språkbanken Text
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/en/resources/superlim
+License(s)*	CC BY 4.0
+Abstract*	SuperSim is a large-scale similarity and relatedness test set  for  Swedish  built  with  expert  human judgments. The test set is composed  of 1360 word-pairs independently judged for both relatedness and similarity by five annotators.
+Funded by*	Swedish Research Council (grant no. 2018-01184 to Nina Tahmasebi); Språkbanken Text
+Cite as	[1]
+Related datasets	See https://doi.org/10.5281/zenodo.4660084 for the complete data set accompanying [1], including baseline models and corpus material. The data described in this documentation sheet is the gold data from this larger archive. This repackaging of the gold data was done in the context of the SuperLim collection. See https://spraakbanken.gu.se/en/resources/superlim
+	
+	
+II. USAGE	
+Key applications	Evaluation of language models
+Intended task(s)/usage(s)	(1) Predict semantic similarity of word pairs from a language model
+	(2) Predict semantic relatedness of word paris from a language model
+Recommended evaluation measures	Krippendorff's alpha (the official SuperLim measure), Spearman's rho
+Dataset function(s)	Few-shot training ("prompting"), testing
+Recommended split(s)	A few-shot training set (aka "prompt", 10%), test set (90%). The prompt was added with the GPT-like models in mind. For those models that do not need a prompt, it can be ignored. The word pairs in the train test are the same for the two tasks.
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	1360 word pairs with semantic similarity and semantic relatedness scores, of those 131 train items and 1229 test items.
+Nature of the content*	Semantic similarity refers to the extent to which two concepts share semantic properties. Synonymy is the culmination of this concept. Relatedness is a looser lexical conceptual relation that refers to the general (psychological) assocation that may arise for instance because there are causal or instrumental relations between two concepts, or because concepts co-occur frequently, etc, etc. Similarity and relatedness are given as scores between 0 and 10, these scores are in turn averages of judgements on an 11-point scale (0–10).
+Format*	The data is split over two files, one for each score. The files are provided both as JSONL and tab separated. TSVs contain the following 8 columns:
+	(1) word 1
+	(2) word 2
+	(3)–(7) individual annotator scores (integer valued)
+	(8) average score (real valued)
+Data source(s)*	The word pairs were translated from SimLex-999 [2] and WordSim353 [3]. The complete set was manually checked and if needed pairs were adjusted (split into multiple or removed) depending on the lexical distinctions made in Swedish. The similarity and relatedness judgements were collected from five annotators, who were paid for the assignment. One of the annotators was also involved in translating the dataset. See discussion in [1].
+Data collection method(s)*	Online collection of judgements from (paid) annotators. Annotators used written instructions from SimLex-999 [2]. See discussion in [1].
+Data selection and filtering*	See discussion in [1]
+Data preprocessing*	See discussion in [1]
+Data labeling*	Both the similarity and relatedness scores are manual (gold standard).
+Annotator characteristics	All annotators are native speakers of Swedish who hold linguistic degrees. Two have prior lexicographic experience. See [1] for more details.
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	None to report.
+Things to watch out for	The word pairs are presented out of context. Superlim presently does not prescribe a methodology for the application of contextual (dynamic) language models to this data, which means we can expect considerable variation between test data uses. For reasons of comparability and reproducability, users must make sure to report their chosen method clearly. See also the remarks in the FAQ on https://spraakbanken.gu.se/resurser/superlim
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	20220920 (v1.1), Aleksandrs Berdicevskis
+Which changes have been made, compared to the previous version*	Minor format changes
+Access to previous versions	Work in progress
+This document created*	20210611, Gerlof Bouma (gerlof.bouma@gu.se)
+This document last updated*	20230203, Aleksandrs Berdicevskis
+Where to look for further details	The attached readme file
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	SimLex-999 [2]; WordSim353 [3]
+	
+References	[1] Hengchen and Tahmasebi (2021): SuperSim: a test set for word similarity and relatedness in Swedish. In Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa). https://ep.liu.se/ecp/178/027/ecp2021178027.pdf
+	[2] Hill, Reichart and Korhonen (2015): SimLex-999: Evaluating semantic models with (genuine) similarity estimation. Computational Linguistics, 41(4): 665–695. https://doi.org/10.1162/COLI_a_00237
+	[3] Finkelstein, Gabrilovich, Matias, Rivlin, Solan, Wolfman and Ruppin (2002): Placing Search in Context: The Concept Revisited. ACM Transactions on Information Systems, 20(1):116-131. https://doi.org/10.1145/503104.503110

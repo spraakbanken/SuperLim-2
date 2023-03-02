@@ -1,0 +1,306 @@
+id	premise	hypothesis	label	original_id
+1	En italienare blev världens främsta tenor.	En italienare har varit världens främsta tenor.	entailment	1
+2	Varje italiensk man vill vara en ledande tenor. Några italienska män är ledande tenorer.	Det finns italienska män som vill vara ledande tenorer.	entailment	2
+3	Alla italienska män vill vara ledande tenorer. Några italienska män är ledande tenorer.	Det finns italienska män som vill vara ledande tenorer.	entailment	3
+4	Varje italiensk tenor vill vara ledande. Några italienska tenorer är ledande.	Det finns italienska tenorer som vill vara ledande.	entailment	4
+5	De verkligt framåtsträvande tenorerna är italienare.	Det finns verkligt framåtsträvande italienska tenorer.	entailment	5
+6	Inga verkligt stora tenorer är blygsamma.	Det finns verkligt stora och blygsamma tenorer.	contradiction	6
+7	Några ledande tenorer är svenskar.	Det finns ledande svenska tenorer.	entailment	7
+8	Många ledande tenorer är tyskar.	Det finns ledande tyska tenorer.	entailment	8
+9	Flera ledande tenorer är britter.	Det finns ledande brittiska tenorer.	entailment	9
+10	De flesta ledande tenorerna är italienare.	Det finns ledande italienska tenorer.	entailment	10
+11	Ett fåtal ledande tenorer sjunger populärmusik. Några ledande tenorer gillar populärmusik.	Det finns ledande tenorer som sjunger populärmusik.	entailment	11
+12	Båda förstatenorerna är lysande. Lysande förstatenorer är oumbärliga.	Båda förstatenorerna är oumbärliga.	entailment	13
+13	Ingen av förstatenorerna är billig att anlita. En av förstatenorerna är Pavarotti.	Pavarotti är en förstatenor som är billig att anlita.	contradiction	14
+14	Minst tre tenorer ska delta i konserten.	Några tenorer kommer att delta i konserten.	entailment	15
+15	En irländare har fått nobelpriset i litteratur.	Någon irländare har fått nobelpris.	entailment	17
+16	En europé får bo i Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.	En europé kan resa fritt inom Europa.	entailment	18
+17	Alla européer får bo i Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.	Alla européer kan resa fritt inom Europa.	entailment	19
+18	Varje europé får bo i Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.	Alla européer kan resa fritt inom Europa.	entailment	20
+19	Medlemsstaternas invånare får bo i Europa. Alla medlemsstaternas invånare är individer. Den som får bo i Europa kan resa fritt inom Europa.	Medlemsstaternas invånare kan resa fritt inom Europa.	entailment	21
+20	Ingen av de medverkande lämnade in rapporten i tid.	Ingen av de medverkande lämnade in rapporten.	neutral	22
+21	Några av de medverkande genomförde enkäten i tid.	Några av de medverkande genomförde enkäten.	entailment	23
+22	Många av de medverkande intresserade sig för enkätresultaten.	Många av de medverkande tog del av enkätresultaten.	entailment	24
+23	Flera av de medverkande kunde publicera resultaten i större rikstäckande tidningar.	Flera av de medverkande fick resultaten publicerade.	entailment	25
+24	De flesta européer bor i Europa. Alla européer är individer. Alla som bor i Europa kan resa fritt inom Europa.	De flesta européerna kan resa fritt inom Europa.	entailment	26
+25	Ett fåtal kommittémedlemmar är från Sverige. Alla kommittémedlemmar är individer. Alla svenskar är från Norden.	Åtminstone några kommittémedlemmar är från Norden.	entailment	27
+26	Endast ett fåtal kommittémedlemmar är från Portugal. Alla kommittémedlemmar är individer. Alla portugiser är från Sydeuropa.	Endast ett fåtal kommittémedlemmar är från Sydeuropa.	neutral	28
+27	Båda kommissionärerna har ett förflutet som ledande affärsmän.	Båda kommissionärerna har varit affärsmän.	entailment	29
+28	Ingen av kommissionärerna är mycket ute och reser.	Ingen av kommissionärerna brukar vara ute och resa.	neutral	30
+29	Minst tre kommissionärer är mycket ute och reser.	Minst tre kommissionärer brukar vara ute och resa.	entailment	31
+30	Högst tio kommissionärer är mycket ute och reser.	Högst tio kommissionärer brukar vara ute och resa.	neutral	32
+31	En irländare har fått nobelpris.	En irländare har fått nobelpriset i litteratur.	neutral	33
+32	En europé kan resa fritt inom Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.	Varje europé får bo i Europa.	neutral	34
+33	Alla européer kan resa fritt inom Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.	Alla européer får bo i Europa.	neutral	35
+34	Varje europé kan resa fritt inom Europa. En europé är en individ. Den som får bo i Europa kan resa fritt inom Europa.	Varje europé kan bo i Europa.	neutral	36
+35	Medlemsstaternas invånare kan resa fritt inom Europa. Alla medlemsstaternas invånare är individer. Den som får bo var som helst i Europa kan resa fritt inom Europa.	Medlemsstaternas invånare får bo var som helst i Europa.	neutral	37
+36	Ingen av de medverkande lämnade in rapporten.	Någon medverkande lämnade in rapporten i tid.	contradiction	38
+37	Några av de medverkande genomförde enkäten.	Några av de medverkande genomförde enkäten i tid.	neutral	39
+38	Många av de medverkande tog del av enkätresultaten.	Många av de medverkande intresserade sig för enkätresultaten.	neutral	40
+39	Flera medverkande kunde publicera resultaten.	Flera medverkande fick resultaten publicerade i större rikstäckande tidningar.	neutral	41
+40	De flesta européer kan resa fritt inom Europa. Alla européer är individer. Alla som bor i Europa kan resa fritt inom Europa.	De flesta européerna bor I Europa.	neutral	42
+41	Ett fåtal kommittémedlemmar är från Norden. Alla kommittémedlemmar är individer. Alla svenskar är från Norden.	Åtminstone några kommittémedlemmar är svenskar.	neutral	43
+42	Endast ett fåtal kommittémedlemmar är från södra Europa. Alla kommittémedlemmar är individer. Alla portugiser är från södra Europa.	Endast ett fåtal kommittémedlemmar är portugiser.	entailment	44
+43	Båda kommissionärerna har ett förflutet som affärsmän.	Båda kommissionärerna har varit framgångsrika affärsmän.	neutral	45
+44	Ingen av kommissionärerna är mycket ute och reser.	Någon av kommissionärerna är mycket ute och reser.	contradiction	46
+45	Minst tre kommissionärer brukar vara ute och resa.	Minst tre kommissionärer är mycket ute och reser.	neutral	47
+46	Högst tio kommissionärer brukar vara ute och resa.	Högst tio kommissionärer är mycket ute och reser.	entailment	48
+47	En svensk har fått nobelpris. Den som är svensk är nordbo.	Någon nordbo har fått nobelpris.	entailment	49
+48	Den som är bosatt i Kanada kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.	Den som är bosatt i Nordamerika kan resa fritt inom Europa.	neutral	50
+49	All som är bosatta i Kanada kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.	Alla som är bosatta i Nordamerika kan resa fritt inom Europa.	neutral	51
+50	Var och en som är bosatt i Kanada kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.	Var och en som är bosatt i Nordamerika kan resa fritt inom Europa.	neutral	52
+51	De som är bosatta i större västländer kan resa fritt inom Europa. De som är bosatta i större västländer är bosatta i västländer.	De som är bosatta i västländer får bo i Europa.	neutral	53
+52	Ingen av de nordiska medverkande lämnade in rapporten i tid.	Någon av de medverkande lämnade in rapporten i tid.	neutral	54
+53	Några av de irländska medverkande genomförde enkäten i tid.	Några av de medverkande genomförde enkäten i tid.	entailment	55
+54	Många brittiska medverkande tyckte att enkätens resultat var intressanta.	Många medverkande tyckte att enkätens resultat var intressanta.	neutral	56
+55	Flera portugisiska medverkande kunde publicera resultaten i större rikstäckande tidningar.	Flera medverkande kunde publicera resultaten i större rikstäckande tidningar.	entailment	57
+56	De flesta européer som är bosatta i Europa kan resa fritt inom Europa.	De flesta européer kan resa fritt inom Europa.	neutral	58
+57	Ett fåtal kvinnliga kommittémedlemmar är från Norden.	Åtminstone några kommittémedlemmar är från Norden.	entailment	59
+58	Ett fåtal kvinnliga kommittémedlemmar är från södra Europa.	Kommittémedlemmarna från södra Europa är få till antalet.	neutral	60
+59	Minst tre kvinnliga kommissionärer brukar vara ute och resa.	Minst tre kommissionärer brukar vara ute och resa.	entailment	63
+60	Högst tio kvinnliga kommissionärer brukar vara ute och resa.	Högst tio kommissionärer brukar vara ute och resa	neutral	64
+61	En nordbo har fått nobelpris. Den som är svensk är nordbo.	Någon svensk har fått nobelpris.	neutral	65
+62	Den som är bosatt i Nordamerika kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.	Den som är bosatt i Kanada kan resa fritt inom Europa.	entailment	66
+63	Alla som är bosatta i Nordamerika kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.	Alla som är bosatta i Kanada kan resa fritt inom Europa.	entailment	67
+64	Var och en som är bosatt i Nordamerika kan resa fritt inom Europa. Den som är bosatt i Kanada är bosatt i Nordamerika.	Var och en som är bosatt i Kanada kan resa fritt inom Europa.	entailment	68
+65	De som är bosatta i västländer kan resa fritt inom Europa. Alla som är bosatta i större västländer är bosatta i västländer.	De som är bosatta i större västländer får bo i Europa.	entailment	69
+66	Ingen av de medverkande lämnade in rapporten i tid.	Någon av de nordiska medverkande lämnade in rapporten i tid.	contradiction	70
+67	Några medverkande lämnade in rapporten i tid.	Några av de irländska medverkande lämnade in rapporten i tid.	neutral	71
+68	Många av de medverkande tyckte att enkätens resultat var intressanta.	Många brittiska medverkande tyckte att resultaten var intressanta.	neutral	72
+69	Flera medverkande kunde publicera resultaten i större rikstäckande tidningar.	Flera portugisiska medverkande kunde publicera resultaten i större rikstäckande tidningar.	neutral	73
+70	De flesta européer kan resa fritt inom Europa.	De flesta européer som är bosatta utanför Europa kan resa fritt inom Europa.	neutral	74
+71	Ett fåtal kommittémedlemmar är från Norden..	Åtminstone några kvinnliga kommittémedlemmar är från Norden.	neutral	75
+72	Ett fåtal kommittémedlemmar är från södra Europa..	Få kvinnliga kommittémedlemmar är från södra Europa.	entailment	76
+73	Minst tre kommissionärer brukar vara ute och resa.	Minst tre manliga kommissionärer brukar vara ute och resa.	neutral	79
+74	Högst tio kommissionärer brukar vara ute och resa.	Högst tio kvinnliga kommissionärer brukar vara ute och resa.	entailment	80
+75	Svensson, Johansson och Andersson skrev på kontraktet.	Johansson skrev på kontraktet.	entailment	81
+76	Svensson, Johansson och flera advokater skrev på kontraktet.	Johansson skrev på kontraktet.	entailment	82
+77	Någon av Svensson, Johansson eller Andersson skrev på kontraktet.	Johansson skrev på kontraktet.	neutral	83
+78	Någon av Svensson, Johansson eller Andersson skrev på kontraktet.	Om Svensson och Andersson inte skrev på kontraktet, skrev Johansson på kontraktet.	entailment	84
+79	Exakt två advokater och tre revisorer skrev på kontraktet.	Sex advokater skrev på kontraktet.	contradiction	85
+80	Exakt två advokater och tre revisorer skrev på kontraktet.	Sex revisorer skrev på kontraktet.	contradiction	86
+81	Varje representant eller kund var på mötet.	Varje representant och kund var på mötet.	entailment	89
+82	Ordföranden läste upp punkterna på dagordningen.	Ordföranden läste upp varje punkt på dagordningen.	entailment	90
+83	Mötesdeltagarna röstade för en ny ordförande.	Alla på mötet röstade för en ny ordförande.	neutral	91
+84	Alla mötesdeltagarna röstade för en ny ordförande	Alla på mötet röstade för en ny ordförande.	entailment	92
+85	Mötesdeltagarna röstade alla för en ny ordförande.	Alla på mötet röstade för en ny ordförande.	entailment	93
+86	Göteborgarna röstade för det tredje alternativet.	Varje göteborgare röstade för det tredje alternativet.	neutral	94
+87	Antikens greker ansågs vara filosofer.	Varje grek ansågs vara filosof under antiken.	neutral	95
+88	Antikens greker ansågs alla vara filosofer.	Varje grek ansågs vara filosof under antiken.	entailment	96
+89	Programvarufel sades ha orsakat systemkraschen.	Systemkraschen skylldes på ett eller flera programvarufel.	entailment	97
+90	Programvarufel sades ha orsakat systemkraschen. Millienniebuggen är ett känt programvarufel.	Systemkraschen skylldes på millienniebuggen.	neutral	98
+91	Vid presentationen blev alla kunderna imponerade av mjukvaran. Svensson var en av kunderna vid presentationen.	Svensson blev imponerad av mjukvaran.	entailment	99
+92	Vid presentationen blev kunderna imponerade av mjukvaran.	De flesta kunderna var imponerade av mjukvaran vid presentationen.	entailment	100
+93	Högskoleutbildade brukar bli dåliga börsmäklare. Svensson är högskoleutbildad.	Det är troligt att Svensson blir en dålig börsmäklare.	entailment	101
+94	Högskoleutbildade brukar bli dåliga börsmäklare. Svensson är högskoleutbildad.	Svensson blir en dålig börsmäklare.	neutral	102
+95	Alla företagets chefer har tjänstebilar. Johansson är chef i företaget.	Johansson har tjänstebil.	entailment	103
+96	Alla företagets chefer har tjänstebilar. Johansson är chef i företaget.	Johansson har mer än en tjänstebil.	neutral	104
+97	Endast en revisor deltog i mötet.	Inga revisorer deltog i mötet.	contradiction	105
+98	Endast en revisor deltog i mötet.	Ingen revisor deltog i mötet.	contradiction	106
+99	Endast en revisor deltog i mötet.	Några revisorer deltog i mötet.	entailment	107
+100	Endast en revisor deltog i mötet.	Någon revisor deltog i mötet.	entailment	108
+101	Endast en revisor deltog i mötet.	Någon revisor deltog i mötet.	entailment	110
+102	Svensson skrev på två kontrakt. Johansson skrev också på dem.	Svensson och Johansson har skrivit på två kontrakt.	entailment	113
+103	Mikael rastade sin hund.	Mikaels hund har blivit rastad.	entailment	114
+104	Mikael rastade sin hund.	Mikael har en hund.	entailment	115
+105	Mikael och hans hund är oskiljaktiga.	Mikael är man.	entailment	116
+106	Varje kursdeltagare rastade sin hund. Mikael är kursdeltagare.	Mikael har rastat sin hund.	entailment	117
+107	Varje kursdeltagare rastade sin hund. Mikael är kursdeltagare.	Mikael har en hund.	entailment	118
+108	Ingen kursdeltagare har rastat sin hund. Mikael är kursdeltagare.	Mikael har rastat en hund.	neutral	119
+109	Svensson deltog i ett möte. Hon ledde det.	Svensson ledde ett möte.	entailment	120
+110	Svensson lämnade en rapport till Tantek. Hon gav dem även en faktura. Och hon gav dem ett projektförslag.	Svensson lämnade en rapport, en faktura och ett projektförslag till Tantek.	entailment	121
+111	Varje kommitté har en ordförande. Hen utses av dess ledamöter.	Varje kommitté har en ordförande utsedd av kommittéledamöterna.	entailment	122
+112	Tantek har skickat de flesta av rapporterna Svensson behöver. De är på hennes skrivbord.	Det finns några rapporter från Tantek på Svenssons skrivbord.	entailment	123
+113	Två av tio maskiner är försvunna. De har förts bort.	Två maskiner har förts bort.	entailment	124
+114	Två av tio maskiner är försvunna. De har förts bort.	Åtta maskiner har förts bort.	neutral	125
+115	Två av tio maskiner är försvunna. De var alla här igår.	Det var tio maskiner här igår.	entailment	126
+116	Anna och hennes kollegor gick på ett möte. De var missnöjda med det.	Annas kollegor var missnöjda med mötet.	entailment	128
+117	Varje avdelning har en egen kaffeautomat. De hyr dem av Rastex.	Varje avdelning hyr en kaffeautomat från Rastex.	entailment	131
+118	Varje avdelning har en egen kaffeautomat. Försäljningsavdelningen hyr sin av Rastex.	Försäljningsavdelningen hyr en kaffeautomat av Rastex.	entailment	132
+119	SBT har flera datorer. Tantek servar dem.	Tantek servar alla SBT:s datorer.	entailment	133
+120	Varje kund som har en dator har ett servicekontrakt för den. SBX är en kund som har exakt en dator.	SBX har servicekontrakt för alla sina datorer.	entailment	134
+121	Varje kund som har en dator har ett servicekontrakt för den. SBX är en kund som har flera datorer.	SBX har servicekontrakt för alla sina datorer.	entailment	135
+122	Varje chef som hade en bärbar dator tog med den för att anteckna på mötet. Svensson är chef och har fem bärbara datorer.	Svensson tog med sig fem bärbara datorer till mötet.	neutral	136
+123	Vi har data om 100 företag. YYAB är ett av företagen och det har 150 datorer. Det har inte servicekontrakt för någon av sina datorer. Vart och ett av de andra 99 företagen har en dator. De har servicekontrakt för dem.	De flesta företag har som har en dator ett servicekontrakt för den.	entailment	137
+124	Varje rapport har ett försättsblad. R-2021-103 är en rapport. Svensson satte sin signatur på försättsbladet.	Svensson satte sin signatur på försättsbladet till R-2021-103.	entailment	138
+125	En direktör gav sig själv en stor löneförhöjning..	Någon direktör har delat ut och fått en löneförhöjning.	entailment	139
+126	Anna sade att Karin hade gjort sig illa.	Anna sade att Karin hade blivit skadad.	entailment	140
+127	Anna sade att Karin hade gjort sig illa.	Någon sade att Anna hade blivit skadad.	neutral	141
+128	Anna talade med Mikael. Det gjorde Karin också.	Karin talade med Mikael.	entailment	142
+129	Anna talade med Mikael. Det gjorde Karin också. Anna talade med Mikael klockan fyra.	Karin talade med Mikael klockan fyra.	neutral	143
+130	Anna talade med Mikael klockan fyra. Det gjorde Karin också.	Karin talade med Mikael klockan fyra.	entailment	144
+131	Anna talade med Mikael klockan fyra. Och Karin klockan fem.	Karin talade med Mikael klockan fem.	entailment	145
+132	Anna har talat med Mikael. Karin kommer att göra det.	Karin ska tala med Mikael.	entailment	146
+133	Anna talade med Mikael i måndags. Det gjorde inte Karin.	Karin talade med Mikael i måndags.	contradiction	147
+134	Har Anna talat med Mikael? Det har Karin gjort.	Karin har talat med Mikael.	entailment	148
+135	Anna har talat med Mikael. Det har studenterna med.	Studenterna har talat med Mikael.	entailment	149
+136	Anna tog bilen och Karin tåget till Paris.	Karin tog tåget till Paris.	entailment	150
+137	Anna tog bilen till Paris och Karin tåget till Berlin.	Karin tog tåget till Berlin.	entailment	151
+138	Anna tog bilen till Paris och Karin till Berlin.	Karin tog bilen till Berlin.	entailment	152
+139	Anna tar bilen och studenterna tåget till Paris.	Studenterna tar tåget till Paris.	entailment	153
+140	Anna tog bilen till Paris. Karin tåget.	Karin tog tåget till Paris.	entailment	154
+141	Anna är bilägare. Det är Karin med.	Karin har en bil.	entailment	155
+142	Anna är bilägare. Det är Karin med.	Anna och Karin äger en bil gemensamt.	neutral	156
+143	Anna har en röd bil. Karins är blå.	Karin har en blå bil.	entailment	157
+144	Anna har en röd bil. Karin har en blå.	Karin har en röd bil.	neutral	158
+145	Anna har en röd bil. Karins är snabb.	Karin har en snabb bil.	entailment	159
+146	Anna har en röd bil. Karin har en likadan, fast långsam.	Karin har en långsam röd bil.	entailment	162
+147	Anna fick artikeln accepterad. Karin vet inte varför.	Karin vet varför Anna fick artikeln accepterad.	contradiction	163
+148	Anna talade med Mikael. Och med Stefan.	Anna har talat med Stefan.	entailment	164
+149	Anna talade med Mikael. I fredags.	Anna talade med Mikael i fredags.	entailment	165
+150	Anna talade med Mikael i torsdags. Och i fredags.	Anna talade med Mikael i fredags.	entailment	166
+151	Tjugo män arbetar på försäljningsavdelningen. Men bara en kvinna.	Två kvinnor arbetar på försäljningsavdelningen.	contradiction	167
+152	Fem män arbetar deltid. Och fyrtiofem kvinnor.	Fyrtiofem kvinnor arbetar deltid.	entailment	168
+153	Anna vill veta hur många män som arbetar deltid. Och kvinnor.	Anna vill veta hur många kvinnor som arbetar deltid.	entailment	171
+154	Anna vill veta hur många män som arbetar deltid, och vilka de är.	Anna vill veta vilka som arbetar deltid.	entailment	172
+155	Karin har talat med alla som Anna har talat med. Anna har talat med Mikael.	Karin har talat med Mikael.	entailment	173
+156	Karin har talat med alla som Anna har talat med. Karin har talat med Mikael.	Anna har talat med Mikael.	neutral	174
+157	Anna sade att Mikael hade skrivit en rapport, och Karin också.	Karin har sagt att Mikael hade skrivit en rapport.	neutral	177
+158	Anna har skrivit en rapport, och Karin sade att Sara också hade gjort det.	Karin sade att Sara hade skrivit en rapport.	entailment	178
+159	Om Anna har skrivit en rapport så har Karin också gjort det. Anna har skrivit en rapport.	Karin har skrivit en rapport.	entailment	179
+160	Anna ville köpa bil, och det gjorde hon.	Anna har köpt bil.	entailment	180
+161	Anna behövde köpa bil, och Karin gjorde det.	Karin har köpt bil.	entailment	181
+162	Svensson representerar sitt företag och det gör Johansson också.	Svensson representerar Johanssons företag.	neutral	184
+163	Svensson påstod att han hade kostnadsberäknat sitt förslag och det gjorde Johansson också.	Johansson påstod att Svensson hade kostnadsberäknat Johanssons förslag.	neutral	188
+164	Karin föreslog för Hannas chef att de borde gå till mötet tillsammans, liksom Kristina för Evas make.	Om förslaget var att Karin och Hanna borde gå till mötet tilsammans, var förslaget då även att Kristina och Eva borde gå tillsammans.	entailment	191
+165	Karin föreslog för Hannas chef att de borde gå till mötet tillsammans, liksom Kristina för Evas make.	Om förslaget var att Karin och Hanna borde gå till mötet tilsammans, var förslaget då även att Kristina och Evas make borde gå tillsammans.	neutral	192
+166	Karin föreslog för Hannas chef att de borde gå till mötet tillsammans, liksom Kristina för Evas make.	Om förslaget var att Karin och Hannas chef borde gå till mötet tilsammans, var förslaget även att Kristina och Evas make borde gå tillsammans.	entailment	193
+167	Karin föreslog för Hannas chef att de borde gå till mötet tillsammans, liksom Kristina för Evas make.	Om förslaget var att Karin och Hannas chef borde gå till mötet tilsammans, var förslaget då även att Kristina och Eva borde gå tillsammans.	neutral	194
+168	Karin föreslog för Hannas chef att de borde gå till mötet tillsammans, liksom Kristina för Evas make.	Om förslaget var att Karin, Hanna och Hannas chef borde gå till mötet tilsammans, var förslaget då även att Kristina, Eva och Evas make borde gå tillsammans.	entailment	195
+169	En advokat skrev under varje rapport, och även en revisor. Annorlunda uttryckt: en och samma advokat skrev under alla rapporterna.	En och samma revisor skrev under alla rapporterna.	entailment	196
+170	John har en äkta diamant.	John har en diamant.	entailment	197
+171	John är en före detta framgångsrik student.	John är framgångsrik.	neutral	200
+172	John är en före detta framgångsrik student.	John är student.	neutral	201
+173	Varje däggdjur är ett djur.	Varje fyrbent däggdjur är ett fyrbent djur.	entailment	202
+174	Dumbo är ett fyrbent djur.	Dumbo är fyrbent.	entailment	203
+175	Musse är ett litet djur.	Musse är ett stort djur.	contradiction	204
+176	Dumbo är ett stort djur.	Dumbo är ett litet djur.	contradiction	205
+177	Fido är inte ett litet djur.	Fido är ett stort djur.	neutral	206
+178	Fido är inte ett stort djur.	Fido är ett litet djur.	neutral	207
+179	Musse är ett litet djur. Dumbo är ett stort djur.	Musse är mindre än Dumbo.	entailment	208
+180	Musse är ett litet djur. Dumbo är ett stort djur.	Musse är större än Dumbo.	contradiction	209
+181	Alla möss är små djur. Musse är en stor mus.	Musse är ett stort djur.	contradiction	210
+182	Alla elefanter är stora djur. Dumbo är en liten elefant.	Dumbo är ett litet djur.	contradiction	211
+183	Alla möss är små djur. Alla elefanter är stora djur. Musse är en stor mus. Dumbo är en liten elefant.	Dumbo är större än Musse.	entailment	212
+184	Alla juridiska experter är juridiklärare. Alla juridiklärare är juridiska experter.	Alla kortvuxna juridiska experter är kortvuxna juridiklärare.	entailment	214
+185	Alla juridiska experter är juridiklärare. Alla juridiklärare är juridiska experter.	Alla skickliga juridiska experter är skickliga juridiklärare.	neutral	215
+186	Anna är en vältaligare politiker än Karin.	Anna är vältaligare än Karin.	entailment	216
+187	Anna är en smartare politiker än Karin.	Anna är smartare än Karin.	neutral	217
+188	Kim är en smart typ.	Kim är smart.	entailment	218
+189	Kim är en smart politiker.	Kim är smart.	neutral	219
+190	PC 6082  är snabbare än Tantek XZ. Tantek XZ är snabb.	PC 6082 är snabb.	entailment	220
+191	PC 6082  är snabbare än Tantek XZ.	PC 6082 är snabb.	neutral	221
+192	PC 6082  är snabbare än Tantek XZ. PC 6082 är snabb.	Tantek XZ är snabb.	neutral	222
+193	PC 6082  är snabbare än Tantek XZ. PC 6082 är långsam.	Tantek XZ är snabb.	contradiction	223
+194	PC 6082  är lika snabb som Tantek XZ. Tantek XZ är snabb.	PC 6082 är snabb.	entailment	224
+195	PC 6082  är lika snabb som Tantek XZ.	PC 6082 är snabb.	neutral	225
+196	PC 6082  är lika snabb som Tantek XZ. PC 6082 är snabb.	Tantek XZ är snabb.	neutral	226
+197	PC 6082  är lika snabb som Tantek XZ. PC 6082 är långsam.	Tantek XZ är snabb.	contradiction	227
+198	PC 6082  är lika snabb som Tantek XZ.	PC 6082 är snabbare än Tantek XZ.	neutral	228
+199	PC 6082  är lika snabb som Tantek XZ	PC 6082 är långsammare än Tantek XZ.	contradiction	229
+200	Tantek har tagit hem fler kontrakt än Gucom klarat av.	Tantek har tagit hem några kontrakt.	entailment	230
+201	Tantek har tagit hem fler kontrakt än Gucom klarat av.	Gucom har tagit hem några kontrakt.	neutral	231
+202	Tantek har tagit hem fler kontrakt än Gucom klarat av. Gucom har tagit hem tio kontrakt.	Tantek har tagit hem minst elva kontrakt.	entailment	232
+203	Tantek har tagit hem fler kontrakt än Gucom.	Tantek har tagit hem några kontrakt.	entailment	233
+204	Tantek har tagit hem fler kontrakt än Gucom.	Gucom har tagit hem några kontrakt.	neutral	234
+205	Tantek har tagit hem fler kontrakt än Gucom. Gucom har tagit hem tio kontrakt.	Tantek har tagit hem minst elva kontrakt.	entailment	235
+206	Tantek har tagit hem fler än enbart Gucom-kontraktet.	Tantek har tagit hem Gucom-kontraktet.	entailment	236
+207	Tantek har tagit hem fler än enbart Gucom-kontraktet	Tantek har tagit hem mer än ett kontrakt.	entailment	237
+208	Tantek har tagit hem dubbelt så många kontrakt som Gucom. Gucom har tagit hem tio kontrakt.	Tantek har tagit hem tjugo kontrakt.	entailment	238
+209	Tantek har tagit hem fler kontrakt än Gucom gått miste om.	Tantek har tagit hem några kontrakt.	entailment	239
+210	Tantek har tagit hem fler kontrakt än Gucom gått miste om.	Gucom har gått miste om några kontrakt.	neutral	240
+211	Tantek har tagit hem fler kontrakt än Gucom gått miste om. Gucom har gått miste om tio kontrakt.	Tantek har tagit hem minst elva kontrakt.	entailment	241
+212	PC 6082 är snabbare än 500 MIPS. Tantek XZ är långsammare än 500 MIPS.	PC 6082 är snabbare än Tantek XZ.	entailment	242
+213	Tantek har sålt 3000 fler datorer än Gucom. Gucom har sålt exakt 2500 datorer.	Tantek har sålt 5500 datorer.	entailment	243
+214	PC 6082 är snabbare än varje Tantekdator. Tantek XZ är en Tantekdator.	PC 6082 är snabbare än Tantek XZ.	entailment	246
+215	PC 6082 är snabbare än åtminstone någon Tantekdator. Tantek XZ är en Tantekdator.	PC 6082 är snabbare än Tantek XZ.	neutral	247
+216	PC 6082 är snabbare än vilken Tantekdator som helst. Tantek XZ är en Tantekdator.	PC 6082 är snabbare än Tantek XZ.	entailment	248
+217	PC 6082 är snabbare än Tantek XZ och Tantek XY.	PC 6082 är snabbare än Tantek XZ.	entailment	249
+218	Tantek har en fabrik i Västerås.	Tantek har en fabrik i Västerås nu.	entailment	251
+219	Sedan 2012 har Tantek funnits i Västerås. I år är det 2021.	Tantek fanns i Västerås 2017.	entailment	252
+220	Tantek har utvecklat en ny processor sen 2012. I år är det 2021.	Tantek utvecklade en ny processor 2017.	neutral	253
+221	Tantek har expanderat sedan 2012. I år är det 2021.	Tantek expanderade under 2017.	neutral	254
+222	Tantek har gått med förlust sedan 2012. I år är det 2021.	Tantek gick med förlust 2017.	entailment	255
+223	I mars 2013 avknoppades Gucom från Tantek.	Gucom fanns 2012.	contradiction	258
+224	Konferensen började den 5 mars 2020. Den pågick i 2 dagar.	Konferensen var över den 9 mars 2020.	entailment	259
+225	Igår skrev Gucom på kontraktet. Idag är det lördagen den 14 juli.	Gucom skrev på kontraktet fredagen den 13.	entailment	260
+226	Svensson gav sig iväg före Johansson. Johansson gav sig iväg före Andersson.	Svensson gav sig iväg före Andersson.	entailment	261
+227	Svensson gav sig iväg efter Johansson. Johansson gav sig iväg efter Andersson.	Svensson gav sig iväg efter Andersson.	entailment	262
+228	Svensson var på plats efter det att Johansson gett sig iväg. Johansson gav sig iväg efter det att Andersson varit på plats.	Svensson var på plats efter det att Andersson varit på plats.	neutral	263
+229	Svensson gav sig iväg. Johansson gav sig iväg. Svensson gav sig iväg före Johansson.	Johansson gav sig iväg efter Svensson.	entailment	264
+230	Svensson gav sig iväg. Johansson gav sig iväg. Svensson gav sig iväg efter Johansson.	Johansson gav sig iväg före Svensson.	entailment	265
+231	Svensson gav sig iväg. Johansson gav sig iväg. Johansson gav sig iväg före Svensson.	Svensson gav sig iväg efter Johansson.	entailment	266
+232	Johansson har granskat kontraktet. Svensson har granskat kontraktet. Johansson granskade kontraktet före Svensson.	Svensson granskade kontraktet efter Johansson.	entailment	267
+233	Johansson har granskat kontraktet. Svensson har granskat kontraktet. Johansson granskade kontraktet efter Svensson.	Svensson granskade kontraktet före Johansson.	entailment	268
+234	Svensson motionssimmade igår. Johansson motionssimmade igår. Svensson motionssimmade före Johansson igår.	Johansson har motionssimmat efter Svensson igår.	neutral	269
+235	Svensson simmade till stranden. Johansson simmade till stranden. Svensson simmade till stranden före Johansson.	Johansson simmade till stranden efter Svensson.	entailment	270
+236	Svensson var där. Johansson var där. Svensson var där efter Johansson.	Johansson var där före Svensson.	neutral	271
+237	Svensson var där. Johansson var där. Svensson var där före Johansson.	Johansson var där efter Svensson.	neutral	272
+238	Svensson satt och skrev på en rapport. Johansson satt och skrev på en rapport. Svensson satt och skrev på en rapport före Johansson.	Johansson satt och skrev på en rapport efter Svensson.	neutral	273
+239	Svensson satt och skrev på en rapport. Johansson satt och skrev på en rapport. Svensson satt och skrev på en rapport efter Johansson.	Johansson satt och skrev på en rapport före Svensson.	neutral	274
+240	Svensson lämnade mötet innan han gjorde något oåterkalleligt.	Svensson gjorde något oåterkalleligt.	neutral	275
+241	Svensson bodde i Västerås 2011.	Svensson bodde i Västerås 2012.	neutral	277
+242	Svensson skrev sin första roman 2011.	Svensson skrev sin första roman 2012.	contradiction	278
+243	Svensson skrev en roman 2011.	Svensson skrev den 2012.	contradiction	279
+244	Svensson skrev en roman 2011.	Svensson skrev en roman 2012.	neutral	280
+245	Svensson drev ett företag 2011.	Svensson drev det 2012.	neutral	281
+246	Svensson upptäckte en ny art 2011.	Svensson upptäckte den 2012.	contradiction	282
+247	Svensson upptäckte en ny art 2011.	Svensson upptäckte en ny art 2012.	neutral	283
+248	Svensson skrev en rapport på två timmar. Svensson började skriva rapporten klockan 8.	Svensson hade slutat att skriva rapporten klockan 11.	entailment	284
+249	Svensson skrev en rapport på två timmar.	Svensson har lagt två timmar på att skriva rapporten.	neutral	285
+250	Svensson skrev en rapport på två timmar.	Svensson har lagt mer än två timmar på att skriva rapporten.	contradiction	286
+251	Svensson skrev en rapport på två timmar.	Svensson har skrivit en rapport på en timme.	neutral	287
+252	Svensson skrev en rapport på två timmar.	Svensson har skrivit en rapport.	entailment	288
+253	Svensson upptäckte en ny art på två timmar.	Svensson har lagt två timmar på att upptäcka den nya arten.	contradiction	289
+254	Svensson upptäckte en ny art på två timmar.	Svensson har upptäckt en ny art.	entailment	290
+255	Svensson var egenföretagare i två år.	Svensson har lagt två år på att vara egenföretagare.	neutral	292
+256	Svensson var egenföretagare i två år.	Svensson har lagt mer än två år på att vara egenföretagare.	neutral	293
+257	Svensson var egenföretagare i två år.	Svensson har varit egenföretagare.	entailment	294
+258	Efter två år ägde Svensson en företagskedja.	Svensson har ägt en företagskedja i två år.	neutral	295
+259	Efter två år ägde Svensson en företagskedja.	Svensson har ägt en företagskedja i mer än två år.	neutral	296
+260	Efter två år ägde Svensson en företagskedja.	Svensson har ägt en företagskedja.	entailment	297
+261	Svensson har bott i Västerås i två år.	Svensson har bott i Västerås i ett år.	entailment	298
+262	Svensson har bott i Västerås i två år.	Svensson har bott i Västerås i exakt ett år.	contradiction	299
+263	Svensson har bott i Västerås i två år.	Svensson har bott i Västerås.	entailment	300
+264	Svensson var egenföretagare i två år.	Svensson har varit egenföretagare i ett år.	entailment	301
+265	Svensson var egenföretagare i två år.	Svensson har varit egenföretagare.	entailment	302
+266	Svensson skrev på en rapport i två timmar.	Svensson har skrivit på en rapport i en timme.	entailment	303
+267	Svensson skrev på en rapport i två timmar.	Svensson har skrivit en rapport.	neutral	304
+268	Svensson upptäckte nya arter under två år.	Svensson har upptäckt nya arter.	entailment	306
+269	Under 2014 lämnade Tantek en statusrapport varje månad.	Tantek lämnade en statusrapport i juli 2014.	entailment	307
+270	Svensson lämnade hemmet kvart över fem. Sen tog hon en taxi till stationen.	Svensson lämnade hemmet innan hon tog en taxi till stationen.	entailment	311
+271	Tantek är alltid sena med sina rapporter. Under 2013 lämnade Tantek in flera rapporter.	Tantek var sena med några rapporter under 2013.	entailment	312
+272	Tantek är aldrig sena med sina rapporter. Under 2013 lämnade Tantek in flera rapporter.	Tantek var sena med några rapporter under 2013.	contradiction	313
+273	Svensson kom till Paris den 5 juni 2021. Idag är det den 15 juni 2021. Hon är fortfarande i Paris.	Svensson var i Paris den 7 juni 2021.	entailment	314
+274	När Svensson kom fram till Kathmandu hade hon rest i tre dagar.	Svensson hade varit på resande fot dagen innan hon kom fram till Kathmandu.	entailment	315
+275	Johansson tog examen i mars och har varit anställd ända sedan dess. Johansson har varit arbetslös tidigare.	Johansson har varit arbetslös någon gång innan han tog examen.	entailment	316
+276	Varje ledamot har läst den här rapporten. Endast en ledamot åt gången har läst den. Ingen ledamot har lagt mindre än en halv dag på att läsa rapporten. Det finns sexton ledamöter.	Det har tagit ledamöterna mer än en vecka att läsa rapporten.	entailment	317
+277	Medan Johansson höll på att revidera programmet, kom Mikael in och gav henne en redogörelse för styrelsemötet. Han slutade före henne.	Mikaels redogörelse varade lika länge som Johanssons arbete med att revidera programmet.	contradiction	318
+278	Innan Gucom köpte sin nuvarande kontorsbyggnad, hade man amorterat på sina tidigare lokaler i 8 år. Sedan Gucom köpte sin nuvarande kontorsbyggnad, har man amorterat på den i 10 år.	Gucom har amorterat i sammanlagt 15 år eller mer.	entailment	319
+279	När Johansson fick jobbet på Säpo visste han att han aldrig skulle få skriva sina memoarer.	Det är så att Johansson inte får och aldrig kommer att få skriva sina memoarer.	entailment	320
+280	Svensson har besökt Florens två gånger tidigare. Svensson ska åka till Florens två gånger under det kommande året.	Om två år kommer Svensson att ha besökt Florens minst fyra gånger.	entailment	321
+281	Förra veckan visste jag redan att när Svensson om en månad upptäcker att hon har blivit lurad, så blir hon rasande.	Det blir så att Svensson om några veckor kommer att upptäcka att hon har blivit lurad och då blir hon rasande.	entailment	322
+282	Ingen som spelar på allvar slutar förrän hen är pank. Ingen kan spela när hen är pank.	Alla som börjar spela på allvar kommer att sluta i samma stund som de blir panka.	entailment	323
+283	Ingen som börjar spela på allvar slutar förrän hen är pank.	Alla som börjar spela på allvar kommer att fortsätta tills de blivit panka.	entailment	324
+284	Ingen som sover vet någonsin att hen sover. Men somliga vet att de har har sovit efter det att de har sovit.	Det finns personer som upptäcker att de har sovit.	entailment	325
+285	Tantek utarbetade sin nya affärsstrategi 2013.	Tanteks nya affärsstrategi blev klar 2013.	entailment	326
+286	Tantek arbetade på sin nya affärsstrategi 2013.	Tanteks nya affärsstrategi blev klar 2013.	neutral	327
+287	2013 tog Tantek tog hem kontraktet med Gucom .	Tantek tog hem ett kontrakt 2013.	entailment	328
+288	2013 var Tantek var på väg att ta hem kontraktet med Gucom.	Tantek tog hem ett kontrakt 2013.	neutral	329
+289	Tantek ägde Gucom från 2008 till 2012.	Tantek ägde Gucom 2010.	entailment	330
+290	Svensson och Johansson lämnade mötet.	Svensson har lämnat mötet.	entailment	331
+291	Svensson och Johansson lämnade mötet.	Johansson har lämnat mötet.	entailment	332
+292	Svensson, Andersson och Johansson möttes.	Ett möte har ägt rum.	entailment	333
+293	Svensson visste att Tantek hade tagit hem kontraktet 2012.	Tantek tog hem kontraktet 2012.	entailment	334
+294	Svensson trodde att Tantek hade tagit hem kontraktet 2012.	Tantek tog hem kontraktet 2012.	neutral	335
+295	Tantek lyckades ta hem kontraktet 2012.	Tantek tog hem kontraktet 2012.	entailment	336
+296	Tantek försökte ta hem kontraktet 2012.	Tantek tog hem kontraktet 2012.	neutral	337
+297	Det är sant att Tantek tog hem kontraktet 2012.	Tantek tog hem kontraktet 2012.	entailment	338
+298	Det är inte sant att Tantek tog hem kontraktet 2012.	Tantek tog hem kontraktet 2012.	contradiction	339
+299	Svensson såg Johansson skriva på kontraktet. Om Johansson skrev på kontraktet, så slog hans hjärta.	Svensson såg Johanssons hjärta slå.	neutral	340
+300	Svensson såg Johansson skriva på kontraktet. Då Johansson skrev på kontraktet, slog hans hjärta.	Svensson såg Johanssons hjärta slå.	neutral	341
+301	Svensson såg Johansson skriva på kontraktet.	Johansson har skrivit på kontraktet.	entailment	342
+302	Svensson såg Johansson skriva på kontraktet. Johansson är styrelseordförande i Tantek.	Svensson såg styrelseordföranden i Tantek skriva på kontraktet.	entailment	343
+303	Hans såg avdelningschefen svara i telefon. Avdelningschefen är en individ.	Hans såg någon svara i telefon.	entailment	344
+304	Svensson såg hur Johansson skrev på kontraktet och hur sekreteraren gjorde en kopia av det.	Svensson såg Johansson skriva på kontraktet.	entailment	345
+305	Svensson såg Johansson skriva på kontraktet, alternativt kryssa över den omtvistade klausulen.	Svensson såg antingen hur Johansson skrev på kontraktet eller hur hon kryssade över den omtvistade klausulen.	entailment	346

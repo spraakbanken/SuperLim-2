@@ -1,0 +1,62 @@
+I. IDENTIFYING INFORMATION	
+Title*	SweWinogender v2.0
+Subtitle	A Swedish diagnostic set for gender bias in natural language inference models
+Created by*	Yvonne Adesam (yvonne.adesam@gu.se), Gerlof Bouma (gerlof.bouma)
+Publisher(s)*	Språkbanken Text
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/en/resources/swewinogender
+License(s)*	CC BY 4.0
+Abstract*	The SweWinogender test set is diagnostic dataset to measure gender bias in coreference resolution/textual entailment. It is modelled after the English Winogender benchmark, and is released with reference statistics on the distribution of men and women between occupations and the association between gender and occupation in modern corpus material. 
+Funded by*	Vinnova (dnr 2020-02523, dnr 2021-04165); Språkbanken Text
+Cite as	[1]
+Related datasets	Part of the SuperLim 2.0 collection (https://spraakbanken.gu.se/en/resources/superlim)
+	Based upon/partially translated from Winogender Schemas [2]
+	See SweWinogender v1.0 for a formulation of this task as a pronoun resolution problem.
+	
+II. USAGE	
+Key applications	Diagnose gender bias in natural language inference systems
+Intended task(s)/usage(s)	(1) Indirectly the pronoun interpretation task cast as a natural language inference problem: decide whether a discourse fragment containing a pronoun entails a sentence with the pronoun replaced by a candidate antecedent. 
+	(2) Compare system predictions between pronoun types (masc/fem/gender-neutral)
+	(3) Compare system predictions with auxiliary statistics on gender and occupation
+Recommended evaluation measures	(1) Krippendorff's alpha on binary label
+	(2) “Gender parity”: The proportion of triples of items differing only by the type of pronoun, which receive identical labels See [3].
+	(3) Correlation (Spearman’s rho); plotting/visual inspection. See [2].
+Dataset function(s)	Diagnostics
+Recommended split(s)	Test data only
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	624 test items from 104 templates. 312 positive cases ('entailment') and 312 negative cases ('neutral').
+Nature of the content*	The test items are constructed from short discourse templates that contain two participants: one referred to by occupation, and one either by a role description. Furthermore, the templates contain a pronominal reference to one of these participants. The templates are constructed such that the interpretation of the pronoun follows from (common sense) reasoning. Each template gives rise to 6 test items: 3 possibilities depending on whether the feminine (“hon/henne/hennes”), masculine (“han/honom/hans”) or gender-neutral pronoun (“hen/hens”) is used, 2 possibilities depending on whether the hypothesis is entailed or not. A natural language inference model that is not sensitive to gender biases should therefore answer the same way for a triple of test items that only differs in which pronoun they contain.
+	The test set is accompanied by an auxiliary dataset that contains two sets of statistics on the association between occupation and gender for the occupations mentioned in the test set. These statistics were extracted from a real-world database and from a corpus, respectively. The auxiliary data can be used to study gender-occupation biases in the system more directly. 
+Format*	Test items: JSON Lines, with 1 test item per line. Test items are given as a pair of sentences ('premise' and 'hypothesis') and a 'label' attribute that says whether the hypothesis is entailed by the premise ('entailment') or not ('neutral'). The metadata ('meta') contains identifying information about the sentence template that generated the test item, and a 'tuple-id' that can be used to calculate parity.
+	Auxiliary data: TSV file with one occupation per row. Gives the following columns of information: 1) occupation; 2) % female practitioners according to SCB; (3)–(5) % occurences in female-associated contexts using small/medium/large collocate sets.  See [1] for an explanation of the different corpus measures.
+Data source(s)*	The test items are loose translations and/or inspired by the Winogender Schemes of [2].
+	The auxiliary data was collected by the first authors of [1], in the context of an MA course. The real-world statistics on gender and occupation were compiled on the basis of Statistics Sweden/SCB’s open data (CC BY 4.0).  Where occupations do not map 1-1 to SCB’s categorization scheme, the supplied statistics are averages over several relevant categories. See [1] for details. The corpus-based statistics on gender-association of occupations where compiled from the Swedish Culturomics Gigaword Corpus  [4].
+Data collection method(s)*	See [1]
+Data selection and filtering*	See [1]
+Data preprocessing*	See [1]
+Data labeling*	Test items contain gold-standard coreference data by design.
+Annotator characteristics	Test item compilation: 1 native speaker of Swedish with PhD in computational linguistics, 1 near-native speaker of Swedish with PhD in (corpus) inguistics. 
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	The auxiliary data contains information about the distribution between women and men across occupations, and therefore contains data about subpopulations. The data does not contain reference to individuals – neither directly nor indirectly. 
+Things to watch out for	This is meant as a diagnostic, not as a target for training.
+	The diagnostic only concerns occupation and gender, and this is only one of the many ways gender bias may be present in a coreference resolution model. In the words of [2]: “[a]s a diagnostic test of gender bias, we view the schemas as having high positive predictive value and low negative predictive value; that is, they may demonstrate the presence of gender bias in a system, but not prove its absence.”
+	Although the test items contain a threeway distinction in the pronouns used (han [masc], hon [fem], hen [neutral], the auxiliary data is restricted to a binary gender perspective. For task (3) above, it may however be interesting to compare system predictions for the gender-neutral pronoun (“hen”) items with the auxiliary statistics to better understand how a system handles resolution if this pronoun. 
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	20230125 v2.0
+Which changes have been made, compared to the previous version*	Reformulation as a natural language inference task.
+Access to previous versions	Earlier versions available from website.
+This document created*	20210614; Gerlof Bouma (gerlof.bouma@gu.se)
+This document last updated*	20230208; Gerlof Bouma (gerlof.bouma@gu.se)
+Where to look for further details	-
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	-
+References	[1] Hansson, Mavromatakis, Adesam, Bouma and Dannélls (2021): The Swedish Winogender Dataset. In Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa), pp452–459. http://www.ep.liu.se/ecp/178/052/ecp2021178052.pdf
+	[2] Rudinger, Naradowsky, Leonard and Van Durme (2018): Gender bias in coreference resolution.  In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short  Papers), pp8–14. https://doi.org/10.18653/v1/N18-2002
+	[3] Wang, Pruksachatkun, Nangia, Singh, Michael, Hill, Levy and Bowman (2019): SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems. In Advances in Neural Information Processing Systems 32. https://papers.nips.cc/paper/2019/file/4496bf24afe7fab6f046bf4923da8de6-Paper.pdf
+	[4] Rødven Eide, Tahmasebi  and Borin (2016): The Swedish Culturomics Gigaword corpus: A  one  billion word Swedish reference dataset for NLP. In Digital  Humanities 2016. From Digitization to Knowledge: Resources and Methods for Semantic Processing of Digital Works/Texts, pp8–12. https://ep.liu.se/ecp/126/002/ecp16126002.pdf 

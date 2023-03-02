@@ -1,0 +1,52 @@
+I. IDENTIFYING INFORMATION	
+Title*	SweNLI
+Subtitle	
+Created by*	Felix Morger (felix.morger@gu.se), Lars Borin, Aleksandrs Berdicevskis (Gothenburg University)
+Publisher(s)*	Språkbanken Text (sb-info@svenska.gu.se)
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/en/resources/superlim 
+License(s)*	CC BY 4.0
+Abstract*	A Swedish NLI dataset. Train and dev are machine-translated from the English MNLI dataset, test is manually translated and adapted from the English Fracas dataset.
+Funded by*	Vinnova (grants no. 2020-02523, 2021-04165)
+Cite as	
+Related datasets	Part of the SuperLim collection. Similar to SuperGLUE diagnostic dataset.
+	
+II. USAGE	
+Key applications	Machine Learning, Inference, Entailment, Evaluation of language models, Diagnostics
+Intended task(s)/usage(s)	Natural language inference.
+Recommended evaluation measures	Krippendorff's Alpha (the official SuperLim measure), Accuracy
+Dataset function(s)	Training, testing
+Recommended split(s)	Train, dev, test (provided)
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish. Train and dev: machine-translated
+Dataset in numbers*	Train: 392704 items, dev: 9815 items, test: 305 items
+Nature of the content*	Inference problems, where a relation between a premise and a hypothesis has to be detected: entailment, neutral or contradiction.
+Format*	JSON Lines, with one item per line. Each item contains an id, a premise (in test, the premise may contain several sentences, but is still represented as a single item), a hypothesis and a label. The dataset is also available as a tsv with self-explanatory column names. For test, an additional file is provided where the items can be matched with the original Fracas items
+Data source(s)*	Train and dev: see [1]. Machine translated from English to Swedish using OPUS-MT. Test: see [2] and 'Data collection methods'. 
+Data collection method(s)*	Train and dev: see [1]. Test: SweFracas (part of the SuperLim 1.0). The original English Fracas [2] was converted to html and edited by Bill MacCartney [3], and then automatically translated to Swedish by Peter Ljunglöf and Magdalena Siverbo [4]. The current form of the set was created by Aleksandrs Berdicevskis by merging the Swedish and English versions and removing some of the problems. Finally, Lars Borin went through all the translations, correcting and Swedifying them manually. As a result, many translations are rather liberal and diverge noticeably from the English original
+Data selection and filtering*	Train and dev: We keep only the mismatched validation as a dev set and do not include the matched version. We also do not include the test MNLI datasets. Test: 41 problems in the original set did not have a definite answer (different answers were possible depending on the interpretation). They were excluded.
+Data preprocessing*	Train and dev: see [1]. All extra column labels except for hypothesis (sentence1), premise (sentence2) have been removed for this data source.  Test: SweFracas used questions (Ja/Nej/Vet ej/Jo) instead of hypotheses. Questions were semi-automatically converted to hypotheses by Aleksandrs Berdicevskis to fit the train and dev format.
+Data labeling*	Train and dev: see [1]. Test: Most of the labels map straightforwardly on the original English labels, with one exception: 108 (No <=> Neutral)
+Annotator characteristics	Train and dev: see [1]. Test: PhD in linguistics; native speaker of Swedish
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	Train and dev: see [1].
+Things to watch out for	Train and dev: see [1]. Remember that the data were machine-translated. Test: In the original dataset, all examples were classified by the linguistic phenomena they represent. It is not necessary that the Swedish translations follow exactly the same classification (most of them probably do, but it has not been checked).
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	2023-01-25
+Which changes have been made, compared to the previous version*	The translated MNLI and SweFracas were merged to created a complete dataset. 
+Access to previous versions	
+This document created*	2023-01-25, Felix Morger.
+This document last updated*	2023-02-08, Aleksandrs Berdicevskis.
+Where to look for further details	
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	
+	
+References	[1] Adina Williams, Nikita Nangia, and Samuel Bowman. 2018. A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), pages 1112–1122, New Orleans, Louisiana. Association for Computational Linguistics.
+	[2] Robin Cooper, Dick Crouch, Jan Van Eijck, Chris Fox, Johan Van Genabith, Jan Jaspars, Hans Kamp, David Milward, Manfred Pinkal, Massimo Poesio, et al. 1996. Using the framework. Technical report, Technical Report LRE 62-051 D-16, The FraCaS Consortium.     ftp://ftp.cogsci.ed.ac.uk/pub/FRACAS/del16.ps.gz
+	[3] https://nlp.stanford.edu/~wcmac/downloads/fracas.xml
+	[4] Peter Ljunglöf and Magdalena Siverbo. 2012. A bilingual treebank for the FraCas test suite. In SLTC 2012, page 53. https://gup.ub.gu.se/publication/168965?lang=en, https://gup.ub.gu.se/publication/168965?lang=en

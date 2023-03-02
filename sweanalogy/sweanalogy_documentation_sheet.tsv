@@ -1,0 +1,49 @@
+I. IDENTIFYING INFORMATION	
+Title*	Swedish analogy test set v1.1
+Subtitle	Swedish semantic and syntactic similarity test set
+Created by*	Tosin Adewumi (tosin.adewumi@ltu.se), ML Group, LTU
+Publisher(s)*	Språkbanken Text (sb-info@svenska.gu.se)
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/en/resources/superlim
+License(s)*	CC BY 4.0
+Abstract*	The Swedish analogy test set follows the format of the original Google version. However, it is bigger and balanced across the 2 major categories, having a total of 20,638 samples, made up of 10,381 semantic and 10,257 syntactic samples. It is also roughly balanced across the syntactic subsections. There are 5 semantic subsections and 6 syntactic subsections. The dataset was constructed, partly using the samples in the English version, with the help of tools dedicated to Swedish translation and it was proof-read for corrections by two native speakers (with a percentage agreement of 98.93\%).
+Funded by*	Vinnova (grant no. 2019-02996)
+Cite as	[1]
+Related datasets	Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim).
+	
+II. USAGE	
+Key applications	Intrinsic evaluation of Swedish word embeddings
+Intended task(s)/usage(s)	Given a word pair A:B and a word C, find a word D such that A:B = C:D
+Recommended evaluation measures	Accuracy
+Dataset function(s)	Few-shot training ("prompting"), testing
+Recommended split(s)	A few-shot training set (aka "prompt", 10%), test set (90%). The prompt was added with the GPT-like models in mind. For those models that do not need a prompt, it can be ignored.
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	Total of 20,638 samples; 10,381 semantic samples and 10,257 syntactic samples. Those are split into 2045 train samples and 18,593 test samples. No effort was made to control the balance of syntactic and semantic samples in train and test, the split was random.
+Nature of the content*	Each sample contains 2 pairs of words. Hence, there are 4 similar words per line.
+Format*	TSV/JSONL with 5 columns/objects: four words and a category.
+Data source(s)*	Partly based on the English version by: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781. New additions were made using the following online tools: https://bab.la and https://en.wiktionary.org/wiki/
+Data collection method(s)*	Two Swedish native speakers proof-read the finished version. The inter-agreement score was calculated. This was after compilation from part of the English version (Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781.), which was translated. Additional data source is en.wiktionary.org/wiki 
+Data selection and filtering*	The dataset was postprocessed and corrected by Lars Borin and Aleksandrs Berdicevskis
+Data preprocessing*	Does not apply
+Data labeling*	Does not apply
+Annotator characteristics	Two Swedish native speakers
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	
+Things to watch out for	
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	2022-09-20, Aleksandrs Berdicevskis
+Which changes have been made, compared to the previous version*	Minor format changes
+Access to previous versions	Work in progress
+This document created*	2021-05-20, Tosin Adewumi
+This document last updated*	2023-02-03, Aleksandrs Berdicevskis
+Where to look for further details	[2],[1]
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	
+	
+References	[1] Adewumi, T. P., Liwicki, F., & Liwicki, M. (2020). Corpora compared: The case of the swedish gigaword & wikipedia corpora. arXiv preprint arXiv:2011.03281. [2] Adewumi, T. P., Liwicki, F., & Liwicki, M. (2020). Exploring Swedish & English fastText Embeddings with the Transformer. arXiv preprint arXiv:2007.16007.

@@ -1,0 +1,49 @@
+I. IDENTIFYING INFORMATION	
+Title*	Argumentation sentences
+Subtitle	A translated corpus for classifying sentence stance in relation to a topic. 
+Created by*	Anna Lindahl (anna.lindahl@svenska.gu.se)
+Publisher(s)*	Språkbanken Text (sb-info@svenska.gu.se)
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/en/resources/superlim
+License(s)*	CC BY 4.0
+Abstract*	Argumentation sentences is a translated corpus for the task of identifying stance in relation to a topic. It consists of sentences labeled with pro, con or non in relation to one of six topics.  The original dataset [1] can be found here https://github.com/trtm/AURC.  The test set is manually corrected translations, the training set is machine translated. 
+Funded by*	Vinnova (grant no. 2021-04165) 
+Cite as	
+Related datasets	Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim)
+	
+II. USAGE	
+Key applications	Machine learning, argumentation mining, stance classification
+Intended task(s)/usage(s)	Evaluate models on the following task: Given a sentence and a topic, determine if the sentence is for, against or neutral in relation to the topic.
+Recommended evaluation measures	Krippendorff’s alpha (the official SuperLim measure), MCC, F
+Dataset function(s)	Training, testing
+Recommended split(s)	Train, dev, test (provided)
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	5265 sentences split over 6 topics, 3450 train, 750 dev and 1065 test
+Nature of the content*	Topics: Abortion, Death penalty, Nuclear power, Marijuana legalization, Minimum wage, Cloning. Each topic has a set of associated sentences, lableled with pro, con or non in relation to the topic.
+Format*	Jsonl with the following keys: sentence_id = the id for each sentence, topic = the topic for each sentence, label = the label for each sentence, can be pro, con or non, sentence = the sentence itself
+	Tab-separated with 4 columns: the id for each sentence, topic = the topic for each sentence, label = the label for each sentence, can be pro, con or non, sentence = the sentence itself
+Data source(s)*	The original data comes from the AURC dataset [1] ( https://github.com/trtm/AURC). For this corpus, only the in-domain topics were used.
+Data collection method(s)*	Collected from the Common Crawl archive. See [1]
+Data selection and filtering*	A subset of the original data, only the in-domain topics are used.
+Data preprocessing*	Sentences were machine translated. The test set was then manually corrected. 
+Data labeling*	The sentences are labeled with pro, con or non, signifying their stance in relation to a topic.
+Annotator characteristics	
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	
+Things to watch out for	
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	20221215
+Which changes have been made, compared to the previous version*	First version
+Access to previous versions	
+This document created*	20221215 by Anna Lindahl
+This document last updated*	20220203 by Anna Lindahl
+Where to look for further details	
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	
+References	[1] Trautmann, D., Daxenberger, J., Stab, C., Schütze, H., & Gurevych, I. (2020, April). Fine-grained argument unit recognition and classification. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 05, pp. 9048-9056).

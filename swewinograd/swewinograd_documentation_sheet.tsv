@@ -1,0 +1,54 @@
+I. IDENTIFYING INFORMATION	
+Title*	SweWinograd v2.0
+Subtitle	A Swedish coreference test set in the style of the Winograd Schema Challenge
+Created by*	Yvonne Adesam (yvonne.adesam@gu.se), Gerlof Bouma (gerlof.bouma@gu.se)
+Publisher(s)*	Språkbanken Text
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/en/resources/swewinograd
+License(s)*	CC BY 4.0
+Abstract*	SweWinograd is a pronoun resolution test set, containing constructed items in the style of Winograd schema’s. The interpretation of the target pronouns is intended to be determined by (common sense) reasoning and knowledge, and not by syntactic constraints, lexical distributional information or discourse structuring patterns. The dataset contains 90 multiple choice with multiple correct answers test items.
+Funded by*	Vinnova (dnr 2020-02523; dnr 2021-04165)
+Cite as	
+Related datasets	Part of the SuperLim 2.0 collection (https://spraakbanken.gu.se/en/resources/superlim)
+	
+II. USAGE	
+Key applications	Evaluation of coreference resolution systems
+Intended task(s)/usage(s)	Decide for each test item whether the indicated pronoun and candidate antecedent corefer in the supplied context (mention-pair style).
+Recommended evaluation measures	Krippendorff's alpha.
+Dataset function(s)	Training and testing.
+Recommended split(s)	Train, dev and testsplits as indicated in filenames.
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	Training data: 721 items, of which 339 positive (=coreferring) and 382 negative.
+	Development data: 135 items, 55 positive, 80 negative.
+	Test data: 140 items, 43 positive, 97 negative. 
+Nature of the content*	Each test item consists of a short discourse with a target pronoun to be resolved, a non-pronominal candidate antecedent for the pronoun, and a judgement of whether the two corefer. The candidates are all syntactically and semantically compatible – common sense reasoning is needed to resolve the pronouns correctly. The same sentence-pronoun pair may appear in multiple items, with different candidate antecedents, multiple of these may be cases of corefererence. In some cases, the same discourse is used in items with different target pronouns. Furthermore, some items are like the original Winograd sentence(s), by coming in pairs, where the first half of the discourse is the same, but the second half differs in a way that effects the interpretation of the target pronoun.
+Format*	JSON Lines, with 1 test item per line. Sentences are given as strings ('text' attribute), pronouns and candidate antecedents as objects that combine of strings ('text') and string indices ('start', 'stop'). Indices are 0-based and half-open. and refer to the NFKC-normalized unicode string. The information of whether a pair corefers or not is given in the 'label' attribute. Metadata ('meta' attribute) included for each item is intended for analysis, not for use by the pronoun resolution system.
+Data source(s)*	The items are loose translations of and/or inspired by the items in the Winograd task of SuperGlue (see https://super.gluebenchmark.com/tasks and [1]).
+Data collection method(s)*	Fully manual translation/item construction.
+Data selection and filtering*	(does not apply)
+Data preprocessing*	(does not apply)
+Data labeling*	Gold-standard coreference information.
+Annotator characteristics	Compiled/translated by 1 native speaker of Swedish with PhD in computational linguistics, 1 near-native speaker of Swedish with PhD in (corpus) linguistics. 
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	None to report
+Things to watch out for	Version 1.0 of the SweWinograd data has a different problem formulation and a test set that is comprised of the combined dev and test sets of version 2.0 (this version). The test data of version 1.0 should therefore not be used to evaluated models trained on this versions train and dev data.
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	20230126 v2.0
+Which changes have been made, compared to the previous version*	Created training data. 
+	Reorganized existing data into dev and test.
+Access to previous versions	Previous versions available from website.
+This document created*	20210614, Gerlof Bouma (gerlof.bouma@gu.se)
+This document last updated*	20230208, Gerlof Bouma (gerlof.bouma@gu.se)
+Where to look for further details	-
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	SweWinograd is based upon the Winograd task as distributed with SuperGlue. See https://super.gluebenchmark.com/ and the discussion in [1].
+	The SuperGlue task itself is derived from Winograd Schema Challenge, see [2] for the paper introducing this dataset and the companion website https://cs.nyu.edu/~davise/papers/WinogradSchemas/WS.html for more information and links to further papers on this data.
+	
+References	[1] Wang, Pruksachatkun, Nangia, Singh, Michael, Hill, Levy and Bowman (2019): SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems. In Advances in Neural Information Processing Systems 32. https://papers.nips.cc/paper/2019/file/4496bf24afe7fab6f046bf4923da8de6-Paper.pdf
+	[2] Levesque, Davis and Morgenstern (2012): The Winograd schema challenge. In: Thirteenth International Conference on the Principles of Knowledge Representation and Reasoning. http://dl.acm.org/citation.cfm?id=3031843.3031909.

@@ -1,0 +1,49 @@
+I. IDENTIFYING INFORMATION	
+Title*	Swedish FAQ v2.0
+Subtitle	Frequently asked questions from Swedish authorities' websites with shuffled answers
+Created by*	Aleksandrs Berdicevskis (aleksandrs.berdicevskis@gu.se)
+Publisher(s)*	Språkbanken Text (sb-info@svenska.gu.se)
+Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/en/resources/superlim
+License(s)*	CC BY 4.0
+Abstract*	"This dataset contains questions and answers collected from FAQs on the websites of Swedish authorities. The dataset is a part of the SuperLim collection. Each QA pair belongs to a certain category (e.g. ""Förälder :: Väntar barn :: Föräldrapenning innan barnet fötts :: Vanliga frågor""). The are 976  QA pairs and 100 categories. The number of QA pairs in a category strongly varies. Within each category, the answers are randomly shuffled. The task is to match questions and answers."
+Funded by*	Vinnova (grants no. 2020-02523, 2021-04165)
+Cite as	
+Related datasets	Part of the SuperLim collection (https://spraakbanken.gu.se/en/resources/superlim)
+	
+II. USAGE	
+Key applications	Machine Learning, Question Answering, Evaluation of language models
+Intended task(s)/usage(s)	Evaluate models on the following task: given the question, find the suitable answer within the same category
+Recommended evaluation measures	Krippendorff's pseudoalpha (the official SuperLim measure), a derived Krippendorff's alpha. For this dataset, pseudoalpha = (Accuracy - 109/2049) / (1940/2049), where accuracy is the proportion of questions correctly connected to their answer. Other possible measures: accuracy.
+Dataset function(s)	Training, development and testing.
+Recommended split(s)	Provided. The split was created to facilitate cross-domain testing: the categories in train, dev and test do not overlap.
+	
+III. DATA	
+Primary data*	Text
+Language*	Swedish
+Dataset in numbers*	976 question-answer pairs; 100 categories; 9 sources; The number of QA pairs in a category strongly varies, so does the number of categories per source
+Nature of the content*	"Each QA pair belongs to a certain category (e.g. ""Förälder :: Väntar barn :: Föräldrapenning innan barnet fötts :: Vanliga frågor""). Within each category, the answers are randomly shuffled. Importantly, the shuffling always occurs only within categories. This is necessary, since many questions cannot be interpreted without the background provided by the category (e.g. ""Måste bilen registreras i mitt namn?"" from the category ""Förälder :: Om ditt barn har en funktions­nedsättning :: Bilstöd för barn :: Vanliga frågor""). Moreover, different categories can potentially contain similar questions (""Hur mycket pengar får jag?"")  with different answers."
+Format*	JSON Lines, with one item per line. Each item contains a category id, a question, an array of all answers in this category (this value is the same for all items within a category) and a label index which indicates the correct answer (numbering starts at 0). Metadata included for each item (the title of the category, the source and the link to the page where the data were collected) are intended for analysis, and not for use by the question-answering system. The dataset is also available as a tsv with self-explanatory column names.
+Data source(s)*	Websites of the Swedish Social Insurance Agency (Försäkringskassan; https://www.forsakringskassan.se/); the central national infrastructure for Swedish healthcare online (Vårdguiden, https://www.1177.se/); The Swedish Tax Agency (Skatteverket, https://skatteverket.se/); Swedish Government Offices (Regeringskansliet); National Board of Health and Welfare (Socialstyrelsen); Härryda municipality; Legal, Financial and Administrative Services Agency (Kammarkollegiet); Swedish Work Environment Authority (Arbetsmiljöverket); Västra Götaland Regional Council (Västra Götalandsregionen). Specific links can be found in the dataset.
+Data collection method(s)*	"Questions and answers were collected manually from various pages of the aforementioned websites. The pages were found either by searching for ""vanliga frågor"" and ""frågor och svar"" on the websites or navigating using the websites'' menu.'"
+Data selection and filtering*	QA pairs were excluded if answers a) had complicated formatting; b) were divided into several subsections with subheadings; c) contained images and widgets; d) were very long; e) contained just one word (Ja or Nej). Categories that contained less than two suitable QA pairs were excluded. The contents of the websites were not exhausted, more categories are available. Sometimes different categories contained identical or nearly identical QA pairs, in such cases all instances but one were deleted (if only the questions were similar, but the answers were different, the pair was kept).
+Data preprocessing*	All line breaks were removed, so was all other formatting. Bulleted lists were simplified (list preceded by :, every item preceded by -). Http links were removed. Some long answers were shortened.
+Data labeling*	No labeling was added (questions and answers are matched from the beginning, given the nature of data)
+Annotator characteristics	PhD in linguistics; fluent non-native speaker of Swedish
+	
+IV. ETHICS AND CAVEATS	
+Ethical considerations	
+Things to watch out for	
+	
+V. ABOUT DOCUMENTATION	
+Data last updated*	2022-09-20, v2.0, Aleksandrs Berdicevskis
+Which changes have been made, compared to the previous version*	The dataset was considerably expanded; errors were corrected; the format was improved; the datasplit was added
+Access to previous versions	https://spraakbanken.gu.se/en/resources/faq
+This document created*	2021-05-05, Aleksandrs Berdicevskis
+This document last updated*	2023-02-03, Aleksandrs Berdicevskis
+Where to look for further details	
+Documentation template version*	v1.1
+	
+VI. OTHER	
+Related projects	
+	
+References	
