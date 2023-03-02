@@ -4,6 +4,8 @@ See a general description of the benchmark [here](https://spraakbanken.gu.se/res
 
 See the brief overview of the tasks and datasets [here](https://github.com/spraakbanken/SuperLim-2/blob/main/tasks.tsv). 
 
+Find the latest release [here](https://github.com/spraakbanken/SuperLim-2/releases).
+
 See the detailed instruction for dataset developers below, it makes the format requirements very clear.
 
 **General file requirements:**
