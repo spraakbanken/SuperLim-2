@@ -302,4 +302,4 @@
 {"id": 302, "premise": "Svensson såg Johansson skriva på kontraktet. Johansson är styrelseordförande i Tantek.", "hypothesis": "Svensson såg styrelseordföranden i Tantek skriva på kontraktet.", "label": "entailment"}
 {"id": 303, "premise": "Hans såg avdelningschefen svara i telefon. Avdelningschefen är en individ.", "hypothesis": "Hans såg någon svara i telefon.", "label": "entailment"}
 {"id": 304, "premise": "Svensson såg hur Johansson skrev på kontraktet och hur sekreteraren gjorde en kopia av det.", "hypothesis": "Svensson såg Johansson skriva på kontraktet.", "label": "entailment"}
-{"id": 305, "premise": "Svensson såg Johansson skriva på kontraktet, alternativt kryssa över den omtvistade klausulen.", "hypothesis": "Svensson såg antingen hur Johansson skrev på kontraktet eller hur hon kryssade över den omtvistade klausulen.", "label": "entailment", "meta": {"original_id": 346}}
+{"id": 305, "premise": "Svensson såg Johansson skriva på kontraktet, alternativt kryssa över den omtvistade klausulen.", "hypothesis": "Svensson såg antingen hur Johansson skrev på kontraktet eller hur hon kryssade över den omtvistade klausulen.", "label": "entailment"}
