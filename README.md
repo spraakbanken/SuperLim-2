@@ -1,10 +1,11 @@
 # SuperLim 2
-
-See a general description of the benchmark [here](https://spraakbanken.gu.se/resurser/superlim). The link to the paper will be added soon.
+## A standardized suite for evaluation and analysis of Swedish natural language understanding systems
 
 See the brief overview of the tasks and datasets [here](https://github.com/spraakbanken/SuperLim-2/blob/main/tasks.tsv). 
 
 Find the latest release [here](https://github.com/spraakbanken/SuperLim-2/releases).
+
+You can also find the dataset on [HuggingFace](https://huggingface.co/datasets/sbx/superlim-2/tree/main/data) and on Språkbanken Text's [website](https://spraakbanken.gu.se/resurser/superlim). The standard reference will be added soon.
 
 See the detailed instruction for dataset developers below, it makes the format requirements very clear.
 
