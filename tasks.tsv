@@ -1,16 +1,16 @@
 name	task_description	task_technical	format	metric	split	comment
-absabank-imm	Label the sentiment that the author of a text expressed towards immigration on the continuous 1--5 scale	'Predict ''label'' from ''text'''	jsonl, tsv	Alpha (interval)	train, dev, test	
-argumentation-sentences	Determine if a sentence is for, against or unrelated to a topic	'Predict ''label'' from ''sentence'' and ''topic'''	jsonl, tsv	Alpha (nominal)	train, dev, test	
-dalaj-ged-superlim	Determine whether a sentence is correct Swedish or not	'Predict ''label'' from ''sentence'''	jsonl	Alpha (nominal)	train, dev, test	
-supersim-superlim-relatedness	Determine how related two words are on a continuous scale from 0 to 10	'Predict ''label'' from ''word_1'' and ''word_2'''	jsonl, tsv	Alpha (interval)	few-shot train, test	
-supersim-superlim-similarity	Determine how similar two words are on a continuous scale from 0 to 10	'Predict ''label'' from ''word_1'' and ''word_2'''	jsonl, tsv	Alpha (interval)	few-shot train, test	
-sweanalogy	Given a word pair A:B and a word C, find a word D such that A:B = C:D	'Predict ''label'' from ''pair1_element1'', ''pair1_element2'', ''pair2_element1'''	jsonl, tsv	Accuracy (~= Pseudoalpha)	few-shot train, test	
-swediagnostics	Determine the logical relation between the two sentences	'Predict ''label'' from ''premise'' and ''hypothesis'''	jsonl, tsv	Alpha (nominal)	test	diagnostic set
-swedn	Given a newspaper article, provide its summary	'Generare ''summary'' from ''article'''	jsonl, tsv	Harmonic mean (F1) of Rouge and Bleu	train, dev, test	generation task
-swefaq	Given the question, find the suitable answer within the same category	'Predict ''label'' (index of the correct answer in the ''candidate_answers'', starting with 0) from ''question'''	jsonl	Pseudoalpha = (Accuracy - 109/2049) / (1940/2049)	train, dev, test	
-swenli	Determine the logical relation between the two sentences	'Predict ''label'' from ''premise'' and ''hypothesis'''	jsonl, tsv	Alpha (nominal)	train, dev, test	
-sweparaphrase	Determine how similar two sentences are on a continuous scale from 0 to 5	'Predict ''label'' from ''sentence_1'' and ''sentence_2'''	jsonl, tsv	Alpha (interval)	train, dev, test	
-swesat-synonyms	Select the correct synonym	'Predict ''label'' (index of the correct answer in the ''candidate_answers'', starting with 0) from ''item'''	jsonl	Pseudoalpha = (Accuracy - 1/5) / (4/5)	few-shot train, test	
-swewic	Determine if the target word in two contexts expresses the same sense.	'Predict ''label'' from ''first'' and ''second'''	jsonl	Alpha(nominal)	train, dev, split	
-swewinogender	Determine the logical relation between the two sentences	'Predict ''label''  from ''premise'' and ''hypothesis'''	jsonl	Alpha(nominal), parity: number of items with identical tuple_ids that get the same label	test	diagnostic set
-swewinograd	Determine if a pronoun and a candidate antecedent corefer in a short text	'Predict ''label'' from ''text'', ''pronoun'' and ''candidate'''	jsonl	Alpha(nominal)	train, dev, test	
+absabank-imm	Label the sentiment that the author of a text expressed towards immigration on the continuous 1--5 scale	Predict ''label'' from ''text'''	jsonl, tsv	Alpha (interval)	train, dev, test	
+argumentation-sentences	Determine if a sentence is for, against or unrelated to a topic	Predict ''label'' from ''sentence'' and ''topic'''	jsonl, tsv	Alpha (nominal)	train, dev, test	
+dalaj-ged-superlim	Determine whether a sentence is correct Swedish or not	Predict ''label'' from ''sentence'''	jsonl	Alpha (nominal)	train, dev, test	
+supersim-superlim-relatedness	Determine how related two words are on a continuous scale from 0 to 10	Predict ''label'' from ''word_1'' and ''word_2'''	jsonl, tsv	Alpha (interval)	few-shot train, test	
+supersim-superlim-similarity	Determine how similar two words are on a continuous scale from 0 to 10	Predict ''label'' from ''word_1'' and ''word_2'''	jsonl, tsv	Alpha (interval)	few-shot train, test	
+sweanalogy	Given a word pair A:B and a word C, find a word D such that A:B = C:D	Predict ''label'' from ''pair1_element1'', ''pair1_element2'', ''pair2_element1'''	jsonl, tsv	Accuracy (~= Pseudoalpha)	few-shot train, test	
+swediagnostics	Determine the logical relation between the two sentences	Predict ''label'' from ''premise'' and ''hypothesis'''	jsonl, tsv	Alpha (nominal)	test	diagnostic set
+swedn	Given a newspaper article, provide its summary	Generare ''summary'' from ''article'''	jsonl, tsv	ROUGE	train, dev, test	generation task
+swefaq	Given the question, find the suitable answer within the same category	Predict ''label'' (index of the correct answer in the ''candidate_answers'', starting with 0) from ''question'''	jsonl	Pseudoalpha = (Accuracy - 109/2049) / (1940/2049)	train, dev, test	
+swenli	Determine the logical relation between the two sentences	Predict ''label'' from ''premise'' and ''hypothesis'''	jsonl, tsv	Alpha (nominal)	train, dev, test	
+sweparaphrase	Determine how similar two sentences are on a continuous scale from 0 to 5	Predict ''label'' from ''sentence_1'' and ''sentence_2'''	jsonl, tsv	Alpha (interval)	train, dev, test	
+swesat-synonyms	Select the correct synonym	Predict ''label'' (index of the correct answer in the ''candidate_answers'', starting with 0) from ''item'''	jsonl	Pseudoalpha = (Accuracy - 1/5) / (4/5)	few-shot train, test	
+swewic	Determine if the target word in two contexts expresses the same sense.	Predict ''label'' from ''first'' and ''second'''	jsonl	Alpha(nominal)	train, dev, split	
+swewinogender	Determine the logical relation between the two sentences	Predict ''label''  from ''premise'' and ''hypothesis'''	jsonl	Alpha(nominal), parity: number of items with identical tuple_ids that get the same label	test	diagnostic set
+swewinograd	Determine if a pronoun and a candidate antecedent corefer in a short text	Predict ''label'' from ''text'', ''pronoun'' and ''candidate'''	jsonl	Alpha(nominal)	train, dev, test	
