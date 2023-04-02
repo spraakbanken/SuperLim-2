@@ -16,9 +16,9 @@ Intended task(s)/usage(s)	1. Determine whether a sentence is grammatically corre
 	2. Find a text span in need of correction, if there is one
 	3. Determine the error type
 	4. Find a text span in need of correction, if there is one, and suggest a correction.
-Recommended evaluation measures	'Krippendorff''s Alpha (the official SuperLim measure), F0.5, accuracy'
+Recommended evaluation measures	Krippendorff''s Alpha (the official SuperLim measure), F0.5, accuracy'
 Dataset function(s)	Training, testing
-Recommended split(s)	Train, dev, test (provided): 80:10:10. The test set has been manually proofread, train and dev have not.
+Recommended split(s)	Train, dev, test (provided): 80:10:10. The test and dev sets have been manually proofread, train has not.
 	
 III. DATA	
 Primary data*	Text
