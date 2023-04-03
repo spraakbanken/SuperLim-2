@@ -23,7 +23,7 @@ Recommended split(s)	Train, dev, test (provided): 80:10:10. The test and dev set
 III. DATA	
 Primary data*	Text
 Language*	Swedish
-Dataset in numbers*	train: 36,554 sentences
+Dataset in numbers*	train: 35,581 sentences
 	dev: 4,702 sentences
 	test: 4,371 sentences
 Nature of the content*	Sentences written by second language learners and corrected by experts + correct sentences from course books
