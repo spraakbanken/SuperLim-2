@@ -1,0 +1,35 @@
+name: Upload dataset to Hugging Face
+on:
+  push:
+    branches:
+      - main
+  # to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+env:
+  PYTHON_VERSION: "3.11"
+  UV_VERSION: "0.9.15"
+
+jobs:
+  upload-to-huggingface-hub:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+    
+      - name: Set up UV and Python
+        uses: astral-sh/setup-uv@1e862dfacbd1d6d858c55d9b792c756523627244 # 7.1.4
+        with:
+          version: ${{ env.UV_VERSION }}
+          enable-cache: true
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install hf cli
+        run: uv tool install huggingface-hub
+
+      - name: Login to huggingface-hub
+        run: hf auth login --token ${{ secrets.HUGGINGFACE_TOKEN }}
+      
+      - name: Upload all models to Hugging Face
+        run: ./upload_to_hf.sh
+
