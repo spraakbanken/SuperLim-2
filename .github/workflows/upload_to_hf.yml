@@ -6,9 +6,12 @@ on:
   # to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 env:
   PYTHON_VERSION: "3.11"
-  UV_VERSION: "0.9.15"
+  UV_VERSION: "0.11.2"
 
 jobs:
   upload-to-huggingface-hub:
@@ -16,7 +19,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
-    
+        with:
+          persist-credentials: false
+
       - name: Set up UV and Python
         uses: astral-sh/setup-uv@1e862dfacbd1d6d858c55d9b792c756523627244 # 7.1.4
         with:
@@ -24,12 +29,11 @@ jobs:
           enable-cache: true
           python-version: ${{ env.PYTHON_VERSION }}
 
-      - name: Install hf cli
+      - name: Install huggingface-hub
         run: uv tool install huggingface-hub
 
       - name: Login to huggingface-hub
         run: hf auth login --token ${{ secrets.HUGGINGFACE_TOKEN }}
-      
-      - name: Upload all models to Hugging Face
-        run: ./upload_to_hf.sh
 
+      - name: Upload all models to Hugging Face
+        run: uv run ./.github/scripts/upload_to_hf.py
