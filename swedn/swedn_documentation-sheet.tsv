@@ -4,7 +4,7 @@ Subtitle	A Swedish text summarization corpus
 Created by*	Julius Monsen (julius.monsen@liu.se), Arne Jönsson (arne.jonsson@liu.se)
 Publisher(s)*	Linköping University
 Link(s) / permanent identifier(s)*	https://spraakbanken.gu.se/resurser/superlim
-License(s)*	CC BY 4.0
+License(s)*	
 Abstract*	The SWE-DN corpus is based on 1,963,576 news articles from the Swedish newspaper Dagens Nyheter (DN) during the years 2000--2020. The articles are filtered to resemble the CNN/DailyMail dataset both regarding textual structure
 Funded by*	SweClarin
 Cite as	[1] A method for building non-English corpora for abstractive text summarization, Julius Monsen, Arne Jönsson, Proceedings of the CLARIN Annual Conference, 2021 
@@ -35,11 +35,11 @@ Ethical considerations
 Things to watch out for	
 	
 V. ABOUT DOCUMENTATION	
-Data last updated*	20221217, Julius Monsen
-Which changes have been made, compared to the previous version*	First data release
+Data last updated*	2025, Språkbanken
+Which changes have been made, compared to the previous version*	Dataset removed due to a request from the copyright holder
 Access to previous versions	
 This document created*	20221206, Arne Jönsson
-This document last updated*	20230203, Aleksandrs Berdicevskis
+This document last updated*	20260914, Aleksandrs Berdicevskis
 Where to look for further details	
 Documentation template version*	v1.1
 	

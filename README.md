@@ -5,7 +5,9 @@ See the brief overview of the tasks and datasets [here](https://github.com/spraa
 
 Find the latest release [here](https://github.com/spraakbanken/SuperLim-2/releases).
 
-You can also find the dataset on [HuggingFace](https://huggingface.co/datasets/sbx/superlim-2) and on Språkbanken Text's [website](https://spraakbanken.gu.se/resurser/superlim). The standard reference will be added soon.
+You can also find the dataset on [HuggingFace](https://huggingface.co/datasets/sbx/superlim-2) and on Språkbanken Text's [website](https://spraakbanken.gu.se/resurser/superlim). 
+
+Standard reference: Aleksandrs Berdicevskis, Gerlof Bouma, Robin Kurtz, Felix Morger, Joey Öhman, Yvonne Adesam, Lars Borin, Dana Dannélls, Markus Forsberg, Tim Isbister, Anna Lindahl, Martin Malmsten, Faton Rekathati, Magnus Sahlgren, Elena Volodina, Love Börjeson, Simon Hengchen, and Nina Tahmasebi. 2023. Superlim: A Swedish Language Understanding Evaluation Benchmark. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 8137–8153, Singapore. Association for Computational Linguistics
 
 See the detailed instruction for dataset developers below, it makes the format requirements very clear.
 

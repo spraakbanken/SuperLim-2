@@ -6,7 +6,7 @@ supersim-superlim-relatedness	Determine how related two words are on a continuou
 supersim-superlim-similarity	Determine how similar two words are on a continuous scale from 0 to 10	Predict ''label'' from ''word_1'' and ''word_2'''	jsonl, tsv	Alpha (interval)	few-shot train, test	
 sweanalogy	Given a word pair A:B and a word C, find a word D such that A:B = C:D	Predict ''label'' from ''pair1_element1'', ''pair1_element2'', ''pair2_element1'''	jsonl, tsv	Accuracy (~= Pseudoalpha)	few-shot train, test	
 swediagnostics	Determine the logical relation between the two sentences	Predict ''label'' from ''premise'' and ''hypothesis'''	jsonl, tsv	Alpha (nominal)	test	diagnostic set
-swedn	Given a newspaper article, provide its summary	Generare ''summary'' from ''article'''	jsonl, tsv	ROUGE	train, dev, test	generation task
+swedn	Given a newspaper article, provide its summary	Generare ''summary'' from ''article'''	jsonl, tsv	ROUGE	train, dev, test	generation task. NB: since the dataset has been removed from the collection due to a request from the copyright holder, this task is no longer available
 swefaq	Given the question, find the suitable answer within the same category	Predict ''label'' (index of the correct answer in the ''candidate_answers'', starting with 0) from ''question'''	jsonl	Pseudoalpha = (Accuracy - 109/2049) / (1940/2049)	train, dev, test	
 swenli	Determine the logical relation between the two sentences	Predict ''label'' from ''premise'' and ''hypothesis'''	jsonl, tsv	Alpha (nominal)	train, dev, test	
 sweparaphrase	Determine how similar two sentences are on a continuous scale from 0 to 5	Predict ''label'' from ''sentence_1'' and ''sentence_2'''	jsonl, tsv	Alpha (interval)	train, dev, test	
